@@ -1,4 +1,6 @@
 import requests
+from bs4 import BeautifulSoup
+import os
 import re
 import time
 import xlrd
@@ -7,7 +9,7 @@ import json
 
 class PortalUSK:
     def __init__(self):
-      self.baseURL = "https://data.unsyiah.ac.id/public/pengajar_prodi/detail"
+      self.baseURL = "https://data.unsyiah.ac.id/public/pengajar_prodi"
     
     def timer(func):
       """
@@ -24,7 +26,7 @@ class PortalUSK:
     @timer
     def getPesertaKelas(self, semester, jenjang, pembatasan, kode, kelas) -> 'dict':
       """
-      Mendapatkan daftar peserta kelas dari portal USK dan mengembalikan dalam Dictionary.
+      Mendapatkan daftar peserta kelas dan mengembalikan dalam Dictionary.
       Jika list tidak ditemukan kemungkinan dikarenakan server memberikan data kosong, maka program akan terus meminta hingga server memberikan data. !tapi bagaimana jika kelasnya memang kosong?
 
       @param semester: Semester yang akan diambil. ex : 20223 
@@ -39,8 +41,8 @@ class PortalUSK:
       listStudent = []
       try:
         while not listStudent:
-          print(f'Get student class {kelas} kode {kode}')
-          response = requests.post(self.baseURL, verify=False, 
+          print(f'Scrapping Student Course {kelas} kode {kode}', end="")
+          response = requests.post(self.baseURL + '/detail', verify=False, 
                     data={"semester": semester,
                           "jenjang": jenjang,
                           "pembatasan": pembatasan,
@@ -63,7 +65,71 @@ class PortalUSK:
 
       except Exception as e:
         print(e)
-    
+
+    @timer
+    def getMataKuliah(self, semester = "20223", jenjang="#", fakultas='#', prodi = '#'):
+      """
+      Mendapatkan daftar kelas dan mengembalikannya dalam Dictionary
+
+      @param semester: Semester yang akan diambil. ex: 20223 
+      @param jenjang: jenjang sarjana, ex: 1
+      @params fakultas: code urutan fakultas, ex: 04
+      @params prodi: code urutan prodi, ex: 0410501
+      """
+      print(f"Scrapping Portal USK fakultas: {fakultas} | prodi: {prodi} => ", end="")
+      try:
+        requests.packages.urllib3.disable_warnings()
+        response = requests.post(self.baseURL + '/get_box4', verify=False,
+                    data={
+                        "semester": semester,
+                        "jenjang": jenjang,
+                        "fakultas": fakultas,
+                        "prodi": prodi,
+                      })
+        soup = BeautifulSoup(json.loads(response.content)[1], 'html.parser')
+        listCourse = [i.text for i in soup.find_all('td')]
+        listCodeGetStudent = soup.find_all('a')
+
+        return [
+          {
+              "no": listCourse[value],
+              "kode": listCourse[value+1],
+              "nama": listCourse[value+2],
+              "kelas": listCourse[value+3],
+              "koordinator": listCourse[value+4],
+              "ruang": listCourse[value+5],
+              "hari": listCourse[value+6],
+              "waktu": listCourse[value+7],
+              "peserta": listCourse[value+8],
+              "keterangan": listCourse[value+9],
+              "kode-peserta":
+              {
+                  "data-kode": listCodeGetStudent[index].get('data-kode'),
+                  "data-kelas": listCodeGetStudent[index].get('data-kelas'),
+                  "data-semester": listCodeGetStudent[index].get('data-semester'),
+                  "data-jenjang": listCodeGetStudent[index].get('data-jenjang'),
+                  "data-pembatasan": listCodeGetStudent[index].get('data-pembatasan'),
+              }
+          } for index, value in enumerate(range(0, len(listCourse), 10))
+        ]
+      except Exception as e:
+        print(e)
+
+    def writeJson(self, path, data, createIfNotExist=True):
+      """
+      
+      """
+      if createIfNotExist:
+        try:
+          if not os.path.exists(path):
+            print(f'create path {path}')
+            os.makedirs(os.path.dirname(path))
+        except FileExistsError as f:
+          pass
+
+      with open(path, 'w') as outfile:
+        json.dump(data, outfile, indent=2)
+
     def getExcel(self, path, sheet = 0):
       """
       Mendapatkan data dari excel dan mengembalikan dalam list

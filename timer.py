@@ -14,7 +14,5 @@ class Timer:
       print(f"Time taken : {(end_time - start_time):.2f} seconds")
       return result
 
-def main(nama, umur):
-  print(nama, umur)
 
 

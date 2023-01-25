@@ -3,8 +3,29 @@ from timer import Timer
 import json
 api = PortalUSK()
 
-import math 
 
-print(math.exp(1))
+@Timer
+def main():
+  data = {
+      "semester": "20223",
+      "jenjang": '1',
+      "fakultas": '07',
+      # "prodi": '0410501'
+      "prodi": '#'
+  }
+
+  teknik = api.getMataKuliah(
+      data['semester'],
+      data['jenjang'],
+      data['fakultas'],
+      data['prodi']
+  )
+
+  # teknik = {
+  #   'nama' : '1'
+  # }
+  api.writeJson('./Portal Data USK/Kedokteran.json', teknik)
 
 
+if __name__ == "__main__":
+  main()
