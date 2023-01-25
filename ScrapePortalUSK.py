@@ -117,7 +117,10 @@ class PortalUSK:
 
     def writeJson(self, path, data, createIfNotExist=True):
       """
-      
+      menulis file kedalam format .json
+      @params path: path untuk menulis file, ex: './path/file.json'
+      @params data: data yang akan ditulis (dict)
+      @params createIfNotExists: jika file tidak ada maka akan dibuat (default = True)
       """
       if createIfNotExist:
         try:
