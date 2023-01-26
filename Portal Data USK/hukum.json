@@ -1,0 +1,6348 @@
+[
+  {
+    "no": "1",
+    "kode": "FHS510",
+    "nama": "HUKUM KONTRAK",
+    "kelas": "02",
+    "koordinator": "Dr. Teuku Ahmad Yani, S.H, M.HumNIP. 196510081990031001",
+    "ruang": "01.12",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS510",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "FHS514",
+    "nama": "HUKUM PENANAMAN MODAL",
+    "kelas": "04",
+    "koordinator": "Dr. Azhari, S.H., MCL, M.A.NIP. 196408241989031002",
+    "ruang": "01.01",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "25",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS514",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "FHS516",
+    "nama": "HUKUM PERKAWINAN",
+    "kelas": "01",
+    "koordinator": "Dr. Teuku Saiful, SH., M.HumNIP. 197401042000031001",
+    "ruang": "02.02",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "31",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS516",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "FHS516",
+    "nama": "HUKUM PERKAWINAN",
+    "kelas": "02",
+    "koordinator": "Dr. Iman Jauhari, S.H., M.HumNIP. 196609031994031004",
+    "ruang": "01.13",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "31",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS516",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "FHS516",
+    "nama": "HUKUM PERKAWINAN",
+    "kelas": "03",
+    "koordinator": "Dr. Teuku Muttaqin Mansur, M.H.NIP. 197909052008121002",
+    "ruang": "01.14",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS516",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "FHS516",
+    "nama": "HUKUM PERKAWINAN",
+    "kelas": "04",
+    "koordinator": "Dr. Iman Jauhari, S.H., M.HumNIP. 196609031994031004",
+    "ruang": "01.15",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS516",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "FHS518",
+    "nama": "HUKUM PIDANA ISLAM",
+    "kelas": "01",
+    "koordinator": "Dr. Mohd. Din, SH, MHNIP. 196412311990021006",
+    "ruang": "01.01",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS518",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "FHS518",
+    "nama": "HUKUM PIDANA ISLAM",
+    "kelas": "02",
+    "koordinator": "Dr. Mohd. Din, SH, MHNIP. 196412311990021006",
+    "ruang": "01.01",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS518",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "FHS518",
+    "nama": "HUKUM PIDANA ISLAM",
+    "kelas": "03",
+    "koordinator": "Dr. Mohd. Din, SH, MHNIP. 196412311990021006",
+    "ruang": "01.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS518",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "FHS514",
+    "nama": "HUKUM PENANAMAN MODAL",
+    "kelas": "03",
+    "koordinator": "Dr. Yusri, S.H., M.H.NIP. 196312171989031004",
+    "ruang": "01.14",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "10",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS514",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "FHS514",
+    "nama": "HUKUM PENANAMAN MODAL",
+    "kelas": "02",
+    "koordinator": "Dr. Muhammad Insa Ansari, S.H., M.H.NIP. 197707122008121001",
+    "ruang": "01.01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS514",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "FHS510",
+    "nama": "HUKUM KONTRAK",
+    "kelas": "03",
+    "koordinator": "Rismawati, S.H., M.HumNIP. 196710091994032001",
+    "ruang": "01.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS510",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "FHS510",
+    "nama": "HUKUM KONTRAK",
+    "kelas": "04",
+    "koordinator": "Prof. Dr.. Sanusi, S.H., M.L.I.S, LLM.NIP. 196212191989031004",
+    "ruang": "01.02",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS510",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "FHS510",
+    "nama": "HUKUM KONTRAK",
+    "kelas": "05",
+    "koordinator": "Kadriah, S.H, M.HumNIP. 196701011992032001",
+    "ruang": "01.03",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "27",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS510",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "FHS512",
+    "nama": "HUKUM PEMBIAYAAN",
+    "kelas": "01",
+    "koordinator": "Rismawati, S.H., M.HumNIP. 196710091994032001",
+    "ruang": "01.13",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "23",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS512",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "FHS512",
+    "nama": "HUKUM PEMBIAYAAN",
+    "kelas": "02",
+    "koordinator": "Dr. Teuku Ahmad Yani, S.H, M.HumNIP. 196510081990031001",
+    "ruang": "02.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS512",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "FHS512",
+    "nama": "HUKUM PEMBIAYAAN",
+    "kelas": "03",
+    "koordinator": "Indra Kesuma Hadi, S.H, M.HNIP. 198104252006041002",
+    "ruang": "02.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS512",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "FHS512",
+    "nama": "HUKUM PEMBIAYAAN",
+    "kelas": "04",
+    "koordinator": "Dr. Sri Walny Rahayu, S.H., M.Hum.NIP. 196806141994032002",
+    "ruang": "01.12",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "19",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS512",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "FHS514",
+    "nama": "HUKUM PENANAMAN MODAL",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Insa Ansari, S.H., M.H.NIP. 197707122008121001",
+    "ruang": "01.13",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS514",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "FHS518",
+    "nama": "HUKUM PIDANA ISLAM",
+    "kelas": "04",
+    "koordinator": "Dr. Mohd. Din, SH, MHNIP. 196412311990021006",
+    "ruang": "01.11",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS518",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "FHS520",
+    "nama": "TINDAK PIDANA PENCUCIAN UANG",
+    "kelas": "01",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "01.03",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS520",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "FHS520",
+    "nama": "TINDAK PIDANA PENCUCIAN UANG",
+    "kelas": "02",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "01.01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS520",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "FHS526",
+    "nama": "HUKUM PERLINDUNGAN PEREMPUAN DAN ANAK",
+    "kelas": "04",
+    "koordinator": "Tarmizi, S.H., M.Hum.NIP. 196707171993031004",
+    "ruang": "01.08",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS526",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "FHS528",
+    "nama": "HUKUM PENENTENTIER",
+    "kelas": "01",
+    "koordinator": "Ainal Hadi, S.H., M.Hum.NIP. 196810241993031001",
+    "ruang": "01.01",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "21",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS528",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "FHS528",
+    "nama": "HUKUM PENENTENTIER",
+    "kelas": "02",
+    "koordinator": "Ainal Hadi, S.H., M.Hum.NIP. 196810241993031001",
+    "ruang": "01.02",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "25",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS528",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "FHS528",
+    "nama": "HUKUM PENENTENTIER",
+    "kelas": "03",
+    "koordinator": "Ainal Hadi, S.H., M.Hum.NIP. 196810241993031001",
+    "ruang": "01.02",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "23",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS528",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "FHS530",
+    "nama": "HUKUM LALULINTAS DAN ANGKUTAN JALAN",
+    "kelas": "01",
+    "koordinator": "Tarmizi, S.H., M.Hum.NIP. 196707171993031004",
+    "ruang": "01.13",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "15",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS530",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "FHS530",
+    "nama": "HUKUM LALULINTAS DAN ANGKUTAN JALAN",
+    "kelas": "02",
+    "koordinator": "Tarmizi, S.H., M.Hum.NIP. 196707171993031004",
+    "ruang": "01.01",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS530",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "FHS530",
+    "nama": "HUKUM LALULINTAS DAN ANGKUTAN JALAN",
+    "kelas": "03",
+    "koordinator": "Tarmizi, S.H., M.Hum.NIP. 196707171993031004",
+    "ruang": "01.08",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "20",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS530",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "FHS532",
+    "nama": "KEJAHATAN CYBER",
+    "kelas": "01",
+    "koordinator": "Dr. Dahlan, S.H., M.HumNIP. 196704041993031004",
+    "ruang": "02.01",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "23",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS532",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "FHS526",
+    "nama": "HUKUM PERLINDUNGAN PEREMPUAN DAN ANAK",
+    "kelas": "03",
+    "koordinator": "Tarmizi, S.H., M.Hum.NIP. 196707171993031004",
+    "ruang": "01.12",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "33",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS526",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "FHS526",
+    "nama": "HUKUM PERLINDUNGAN PEREMPUAN DAN ANAK",
+    "kelas": "02",
+    "koordinator": "Tarmizi, S.H., M.Hum.NIP. 196707171993031004",
+    "ruang": "02.01",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "31",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS526",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "FHS520",
+    "nama": "TINDAK PIDANA PENCUCIAN UANG",
+    "kelas": "03",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "01.01",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS520",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "FHS522",
+    "nama": "HUKUM PEMBUKTIAN PIDANA",
+    "kelas": "01",
+    "koordinator": "Ida Keumala Jempa, SH., M.H.NIP. 196811081994032002",
+    "ruang": "01.01",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "36",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS522",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "FHS522",
+    "nama": "HUKUM PEMBUKTIAN PIDANA",
+    "kelas": "02",
+    "koordinator": "Ida Keumala Jempa, SH., M.H.NIP. 196811081994032002",
+    "ruang": "02.02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "38",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS522",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "FHS522",
+    "nama": "HUKUM PEMBUKTIAN PIDANA",
+    "kelas": "03",
+    "koordinator": "Ida Keumala Jempa, SH., M.H.NIP. 196811081994032002",
+    "ruang": "01.12",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS522",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "FHS524",
+    "nama": "HUKUM DAN VIKTIMOLOGI",
+    "kelas": "01",
+    "koordinator": "Ainal Hadi, S.H., M.Hum.NIP. 196810241993031001",
+    "ruang": "02.03",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS524",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "FHS524",
+    "nama": "HUKUM DAN VIKTIMOLOGI",
+    "kelas": "02",
+    "koordinator": "Nurhafifah, SH., M.HumNIP. 197710092003122001",
+    "ruang": "01.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS524",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "FHS524",
+    "nama": "HUKUM DAN VIKTIMOLOGI",
+    "kelas": "03",
+    "koordinator": "Nurhafifah, SH., M.HumNIP. 197710092003122001",
+    "ruang": "02.03",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS524",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "FHS526",
+    "nama": "HUKUM PERLINDUNGAN PEREMPUAN DAN ANAK",
+    "kelas": "01",
+    "koordinator": "Tarmizi, S.H., M.Hum.NIP. 196707171993031004",
+    "ruang": "01.01",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "24",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS526",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "FHS532",
+    "nama": "KEJAHATAN CYBER",
+    "kelas": "02",
+    "koordinator": "Dr. Iskandar A. Gani, S.H., M.HumNIP. 196606161991021001",
+    "ruang": "02.03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS532",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "FHS510",
+    "nama": "HUKUM KONTRAK",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Insa Ansari, S.H., M.H.NIP. 197707122008121001",
+    "ruang": "01.12",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS510",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "FHS312",
+    "nama": "HUKUM PERIKATAN",
+    "kelas": "06",
+    "koordinator": "Dr. Iman Jauhari, S.H., M.HumNIP. 196609031994031004",
+    "ruang": "01.09",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS312",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "FHS316",
+    "nama": "HUKUM ORGANISASI INTERNASIONAL",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Adwani, S.H., M.HumNIP. 195912311989031017",
+    "ruang": "01.04",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS316",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "FHS316",
+    "nama": "HUKUM ORGANISASI INTERNASIONAL",
+    "kelas": "02",
+    "koordinator": "Nurdin MH, S.H., M.HumNIP. 196412311991021002",
+    "ruang": "01.05",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "20",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS316",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "FHS316",
+    "nama": "HUKUM ORGANISASI INTERNASIONAL",
+    "kelas": "03",
+    "koordinator": "Fikri, SH., MHNIP. 197908032003121002",
+    "ruang": "01.06",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "32",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS316",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "FHS316",
+    "nama": "HUKUM ORGANISASI INTERNASIONAL",
+    "kelas": "04",
+    "koordinator": "Dr. Mahfud, S.H., M.H.NIP. 197809172002121001",
+    "ruang": "01.07",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS316",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "FHS316",
+    "nama": "HUKUM ORGANISASI INTERNASIONAL",
+    "kelas": "05",
+    "koordinator": "Lena Farsia, S.H., M.H.LLMNIP. 197505052000122001",
+    "ruang": "01.04",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "22",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS316",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "FHS316",
+    "nama": "HUKUM ORGANISASI INTERNASIONAL",
+    "kelas": "06",
+    "koordinator": "Dr. Muazzin, S.H., M.HNIP. 197002081998021001",
+    "ruang": "01.05",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "37",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS316",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "FHS316",
+    "nama": "HUKUM ORGANISASI INTERNASIONAL",
+    "kelas": "07",
+    "koordinator": "M. Putra Iqbal, S.H., LLMNIP. 198010122005011002",
+    "ruang": "01.06",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "18",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS316",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "FHS316",
+    "nama": "HUKUM ORGANISASI INTERNASIONAL",
+    "kelas": "08",
+    "koordinator": "Enzus Tinianus, SH,MHNIP. 197407212000031001",
+    "ruang": "01.07",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "37",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS316",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "FHS314",
+    "nama": "ETIKA PROFESI HUKUM",
+    "kelas": "IC",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "IC",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "22",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS314",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "FHS314",
+    "nama": "ETIKA PROFESI HUKUM",
+    "kelas": "06",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "02.01",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "34",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS314",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "FHS312",
+    "nama": "HUKUM PERIKATAN",
+    "kelas": "07",
+    "koordinator": "Dr. Teuku Ahmad Yani, S.H, M.HumNIP. 196510081990031001",
+    "ruang": "01.10",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "33",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS312",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "FHS312",
+    "nama": "HUKUM PERIKATAN",
+    "kelas": "08",
+    "koordinator": "Khairani, S.H, M.HumNIP. 196703221993032001",
+    "ruang": "01.11",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS312",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "FHS312",
+    "nama": "HUKUM PERIKATAN",
+    "kelas": "IC",
+    "koordinator": "Prof. Dr.. Sanusi, S.H., M.L.I.S, LLM.NIP. 196212191989031004",
+    "ruang": "IC",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS312",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "FHS314",
+    "nama": "ETIKA PROFESI HUKUM",
+    "kelas": "01",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "01.12",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "55",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS314",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "FHS314",
+    "nama": "ETIKA PROFESI HUKUM",
+    "kelas": "02",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "01.02",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "54",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS314",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "FHS314",
+    "nama": "ETIKA PROFESI HUKUM",
+    "kelas": "03",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "01.12",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "55",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS314",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "FHS314",
+    "nama": "ETIKA PROFESI HUKUM",
+    "kelas": "04",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "01.01",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "55",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS314",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "FHS314",
+    "nama": "ETIKA PROFESI HUKUM",
+    "kelas": "05",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "01.13",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "54",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS314",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "FHS316",
+    "nama": "HUKUM ORGANISASI INTERNASIONAL",
+    "kelas": "IC",
+    "koordinator": "Lena Farsia, S.H., M.H.LLMNIP. 197505052000122001",
+    "ruang": "IC",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "16",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS316",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "FHS502",
+    "nama": "HUKUM PERBANKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Yusri, S.H., M.H.NIP. 196312171989031004",
+    "ruang": "01.12",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS502",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "FHS502",
+    "nama": "HUKUM PERBANKAN",
+    "kelas": "02",
+    "koordinator": "T. Haflisyah, S.H, M.HumNIP. 196709081994021001",
+    "ruang": "01.13",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS502",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "FHS506",
+    "nama": "HUKUM ARBITRASE DAN ALTERNATIF PENYELESAIAN SENGKETA",
+    "kelas": "02",
+    "koordinator": "T. Haflisyah, S.H, M.HumNIP. 196709081994021001",
+    "ruang": "01.03",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS506",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "FHS506",
+    "nama": "HUKUM ARBITRASE DAN ALTERNATIF PENYELESAIAN SENGKETA",
+    "kelas": "03",
+    "koordinator": "Khairani, S.H, M.HumNIP. 196703221993032001",
+    "ruang": "01.12",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS506",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "FHS506",
+    "nama": "HUKUM ARBITRASE DAN ALTERNATIF PENYELESAIAN SENGKETA",
+    "kelas": "04",
+    "koordinator": "Dr. Sri Walny Rahayu, S.H., M.Hum.NIP. 196806141994032002",
+    "ruang": "01.02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS506",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "FHS506",
+    "nama": "HUKUM ARBITRASE DAN ALTERNATIF PENYELESAIAN SENGKETA",
+    "kelas": "05",
+    "koordinator": "T. Haflisyah, S.H, M.HumNIP. 196709081994021001",
+    "ruang": "01.11",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS506",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "FHS508",
+    "nama": "HUKUM BANGUNAN",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Insa Ansari, S.H., M.H.NIP. 197707122008121001",
+    "ruang": "01.12",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS508",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "FHS508",
+    "nama": "HUKUM BANGUNAN",
+    "kelas": "02",
+    "koordinator": "Dr. Yusri, S.H., M.H.NIP. 196312171989031004",
+    "ruang": "01.03",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS508",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "FHS508",
+    "nama": "HUKUM BANGUNAN",
+    "kelas": "03",
+    "koordinator": "Dr. Darmawan, S.H., M.Hum.NIP. 196205251988111001",
+    "ruang": "01.04",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS508",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "FHS508",
+    "nama": "HUKUM BANGUNAN",
+    "kelas": "04",
+    "koordinator": "Khairani, S.H, M.HumNIP. 196703221993032001",
+    "ruang": "01.05",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS508",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "FHS506",
+    "nama": "HUKUM ARBITRASE DAN ALTERNATIF PENYELESAIAN SENGKETA",
+    "kelas": "01",
+    "koordinator": "Rismawati, S.H., M.HumNIP. 196710091994032001",
+    "ruang": "01.03",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "29",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS506",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "FHS504",
+    "nama": "HUKUM PERUSAHAAN",
+    "kelas": "IC",
+    "koordinator": "Dr. Azhari, S.H., MCL, M.A.NIP. 196408241989031002",
+    "ruang": "IC",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "1",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS504",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "FHS502",
+    "nama": "HUKUM PERBANKAN",
+    "kelas": "03",
+    "koordinator": "Khairani, S.H, M.HumNIP. 196703221993032001",
+    "ruang": "01.12",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS502",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "FHS502",
+    "nama": "HUKUM PERBANKAN",
+    "kelas": "04",
+    "koordinator": "Rismawati, S.H., M.HumNIP. 196710091994032001",
+    "ruang": "01.13",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS502",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "FHS502",
+    "nama": "HUKUM PERBANKAN",
+    "kelas": "05",
+    "koordinator": "Dr. Sri Walny Rahayu, S.H., M.Hum.NIP. 196806141994032002",
+    "ruang": "01.03",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "31",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS502",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "FHS504",
+    "nama": "HUKUM PERUSAHAAN",
+    "kelas": "01",
+    "koordinator": "Dr. Yusri, S.H., M.H.NIP. 196312171989031004",
+    "ruang": "01.12",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "32",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS504",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "FHS504",
+    "nama": "HUKUM PERUSAHAAN",
+    "kelas": "02",
+    "koordinator": "Rismawati, S.H., M.HumNIP. 196710091994032001",
+    "ruang": "01.13",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS504",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "FHS504",
+    "nama": "HUKUM PERUSAHAAN",
+    "kelas": "03",
+    "koordinator": "Dr. Muhammad Insa Ansari, S.H., M.H.NIP. 197707122008121001",
+    "ruang": "01.08",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "35",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS504",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "FHS504",
+    "nama": "HUKUM PERUSAHAAN",
+    "kelas": "04",
+    "koordinator": "Safrina, S.H, MH, M.EPMNIP. 197403122006042001",
+    "ruang": "01.12",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "34",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS504",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "FHS504",
+    "nama": "HUKUM PERUSAHAAN",
+    "kelas": "05",
+    "koordinator": "Dr. Teuku Ahmad Yani, S.H, M.HumNIP. 196510081990031001",
+    "ruang": "01.09",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "34",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS504",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "FHS508",
+    "nama": "HUKUM BANGUNAN",
+    "kelas": "05",
+    "koordinator": "Khairani, S.H, M.HumNIP. 196703221993032001",
+    "ruang": "01.03",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "4",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS508",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "FHS532",
+    "nama": "KEJAHATAN CYBER",
+    "kelas": "03",
+    "koordinator": "Dr. Dahlan, S.H., M.HumNIP. 196704041993031004",
+    "ruang": "02.03",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "20",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS532",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "FHS580",
+    "nama": "HUKUM LAUT DAN PERIKANAN INTERNASIONAL",
+    "kelas": "01",
+    "koordinator": "Enzus Tinianus, SH,MHNIP. 197407212000031001",
+    "ruang": "01.12",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS580",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "FHS590",
+    "nama": "HUBUNGAN ANTAR MANUSIA DALAM ISLAM",
+    "kelas": "05",
+    "koordinator": "Dr. Zahratul Idami, S.H., M.Hum.NIP. 197012081997022001",
+    "ruang": "01.14",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "2",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS590",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "FHS592",
+    "nama": "HUKUM DAN GENDER",
+    "kelas": "01",
+    "koordinator": "Roslaini Ramli, S.H, MHNIP. 196602261993032002",
+    "ruang": "01.02",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "3",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS592",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "FHS592",
+    "nama": "HUKUM DAN GENDER",
+    "kelas": "05",
+    "koordinator": "Roslaini Ramli, S.H, MHNIP. 196602261993032002",
+    "ruang": "01.10",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "2",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS592",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "FHS594",
+    "nama": "HUKUM DAN KEPENDUDUKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Sulaiman, S.H., M.H.NIP. 197604022006041001",
+    "ruang": "01.14",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "1",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS594",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "FHS594",
+    "nama": "HUKUM DAN KEPENDUDUKAN",
+    "kelas": "05",
+    "koordinator": "Dr. Sulaiman, S.H., M.H.NIP. 197604022006041001",
+    "ruang": "01.14",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS594",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "91",
+    "kode": "FHS596",
+    "nama": "PLURALISME HUKUM",
+    "kelas": "01",
+    "koordinator": "Dr. Sulaiman, S.H., M.H.NIP. 197604022006041001",
+    "ruang": "01.12",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS596",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "92",
+    "kode": "FHS596",
+    "nama": "PLURALISME HUKUM",
+    "kelas": "05",
+    "koordinator": "Dr. Sulaiman, S.H., M.H.NIP. 197604022006041001",
+    "ruang": "01.14",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS596",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "93",
+    "kode": "FHS598",
+    "nama": "PERBANDINGAN HUKUM",
+    "kelas": "01",
+    "koordinator": "Enzus Tinianus, SH,MHNIP. 197407212000031001",
+    "ruang": "01.03",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS598",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "94",
+    "kode": "FHS590",
+    "nama": "HUBUNGAN ANTAR MANUSIA DALAM ISLAM",
+    "kelas": "01",
+    "koordinator": "Dr. Zahratul Idami, S.H., M.Hum.NIP. 197012081997022001",
+    "ruang": "01.14",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS590",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "95",
+    "kode": "FHS588",
+    "nama": "STUDI KASUS KAWASAN LINGKUNGAN",
+    "kelas": "05",
+    "koordinator": "Dr. M. Nur, S.H., M.H.NIP. 196006081987031001",
+    "ruang": "01.07",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS588",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "96",
+    "kode": "FHS580",
+    "nama": "HUKUM LAUT DAN PERIKANAN INTERNASIONAL",
+    "kelas": "05",
+    "koordinator": "Enzus Tinianus, SH,MHNIP. 197407212000031001",
+    "ruang": "01.13",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "1",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS580",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "97",
+    "kode": "FHS582",
+    "nama": "HUKUM DAN PERUBAHAN SOSIAL",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Saleh, S.H., M.SiNIP. 196108191989031003",
+    "ruang": "01.14",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS582",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "98",
+    "kode": "FHS582",
+    "nama": "HUKUM DAN PERUBAHAN SOSIAL",
+    "kelas": "05",
+    "koordinator": "Dr. Muhammad Saleh, S.H., M.SiNIP. 196108191989031003",
+    "ruang": "01.14",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS582",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "99",
+    "kode": "FHS584",
+    "nama": "ANTROPOLOGI HUKUM",
+    "kelas": "01",
+    "koordinator": "Saifuddin, S.H., M.A.NIP. 196206011989031004",
+    "ruang": "01.12",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS584",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "100",
+    "kode": "FHS584",
+    "nama": "ANTROPOLOGI HUKUM",
+    "kelas": "05",
+    "koordinator": "Saifuddin, S.H., M.A.NIP. 196206011989031004",
+    "ruang": "01.13",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS584",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "101",
+    "kode": "FHS586",
+    "nama": "HUKUM KESEHATAN",
+    "kelas": "01",
+    "koordinator": "Bakti, SH, M.HumNIP. 196403181990021004",
+    "ruang": "01.14",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS586",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "102",
+    "kode": "FHS586",
+    "nama": "HUKUM KESEHATAN",
+    "kelas": "05",
+    "koordinator": "Bakti, SH, M.HumNIP. 196403181990021004",
+    "ruang": "01.10",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS586",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "103",
+    "kode": "FHS588",
+    "nama": "STUDI KASUS KAWASAN LINGKUNGAN",
+    "kelas": "01",
+    "koordinator": "Bakti, SH, M.HumNIP. 196403181990021004",
+    "ruang": "01.13",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS588",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "104",
+    "kode": "FHS598",
+    "nama": "PERBANDINGAN HUKUM",
+    "kelas": "05",
+    "koordinator": "Enzus Tinianus, SH,MHNIP. 197407212000031001",
+    "ruang": "01.12",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS598",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "105",
+    "kode": "FHS598",
+    "nama": "PERBANDINGAN HUKUM",
+    "kelas": "IC",
+    "koordinator": "Muhammad Ya kub Aiyub Kadir, S.Ag., LLM, PhDNIP. 197706072008121002",
+    "ruang": "IC",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS598",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "106",
+    "kode": "FHSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "01",
+    "koordinator": "Dr. Ilyas, S.H., M.HumNIP. 196504051991021001",
+    "ruang": "KLINIS HUKUM",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "379",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHSPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "107",
+    "kode": "FHU304",
+    "nama": "METODOLOGI PENELITIAN HUKUM",
+    "kelas": "02",
+    "koordinator": "Dr. Muazzin, S.H., M.HNIP. 197002081998021001",
+    "ruang": "02.01",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "52",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU304",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "108",
+    "kode": "FHU304",
+    "nama": "METODOLOGI PENELITIAN HUKUM",
+    "kelas": "03",
+    "koordinator": "Dr. Teuku Ahmad Yani, S.H, M.HumNIP. 196510081990031001",
+    "ruang": "02.02",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "49",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU304",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "109",
+    "kode": "FHU304",
+    "nama": "METODOLOGI PENELITIAN HUKUM",
+    "kelas": "04",
+    "koordinator": "Prof. Dr. Husni, S.H., M.HumNIP. 196208101990021002",
+    "ruang": "02.03",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "52",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU304",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "110",
+    "kode": "FHU304",
+    "nama": "METODOLOGI PENELITIAN HUKUM",
+    "kelas": "05",
+    "koordinator": "Dr. Mahfud, S.H., M.H.NIP. 197809172002121001",
+    "ruang": "01.08",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "51",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU304",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "111",
+    "kode": "FHU304",
+    "nama": "METODOLOGI PENELITIAN HUKUM",
+    "kelas": "06",
+    "koordinator": "Dr. Iman Jauhari, S.H., M.HumNIP. 196609031994031004",
+    "ruang": "01.09",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "52",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU304",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "112",
+    "kode": "FHU304",
+    "nama": "METODOLOGI PENELITIAN HUKUM",
+    "kelas": "07",
+    "koordinator": "Prof. Dr. Adwani, S.H., M.HumNIP. 195912311989031017",
+    "ruang": "01.10",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "52",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU304",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "113",
+    "kode": "FHU304",
+    "nama": "METODOLOGI PENELITIAN HUKUM",
+    "kelas": "08",
+    "koordinator": "Prof. Dr. Husni, S.H., M.HumNIP. 196208101990021002",
+    "ruang": "01.11",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "51",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU304",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "114",
+    "kode": "FHU304",
+    "nama": "METODOLOGI PENELITIAN HUKUM",
+    "kelas": "IC",
+    "koordinator": "Dr. Muhammad Saleh, S.H., M.SiNIP. 196108191989031003",
+    "ruang": "IC",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "18",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU304",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "115",
+    "kode": "FHU304",
+    "nama": "METODOLOGI PENELITIAN HUKUM",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ilyas, S.H., M.HumNIP. 196506281990031001",
+    "ruang": "01.15",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "52",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU304",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "116",
+    "kode": "FHU302",
+    "nama": "FILSAFAT HUKUM",
+    "kelas": "IC",
+    "koordinator": "Dr. Muhammad Saleh, S.H., M.SiNIP. 196108191989031003",
+    "ruang": "IC",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "18",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU302",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "117",
+    "kode": "FHU302",
+    "nama": "FILSAFAT HUKUM",
+    "kelas": "01",
+    "koordinator": "Dr. Ilyas, S.H., M.HumNIP. 196504051991021001",
+    "ruang": "01.04",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "118",
+    "kode": "FHU302",
+    "nama": "FILSAFAT HUKUM",
+    "kelas": "02",
+    "koordinator": "Dr. Teuku Ahmad Yani, S.H, M.HumNIP. 196510081990031001",
+    "ruang": "01.05",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "119",
+    "kode": "FHU302",
+    "nama": "FILSAFAT HUKUM",
+    "kelas": "03",
+    "koordinator": "Dr. M. Nur, S.H., M.H.NIP. 196006081987031001",
+    "ruang": "01.06",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU302",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "120",
+    "kode": "FHU302",
+    "nama": "FILSAFAT HUKUM",
+    "kelas": "04",
+    "koordinator": "Dr. Muhammad Saleh, S.H., M.SiNIP. 196108191989031003",
+    "ruang": "01.07",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU302",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "121",
+    "kode": "FHU302",
+    "nama": "FILSAFAT HUKUM",
+    "kelas": "05",
+    "koordinator": "Prof. Dr. Adwani, S.H., M.HumNIP. 195912311989031017",
+    "ruang": "01.04",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU302",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "122",
+    "kode": "FHU302",
+    "nama": "FILSAFAT HUKUM",
+    "kelas": "06",
+    "koordinator": "Dr. Iman Jauhari, S.H., M.HumNIP. 196609031994031004",
+    "ruang": "01.05",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU302",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "123",
+    "kode": "FHU302",
+    "nama": "FILSAFAT HUKUM",
+    "kelas": "07",
+    "koordinator": "Prof. Dr. Faisal, S.H, M.Hum.NIP. 195908151987031001",
+    "ruang": "01.06",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU302",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "124",
+    "kode": "FHU302",
+    "nama": "FILSAFAT HUKUM",
+    "kelas": "08",
+    "koordinator": "Prof. Dr. Adwani, S.H., M.HumNIP. 195912311989031017",
+    "ruang": "01.07",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHU302",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "125",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Dr. Ilyas, S.H., M.HumNIP. 196504051991021001",
+    "ruang": "LAb",
+    "hari": "Sabtu",
+    "waktu": "8:10-9:40",
+    "peserta": "61",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "126",
+    "kode": "FHS578",
+    "nama": "HUKUM KONTRAK INTERNASIONAL",
+    "kelas": "IC",
+    "koordinator": "Prof. Dr.. Sanusi, S.H., M.L.I.S, LLM.NIP. 196212191989031004",
+    "ruang": "IC",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "1",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS578",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "127",
+    "kode": "FHS534",
+    "nama": "TEORI POLITIK DALAM ISLAM",
+    "kelas": "01",
+    "koordinator": "Dr. Zahratul Idami, S.H., M.Hum.NIP. 197012081997022001",
+    "ruang": "02.02",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "3",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS534",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "128",
+    "kode": "FHS546",
+    "nama": "HUKUM KEWARGANEGARAAN",
+    "kelas": "01",
+    "koordinator": "Dr. Iskandar A. Gani, S.H., M.HumNIP. 196606161991021001",
+    "ruang": "01.14",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "2",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS546",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "129",
+    "kode": "FHS546",
+    "nama": "HUKUM KEWARGANEGARAAN",
+    "kelas": "05",
+    "koordinator": "Dr. Iskandar A. Gani, S.H., M.HumNIP. 196606161991021001",
+    "ruang": "01.14",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "12",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS546",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "130",
+    "kode": "FHS548",
+    "nama": "LEMBAGA KEPRESIDENAN",
+    "kelas": "01",
+    "koordinator": "Dr. Iskandar A. Gani, S.H., M.HumNIP. 196606161991021001",
+    "ruang": "01.13",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "1",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS548",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "131",
+    "kode": "FHS548",
+    "nama": "LEMBAGA KEPRESIDENAN",
+    "kelas": "05",
+    "koordinator": "Dr. Iskandar A. Gani, S.H., M.HumNIP. 196606161991021001",
+    "ruang": "01.03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "15",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS548",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "132",
+    "kode": "FHS550",
+    "nama": "HUKUM PERIJINAN",
+    "kelas": "01",
+    "koordinator": "Dr. Yanis Rinaldi, S.H., M.Hum.NIP. 196903111994031005",
+    "ruang": "01.13",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS550",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "133",
+    "kode": "FHS554",
+    "nama": "HUKUM KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Dr. Efendi, S.H., M.SiNIP. 196712071993031002",
+    "ruang": "01.13",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "3",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS554",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "134",
+    "kode": "FHS556",
+    "nama": "HUKUM PERTAMBANGAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ria Fitri, SH, M.Hum.NIP. 196601211992032001",
+    "ruang": "02.03",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS556",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "135",
+    "kode": "FHS560",
+    "nama": "LANDREFORM",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ilyas, S.H., M.HumNIP. 196506281990031001",
+    "ruang": "01.02",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "3",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS560",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "136",
+    "kode": "FHS544",
+    "nama": "HUKUM PERUNDANG-UNDANGAN DAERAH",
+    "kelas": "05",
+    "koordinator": "Prof. Dr. Eddy Purnama, S.H, M.HumNIP. 196205261989031002",
+    "ruang": "01.02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "1",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS544",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "137",
+    "kode": "FHS544",
+    "nama": "HUKUM PERUNDANG-UNDANGAN DAERAH",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Eddy Purnama, S.H, M.HumNIP. 196205261989031002",
+    "ruang": "01.12",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "4",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS544",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "138",
+    "kode": "FHS534",
+    "nama": "TEORI POLITIK DALAM ISLAM",
+    "kelas": "05",
+    "koordinator": "Dr. Zahratul Idami, S.H., M.Hum.NIP. 197012081997022001",
+    "ruang": "01.15",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS534",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "139",
+    "kode": "FHS536",
+    "nama": "LEMBAGA PERWAKILAN RAKYAT",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Eddy Purnama, S.H, M.HumNIP. 196205261989031002",
+    "ruang": "01.03",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "8",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS536",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "140",
+    "kode": "FHS536",
+    "nama": "LEMBAGA PERWAKILAN RAKYAT",
+    "kelas": "05",
+    "koordinator": "Prof. Dr. Eddy Purnama, S.H, M.HumNIP. 196205261989031002",
+    "ruang": "01.03",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "8",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS536",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "141",
+    "kode": "FHS538",
+    "nama": "HUKUM LEMBAGA PEMERINTAHAN DAERAH",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Husni, S.H., M.HumNIP. 196208101990021002",
+    "ruang": "01.02",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "16",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS538",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "142",
+    "kode": "FHS538",
+    "nama": "HUKUM LEMBAGA PEMERINTAHAN DAERAH",
+    "kelas": "05",
+    "koordinator": "Prof. Dr. Husni, S.H., M.HumNIP. 196208101990021002",
+    "ruang": "01.02",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "1",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS538",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "143",
+    "kode": "FHS540",
+    "nama": "TEORI DESENTRALISASI DAN OTONOMI DAERAH",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Husni, S.H., M.HumNIP. 196208101990021002",
+    "ruang": "01.14",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS540",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "144",
+    "kode": "FHS540",
+    "nama": "TEORI DESENTRALISASI DAN OTONOMI DAERAH",
+    "kelas": "05",
+    "koordinator": "Prof. Dr. Husni, S.H., M.HumNIP. 196208101990021002",
+    "ruang": "01.13",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "15",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS540",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "145",
+    "kode": "FHS542",
+    "nama": "POLITIK HUKUM OTONOMI DAERAH",
+    "kelas": "01",
+    "koordinator": "Dr. M. Nur, S.H., M.H.NIP. 196006081987031001",
+    "ruang": "01.02",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS542",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "146",
+    "kode": "FHS562",
+    "nama": "HUKUM PENDAFTARAN TANAH",
+    "kelas": "01",
+    "koordinator": "Abdurrahman, S.H., M.HumNIP. 196505291990031003",
+    "ruang": "01.13",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS562",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "147",
+    "kode": "FHS564",
+    "nama": "HUKUM PAJAK DAN RETRIBUSI DAERAH",
+    "kelas": "01",
+    "koordinator": "Dr. Mahdi Syahbandir, S.H., M.Hum.NIP. 196402011990021004",
+    "ruang": "01.14",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS564",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "148",
+    "kode": "FHS566",
+    "nama": "HUKUM DIPLOMATIK",
+    "kelas": "01",
+    "koordinator": "M. Putra Iqbal, S.H., LLMNIP. 198010122005011002",
+    "ruang": "01.13",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "5",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS566",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "149",
+    "kode": "FHS572",
+    "nama": "HUKUM PERDAGANGAN INTERNASIONAL",
+    "kelas": "IC",
+    "koordinator": "M. Putra Iqbal, S.H., LLMNIP. 198010122005011002",
+    "ruang": "IC",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "15",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS572",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "150",
+    "kode": "FHS574",
+    "nama": "HUKUM PIDANA INTERNASIONAL",
+    "kelas": "01",
+    "koordinator": "Muhammad Ya kub Aiyub Kadir, S.Ag., LLM, PhDNIP. 197706072008121002",
+    "ruang": "01.02",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "6",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS574",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "151",
+    "kode": "FHS574",
+    "nama": "HUKUM PIDANA INTERNASIONAL",
+    "kelas": "05",
+    "koordinator": "Muhammad Ya kub Aiyub Kadir, S.Ag., LLM, PhDNIP. 197706072008121002",
+    "ruang": "02.02",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS574",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "152",
+    "kode": "FHS574",
+    "nama": "HUKUM PIDANA INTERNASIONAL",
+    "kelas": "IC",
+    "koordinator": "Mahfud, SH.,LL.M.NIP. 198004152005011003",
+    "ruang": "IC",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "1",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS574",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "153",
+    "kode": "FHS576",
+    "nama": "HUKUM PENGUNGSI",
+    "kelas": "01",
+    "koordinator": "Enzus Tinianus, SH,MHNIP. 197407212000031001",
+    "ruang": "01.15",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS576",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "154",
+    "kode": "FHS576",
+    "nama": "HUKUM PENGUNGSI",
+    "kelas": "05",
+    "koordinator": "Enzus Tinianus, SH,MHNIP. 197407212000031001",
+    "ruang": "01.13",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "7",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS576",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "155",
+    "kode": "FHS576",
+    "nama": "HUKUM PENGUNGSI",
+    "kelas": "IC",
+    "koordinator": "Lena Farsia, S.H., M.H.LLMNIP. 197505052000122001",
+    "ruang": "IC",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS576",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "156",
+    "kode": "FHS578",
+    "nama": "HUKUM KONTRAK INTERNASIONAL",
+    "kelas": "01",
+    "koordinator": "Nurdin MH, S.H., M.HumNIP. 196412311991021002",
+    "ruang": "01.03",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "1",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS578",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "157",
+    "kode": "FHS572",
+    "nama": "HUKUM PERDAGANGAN INTERNASIONAL",
+    "kelas": "05",
+    "koordinator": "M. Putra Iqbal, S.H., LLMNIP. 198010122005011002",
+    "ruang": "01.09",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "5",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS572",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "158",
+    "kode": "FHS572",
+    "nama": "HUKUM PERDAGANGAN INTERNASIONAL",
+    "kelas": "01",
+    "koordinator": "M. Putra Iqbal, S.H., LLMNIP. 198010122005011002",
+    "ruang": "01.01",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "5",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS572",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "159",
+    "kode": "FHS566",
+    "nama": "HUKUM DIPLOMATIK",
+    "kelas": "05",
+    "koordinator": "M. Putra Iqbal, S.H., LLMNIP. 198010122005011002",
+    "ruang": "01.03",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS566",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "160",
+    "kode": "FHS566",
+    "nama": "HUKUM DIPLOMATIK",
+    "kelas": "IC",
+    "koordinator": "Muhammad Ya kub Aiyub Kadir, S.Ag., LLM, PhDNIP. 197706072008121002",
+    "ruang": "IC",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "15",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS566",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "161",
+    "kode": "FHS568",
+    "nama": "HUKUM HUMANITER",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Adwani, S.H., M.HumNIP. 195912311989031017",
+    "ruang": "01.14",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "0",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS568",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "162",
+    "kode": "FHS568",
+    "nama": "HUKUM HUMANITER",
+    "kelas": "05",
+    "koordinator": "Prof. Dr. Adwani, S.H., M.HumNIP. 195912311989031017",
+    "ruang": "01.14",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "11",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS568",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "163",
+    "kode": "FHS568",
+    "nama": "HUKUM HUMANITER",
+    "kelas": "IC",
+    "koordinator": "Sophia Listriani, SH, LL.MNIP. 198302222006042002",
+    "ruang": "IC",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "6",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS568",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "164",
+    "kode": "FHS570",
+    "nama": "HUKUM LINGKUNGAN INTERNASIONAL",
+    "kelas": "01",
+    "koordinator": "Dr. Muazzin, S.H., M.HNIP. 197002081998021001",
+    "ruang": "02.02",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "4",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS570",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "165",
+    "kode": "FHS570",
+    "nama": "HUKUM LINGKUNGAN INTERNASIONAL",
+    "kelas": "05",
+    "koordinator": "Dr. Muazzin, S.H., M.HNIP. 197002081998021001",
+    "ruang": "01.12",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "7",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS570",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "166",
+    "kode": "FHS570",
+    "nama": "HUKUM LINGKUNGAN INTERNASIONAL",
+    "kelas": "IC",
+    "koordinator": "Nellyana Roesa, S.H,LL.MNIP. 198206262006042003",
+    "ruang": "IC",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "15",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS570",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "167",
+    "kode": "FHS578",
+    "nama": "HUKUM KONTRAK INTERNASIONAL",
+    "kelas": "05",
+    "koordinator": "Nurdin MH, S.H., M.HumNIP. 196412311991021002",
+    "ruang": "01.12",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS578",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "168",
+    "kode": "FHS110",
+    "nama": "HUKUM DAN MASYARAKAT",
+    "kelas": "07",
+    "koordinator": "Saifuddin, S.H., M.A.NIP. 196206011989031004",
+    "ruang": "01.06",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "52",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS110",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "169",
+    "kode": "FHS202",
+    "nama": "HUKUM PEMERINTAHAN DAERAH",
+    "kelas": "IC",
+    "koordinator": "Sufyan, S.H,MHNIP. 196612311993031017",
+    "ruang": "IC",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS202",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "170",
+    "kode": "FHS204",
+    "nama": "KRIMINOLOGI",
+    "kelas": "01",
+    "koordinator": "Mukhlis, S.H. M.HumNIP. 196804211994021002",
+    "ruang": "01.08",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "171",
+    "kode": "FHS204",
+    "nama": "KRIMINOLOGI",
+    "kelas": "02",
+    "koordinator": "Ainal Hadi, S.H., M.Hum.NIP. 196810241993031001",
+    "ruang": "01.09",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "172",
+    "kode": "FHS204",
+    "nama": "KRIMINOLOGI",
+    "kelas": "03",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "01.10",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "173",
+    "kode": "FHS204",
+    "nama": "KRIMINOLOGI",
+    "kelas": "04",
+    "koordinator": "Dr. Mohd. Din, SH, MHNIP. 196412311990021006",
+    "ruang": "01.11",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS204",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "174",
+    "kode": "FHS204",
+    "nama": "KRIMINOLOGI",
+    "kelas": "05",
+    "koordinator": "Mukhlis, S.H. M.HumNIP. 196804211994021002",
+    "ruang": "01.15",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS204",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "175",
+    "kode": "FHS204",
+    "nama": "KRIMINOLOGI",
+    "kelas": "06",
+    "koordinator": "Ainal Hadi, S.H., M.Hum.NIP. 196810241993031001",
+    "ruang": "01.01",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "43",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS204",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "176",
+    "kode": "FHS204",
+    "nama": "KRIMINOLOGI",
+    "kelas": "07",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "02.02",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "37",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS204",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "177",
+    "kode": "FHS202",
+    "nama": "HUKUM PEMERINTAHAN DAERAH",
+    "kelas": "08",
+    "koordinator": "Dr. M. Gaussyah, S.H. M.H.NIP. 197412201999031001",
+    "ruang": "01.11",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS202",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "178",
+    "kode": "FHS202",
+    "nama": "HUKUM PEMERINTAHAN DAERAH",
+    "kelas": "07",
+    "koordinator": "Prof. Dr. Faisal, S.H, M.Hum.NIP. 195908151987031001",
+    "ruang": "01.10",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS202",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "179",
+    "kode": "FHS110",
+    "nama": "HUKUM DAN MASYARAKAT",
+    "kelas": "08",
+    "koordinator": "Roslaini Ramli, S.H, MHNIP. 196602261993032002",
+    "ruang": "01.07",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "52",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS110",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "180",
+    "kode": "FHS110",
+    "nama": "HUKUM DAN MASYARAKAT",
+    "kelas": "IC",
+    "koordinator": "Dr. Muhammad Saleh, S.H., M.SiNIP. 196108191989031003",
+    "ruang": "IC",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "19",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS110",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "181",
+    "kode": "FHS202",
+    "nama": "HUKUM PEMERINTAHAN DAERAH",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Husni, S.H., M.HumNIP. 196208101990021002",
+    "ruang": "01.08",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "182",
+    "kode": "FHS202",
+    "nama": "HUKUM PEMERINTAHAN DAERAH",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Eddy Purnama, S.H, M.HumNIP. 196205261989031002",
+    "ruang": "01.09",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "183",
+    "kode": "FHS202",
+    "nama": "HUKUM PEMERINTAHAN DAERAH",
+    "kelas": "03",
+    "koordinator": "Dr. Zahratul Idami, S.H., M.Hum.NIP. 197012081997022001",
+    "ruang": "01.10",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "184",
+    "kode": "FHS202",
+    "nama": "HUKUM PEMERINTAHAN DAERAH",
+    "kelas": "04",
+    "koordinator": "Dr. Iskandar A. Gani, S.H., M.HumNIP. 196606161991021001",
+    "ruang": "01.11",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS202",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "185",
+    "kode": "FHS202",
+    "nama": "HUKUM PEMERINTAHAN DAERAH",
+    "kelas": "05",
+    "koordinator": "Zainal Abidin, S.H., M.SiNIP. 196712151994031004",
+    "ruang": "01.08",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS202",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "186",
+    "kode": "FHS202",
+    "nama": "HUKUM PEMERINTAHAN DAERAH",
+    "kelas": "06",
+    "koordinator": "Prof. Dr. Eddy Purnama, S.H, M.HumNIP. 196205261989031002",
+    "ruang": "01.09",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS202",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "187",
+    "kode": "FHS204",
+    "nama": "KRIMINOLOGI",
+    "kelas": "08",
+    "koordinator": "Dr. Mohd. Din, SH, MHNIP. 196412311990021006",
+    "ruang": "02.03",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS204",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "188",
+    "kode": "FHS204",
+    "nama": "KRIMINOLOGI",
+    "kelas": "IC",
+    "koordinator": "Ainal Hadi, S.H., M.Hum.NIP. 196810241993031001",
+    "ruang": "IC",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "19",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS204",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "189",
+    "kode": "FHS206",
+    "nama": "HUKUM KONSTITUSI DAN KELEMBAGAAN NEGARA",
+    "kelas": "01",
+    "koordinator": "Dr. Zahratul Idami, S.H., M.Hum.NIP. 197012081997022001",
+    "ruang": "02.01",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "190",
+    "kode": "FHS208",
+    "nama": "HUKUM ACARA PIDANA",
+    "kelas": "03",
+    "koordinator": "Mukhlis, S.H. M.HumNIP. 196804211994021002",
+    "ruang": "01.06",
+    "hari": "Rabu",
+    "waktu": "9:50-12:25",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS208",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "191",
+    "kode": "FHS208",
+    "nama": "HUKUM ACARA PIDANA",
+    "kelas": "04",
+    "koordinator": "Nursiti, S.H., M.Hum.NIP. 197210152003122003",
+    "ruang": "01.07",
+    "hari": "Rabu",
+    "waktu": "9:50-12:25",
+    "peserta": "46",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS208",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "192",
+    "kode": "FHS208",
+    "nama": "HUKUM ACARA PIDANA",
+    "kelas": "05",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "01.04",
+    "hari": "Jumat",
+    "waktu": "9:50-12:25",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS208",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "193",
+    "kode": "FHS208",
+    "nama": "HUKUM ACARA PIDANA",
+    "kelas": "06",
+    "koordinator": "Dr. Mohd. Din, SH, MHNIP. 196412311990021006",
+    "ruang": "01.05",
+    "hari": "Jumat",
+    "waktu": "9:50-12:25",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS208",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "194",
+    "kode": "FHS208",
+    "nama": "HUKUM ACARA PIDANA",
+    "kelas": "07",
+    "koordinator": "Mukhlis, S.H. M.HumNIP. 196804211994021002",
+    "ruang": "01.06",
+    "hari": "Jumat",
+    "waktu": "9:50-12:25",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS208",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "195",
+    "kode": "FHS208",
+    "nama": "HUKUM ACARA PIDANA",
+    "kelas": "08",
+    "koordinator": "Nursiti, S.H., M.Hum.NIP. 197210152003122003",
+    "ruang": "01.07",
+    "hari": "Jumat",
+    "waktu": "9:50-12:25",
+    "peserta": "39",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS208",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "196",
+    "kode": "FHS208",
+    "nama": "HUKUM ACARA PIDANA",
+    "kelas": "IC",
+    "koordinator": "Mukhlis, S.H. M.HumNIP. 196804211994021002",
+    "ruang": "IC",
+    "hari": "Jumat",
+    "waktu": "9:50-12:25",
+    "peserta": "20",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS208",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "197",
+    "kode": "FHS210",
+    "nama": "HUKUM ACARA PERDATA",
+    "kelas": "01",
+    "koordinator": "Kadriah, S.H, M.HumNIP. 196701011992032001",
+    "ruang": "01.01",
+    "hari": "Senin",
+    "waktu": "9:50-12:25",
+    "peserta": "43",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS210",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "198",
+    "kode": "FHS208",
+    "nama": "HUKUM ACARA PIDANA",
+    "kelas": "02",
+    "koordinator": "Dr. Mohd. Din, SH, MHNIP. 196412311990021006",
+    "ruang": "01.05",
+    "hari": "Rabu",
+    "waktu": "9:50-12:25",
+    "peserta": "47",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS208",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "199",
+    "kode": "FHS208",
+    "nama": "HUKUM ACARA PIDANA",
+    "kelas": "01",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "01.04",
+    "hari": "Rabu",
+    "waktu": "9:50-12:25",
+    "peserta": "46",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "200",
+    "kode": "FHS206",
+    "nama": "HUKUM KONSTITUSI DAN KELEMBAGAAN NEGARA",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Syarifuddin, S.H., M.Hum.NIP. 195812311989031018",
+    "ruang": "02.02",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "201",
+    "kode": "FHS206",
+    "nama": "HUKUM KONSTITUSI DAN KELEMBAGAAN NEGARA",
+    "kelas": "03",
+    "koordinator": "Dr. Iskandar A. Gani, S.H., M.HumNIP. 196606161991021001",
+    "ruang": "02.03",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS206",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "202",
+    "kode": "FHS206",
+    "nama": "HUKUM KONSTITUSI DAN KELEMBAGAAN NEGARA",
+    "kelas": "04",
+    "koordinator": "Dr. M. Nur, S.H., M.H.NIP. 196006081987031001",
+    "ruang": "01.15",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS206",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "203",
+    "kode": "FHS206",
+    "nama": "HUKUM KONSTITUSI DAN KELEMBAGAAN NEGARA",
+    "kelas": "05",
+    "koordinator": "Prof. Dr. Eddy Purnama, S.H, M.HumNIP. 196205261989031002",
+    "ruang": "01.08",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS206",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "204",
+    "kode": "FHS206",
+    "nama": "HUKUM KONSTITUSI DAN KELEMBAGAAN NEGARA",
+    "kelas": "06",
+    "koordinator": "Prof. Dr. Husni, S.H., M.HumNIP. 196208101990021002",
+    "ruang": "01.09",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS206",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "205",
+    "kode": "FHS206",
+    "nama": "HUKUM KONSTITUSI DAN KELEMBAGAAN NEGARA",
+    "kelas": "07",
+    "koordinator": "Prof. Dr. Faisal, S.H, M.Hum.NIP. 195908151987031001",
+    "ruang": "01.10",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS206",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "206",
+    "kode": "FHS206",
+    "nama": "HUKUM KONSTITUSI DAN KELEMBAGAAN NEGARA",
+    "kelas": "08",
+    "koordinator": "Dr. Iskandar A. Gani, S.H., M.HumNIP. 196606161991021001",
+    "ruang": "01.11",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS206",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "207",
+    "kode": "FHS206",
+    "nama": "HUKUM KONSTITUSI DAN KELEMBAGAAN NEGARA",
+    "kelas": "IC",
+    "koordinator": "Dr. M. Gaussyah, S.H. M.H.NIP. 197412201999031001",
+    "ruang": "IC",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "19",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS206",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "208",
+    "kode": "FHS210",
+    "nama": "HUKUM ACARA PERDATA",
+    "kelas": "02",
+    "koordinator": "Dr. Ilyas, S.H., M.HumNIP. 196504051991021001",
+    "ruang": "02.01",
+    "hari": "Senin",
+    "waktu": "9:50-12:25",
+    "peserta": "46",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS210",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "209",
+    "kode": "FHS110",
+    "nama": "HUKUM DAN MASYARAKAT",
+    "kelas": "06",
+    "koordinator": "Bakti, SH, M.HumNIP. 196403181990021004",
+    "ruang": "01.05",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "52",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS110",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "210",
+    "kode": "FHS102",
+    "nama": "HUKUM AGRARIA",
+    "kelas": "01",
+    "koordinator": "Dr. Suhaimi, S.H., M.HumNIP. 196612311991031023",
+    "ruang": "01.04",
+    "hari": "Selasa",
+    "waktu": "9:50-12:25",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "211",
+    "kode": "FHS104",
+    "nama": "HUKUM PERDATA",
+    "kelas": "03",
+    "koordinator": "Dr. Ilyas, S.H., M.HumNIP. 196504051991021001",
+    "ruang": "01.06",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "49",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS104",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "212",
+    "kode": "FHS104",
+    "nama": "HUKUM PERDATA",
+    "kelas": "04",
+    "koordinator": "Dr. Azhari, S.H., MCL, M.A.NIP. 196408241989031002",
+    "ruang": "01.07",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS104",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "213",
+    "kode": "FHS104",
+    "nama": "HUKUM PERDATA",
+    "kelas": "05",
+    "koordinator": "Khairani, S.H, M.HumNIP. 196703221993032001",
+    "ruang": "01.04",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS104",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "214",
+    "kode": "FHS104",
+    "nama": "HUKUM PERDATA",
+    "kelas": "06",
+    "koordinator": "Rismawati, S.H., M.HumNIP. 196710091994032001",
+    "ruang": "01.05",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS104",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "215",
+    "kode": "FHS104",
+    "nama": "HUKUM PERDATA",
+    "kelas": "07",
+    "koordinator": "Dr. Darmawan, S.H., M.Hum.NIP. 196205251988111001",
+    "ruang": "01.06",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS104",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "216",
+    "kode": "FHS104",
+    "nama": "HUKUM PERDATA",
+    "kelas": "08",
+    "koordinator": "Dr. Teuku Ahmad Yani, S.H, M.HumNIP. 196510081990031001",
+    "ruang": "01.07",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS104",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "217",
+    "kode": "FHS104",
+    "nama": "HUKUM PERDATA",
+    "kelas": "IC",
+    "koordinator": "Kadriah, S.H, M.HumNIP. 196701011992032001",
+    "ruang": "IC",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "21",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS104",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "218",
+    "kode": "FHS106",
+    "nama": "HUKUM ADMINISTRASI NEGARA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Faisal, S.H, M.Hum.NIP. 195908151987031001",
+    "ruang": "01.08",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "219",
+    "kode": "FHS104",
+    "nama": "HUKUM PERDATA",
+    "kelas": "02",
+    "koordinator": "Kadriah, S.H, M.HumNIP. 196701011992032001",
+    "ruang": "01.05",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "220",
+    "kode": "FHS104",
+    "nama": "HUKUM PERDATA",
+    "kelas": "01",
+    "koordinator": "Dr. Yusri, S.H., M.H.NIP. 196312171989031004",
+    "ruang": "01.04",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "51",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "221",
+    "kode": "FHS102",
+    "nama": "HUKUM AGRARIA",
+    "kelas": "02",
+    "koordinator": "Dr. Ria Fitri, SH, M.Hum.NIP. 196601211992032001",
+    "ruang": "01.05",
+    "hari": "Selasa",
+    "waktu": "9:50-12:25",
+    "peserta": "51",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "222",
+    "kode": "FHS102",
+    "nama": "HUKUM AGRARIA",
+    "kelas": "03",
+    "koordinator": "Abdurrahman, S.H., M.HumNIP. 196505291990031003",
+    "ruang": "01.06",
+    "hari": "Selasa",
+    "waktu": "9:50-12:25",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "223",
+    "kode": "FHS102",
+    "nama": "HUKUM AGRARIA",
+    "kelas": "04",
+    "koordinator": "Prof. Dr. Ilyas, S.H., M.HumNIP. 196506281990031001",
+    "ruang": "01.07",
+    "hari": "Selasa",
+    "waktu": "9:50-12:25",
+    "peserta": "49",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS102",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "224",
+    "kode": "FHS102",
+    "nama": "HUKUM AGRARIA",
+    "kelas": "05",
+    "koordinator": "Dr. Suhaimi, S.H., M.HumNIP. 196612311991031023",
+    "ruang": "01.08",
+    "hari": "Rabu",
+    "waktu": "9:50-12:25",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS102",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "225",
+    "kode": "FHS102",
+    "nama": "HUKUM AGRARIA",
+    "kelas": "06",
+    "koordinator": "Dr. Ria Fitri, SH, M.Hum.NIP. 196601211992032001",
+    "ruang": "01.09",
+    "hari": "Rabu",
+    "waktu": "9:50-12:25",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS102",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "226",
+    "kode": "FHS102",
+    "nama": "HUKUM AGRARIA",
+    "kelas": "07",
+    "koordinator": "Abdurrahman, S.H., M.HumNIP. 196505291990031003",
+    "ruang": "01.10",
+    "hari": "Rabu",
+    "waktu": "9:50-12:25",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS102",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "227",
+    "kode": "FHS102",
+    "nama": "HUKUM AGRARIA",
+    "kelas": "08",
+    "koordinator": "Prof. Dr. Ilyas, S.H., M.HumNIP. 196506281990031001",
+    "ruang": "01.11",
+    "hari": "Rabu",
+    "waktu": "9:50-12:25",
+    "peserta": "49",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS102",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "228",
+    "kode": "FHS102",
+    "nama": "HUKUM AGRARIA",
+    "kelas": "IC",
+    "koordinator": "Abdurrahman, S.H., M.HumNIP. 196505291990031003",
+    "ruang": "IC",
+    "hari": "Selasa",
+    "waktu": "9:50-12:25",
+    "peserta": "24",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS102",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "229",
+    "kode": "FHS106",
+    "nama": "HUKUM ADMINISTRASI NEGARA",
+    "kelas": "02",
+    "koordinator": "M. Zuhri, S.H, M.H.NIP. 196804131994021001",
+    "ruang": "01.09",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "230",
+    "kode": "FHS106",
+    "nama": "HUKUM ADMINISTRASI NEGARA",
+    "kelas": "03",
+    "koordinator": "Dr. Yanis Rinaldi, S.H., M.Hum.NIP. 196903111994031005",
+    "ruang": "01.10",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS106",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "231",
+    "kode": "FHS106",
+    "nama": "HUKUM ADMINISTRASI NEGARA",
+    "kelas": "04",
+    "koordinator": "Prof. Dr. Syarifuddin, S.H., M.Hum.NIP. 195812311989031018",
+    "ruang": "01.11",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS106",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "232",
+    "kode": "FHS108",
+    "nama": "HUKUM LINGKUNGAN",
+    "kelas": "06",
+    "koordinator": "Dr. Yanis Rinaldi, S.H., M.Hum.NIP. 196903111994031005",
+    "ruang": "01.05",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "49",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS108",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "233",
+    "kode": "FHS108",
+    "nama": "HUKUM LINGKUNGAN",
+    "kelas": "07",
+    "koordinator": "Dr. Efendi, S.H., M.SiNIP. 196712071993031002",
+    "ruang": "01.06",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS108",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "234",
+    "kode": "FHS108",
+    "nama": "HUKUM LINGKUNGAN",
+    "kelas": "08",
+    "koordinator": "Prof. Dr. Syarifuddin, S.H., M.Hum.NIP. 195812311989031018",
+    "ruang": "01.07",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS108",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "235",
+    "kode": "FHS108",
+    "nama": "HUKUM LINGKUNGAN",
+    "kelas": "IC",
+    "koordinator": "Dr. Ria Fitri, SH, M.Hum.NIP. 196601211992032001",
+    "ruang": "IC",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "16",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS108",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "236",
+    "kode": "FHS110",
+    "nama": "HUKUM DAN MASYARAKAT",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Saleh, S.H., M.SiNIP. 196108191989031003",
+    "ruang": "01.04",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "52",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "237",
+    "kode": "FHS110",
+    "nama": "HUKUM DAN MASYARAKAT",
+    "kelas": "02",
+    "koordinator": "Roslaini Ramli, S.H, MHNIP. 196602261993032002",
+    "ruang": "01.05",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "52",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "238",
+    "kode": "FHS110",
+    "nama": "HUKUM DAN MASYARAKAT",
+    "kelas": "03",
+    "koordinator": "Dr. Sulaiman, S.H., M.H.NIP. 197604022006041001",
+    "ruang": "01.06",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "52",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "239",
+    "kode": "FHS110",
+    "nama": "HUKUM DAN MASYARAKAT",
+    "kelas": "04",
+    "koordinator": "Bakti, SH, M.HumNIP. 196403181990021004",
+    "ruang": "01.07",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "51",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS110",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "240",
+    "kode": "FHS108",
+    "nama": "HUKUM LINGKUNGAN",
+    "kelas": "05",
+    "koordinator": "Dr. Ria Fitri, SH, M.Hum.NIP. 196601211992032001",
+    "ruang": "01.04",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS108",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "241",
+    "kode": "FHS108",
+    "nama": "HUKUM LINGKUNGAN",
+    "kelas": "04",
+    "koordinator": "Prof. Dr. Syarifuddin, S.H., M.Hum.NIP. 195812311989031018",
+    "ruang": "01.07",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS108",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "242",
+    "kode": "FHS106",
+    "nama": "HUKUM ADMINISTRASI NEGARA",
+    "kelas": "05",
+    "koordinator": "Prof. Dr. Husni, S.H., M.HumNIP. 196208101990021002",
+    "ruang": "01.04",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS106",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "243",
+    "kode": "FHS106",
+    "nama": "HUKUM ADMINISTRASI NEGARA",
+    "kelas": "06",
+    "koordinator": "Prof. Dr. Eddy Purnama, S.H, M.HumNIP. 196205261989031002",
+    "ruang": "01.05",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS106",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "244",
+    "kode": "FHS106",
+    "nama": "HUKUM ADMINISTRASI NEGARA",
+    "kelas": "07",
+    "koordinator": "Dr. Yanis Rinaldi, S.H., M.Hum.NIP. 196903111994031005",
+    "ruang": "01.06",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "47",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS106",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "245",
+    "kode": "FHS106",
+    "nama": "HUKUM ADMINISTRASI NEGARA",
+    "kelas": "08",
+    "koordinator": "Prof. Dr. Syarifuddin, S.H., M.Hum.NIP. 195812311989031018",
+    "ruang": "01.07",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "49",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS106",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "246",
+    "kode": "FHS106",
+    "nama": "HUKUM ADMINISTRASI NEGARA",
+    "kelas": "IC",
+    "koordinator": "Dr. Ria Fitri, SH, M.Hum.NIP. 196601211992032001",
+    "ruang": "IC",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS106",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "247",
+    "kode": "FHS108",
+    "nama": "HUKUM LINGKUNGAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ria Fitri, SH, M.Hum.NIP. 196601211992032001",
+    "ruang": "01.04",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "248",
+    "kode": "FHS108",
+    "nama": "HUKUM LINGKUNGAN",
+    "kelas": "02",
+    "koordinator": "Dr. Yanis Rinaldi, S.H., M.Hum.NIP. 196903111994031005",
+    "ruang": "01.05",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "249",
+    "kode": "FHS108",
+    "nama": "HUKUM LINGKUNGAN",
+    "kelas": "03",
+    "koordinator": "Dr. Efendi, S.H., M.SiNIP. 196712071993031002",
+    "ruang": "01.06",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS108",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "250",
+    "kode": "FHS110",
+    "nama": "HUKUM DAN MASYARAKAT",
+    "kelas": "05",
+    "koordinator": "Dr. Muhammad Saleh, S.H., M.SiNIP. 196108191989031003",
+    "ruang": "01.04",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "52",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS110",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "251",
+    "kode": "FHS210",
+    "nama": "HUKUM ACARA PERDATA",
+    "kelas": "03",
+    "koordinator": "Khairani, S.H, M.HumNIP. 196703221993032001",
+    "ruang": "02.02",
+    "hari": "Senin",
+    "waktu": "9:50-12:25",
+    "peserta": "44",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS210",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "252",
+    "kode": "FHS304",
+    "nama": "PRAKTEK PERADILAN PIDANA",
+    "kelas": "01",
+    "koordinator": "Tarmizi, S.H., M.Hum.NIP. 196707171993031004",
+    "ruang": "01.15",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "15",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS304",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "253",
+    "kode": "FHS306",
+    "nama": "PRAKTEK PERADILAN PERDATA",
+    "kelas": "03",
+    "koordinator": "Dr. Ilyas, S.H., M.HumNIP. 196504051991021001",
+    "ruang": "01.11",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "17",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS306",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "254",
+    "kode": "FHS306",
+    "nama": "PRAKTEK PERADILAN PERDATA",
+    "kelas": "04",
+    "koordinator": "Dr. Teuku Saiful, SH., M.HumNIP. 197401042000031001",
+    "ruang": "01.01",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "20",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS306",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "255",
+    "kode": "FHS306",
+    "nama": "PRAKTEK PERADILAN PERDATA",
+    "kelas": "05",
+    "koordinator": "Dr. Ilyas, S.H., M.HumNIP. 196504051991021001",
+    "ruang": "02.01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "17",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS306",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "256",
+    "kode": "FHS306",
+    "nama": "PRAKTEK PERADILAN PERDATA",
+    "kelas": "06",
+    "koordinator": "Kadriah, S.H, M.HumNIP. 196701011992032001",
+    "ruang": "02.03",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "16",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS306",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "257",
+    "kode": "FHS306",
+    "nama": "PRAKTEK PERADILAN PERDATA",
+    "kelas": "07",
+    "koordinator": "Khairani, S.H, M.HumNIP. 196703221993032001",
+    "ruang": "01.01",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "15",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS306",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "258",
+    "kode": "FHS306",
+    "nama": "PRAKTEK PERADILAN PERDATA",
+    "kelas": "08",
+    "koordinator": "Dr. Teuku Saiful, SH., M.HumNIP. 197401042000031001",
+    "ruang": "01.02",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "14",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS306",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "259",
+    "kode": "FHS306",
+    "nama": "PRAKTEK PERADILAN PERDATA",
+    "kelas": "IC",
+    "koordinator": "Khairani, S.H, M.HumNIP. 196703221993032001",
+    "ruang": "IC",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "4",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS306",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "260",
+    "kode": "FHS308",
+    "nama": "PRAKTEK PERADILAN TATA USAHA NEGARA",
+    "kelas": "01",
+    "koordinator": "Dr. Yanis Rinaldi, S.H., M.Hum.NIP. 196903111994031005",
+    "ruang": "02.02",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS308",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "261",
+    "kode": "FHS306",
+    "nama": "PRAKTEK PERADILAN PERDATA",
+    "kelas": "02",
+    "koordinator": "Kadriah, S.H, M.HumNIP. 196701011992032001",
+    "ruang": "01.09",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "15",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS306",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "262",
+    "kode": "FHS306",
+    "nama": "PRAKTEK PERADILAN PERDATA",
+    "kelas": "01",
+    "koordinator": "Khairani, S.H, M.HumNIP. 196703221993032001",
+    "ruang": "02.01",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "19",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS306",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "263",
+    "kode": "FHS304",
+    "nama": "PRAKTEK PERADILAN PIDANA",
+    "kelas": "02",
+    "koordinator": "Nurhafifah, SH., M.HumNIP. 197710092003122001",
+    "ruang": "01.08",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "17",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS304",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "264",
+    "kode": "FHS304",
+    "nama": "PRAKTEK PERADILAN PIDANA",
+    "kelas": "03",
+    "koordinator": "Mukhlis, S.H. M.HumNIP. 196804211994021002",
+    "ruang": "01.08",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "15",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS304",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "265",
+    "kode": "FHS304",
+    "nama": "PRAKTEK PERADILAN PIDANA",
+    "kelas": "04",
+    "koordinator": "Nursiti, S.H., M.Hum.NIP. 197210152003122003",
+    "ruang": "01.15",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "16",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS304",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "266",
+    "kode": "FHS304",
+    "nama": "PRAKTEK PERADILAN PIDANA",
+    "kelas": "05",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "01.15",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "16",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS304",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "267",
+    "kode": "FHS304",
+    "nama": "PRAKTEK PERADILAN PIDANA",
+    "kelas": "06",
+    "koordinator": "Nurhafifah, SH., M.HumNIP. 197710092003122001",
+    "ruang": "01.15",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "17",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS304",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "268",
+    "kode": "FHS304",
+    "nama": "PRAKTEK PERADILAN PIDANA",
+    "kelas": "07",
+    "koordinator": "Dr. Rizanizarli, S.H, M.H.NIP. 196011151989031002",
+    "ruang": "02.03",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "18",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS304",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "269",
+    "kode": "FHS304",
+    "nama": "PRAKTEK PERADILAN PIDANA",
+    "kelas": "08",
+    "koordinator": "Mukhlis, S.H. M.HumNIP. 196804211994021002",
+    "ruang": "01.01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "9",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS304",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "270",
+    "kode": "FHS304",
+    "nama": "PRAKTEK PERADILAN PIDANA",
+    "kelas": "IC",
+    "koordinator": "Mahfud, SH.,LL.M.NIP. 198004152005011003",
+    "ruang": "IC",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "5",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS304",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "271",
+    "kode": "FHS308",
+    "nama": "PRAKTEK PERADILAN TATA USAHA NEGARA",
+    "kelas": "02",
+    "koordinator": "Dr. Iskandar A. Gani, S.H., M.HumNIP. 196606161991021001",
+    "ruang": "01.10",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS308",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "272",
+    "kode": "FHS308",
+    "nama": "PRAKTEK PERADILAN TATA USAHA NEGARA",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Syarifuddin, S.H., M.Hum.NIP. 195812311989031018",
+    "ruang": "01.09",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS308",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "273",
+    "kode": "FHS308",
+    "nama": "PRAKTEK PERADILAN TATA USAHA NEGARA",
+    "kelas": "04",
+    "koordinator": "Dr. Iskandar A. Gani, S.H., M.HumNIP. 196606161991021001",
+    "ruang": "01.03",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS308",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "274",
+    "kode": "FHS310",
+    "nama": "PRAKTEK PERANCANGAN PERUNDANG-UNDANGAN DAN KONTRAK",
+    "kelas": "06",
+    "koordinator": "Dr. M. Gaussyah, S.H. M.H.NIP. 197412201999031001",
+    "ruang": "02.02",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS310",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "275",
+    "kode": "FHS310",
+    "nama": "PRAKTEK PERANCANGAN PERUNDANG-UNDANGAN DAN KONTRAK",
+    "kelas": "07",
+    "koordinator": "Prof. Dr. Faisal, S.H, M.Hum.NIP. 195908151987031001",
+    "ruang": "01.02",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS310",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "276",
+    "kode": "FHS310",
+    "nama": "PRAKTEK PERANCANGAN PERUNDANG-UNDANGAN DAN KONTRAK",
+    "kelas": "08",
+    "koordinator": "Dr. Iskandar A. Gani, S.H., M.HumNIP. 196606161991021001",
+    "ruang": "01.03",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS310",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "277",
+    "kode": "FHS310",
+    "nama": "PRAKTEK PERANCANGAN PERUNDANG-UNDANGAN DAN KONTRAK",
+    "kelas": "IC",
+    "koordinator": "Dr. Iskandar A. Gani, S.H., M.HumNIP. 196606161991021001",
+    "ruang": "IC",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "14",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS310",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "278",
+    "kode": "FHS312",
+    "nama": "HUKUM PERIKATAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ilyas, S.H., M.HumNIP. 196504051991021001",
+    "ruang": "01.08",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS312",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "279",
+    "kode": "FHS312",
+    "nama": "HUKUM PERIKATAN",
+    "kelas": "02",
+    "koordinator": "Prof. Dr.. Sanusi, S.H., M.L.I.S, LLM.NIP. 196212191989031004",
+    "ruang": "01.09",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS312",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "280",
+    "kode": "FHS312",
+    "nama": "HUKUM PERIKATAN",
+    "kelas": "03",
+    "koordinator": "Ishak, SH, MHNIP. 196505081993031002",
+    "ruang": "01.10",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS312",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "281",
+    "kode": "FHS312",
+    "nama": "HUKUM PERIKATAN",
+    "kelas": "04",
+    "koordinator": "Rismawati, S.H., M.HumNIP. 196710091994032001",
+    "ruang": "01.11",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "33",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS312",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "282",
+    "kode": "FHS310",
+    "nama": "PRAKTEK PERANCANGAN PERUNDANG-UNDANGAN DAN KONTRAK",
+    "kelas": "05",
+    "koordinator": "Dr. Efendi, S.H., M.SiNIP. 196712071993031002",
+    "ruang": "02.03",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "39",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS310",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "283",
+    "kode": "FHS310",
+    "nama": "PRAKTEK PERANCANGAN PERUNDANG-UNDANGAN DAN KONTRAK",
+    "kelas": "04",
+    "koordinator": "Rismawati, S.H., M.HumNIP. 196710091994032001",
+    "ruang": "01.02",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS310",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "284",
+    "kode": "FHS308",
+    "nama": "PRAKTEK PERADILAN TATA USAHA NEGARA",
+    "kelas": "05",
+    "koordinator": "M. Zuhri, S.H, M.H.NIP. 196804131994021001",
+    "ruang": "02.02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS308",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "285",
+    "kode": "FHS308",
+    "nama": "PRAKTEK PERADILAN TATA USAHA NEGARA",
+    "kelas": "06",
+    "koordinator": "Dr. Ria Fitri, SH, M.Hum.NIP. 196601211992032001",
+    "ruang": "02.01",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS308",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "286",
+    "kode": "FHS308",
+    "nama": "PRAKTEK PERADILAN TATA USAHA NEGARA",
+    "kelas": "07",
+    "koordinator": "Dr. Ria Fitri, SH, M.Hum.NIP. 196601211992032001",
+    "ruang": "01.03",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "39",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS308",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "287",
+    "kode": "FHS308",
+    "nama": "PRAKTEK PERADILAN TATA USAHA NEGARA",
+    "kelas": "08",
+    "koordinator": "Dr. Zahratul Idami, S.H., M.Hum.NIP. 197012081997022001",
+    "ruang": "01.15",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "38",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS308",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "288",
+    "kode": "FHS308",
+    "nama": "PRAKTEK PERADILAN TATA USAHA NEGARA",
+    "kelas": "IC",
+    "koordinator": "M. Zuhri, S.H, M.H.NIP. 196804131994021001",
+    "ruang": "IC",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "17",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS308",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "289",
+    "kode": "FHS310",
+    "nama": "PRAKTEK PERANCANGAN PERUNDANG-UNDANGAN DAN KONTRAK",
+    "kelas": "01",
+    "koordinator": "Dr. Efendi, S.H., M.SiNIP. 196712071993031002",
+    "ruang": "02.03",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "39",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS310",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "290",
+    "kode": "FHS310",
+    "nama": "PRAKTEK PERANCANGAN PERUNDANG-UNDANGAN DAN KONTRAK",
+    "kelas": "02",
+    "koordinator": "Prof. Dr.. Sanusi, S.H., M.L.I.S, LLM.NIP. 196212191989031004",
+    "ruang": "01.11",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS310",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "291",
+    "kode": "FHS310",
+    "nama": "PRAKTEK PERANCANGAN PERUNDANG-UNDANGAN DAN KONTRAK",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Faisal, S.H, M.Hum.NIP. 195908151987031001",
+    "ruang": "01.10",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS310",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "292",
+    "kode": "FHS312",
+    "nama": "HUKUM PERIKATAN",
+    "kelas": "05",
+    "koordinator": "Dr. Sri Walny Rahayu, S.H., M.Hum.NIP. 196806141994032002",
+    "ruang": "01.08",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "8",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS312",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "293",
+    "kode": "FHS302",
+    "nama": "HUKUM LAUT INTERNASIONAL",
+    "kelas": "IC",
+    "koordinator": "Nellyana Roesa, S.H,LL.MNIP. 198206262006042003",
+    "ruang": "IC",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "18",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS302",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "294",
+    "kode": "FHS210",
+    "nama": "HUKUM ACARA PERDATA",
+    "kelas": "04",
+    "koordinator": "Dr. Yusri, S.H., M.H.NIP. 196312171989031004",
+    "ruang": "02.03",
+    "hari": "Senin",
+    "waktu": "9:50-12:25",
+    "peserta": "44",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS210",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "295",
+    "kode": "FHS212",
+    "nama": "HUKUM PERDATA INTERNASIONAL",
+    "kelas": "06",
+    "koordinator": "T. Haflisyah, S.H, M.HumNIP. 196709081994021001",
+    "ruang": "01.09",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "44",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS212",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "296",
+    "kode": "FHS212",
+    "nama": "HUKUM PERDATA INTERNASIONAL",
+    "kelas": "07",
+    "koordinator": "Ishak, SH, MHNIP. 196505081993031002",
+    "ruang": "01.10",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS212",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "297",
+    "kode": "FHS212",
+    "nama": "HUKUM PERDATA INTERNASIONAL",
+    "kelas": "08",
+    "koordinator": "Dr. Yusri, S.H., M.H.NIP. 196312171989031004",
+    "ruang": "01.11",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "42",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS212",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "298",
+    "kode": "FHS212",
+    "nama": "HUKUM PERDATA INTERNASIONAL",
+    "kelas": "IC",
+    "koordinator": "Dr. Sri Walny Rahayu, S.H., M.Hum.NIP. 196806141994032002",
+    "ruang": "IC",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "19",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS212",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "299",
+    "kode": "FHS214",
+    "nama": "HUKUM KETENAGAKERJAAN",
+    "kelas": "01",
+    "koordinator": "Dr. Suhaimi, S.H., M.HumNIP. 196612311991031023",
+    "ruang": "01.08",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS214",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "300",
+    "kode": "FHS214",
+    "nama": "HUKUM KETENAGAKERJAAN",
+    "kelas": "02",
+    "koordinator": "Rismawati, S.H., M.HumNIP. 196710091994032001",
+    "ruang": "01.09",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "44",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS214",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "301",
+    "kode": "FHS214",
+    "nama": "HUKUM KETENAGAKERJAAN",
+    "kelas": "03",
+    "koordinator": "Dr. M. Nur, S.H., M.H.NIP. 196006081987031001",
+    "ruang": "01.10",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS214",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "302",
+    "kode": "FHS214",
+    "nama": "HUKUM KETENAGAKERJAAN",
+    "kelas": "04",
+    "koordinator": "Prof. Dr. Syarifuddin, S.H., M.Hum.NIP. 195812311989031018",
+    "ruang": "01.11",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS214",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "303",
+    "kode": "FHS212",
+    "nama": "HUKUM PERDATA INTERNASIONAL",
+    "kelas": "05",
+    "koordinator": "Dr. Ilyas, S.H., M.HumNIP. 196504051991021001",
+    "ruang": "01.08",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS212",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "304",
+    "kode": "FHS212",
+    "nama": "HUKUM PERDATA INTERNASIONAL",
+    "kelas": "04",
+    "koordinator": "Rismawati, S.H., M.HumNIP. 196710091994032001",
+    "ruang": "02.03",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS212",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "305",
+    "kode": "FHS210",
+    "nama": "HUKUM ACARA PERDATA",
+    "kelas": "05",
+    "koordinator": "Dr. Teuku Ahmad Yani, S.H, M.HumNIP. 196510081990031001",
+    "ruang": "01.04",
+    "hari": "Kamis",
+    "waktu": "9:50-12:25",
+    "peserta": "47",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS210",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "306",
+    "kode": "FHS210",
+    "nama": "HUKUM ACARA PERDATA",
+    "kelas": "06",
+    "koordinator": "Dr. Teuku Saiful, SH., M.HumNIP. 197401042000031001",
+    "ruang": "01.05",
+    "hari": "Kamis",
+    "waktu": "9:50-12:25",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS210",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "307",
+    "kode": "FHS210",
+    "nama": "HUKUM ACARA PERDATA",
+    "kelas": "07",
+    "koordinator": "Kadriah, S.H, M.HumNIP. 196701011992032001",
+    "ruang": "01.06",
+    "hari": "Kamis",
+    "waktu": "9:50-12:25",
+    "peserta": "46",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS210",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "308",
+    "kode": "FHS210",
+    "nama": "HUKUM ACARA PERDATA",
+    "kelas": "08",
+    "koordinator": "Dr. Darmawan, S.H., M.Hum.NIP. 196205251988111001",
+    "ruang": "01.07",
+    "hari": "Kamis",
+    "waktu": "9:50-12:25",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS210",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "309",
+    "kode": "FHS210",
+    "nama": "HUKUM ACARA PERDATA",
+    "kelas": "IC",
+    "koordinator": "Dr. Teuku Saiful, SH., M.HumNIP. 197401042000031001",
+    "ruang": "IC",
+    "hari": "Kamis",
+    "waktu": "9:50-12:25",
+    "peserta": "20",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS210",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "310",
+    "kode": "FHS212",
+    "nama": "HUKUM PERDATA INTERNASIONAL",
+    "kelas": "01",
+    "koordinator": "Dr. M. Adli, S.H., MCLNIP. 196607031998021001",
+    "ruang": "01.15",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "311",
+    "kode": "FHS212",
+    "nama": "HUKUM PERDATA INTERNASIONAL",
+    "kelas": "02",
+    "koordinator": "Dr. Sri Walny Rahayu, S.H., M.Hum.NIP. 196806141994032002",
+    "ruang": "02.01",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "312",
+    "kode": "FHS212",
+    "nama": "HUKUM PERDATA INTERNASIONAL",
+    "kelas": "03",
+    "koordinator": "Ishak, SH, MHNIP. 196505081993031002",
+    "ruang": "02.02",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS212",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "313",
+    "kode": "FHS214",
+    "nama": "HUKUM KETENAGAKERJAAN",
+    "kelas": "05",
+    "koordinator": "Dr. Suhaimi, S.H., M.HumNIP. 196612311991031023",
+    "ruang": "01.15",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "44",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS214",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "314",
+    "kode": "FHS214",
+    "nama": "HUKUM KETENAGAKERJAAN",
+    "kelas": "06",
+    "koordinator": "Khairani, S.H, M.HumNIP. 196703221993032001",
+    "ruang": "02.01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS214",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "315",
+    "kode": "FHS214",
+    "nama": "HUKUM KETENAGAKERJAAN",
+    "kelas": "07",
+    "koordinator": "Prof. Dr.. Sanusi, S.H., M.L.I.S, LLM.NIP. 196212191989031004",
+    "ruang": "02.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "43",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS214",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "316",
+    "kode": "FHS216",
+    "nama": "HUKUM ADAT",
+    "kelas": "IC",
+    "koordinator": "Dr. Teuku Muttaqin Mansur, M.H.NIP. 197909052008121002",
+    "ruang": "IC",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "20",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS216",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "317",
+    "kode": "FHS302",
+    "nama": "HUKUM LAUT INTERNASIONAL",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Adwani, S.H., M.HumNIP. 195912311989031017",
+    "ruang": "01.08",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "41",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "318",
+    "kode": "FHS302",
+    "nama": "HUKUM LAUT INTERNASIONAL",
+    "kelas": "02",
+    "koordinator": "Nurdin MH, S.H., M.HumNIP. 196412311991021002",
+    "ruang": "01.09",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "41",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "319",
+    "kode": "FHS302",
+    "nama": "HUKUM LAUT INTERNASIONAL",
+    "kelas": "03",
+    "koordinator": "Fikri, SH., MHNIP. 197908032003121002",
+    "ruang": "01.10",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS302",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "320",
+    "kode": "FHS302",
+    "nama": "HUKUM LAUT INTERNASIONAL",
+    "kelas": "04",
+    "koordinator": "Dr. Mahfud, S.H., M.H.NIP. 197809172002121001",
+    "ruang": "01.11",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "41",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS302",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "321",
+    "kode": "FHS302",
+    "nama": "HUKUM LAUT INTERNASIONAL",
+    "kelas": "05",
+    "koordinator": "Lena Farsia, S.H., M.H.LLMNIP. 197505052000122001",
+    "ruang": "01.08",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS302",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "322",
+    "kode": "FHS302",
+    "nama": "HUKUM LAUT INTERNASIONAL",
+    "kelas": "06",
+    "koordinator": "Dr. Muazzin, S.H., M.HNIP. 197002081998021001",
+    "ruang": "01.09",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS302",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "323",
+    "kode": "FHS302",
+    "nama": "HUKUM LAUT INTERNASIONAL",
+    "kelas": "07",
+    "koordinator": "M. Putra Iqbal, S.H., LLMNIP. 198010122005011002",
+    "ruang": "01.10",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS302",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "324",
+    "kode": "FHS216",
+    "nama": "HUKUM ADAT",
+    "kelas": "08",
+    "koordinator": "Dr. Darmawan, S.H., M.Hum.NIP. 196205251988111001",
+    "ruang": "01.07",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS216",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "325",
+    "kode": "FHS216",
+    "nama": "HUKUM ADAT",
+    "kelas": "07",
+    "koordinator": "Dr. Teuku Muttaqin Mansur, M.H.NIP. 197909052008121002",
+    "ruang": "01.06",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS216",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "326",
+    "kode": "FHS214",
+    "nama": "HUKUM KETENAGAKERJAAN",
+    "kelas": "08",
+    "koordinator": "Prof. Dr. Syarifuddin, S.H., M.Hum.NIP. 195812311989031018",
+    "ruang": "02.03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "44",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS214",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "327",
+    "kode": "FHS214",
+    "nama": "HUKUM KETENAGAKERJAAN",
+    "kelas": "IC",
+    "koordinator": "Prof. Dr.. Sanusi, S.H., M.L.I.S, LLM.NIP. 196212191989031004",
+    "ruang": "IC",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS214",
+      "data-kelas": "IC",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "328",
+    "kode": "FHS216",
+    "nama": "HUKUM ADAT",
+    "kelas": "01",
+    "koordinator": "Dr. Darmawan, S.H., M.Hum.NIP. 196205251988111001",
+    "ruang": "01.15",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "329",
+    "kode": "FHS216",
+    "nama": "HUKUM ADAT",
+    "kelas": "02",
+    "koordinator": "Dr. Ilyas, S.H., M.HumNIP. 196504051991021001",
+    "ruang": "02.01",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "44",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS216",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "330",
+    "kode": "FHS216",
+    "nama": "HUKUM ADAT",
+    "kelas": "03",
+    "koordinator": "Dr. Teuku Muttaqin Mansur, M.H.NIP. 197909052008121002",
+    "ruang": "02.02",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "44",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS216",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "331",
+    "kode": "FHS216",
+    "nama": "HUKUM ADAT",
+    "kelas": "04",
+    "koordinator": "Ishak, SH, MHNIP. 196505081993031002",
+    "ruang": "02.03",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "44",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS216",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "332",
+    "kode": "FHS216",
+    "nama": "HUKUM ADAT",
+    "kelas": "05",
+    "koordinator": "Dr. Sri Walny Rahayu, S.H., M.Hum.NIP. 196806141994032002",
+    "ruang": "01.04",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS216",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "333",
+    "kode": "FHS216",
+    "nama": "HUKUM ADAT",
+    "kelas": "06",
+    "koordinator": "Dr. Iman Jauhari, S.H., M.HumNIP. 196609031994031004",
+    "ruang": "01.05",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "45",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS216",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  },
+  {
+    "no": "334",
+    "kode": "FHS302",
+    "nama": "HUKUM LAUT INTERNASIONAL",
+    "kelas": "08",
+    "koordinator": "Enzus Tinianus, SH,MHNIP. 197407212000031001",
+    "ruang": "01.11",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "HukumS1Ilmu Hukum",
+    "kode-peserta": {
+      "data-kode": "FHS302",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0310101"
+    }
+  }
+]

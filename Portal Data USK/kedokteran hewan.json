@@ -1,0 +1,3536 @@
+[
+  {
+    "no": "1",
+    "kode": "SKH504",
+    "nama": "FORENSIK VETERINER",
+    "kelas": "1",
+    "koordinator": "Dr. drh. Etriwati, M.SiNIP. 198304282008122001",
+    "ruang": "RK.D.03.01",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "31",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH504",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "SKH314",
+    "nama": "NUTRISI VETERINER",
+    "kelas": "3",
+    "koordinator": "drh. Herrialfian, M.ScNIP. 197705122006041003",
+    "ruang": "RK.A.02.03",
+    "hari": "Jumat",
+    "waktu": "09:50-11:30",
+    "peserta": "21",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH314",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "SKH314",
+    "nama": "NUTRISI VETERINER",
+    "kelas": "2",
+    "koordinator": "drh. Herrialfian, M.ScNIP. 197705122006041003",
+    "ruang": "RK.A.01.02",
+    "hari": "Jumat",
+    "waktu": "09:50-11:30",
+    "peserta": "33",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH314",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "SKH314",
+    "nama": "NUTRISI VETERINER",
+    "kelas": "1",
+    "koordinator": "drh. Herrialfian, M.ScNIP. 197705122006041003",
+    "ruang": "RK.A.01.01",
+    "hari": "Jumat",
+    "waktu": "09:50-11:30",
+    "peserta": "20",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH314",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "SKH312",
+    "nama": "EPIDEMIOLOGI DAN EKONOMI VETERINER",
+    "kelas": "8",
+    "koordinator": "drh. Andi Novita, M.ScNIP. 197311162006041002",
+    "ruang": "RK.A.02.03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "10",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH312",
+      "data-kelas": "8",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "SKH312",
+    "nama": "EPIDEMIOLOGI DAN EKONOMI VETERINER",
+    "kelas": "7",
+    "koordinator": "drh. Andi Novita, M.ScNIP. 197311162006041002",
+    "ruang": "RK.A.02.03",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "6",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH312",
+      "data-kelas": "7",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "SKH312",
+    "nama": "EPIDEMIOLOGI DAN EKONOMI VETERINER",
+    "kelas": "6",
+    "koordinator": "drh. Andi Novita, M.ScNIP. 197311162006041002",
+    "ruang": "RK.A.02.04",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH312",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "SKH312",
+    "nama": "EPIDEMIOLOGI DAN EKONOMI VETERINER",
+    "kelas": "5",
+    "koordinator": "drh. Andi Novita, M.ScNIP. 197311162006041002",
+    "ruang": "RK.A.01.02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH312",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "SKH312",
+    "nama": "EPIDEMIOLOGI DAN EKONOMI VETERINER",
+    "kelas": "4",
+    "koordinator": "drh. Andi Novita, M.ScNIP. 197311162006041002",
+    "ruang": "RK.A.01.01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH312",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "SKH312",
+    "nama": "EPIDEMIOLOGI DAN EKONOMI VETERINER",
+    "kelas": "3",
+    "koordinator": "drh. Andi Novita, M.ScNIP. 197311162006041002",
+    "ruang": "RK.A.02.04",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH312",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "SKH314",
+    "nama": "NUTRISI VETERINER",
+    "kelas": "4",
+    "koordinator": "drh. Herrialfian, M.ScNIP. 197705122006041003",
+    "ruang": "RK.A.01.01",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH314",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "SKH314",
+    "nama": "NUTRISI VETERINER",
+    "kelas": "5",
+    "koordinator": "drh. Herrialfian, M.ScNIP. 197705122006041003",
+    "ruang": "RK.A.01.02",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH314",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "SKH314",
+    "nama": "NUTRISI VETERINER",
+    "kelas": "6",
+    "koordinator": "drh. Herrialfian, M.ScNIP. 197705122006041003",
+    "ruang": "RK.D.03.01",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "12",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH314",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "SKH502",
+    "nama": "KEHALALAN DAN KEAMANAN PANGAN ASAL HEWAN",
+    "kelas": "3",
+    "koordinator": "drh. Rastina, M.SiNIP. 198306062008122002",
+    "ruang": "RK.A.02.04",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH502",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "SKH502",
+    "nama": "KEHALALAN DAN KEAMANAN PANGAN ASAL HEWAN",
+    "kelas": "2",
+    "koordinator": "drh. Rastina, M.SiNIP. 198306062008122002",
+    "ruang": "RK.D.03.05",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH502",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "SKH502",
+    "nama": "KEHALALAN DAN KEAMANAN PANGAN ASAL HEWAN",
+    "kelas": "1",
+    "koordinator": "drh. Rastina, M.SiNIP. 198306062008122002",
+    "ruang": "RK.D.03.04",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH502",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "SKH316",
+    "nama": "LEGISLASI VETERINER",
+    "kelas": "6",
+    "koordinator": "drh. Teuku Reza Ferasyi, M.Sc., Ph.DNIP. 197307292002121001",
+    "ruang": "RK.D.03.03",
+    "hari": "Jumat",
+    "waktu": "09:50-11:30",
+    "peserta": "0",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH316",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "SKH316",
+    "nama": "LEGISLASI VETERINER",
+    "kelas": "5",
+    "koordinator": "drh. Teuku Reza Ferasyi, M.Sc., Ph.DNIP. 197307292002121001",
+    "ruang": "RK.D.03.02",
+    "hari": "Jumat",
+    "waktu": "09:50-11:30",
+    "peserta": "19",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH316",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "SKH316",
+    "nama": "LEGISLASI VETERINER",
+    "kelas": "4",
+    "koordinator": "drh. Teuku Reza Ferasyi, M.Sc., Ph.DNIP. 197307292002121001",
+    "ruang": "RK.D.03.01",
+    "hari": "Jumat",
+    "waktu": "09:50-11:30",
+    "peserta": "33",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH316",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "SKH316",
+    "nama": "LEGISLASI VETERINER",
+    "kelas": "3",
+    "koordinator": "drh. Teuku Reza Ferasyi, M.Sc., Ph.DNIP. 197307292002121001",
+    "ruang": "RK.D.03.04",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "12",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH316",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "SKH316",
+    "nama": "LEGISLASI VETERINER",
+    "kelas": "2",
+    "koordinator": "drh. Teuku Reza Ferasyi, M.Sc., Ph.DNIP. 197307292002121001",
+    "ruang": "RK.D.03.03",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH316",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "SKH316",
+    "nama": "LEGISLASI VETERINER",
+    "kelas": "1",
+    "koordinator": "drh. Teuku Reza Ferasyi, M.Sc., Ph.DNIP. 197307292002121001",
+    "ruang": "RK.D.03.02",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "21",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH316",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "SKH312",
+    "nama": "EPIDEMIOLOGI DAN EKONOMI VETERINER",
+    "kelas": "2",
+    "koordinator": "drh. Andi Novita, M.ScNIP. 197311162006041002",
+    "ruang": "RK.A.01.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH312",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "SKH312",
+    "nama": "EPIDEMIOLOGI DAN EKONOMI VETERINER",
+    "kelas": "1",
+    "koordinator": "drh. Andi Novita, M.ScNIP. 197311162006041002",
+    "ruang": "RK.A.01.01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH312",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "SKH308",
+    "nama": "ILMU BEDAH VETERINER KHUSUS",
+    "kelas": "1",
+    "koordinator": "drh. Arman Sayuti, M.PNIP. 197307012000031002",
+    "ruang": "RK.D.03.01",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "9",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH308",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "SKH306",
+    "nama": "GANGGUAN REPRODUKSI VETERINER",
+    "kelas": "6",
+    "koordinator": "drh. Ginta Riady, M.ScNIP. 196602181991031002",
+    "ruang": "RK.D.03.05",
+    "hari": "Selasa",
+    "waktu": "11:40-12:30",
+    "peserta": "25",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH306",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "SKH306",
+    "nama": "GANGGUAN REPRODUKSI VETERINER",
+    "kelas": "5",
+    "koordinator": "drh. Ginta Riady, M.ScNIP. 196602181991031002",
+    "ruang": "RK.D.03.04",
+    "hari": "Selasa",
+    "waktu": "11:40-12:30",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH306",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "SKH306",
+    "nama": "GANGGUAN REPRODUKSI VETERINER",
+    "kelas": "4",
+    "koordinator": "drh. Ginta Riady, M.ScNIP. 196602181991031002",
+    "ruang": "RK.D.03.03",
+    "hari": "Selasa",
+    "waktu": "11:40-12:30",
+    "peserta": "37",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH306",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "SKH306",
+    "nama": "GANGGUAN REPRODUKSI VETERINER",
+    "kelas": "3",
+    "koordinator": "drh. Ginta Riady, M.ScNIP. 196602181991031002",
+    "ruang": "RK.A.02.03",
+    "hari": "Rabu",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH306",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "SKH306",
+    "nama": "GANGGUAN REPRODUKSI VETERINER",
+    "kelas": "2",
+    "koordinator": "drh. Ginta Riady, M.ScNIP. 196602181991031002",
+    "ruang": "RK.A.01.02",
+    "hari": "Rabu",
+    "waktu": "11:40-12:30",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH306",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "SKH306",
+    "nama": "GANGGUAN REPRODUKSI VETERINER",
+    "kelas": "1",
+    "koordinator": "drh. Ginta Riady, M.ScNIP. 196602181991031002",
+    "ruang": "RK.A.01.01",
+    "hari": "Rabu",
+    "waktu": "11:40-12:30",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH306",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "SKH304",
+    "nama": "RADIOLOGI",
+    "kelas": "6",
+    "koordinator": "Dr. drh. Erwin, M.ScNIP. 198411272008121001",
+    "ruang": "RK.D.03.03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "18",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH304",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "SKH304",
+    "nama": "RADIOLOGI",
+    "kelas": "5",
+    "koordinator": "Dr. drh. Erwin, M.ScNIP. 198411272008121001",
+    "ruang": "RK.D.03.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH304",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "SKH308",
+    "nama": "ILMU BEDAH VETERINER KHUSUS",
+    "kelas": "2",
+    "koordinator": "drh. Arman Sayuti, M.PNIP. 197307012000031002",
+    "ruang": "RK.D.03.02",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "38",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH308",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "SKH308",
+    "nama": "ILMU BEDAH VETERINER KHUSUS",
+    "kelas": "3",
+    "koordinator": "drh. Arman Sayuti, M.PNIP. 197307012000031002",
+    "ruang": "RK.D.03.03",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH308",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "SKH308",
+    "nama": "ILMU BEDAH VETERINER KHUSUS",
+    "kelas": "4",
+    "koordinator": "drh. Arman Sayuti, M.PNIP. 197307012000031002",
+    "ruang": "RK.A.01.01",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH308",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "SKH311",
+    "nama": "HIGIENE MAKANAN",
+    "kelas": "1",
+    "koordinator": "Dr. drh. Nurliana, M.SiNIP. 196905101995122001",
+    "ruang": "RK.A.02.04",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "11",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH311",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "SKH310",
+    "nama": "ILMU PENYAKIT DALAM HEWAN KECIL",
+    "kelas": "6",
+    "koordinator": "Dr. drh. Nuzul Asmilia, M.SiNIP. 196712211992032001",
+    "ruang": "RK.D.03.04",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "15",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH310",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "SKH310",
+    "nama": "ILMU PENYAKIT DALAM HEWAN KECIL",
+    "kelas": "5",
+    "koordinator": "Dr. drh. Nuzul Asmilia, M.SiNIP. 196712211992032001",
+    "ruang": "RK.A.02.05",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH310",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "SKH310",
+    "nama": "ILMU PENYAKIT DALAM HEWAN KECIL",
+    "kelas": "4",
+    "koordinator": "Dr. drh. Nuzul Asmilia, M.SiNIP. 196712211992032001",
+    "ruang": "RK.A.02.04",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH310",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "SKH310",
+    "nama": "ILMU PENYAKIT DALAM HEWAN KECIL",
+    "kelas": "3",
+    "koordinator": "Dr. drh. Nuzul Asmilia, M.SiNIP. 196712211992032001",
+    "ruang": "RK.A.02.03",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "19",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH310",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "SKH310",
+    "nama": "ILMU PENYAKIT DALAM HEWAN KECIL",
+    "kelas": "2",
+    "koordinator": "Dr. drh. Nuzul Asmilia, M.SiNIP. 196712211992032001",
+    "ruang": "RK.A.01.02",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "38",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH310",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "SKH310",
+    "nama": "ILMU PENYAKIT DALAM HEWAN KECIL",
+    "kelas": "1",
+    "koordinator": "Dr. drh. Nuzul Asmilia, M.SiNIP. 196712211992032001",
+    "ruang": "RK.A.01.01",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "20",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH310",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "SKH308",
+    "nama": "ILMU BEDAH VETERINER KHUSUS",
+    "kelas": "6",
+    "koordinator": "drh. Arman Sayuti, M.PNIP. 197307012000031002",
+    "ruang": "RK.A.02.03",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH308",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "SKH308",
+    "nama": "ILMU BEDAH VETERINER KHUSUS",
+    "kelas": "5",
+    "koordinator": "drh. Arman Sayuti, M.PNIP. 197307012000031002",
+    "ruang": "RK.A.01.02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH308",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "SKH304",
+    "nama": "RADIOLOGI",
+    "kelas": "4",
+    "koordinator": "Dr. drh. Erwin, M.ScNIP. 198411272008121001",
+    "ruang": "RK.D.03.01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH304",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "SKH504",
+    "nama": "FORENSIK VETERINER",
+    "kelas": "2",
+    "koordinator": "Dr. drh. Etriwati, M.SiNIP. 198304282008122001",
+    "ruang": "RK.D.03.02",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "27",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH504",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "SKHPA2",
+    "nama": "SKRIPSI DAN PUBLIKASI ILMIAH",
+    "kelas": "9",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Sidang",
+    "hari": "Rabu",
+    "waktu": "16:30-17:20",
+    "peserta": "21",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA2",
+      "data-kelas": "9",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "SKHPA1",
+    "nama": "SEMINAR",
+    "kelas": "7",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Seminar 7",
+    "hari": "Kamis",
+    "waktu": "11:40-12:30",
+    "peserta": "1",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA1",
+      "data-kelas": "7",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "SKHPA1",
+    "nama": "SEMINAR",
+    "kelas": "6",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Seminar 6",
+    "hari": "Rabu",
+    "waktu": "16:30-17:20",
+    "peserta": "1",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA1",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "SKHPA1",
+    "nama": "SEMINAR",
+    "kelas": "5",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Seminar 5",
+    "hari": "Rabu",
+    "waktu": "11:40-12:30",
+    "peserta": "2",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA1",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "SKHPA1",
+    "nama": "SEMINAR",
+    "kelas": "4",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Seminar 4",
+    "hari": "Selasa",
+    "waktu": "16:30-17:20",
+    "peserta": "2",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA1",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "SKHPA1",
+    "nama": "SEMINAR",
+    "kelas": "3",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Seminar 3",
+    "hari": "Selasa",
+    "waktu": "11:40-12:30",
+    "peserta": "15",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA1",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "SKHPA1",
+    "nama": "SEMINAR",
+    "kelas": "2",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Seminar 2",
+    "hari": "Senin",
+    "waktu": "16:30-17:20",
+    "peserta": "0",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA1",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "SKHPA1",
+    "nama": "SEMINAR",
+    "kelas": "11",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Seminar 11",
+    "hari": "Selasa",
+    "waktu": "17:20-18:10",
+    "peserta": "1",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA1",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "SKHPA1",
+    "nama": "SEMINAR",
+    "kelas": "10",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Seminar 10",
+    "hari": "Jumat",
+    "waktu": "16:30-17:20",
+    "peserta": "1",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA1",
+      "data-kelas": "10",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "SKHPA1",
+    "nama": "SEMINAR",
+    "kelas": "1",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Seminar 1",
+    "hari": "Senin",
+    "waktu": "11:40-12:30",
+    "peserta": "12",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA1",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "SKHPA1",
+    "nama": "SEMINAR",
+    "kelas": "8",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Seminar 8",
+    "hari": "Kamis",
+    "waktu": "16:30-17:20",
+    "peserta": "0",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA1",
+      "data-kelas": "8",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "SKHPA1",
+    "nama": "SEMINAR",
+    "kelas": "9",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Seminar 9",
+    "hari": "Jumat",
+    "waktu": "11:20-12:10",
+    "peserta": "2",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA1",
+      "data-kelas": "9",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "SKHPA2",
+    "nama": "SKRIPSI DAN PUBLIKASI ILMIAH",
+    "kelas": "1",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Sidang",
+    "hari": "Senin",
+    "waktu": "08:00-08:50",
+    "peserta": "25",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA2",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "SKHPA2",
+    "nama": "SKRIPSI DAN PUBLIKASI ILMIAH",
+    "kelas": "8",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Sidang",
+    "hari": "Rabu",
+    "waktu": "10:30-11:20",
+    "peserta": "22",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA2",
+      "data-kelas": "8",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "SKHPA2",
+    "nama": "SKRIPSI DAN PUBLIKASI ILMIAH",
+    "kelas": "7",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Sidang",
+    "hari": "Rabu",
+    "waktu": "08:00-08:50",
+    "peserta": "17",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA2",
+      "data-kelas": "7",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "SKHPA2",
+    "nama": "SKRIPSI DAN PUBLIKASI ILMIAH",
+    "kelas": "6",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Sidang",
+    "hari": "Selasa",
+    "waktu": "16:30-17:20",
+    "peserta": "18",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA2",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "SKHPA2",
+    "nama": "SKRIPSI DAN PUBLIKASI ILMIAH",
+    "kelas": "5",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Sidang",
+    "hari": "Selasa",
+    "waktu": "10:30-11:20",
+    "peserta": "20",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA2",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "SKHPA2",
+    "nama": "SKRIPSI DAN PUBLIKASI ILMIAH",
+    "kelas": "4",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Sidang",
+    "hari": "Selasa",
+    "waktu": "08:00-08:50",
+    "peserta": "17",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA2",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "SKHPA2",
+    "nama": "SKRIPSI DAN PUBLIKASI ILMIAH",
+    "kelas": "3",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "sidang",
+    "hari": "Senin",
+    "waktu": "16:30-17:20",
+    "peserta": "18",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA2",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "SKHPA2",
+    "nama": "SKRIPSI DAN PUBLIKASI ILMIAH",
+    "kelas": "2",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "sidang",
+    "hari": "Senin",
+    "waktu": "10:30-11:20",
+    "peserta": "19",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA2",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "SKHPA2",
+    "nama": "SKRIPSI DAN PUBLIKASI ILMIAH",
+    "kelas": "11",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Sidang",
+    "hari": "Jumat",
+    "waktu": "16:30-17:20",
+    "peserta": "14",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA2",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "SKHPA2",
+    "nama": "SKRIPSI DAN PUBLIKASI ILMIAH",
+    "kelas": "10",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "Sidang",
+    "hari": "Kamis",
+    "waktu": "08:00-08:50",
+    "peserta": "18",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKHPA2",
+      "data-kelas": "10",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "SKH520",
+    "nama": "BIOSEKURITI VETERINER",
+    "kelas": "3",
+    "koordinator": "drh. Teuku Reza Ferasyi, M.Sc., Ph.DNIP. 197307292002121001",
+    "ruang": "RK.D.03.03",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH520",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "SKH520",
+    "nama": "BIOSEKURITI VETERINER",
+    "kelas": "2",
+    "koordinator": "drh. Teuku Reza Ferasyi, M.Sc., Ph.DNIP. 197307292002121001",
+    "ruang": "RK.A.02.05",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH520",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "SKH512",
+    "nama": "OBAT TRADISIONAL HEWAN",
+    "kelas": "1",
+    "koordinator": "drh. T. Armansyah TR, M.KesNIP. 196804291999031002",
+    "ruang": "RK.D.03.04",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "36",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH512",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "SKH510",
+    "nama": "ILMU PETERNAKAN DAN KEWIRAUSAHAAN",
+    "kelas": "2",
+    "koordinator": "Prof. Dr. drh. M. Hanafiah, M.P.NIP. 196903021997031001",
+    "ruang": "RK.D.03.02",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "0",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH510",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "SKH510",
+    "nama": "ILMU PETERNAKAN DAN KEWIRAUSAHAAN",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. drh. M. Hanafiah, M.P.NIP. 196903021997031001",
+    "ruang": "RK.D.03.01",
+    "hari": "Kamis",
+    "waktu": "16:30-18:10",
+    "peserta": "0",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH510",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "SKH508",
+    "nama": "KONSERVASI SATWA LIAR",
+    "kelas": "3",
+    "koordinator": "drh. Erdiansyah Rahmi, M.SiNIP. 197405122000031001",
+    "ruang": "RK.D.03.05",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH508",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "SKH508",
+    "nama": "KONSERVASI SATWA LIAR",
+    "kelas": "2",
+    "koordinator": "drh. Erdiansyah Rahmi, M.SiNIP. 197405122000031001",
+    "ruang": "RK.D.03.04",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH508",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "SKH508",
+    "nama": "KONSERVASI SATWA LIAR",
+    "kelas": "1",
+    "koordinator": "drh. Erdiansyah Rahmi, M.SiNIP. 197405122000031001",
+    "ruang": "RK.D.03.03",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH508",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "SKH506",
+    "nama": "BIOLOGI MOLEKULER TERAPAN",
+    "kelas": "3",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "RK.D.03.03",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "8",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH506",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "SKH506",
+    "nama": "BIOLOGI MOLEKULER TERAPAN",
+    "kelas": "2",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "RK.D.03.02",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "34",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH506",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "SKH506",
+    "nama": "BIOLOGI MOLEKULER TERAPAN",
+    "kelas": "1",
+    "koordinator": "Dr. drh. Teuku Zahrial Helmi, M.ScNIP. 197607152005011002",
+    "ruang": "RK.D.03.01",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "32",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH506",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "SKH512",
+    "nama": "OBAT TRADISIONAL HEWAN",
+    "kelas": "2",
+    "koordinator": "drh. T. Armansyah TR, M.KesNIP. 196804291999031002",
+    "ruang": "RK.D.03.05",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH512",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "SKH512",
+    "nama": "OBAT TRADISIONAL HEWAN",
+    "kelas": "3",
+    "koordinator": "drh. T. Armansyah TR, M.KesNIP. 196804291999031002",
+    "ruang": "RK.A.02.04",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "17",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH512",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "SKH514",
+    "nama": "MANAJEMEN KESEHATAN TERNAK POTONG / PERAH",
+    "kelas": "1",
+    "koordinator": "Siti Rani Ayuti, S.Pt., M.Si.NIP. 199007042019032026",
+    "ruang": "RK.D.03.04",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH514",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "SKH520",
+    "nama": "BIOSEKURITI VETERINER",
+    "kelas": "1",
+    "koordinator": "drh. Teuku Reza Ferasyi, M.Sc., Ph.DNIP. 197307292002121001",
+    "ruang": "RK.A.02.04",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH520",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "SKH518",
+    "nama": "BIOINFORMATIKA",
+    "kelas": "3",
+    "koordinator": "Wahyu Eka Sari, S.Si., M.SiNIP. 198812232018032001",
+    "ruang": "RK.D.03.03",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "1",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH518",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "SKH518",
+    "nama": "BIOINFORMATIKA",
+    "kelas": "2",
+    "koordinator": "Wahyu Eka Sari, S.Si., M.SiNIP. 198812232018032001",
+    "ruang": "RK.D.03.02",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "23",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH518",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "SKH518",
+    "nama": "BIOINFORMATIKA",
+    "kelas": "1",
+    "koordinator": "Wahyu Eka Sari, S.Si., M.SiNIP. 198812232018032001",
+    "ruang": "RK.D.03.01",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "29",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH518",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "SKH516",
+    "nama": "REPRODUKSI SATWA LIAR",
+    "kelas": "3",
+    "koordinator": "Dr. drh. Juli Melia, M.SiNIP. 197701112008122002",
+    "ruang": "RK.A.02.03",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "31",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH516",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "SKH516",
+    "nama": "REPRODUKSI SATWA LIAR",
+    "kelas": "2",
+    "koordinator": "Dr. drh. Juli Melia, M.SiNIP. 197701112008122002",
+    "ruang": "RK.A.02.04",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "42",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH516",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "SKH516",
+    "nama": "REPRODUKSI SATWA LIAR",
+    "kelas": "1",
+    "koordinator": "Dr. drh. Juli Melia, M.SiNIP. 197701112008122002",
+    "ruang": "RK.A.01.01",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH516",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "91",
+    "kode": "SKH514",
+    "nama": "MANAJEMEN KESEHATAN TERNAK POTONG / PERAH",
+    "kelas": "3",
+    "koordinator": "Siti Rani Ayuti, S.Pt., M.Si.NIP. 199007042019032026",
+    "ruang": "RK.A.02.04",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH514",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "92",
+    "kode": "SKH514",
+    "nama": "MANAJEMEN KESEHATAN TERNAK POTONG / PERAH",
+    "kelas": "2",
+    "koordinator": "Siti Rani Ayuti, S.Pt., M.Si.NIP. 199007042019032026",
+    "ruang": "RK.D.03.05",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH514",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "93",
+    "kode": "SKH504",
+    "nama": "FORENSIK VETERINER",
+    "kelas": "3",
+    "koordinator": "Dr. drh. Etriwati, M.SiNIP. 198304282008122001",
+    "ruang": "RK.D.03.03",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "4",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH504",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "94",
+    "kode": "SKH206",
+    "nama": "PENYAKIT INFEKSIUS II",
+    "kelas": "10",
+    "koordinator": "drh. Erina, M.ScNIP. 196204041986032002",
+    "ruang": "RK.A.02.06",
+    "hari": "Senin",
+    "waktu": "11:40-12:30",
+    "peserta": "3",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH206",
+      "data-kelas": "10",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "95",
+    "kode": "SKH202",
+    "nama": "BIOSTATISTIKA",
+    "kelas": "1",
+    "koordinator": "Dr. Gholib, S.Pt., M.Si.NIP. 198203212014041001",
+    "ruang": "RK.A.01.01",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "11",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH202",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "96",
+    "kode": "SKH110",
+    "nama": "MIKROBIOLOGI VETERINER",
+    "kelas": "INT 6",
+    "koordinator": "Dr. drh. Darniati, M.SiNIP. 198310262008122002",
+    "ruang": "RK.D.03.06",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "25",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH110",
+      "data-kelas": "INT 6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "97",
+    "kode": "SKH110",
+    "nama": "MIKROBIOLOGI VETERINER",
+    "kelas": "5",
+    "koordinator": "Dr. drh. Darniati, M.SiNIP. 198310262008122002",
+    "ruang": "RK.D.03.02",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "16",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH110",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "98",
+    "kode": "SKH110",
+    "nama": "MIKROBIOLOGI VETERINER",
+    "kelas": "4",
+    "koordinator": "Dr. drh. Darniati, M.SiNIP. 198310262008122002",
+    "ruang": "RK.D.03.01",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "38",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH110",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "99",
+    "kode": "SKH110",
+    "nama": "MIKROBIOLOGI VETERINER",
+    "kelas": "3",
+    "koordinator": "Dr. drh. Darniati, M.SiNIP. 198310262008122002",
+    "ruang": "RK.A.02.03",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "37",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH110",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "100",
+    "kode": "SKH110",
+    "nama": "MIKROBIOLOGI VETERINER",
+    "kelas": "2",
+    "koordinator": "Dr. drh. Darniati, M.SiNIP. 198310262008122002",
+    "ruang": "RK.A.01.02",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH110",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "101",
+    "kode": "SKH110",
+    "nama": "MIKROBIOLOGI VETERINER",
+    "kelas": "1",
+    "koordinator": "Dr. drh. Darniati, M.SiNIP. 198310262008122002",
+    "ruang": "RK.A.01.01",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "37",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH110",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "102",
+    "kode": "SKH108",
+    "nama": "ANATOMI VETERINER II",
+    "kelas": "INT 6",
+    "koordinator": "Dr.drh. Hamny, M.SiNIP. 197812242003122001",
+    "ruang": "RK.D.03.06",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "27",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH108",
+      "data-kelas": "INT 6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "103",
+    "kode": "SKH108",
+    "nama": "ANATOMI VETERINER II",
+    "kelas": "7",
+    "koordinator": "Dr.drh. Hamny, M.SiNIP. 197812242003122001",
+    "ruang": "Lab. Anatomi",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "1",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH108",
+      "data-kelas": "7",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "104",
+    "kode": "SKH202",
+    "nama": "BIOSTATISTIKA",
+    "kelas": "2",
+    "koordinator": "Dr. Gholib, S.Pt., M.Si.NIP. 198203212014041001",
+    "ruang": "RK.A.01.02",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH202",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "105",
+    "kode": "SKH202",
+    "nama": "BIOSTATISTIKA",
+    "kelas": "3",
+    "koordinator": "Dr. Gholib, S.Pt., M.Si.NIP. 198203212014041001",
+    "ruang": "RK.A.02.03",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH202",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "106",
+    "kode": "SKH202",
+    "nama": "BIOSTATISTIKA",
+    "kelas": "4",
+    "koordinator": "Dr. Gholib, S.Pt., M.Si.NIP. 198203212014041001",
+    "ruang": "RK.D.03.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH202",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "107",
+    "kode": "SKH206",
+    "nama": "PENYAKIT INFEKSIUS II",
+    "kelas": "1",
+    "koordinator": "drh. Erina, M.ScNIP. 196204041986032002",
+    "ruang": "RK.A.02.04",
+    "hari": "Senin",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH206",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "108",
+    "kode": "SKH204",
+    "nama": "FARMAKOLOGI VETERINER II",
+    "kelas": "6",
+    "koordinator": "Dr. Frengki, S.Farm., Apt, M.FarmNIP. 197902062006041002",
+    "ruang": "RK.D.03.03",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH204",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "109",
+    "kode": "SKH204",
+    "nama": "FARMAKOLOGI VETERINER II",
+    "kelas": "5",
+    "koordinator": "Dr. Frengki, S.Farm., Apt, M.FarmNIP. 197902062006041002",
+    "ruang": "RK.D.03.02",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "38",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH204",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "110",
+    "kode": "SKH204",
+    "nama": "FARMAKOLOGI VETERINER II",
+    "kelas": "4",
+    "koordinator": "Dr. Frengki, S.Farm., Apt, M.FarmNIP. 197902062006041002",
+    "ruang": "RK.D.03.01",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH204",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "111",
+    "kode": "SKH204",
+    "nama": "FARMAKOLOGI VETERINER II",
+    "kelas": "3",
+    "koordinator": "Dr. Frengki, S.Farm., Apt, M.FarmNIP. 197902062006041002",
+    "ruang": "RK.A.02.03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH204",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "112",
+    "kode": "SKH204",
+    "nama": "FARMAKOLOGI VETERINER II",
+    "kelas": "2",
+    "koordinator": "Dr. Frengki, S.Farm., Apt, M.FarmNIP. 197902062006041002",
+    "ruang": "RK.A.01.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH204",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "113",
+    "kode": "SKH204",
+    "nama": "FARMAKOLOGI VETERINER II",
+    "kelas": "1",
+    "koordinator": "Dr. Frengki, S.Farm., Apt, M.FarmNIP. 197902062006041002",
+    "ruang": "RK.A.01.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH204",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "114",
+    "kode": "SKH202",
+    "nama": "BIOSTATISTIKA",
+    "kelas": "6",
+    "koordinator": "Dr. Gholib, S.Pt., M.Si.NIP. 198203212014041001",
+    "ruang": "RK.D.03.03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "7",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH202",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "115",
+    "kode": "SKH202",
+    "nama": "BIOSTATISTIKA",
+    "kelas": "5",
+    "koordinator": "Dr. Gholib, S.Pt., M.Si.NIP. 198203212014041001",
+    "ruang": "RK.D.03.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH202",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "116",
+    "kode": "SKH108",
+    "nama": "ANATOMI VETERINER II",
+    "kelas": "5",
+    "koordinator": "Dr.drh. Hamny, M.SiNIP. 197812242003122001",
+    "ruang": "RK.D.03.02",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH108",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "117",
+    "kode": "SKH108",
+    "nama": "ANATOMI VETERINER II",
+    "kelas": "4",
+    "koordinator": "Dr.drh. Hamny, M.SiNIP. 197812242003122001",
+    "ruang": "RK.D.03.01",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "38",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH108",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "118",
+    "kode": "SKH104",
+    "nama": "HISTOLOGI VETERINER",
+    "kelas": "3",
+    "koordinator": "drh. Cut Dahlia Iskandar, M.Sc, Ph.DNIP. 197512082005012002",
+    "ruang": "RK.A.02.03",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "34",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH104",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "119",
+    "kode": "SKH104",
+    "nama": "HISTOLOGI VETERINER",
+    "kelas": "2",
+    "koordinator": "drh. Cut Dahlia Iskandar, M.Sc, Ph.DNIP. 197512082005012002",
+    "ruang": "RK.A.01.02",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH104",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "120",
+    "kode": "SKH104",
+    "nama": "HISTOLOGI VETERINER",
+    "kelas": "1",
+    "koordinator": "drh. Cut Dahlia Iskandar, M.Sc, Ph.DNIP. 197512082005012002",
+    "ruang": "RK.A.01.01",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "12",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH104",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "121",
+    "kode": "SKH102",
+    "nama": "FISIOLOGI VETERINER II",
+    "kelas": "INT 6",
+    "koordinator": "drh. Triva Murtina Lubis, M.P.NIP. 197512312005012003",
+    "ruang": "RK.D.03.06",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH102",
+      "data-kelas": "INT 6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "122",
+    "kode": "SKH102",
+    "nama": "FISIOLOGI VETERINER II",
+    "kelas": "5",
+    "koordinator": "drh. Triva Murtina Lubis, M.P.NIP. 197512312005012003",
+    "ruang": "RK.D.03.02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "22",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH102",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "123",
+    "kode": "SKH102",
+    "nama": "FISIOLOGI VETERINER II",
+    "kelas": "4",
+    "koordinator": "drh. Triva Murtina Lubis, M.P.NIP. 197512312005012003",
+    "ruang": "RK.D.03.01",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH102",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "124",
+    "kode": "SKH102",
+    "nama": "FISIOLOGI VETERINER II",
+    "kelas": "3",
+    "koordinator": "drh. Triva Murtina Lubis, M.P.NIP. 197512312005012003",
+    "ruang": "RK.A.01.03",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH102",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "125",
+    "kode": "SKH102",
+    "nama": "FISIOLOGI VETERINER II",
+    "kelas": "2",
+    "koordinator": "drh. Triva Murtina Lubis, M.P.NIP. 197512312005012003",
+    "ruang": "RK.A.01.02",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH102",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "126",
+    "kode": "SKH102",
+    "nama": "FISIOLOGI VETERINER II",
+    "kelas": "1",
+    "koordinator": "drh. Triva Murtina Lubis, M.P.NIP. 197512312005012003",
+    "ruang": "RK.A.01.01",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH102",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "127",
+    "kode": "SKH104",
+    "nama": "HISTOLOGI VETERINER",
+    "kelas": "4",
+    "koordinator": "drh. Cut Dahlia Iskandar, M.Sc, Ph.DNIP. 197512082005012002",
+    "ruang": "RK.A.02.03",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH104",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "128",
+    "kode": "SKH104",
+    "nama": "HISTOLOGI VETERINER",
+    "kelas": "5",
+    "koordinator": "drh. Cut Dahlia Iskandar, M.Sc, Ph.DNIP. 197512082005012002",
+    "ruang": "RK.C.02.01",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH104",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "129",
+    "kode": "SKH104",
+    "nama": "HISTOLOGI VETERINER",
+    "kelas": "INT 6",
+    "koordinator": "drh. Cut Dahlia Iskandar, M.Sc, Ph.DNIP. 197512082005012002",
+    "ruang": "RK.D.03.06",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "24",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH104",
+      "data-kelas": "INT 6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "130",
+    "kode": "SKH108",
+    "nama": "ANATOMI VETERINER II",
+    "kelas": "3",
+    "koordinator": "Dr.drh. Hamny, M.SiNIP. 197812242003122001",
+    "ruang": "RK.A.02.05",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "27",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH108",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "131",
+    "kode": "SKH108",
+    "nama": "ANATOMI VETERINER II",
+    "kelas": "2",
+    "koordinator": "Dr.drh. Hamny, M.SiNIP. 197812242003122001",
+    "ruang": "RK.A.02.04",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH108",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "132",
+    "kode": "SKH108",
+    "nama": "ANATOMI VETERINER II",
+    "kelas": "1",
+    "koordinator": "Dr.drh. Hamny, M.SiNIP. 197812242003122001",
+    "ruang": "RK.D.03.05",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "21",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH108",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "133",
+    "kode": "SKH106",
+    "nama": "BIOKIMIA VETERINER I",
+    "kelas": "INT 6",
+    "koordinator": "drh. Herrialfian, M.ScNIP. 197705122006041003",
+    "ruang": "RK.D.03.06",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "26",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH106",
+      "data-kelas": "INT 6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "134",
+    "kode": "SKH106",
+    "nama": "BIOKIMIA VETERINER I",
+    "kelas": "5",
+    "koordinator": "drh. Herrialfian, M.ScNIP. 197705122006041003",
+    "ruang": "RK.D.03.02",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "16",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH106",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "135",
+    "kode": "SKH106",
+    "nama": "BIOKIMIA VETERINER I",
+    "kelas": "4",
+    "koordinator": "drh. Herrialfian, M.ScNIP. 197705122006041003",
+    "ruang": "RK.D.03.01",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "38",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH106",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "136",
+    "kode": "SKH106",
+    "nama": "BIOKIMIA VETERINER I",
+    "kelas": "3",
+    "koordinator": "drh. Herrialfian, M.ScNIP. 197705122006041003",
+    "ruang": "RK.A.02.03",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "28",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH106",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "137",
+    "kode": "SKH106",
+    "nama": "BIOKIMIA VETERINER I",
+    "kelas": "2",
+    "koordinator": "drh. Herrialfian, M.ScNIP. 197705122006041003",
+    "ruang": "RK.A.01.02",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH106",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "138",
+    "kode": "SKH106",
+    "nama": "BIOKIMIA VETERINER I",
+    "kelas": "1",
+    "koordinator": "drh. Herrialfian, M.ScNIP. 197705122006041003",
+    "ruang": "RK.A.01.01",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH106",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "139",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "1",
+    "koordinator": "drh. Ismail, M.SiNIP. 196612311997021001",
+    "ruang": "Lapangan",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "74",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "140",
+    "kode": "SKH206",
+    "nama": "PENYAKIT INFEKSIUS II",
+    "kelas": "2",
+    "koordinator": "drh. Erina, M.ScNIP. 196204041986032002",
+    "ruang": "RK.A.02.05",
+    "hari": "Senin",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH206",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "141",
+    "kode": "SKH304",
+    "nama": "RADIOLOGI",
+    "kelas": "3",
+    "koordinator": "Dr. drh. Erwin, M.ScNIP. 198411272008121001",
+    "ruang": "RK.D.03.03",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH304",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "142",
+    "kode": "SKH214",
+    "nama": "PATOLOGI VETERINER UMUM",
+    "kelas": "5",
+    "koordinator": "Prof. Dr. drh. Ummu Balqis, M.SiNIP. 197001131998032001",
+    "ruang": "RK.D.03.04",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH214",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "143",
+    "kode": "SKH214",
+    "nama": "PATOLOGI VETERINER UMUM",
+    "kelas": "4",
+    "koordinator": "Prof. Dr. drh. Ummu Balqis, M.SiNIP. 197001131998032001",
+    "ruang": "RK.D.03.03",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH214",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "144",
+    "kode": "SKH214",
+    "nama": "PATOLOGI VETERINER UMUM",
+    "kelas": "3",
+    "koordinator": "Prof. Dr. drh. Ummu Balqis, M.SiNIP. 197001131998032001",
+    "ruang": "RK.D.03.05",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH214",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "145",
+    "kode": "SKH214",
+    "nama": "PATOLOGI VETERINER UMUM",
+    "kelas": "2",
+    "koordinator": "Prof. Dr. drh. Ummu Balqis, M.SiNIP. 197001131998032001",
+    "ruang": "RK.D.03.04",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH214",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "146",
+    "kode": "SKH214",
+    "nama": "PATOLOGI VETERINER UMUM",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. drh. Ummu Balqis, M.SiNIP. 197001131998032001",
+    "ruang": "RK.D.03.03",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH214",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "147",
+    "kode": "SKH212",
+    "nama": "PARASITOLOGI VETERINER",
+    "kelas": "6",
+    "koordinator": "Dr. drh. Farida, M.SiNIP. 196103021987102001",
+    "ruang": "RK.D.03.03",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "14",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH212",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "148",
+    "kode": "SKH212",
+    "nama": "PARASITOLOGI VETERINER",
+    "kelas": "5",
+    "koordinator": "Dr. drh. Farida, M.SiNIP. 196103021987102001",
+    "ruang": "RK.D.03.02",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH212",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "149",
+    "kode": "SKH212",
+    "nama": "PARASITOLOGI VETERINER",
+    "kelas": "4",
+    "koordinator": "Dr. drh. Farida, M.SiNIP. 196103021987102001",
+    "ruang": "RK.D.03.01",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH212",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "150",
+    "kode": "SKH212",
+    "nama": "PARASITOLOGI VETERINER",
+    "kelas": "3",
+    "koordinator": "Dr. drh. Farida, M.SiNIP. 196103021987102001",
+    "ruang": "RK.D.03.03",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH212",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "151",
+    "kode": "SKH214",
+    "nama": "PATOLOGI VETERINER UMUM",
+    "kelas": "6",
+    "koordinator": "Prof. Dr. drh. Ummu Balqis, M.SiNIP. 197001131998032001",
+    "ruang": "RK.D.03.05",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH214",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "152",
+    "kode": "SKH214",
+    "nama": "PATOLOGI VETERINER UMUM",
+    "kelas": "7",
+    "koordinator": "Prof. Dr. drh. Ummu Balqis, M.SiNIP. 197001131998032001",
+    "ruang": "RK.A.02.05",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH214",
+      "data-kelas": "7",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "153",
+    "kode": "SKH214",
+    "nama": "PATOLOGI VETERINER UMUM",
+    "kelas": "8",
+    "koordinator": "Prof. Dr. drh. Ummu Balqis, M.SiNIP. 197001131998032001",
+    "ruang": "RK.A.02.06",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH214",
+      "data-kelas": "8",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "154",
+    "kode": "SKH304",
+    "nama": "RADIOLOGI",
+    "kelas": "2",
+    "koordinator": "Dr. drh. Erwin, M.ScNIP. 198411272008121001",
+    "ruang": "RK.D.03.02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH304",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "155",
+    "kode": "SKH304",
+    "nama": "RADIOLOGI",
+    "kelas": "1",
+    "koordinator": "Dr. drh. Erwin, M.ScNIP. 198411272008121001",
+    "ruang": "RK.D.03.01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH304",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "156",
+    "kode": "SKH302",
+    "nama": "TOKSIKOLOGI VETERINER",
+    "kelas": "6",
+    "koordinator": "drh. Rosmaidar, M.SiNIP. 196105251986032002",
+    "ruang": "RK.A.01.02",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "10",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH302",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "157",
+    "kode": "SKH302",
+    "nama": "TOKSIKOLOGI VETERINER",
+    "kelas": "5",
+    "koordinator": "drh. Rosmaidar, M.SiNIP. 196105251986032002",
+    "ruang": "RK.D.03.05",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "36",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH302",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "158",
+    "kode": "SKH302",
+    "nama": "TOKSIKOLOGI VETERINER",
+    "kelas": "4",
+    "koordinator": "drh. Rosmaidar, M.SiNIP. 196105251986032002",
+    "ruang": "RK.D.03.04",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "2",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH302",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "159",
+    "kode": "SKH302",
+    "nama": "TOKSIKOLOGI VETERINER",
+    "kelas": "3",
+    "koordinator": "drh. Rosmaidar, M.SiNIP. 196105251986032002",
+    "ruang": "RK.D.03.05",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH302",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "160",
+    "kode": "SKH302",
+    "nama": "TOKSIKOLOGI VETERINER",
+    "kelas": "2",
+    "koordinator": "drh. Rosmaidar, M.SiNIP. 196105251986032002",
+    "ruang": "RK.D.03.04",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH302",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "161",
+    "kode": "SKH302",
+    "nama": "TOKSIKOLOGI VETERINER",
+    "kelas": "1",
+    "koordinator": "drh. Rosmaidar, M.SiNIP. 196105251986032002",
+    "ruang": "RK.D.03.03",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH302",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "162",
+    "kode": "SKH214",
+    "nama": "PATOLOGI VETERINER UMUM",
+    "kelas": "9",
+    "koordinator": "Prof. Dr. drh. Ummu Balqis, M.SiNIP. 197001131998032001",
+    "ruang": "RK.A.02.04",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "18",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH214",
+      "data-kelas": "9",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "163",
+    "kode": "SKH212",
+    "nama": "PARASITOLOGI VETERINER",
+    "kelas": "2",
+    "koordinator": "Dr. drh. Farida, M.SiNIP. 196103021987102001",
+    "ruang": "RK.D.03.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH212",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "164",
+    "kode": "SKH212",
+    "nama": "PARASITOLOGI VETERINER",
+    "kelas": "1",
+    "koordinator": "Dr. drh. Farida, M.SiNIP. 196103021987102001",
+    "ruang": "RK.D.03.01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH212",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "165",
+    "kode": "SKH208",
+    "nama": "PATOLOGI KLINIK VETERINER",
+    "kelas": "3",
+    "koordinator": "Dr. Drh. Sugito, M.SiNIP. 196102151989031003",
+    "ruang": "RK.A.02.03",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH208",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "166",
+    "kode": "SKH208",
+    "nama": "PATOLOGI KLINIK VETERINER",
+    "kelas": "2",
+    "koordinator": "Dr. Drh. Sugito, M.SiNIP. 196102151989031003",
+    "ruang": "RK.A.01.02",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH208",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "167",
+    "kode": "SKH208",
+    "nama": "PATOLOGI KLINIK VETERINER",
+    "kelas": "1",
+    "koordinator": "Dr. Drh. Sugito, M.SiNIP. 196102151989031003",
+    "ruang": "RK.A.01.01",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH208",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "168",
+    "kode": "SKH206",
+    "nama": "PENYAKIT INFEKSIUS II",
+    "kelas": "9",
+    "koordinator": "drh. Erina, M.ScNIP. 196204041986032002",
+    "ruang": "RK.A.01.02",
+    "hari": "Kamis",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH206",
+      "data-kelas": "9",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "169",
+    "kode": "SKH206",
+    "nama": "PENYAKIT INFEKSIUS II",
+    "kelas": "8",
+    "koordinator": "drh. Erina, M.ScNIP. 196204041986032002",
+    "ruang": "RK.D.03.05",
+    "hari": "Kamis",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH206",
+      "data-kelas": "8",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "170",
+    "kode": "SKH206",
+    "nama": "PENYAKIT INFEKSIUS II",
+    "kelas": "7",
+    "koordinator": "drh. Erina, M.ScNIP. 196204041986032002",
+    "ruang": "RK.D.03.05",
+    "hari": "Senin",
+    "waktu": "11:40-12:30",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH206",
+      "data-kelas": "7",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "171",
+    "kode": "SKH206",
+    "nama": "PENYAKIT INFEKSIUS II",
+    "kelas": "6",
+    "koordinator": "drh. Erina, M.ScNIP. 196204041986032002",
+    "ruang": "RK.D.03.01",
+    "hari": "Kamis",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH206",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "172",
+    "kode": "SKH206",
+    "nama": "PENYAKIT INFEKSIUS II",
+    "kelas": "5",
+    "koordinator": "drh. Erina, M.ScNIP. 196204041986032002",
+    "ruang": "RK.A.02.05",
+    "hari": "Kamis",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH206",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "173",
+    "kode": "SKH206",
+    "nama": "PENYAKIT INFEKSIUS II",
+    "kelas": "4",
+    "koordinator": "drh. Erina, M.ScNIP. 196204041986032002",
+    "ruang": "RK.A.02.04",
+    "hari": "Kamis",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH206",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "174",
+    "kode": "SKH208",
+    "nama": "PATOLOGI KLINIK VETERINER",
+    "kelas": "4",
+    "koordinator": "Dr. Drh. Sugito, M.SiNIP. 196102151989031003",
+    "ruang": "RK.A.01.01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH208",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "175",
+    "kode": "SKH208",
+    "nama": "PATOLOGI KLINIK VETERINER",
+    "kelas": "5",
+    "koordinator": "Dr. Drh. Sugito, M.SiNIP. 196102151989031003",
+    "ruang": "RK.A.01.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH208",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "176",
+    "kode": "SKH208",
+    "nama": "PATOLOGI KLINIK VETERINER",
+    "kelas": "6",
+    "koordinator": "Dr. Drh. Sugito, M.SiNIP. 196102151989031003",
+    "ruang": "RK.A.02.03",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH208",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "177",
+    "kode": "SKH210",
+    "nama": "TEKNOLOGI REPRODUKSI",
+    "kelas": "9",
+    "koordinator": "Dr. drh. Dasrul, M.SiNIP. 196503101992031004",
+    "ruang": "RK.C.02.02",
+    "hari": "Senin",
+    "waktu": "11:40-12:30",
+    "peserta": "14",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH210",
+      "data-kelas": "9",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "178",
+    "kode": "SKH210",
+    "nama": "TEKNOLOGI REPRODUKSI",
+    "kelas": "8",
+    "koordinator": "Dr. drh. Dasrul, M.SiNIP. 196503101992031004",
+    "ruang": "RK.C.02.01",
+    "hari": "Senin",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH210",
+      "data-kelas": "8",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "179",
+    "kode": "SKH210",
+    "nama": "TEKNOLOGI REPRODUKSI",
+    "kelas": "7",
+    "koordinator": "Dr. drh. Dasrul, M.SiNIP. 196503101992031004",
+    "ruang": "RK.A.01.01",
+    "hari": "Kamis",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH210",
+      "data-kelas": "7",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "180",
+    "kode": "SKH210",
+    "nama": "TEKNOLOGI REPRODUKSI",
+    "kelas": "6",
+    "koordinator": "Dr. drh. Dasrul, M.SiNIP. 196503101992031004",
+    "ruang": "RK.D.03.04",
+    "hari": "Senin",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH210",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "181",
+    "kode": "SKH210",
+    "nama": "TEKNOLOGI REPRODUKSI",
+    "kelas": "5",
+    "koordinator": "Dr. drh. Dasrul, M.SiNIP. 196503101992031004",
+    "ruang": "RK.D.03.03",
+    "hari": "Senin",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH210",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "182",
+    "kode": "SKH210",
+    "nama": "TEKNOLOGI REPRODUKSI",
+    "kelas": "4",
+    "koordinator": "Dr. drh. Dasrul, M.SiNIP. 196503101992031004",
+    "ruang": "RK.D.03.02",
+    "hari": "Senin",
+    "waktu": "11:40-12:30",
+    "peserta": "39",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH210",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "183",
+    "kode": "SKH210",
+    "nama": "TEKNOLOGI REPRODUKSI",
+    "kelas": "3",
+    "koordinator": "Dr. drh. Dasrul, M.SiNIP. 196503101992031004",
+    "ruang": "RK.D.03.04",
+    "hari": "Kamis",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH210",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "184",
+    "kode": "SKH210",
+    "nama": "TEKNOLOGI REPRODUKSI",
+    "kelas": "2",
+    "koordinator": "Dr. drh. Dasrul, M.SiNIP. 196503101992031004",
+    "ruang": "RK.D.03.03",
+    "hari": "Kamis",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH210",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "185",
+    "kode": "SKH210",
+    "nama": "TEKNOLOGI REPRODUKSI",
+    "kelas": "1",
+    "koordinator": "Dr. drh. Dasrul, M.SiNIP. 196503101992031004",
+    "ruang": "RK.D.03.02",
+    "hari": "Kamis",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH210",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  },
+  {
+    "no": "186",
+    "kode": "SKH206",
+    "nama": "PENYAKIT INFEKSIUS II",
+    "kelas": "3",
+    "koordinator": "drh. Erina, M.ScNIP. 196204041986032002",
+    "ruang": "RK.D.03.01",
+    "hari": "Senin",
+    "waktu": "11:40-12:30",
+    "peserta": "40",
+    "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
+    "kode-peserta": {
+      "data-kode": "SKH206",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0210101"
+    }
+  }
+]

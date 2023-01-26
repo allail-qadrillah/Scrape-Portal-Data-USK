@@ -84,7 +84,7 @@
     "ruang": "Gedung Skill Lab",
     "hari": "Selasa",
     "waktu": "8:00-10:00",
-    "peserta": "11",
+    "peserta": "12",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD324",
@@ -426,7 +426,7 @@
     "ruang": "Laboratorium Farmako",
     "hari": "Selasa",
     "waktu": "10:00-12:00",
-    "peserta": "13",
+    "peserta": "14",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD502",
@@ -597,7 +597,7 @@
     "ruang": "Gedung Skill Lab",
     "hari": "Selasa",
     "waktu": "8:00-10:00",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD324",
@@ -749,7 +749,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Rabu",
     "waktu": "8:00-10:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD322",
@@ -768,7 +768,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Rabu",
     "waktu": "8:00-10:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD322",
@@ -787,7 +787,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Rabu",
     "waktu": "8:00-10:00",
-    "peserta": "11",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD322",
@@ -1110,7 +1110,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Senin",
     "waktu": "8:00-10:00",
-    "peserta": "11",
+    "peserta": "12",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD318",
@@ -1319,7 +1319,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Rabu",
     "waktu": "8:00-10:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD322",
@@ -1414,7 +1414,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Senin",
     "waktu": "10:00-12:00",
-    "peserta": "11",
+    "peserta": "12",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD320",
@@ -1433,7 +1433,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Senin",
     "waktu": "10:00-12:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD320",
@@ -1566,7 +1566,7 @@
     "ruang": "FK USK",
     "hari": "Senin",
     "waktu": "08:00-10:00",
-    "peserta": "0",
+    "peserta": "20",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPDPA2",
@@ -2212,7 +2212,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Kamis",
     "waktu": "8:00-10:00",
-    "peserta": "41",
+    "peserta": "42",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD510",
@@ -2364,7 +2364,7 @@
     "ruang": "Gedung PBL",
     "hari": "Jumat",
     "waktu": "10:00-12:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD504",
@@ -2402,7 +2402,7 @@
     "ruang": "Gedung PBL",
     "hari": "Jumat",
     "waktu": "10:00-12:00",
-    "peserta": "13",
+    "peserta": "14",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD504",
@@ -2782,7 +2782,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Kamis",
     "waktu": "10:00-12:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD506",
@@ -3219,7 +3219,7 @@
     "ruang": "Laboratorium Fisiolo",
     "hari": "Senin",
     "waktu": "8:00-10:00",
-    "peserta": "11",
+    "peserta": "12",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD118",
@@ -3409,7 +3409,7 @@
     "ruang": "Laboratorium Fisiolo",
     "hari": "Senin",
     "waktu": "8:00-10:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD118",
@@ -3504,7 +3504,7 @@
     "ruang": "Laboratorium Fisiolo",
     "hari": "Senin",
     "waktu": "8:00-10:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD118",
@@ -3580,7 +3580,7 @@
     "ruang": "Gedung Skill Lab",
     "hari": "Kamis",
     "waktu": "8:00-10:00",
-    "peserta": "13",
+    "peserta": "14",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD120",
@@ -3903,7 +3903,7 @@
     "ruang": "Lab Anatomi",
     "hari": "Senin",
     "waktu": "8:00-10:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD116",
@@ -3941,7 +3941,7 @@
     "ruang": "Lab Biokimia",
     "hari": "Senin",
     "waktu": "10:00-12:00",
-    "peserta": "11",
+    "peserta": "12",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD114",
@@ -4549,7 +4549,7 @@
     "ruang": "Lab Anatomi",
     "hari": "Senin",
     "waktu": "8:00-10:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD116",
@@ -4720,7 +4720,7 @@
     "ruang": "Gedung Skill Lab",
     "hari": "Rabu",
     "waktu": "8:00-10:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD222",
@@ -4777,7 +4777,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Senin",
     "waktu": "10:00-12:00",
-    "peserta": "11",
+    "peserta": "12",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD314",
@@ -4796,7 +4796,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Senin",
     "waktu": "10:00-12:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD314",
@@ -5081,7 +5081,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Rabu",
     "waktu": "10:00-12:00",
-    "peserta": "11",
+    "peserta": "12",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD316",
@@ -5271,7 +5271,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Senin",
     "waktu": "10:00-12:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD314",
@@ -5404,7 +5404,7 @@
     "ruang": "Gedung Skill Lab",
     "hari": "Rabu",
     "waktu": "8:00-10:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD222",
@@ -5480,7 +5480,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Selasa",
     "waktu": "8:00-10:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD218",
@@ -5499,7 +5499,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Selasa",
     "waktu": "8:00-10:00",
-    "peserta": "13",
+    "peserta": "14",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD218",
@@ -5518,7 +5518,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Selasa",
     "waktu": "8:00-10:00",
-    "peserta": "13",
+    "peserta": "14",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD218",
@@ -5632,7 +5632,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Selasa",
     "waktu": "8:00-10:00",
-    "peserta": "12",
+    "peserta": "14",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD218",
@@ -5974,7 +5974,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Kamis",
     "waktu": "10:00-12:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD220",
@@ -6126,7 +6126,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Kamis",
     "waktu": "10:00-12:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD220",
@@ -6164,7 +6164,7 @@
     "ruang": "Gedung PBL Lantai 2",
     "hari": "Kamis",
     "waktu": "10:00-12:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KedokteranS1Pendidikan Dokter",
     "kode-peserta": {
       "data-kode": "PPD220",

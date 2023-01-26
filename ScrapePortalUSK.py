@@ -24,10 +24,11 @@ class PortalUSK:
       return wrapper
 
     @timer
-    def getPesertaKelas(self, semester, jenjang, pembatasan, kode, kelas) -> 'dict':
+    def getPesertaKelas(self, semester, jenjang, pembatasan, kode, kelas, peserta = 1, delay = 1) -> 'list':
       """
       Mendapatkan daftar peserta kelas dan mengembalikan dalam Dictionary.
-      Jika list tidak ditemukan kemungkinan dikarenakan server memberikan data kosong, maka program akan terus meminta hingga server memberikan data. !tapi bagaimana jika kelasnya memang kosong?
+      Jika list tidak ditemukan kemungkinan dikarenakan server memberikan data kosong, maka program akan terus meminta hingga server memberikan data. 
+      jika kelasnya memang kosong, maka return None. oleh karena itu parameter peserta harus diisi
 
       @param semester: Semester yang akan diambil. ex : 20223 
       @param jenjang: jenjang sarjana. ex : 1
@@ -35,33 +36,43 @@ class PortalUSK:
       04 = fakultas, 10 = strata, 05 = jurusan, 01 = status mahasiwa (reguler?) 
       @param kode: kode kelas. ex : TLE102
       @param kelas: nama kelas. ex : 11
+      @param peserta: peserta yang ada didalam kelas, default = 1
+      jika pesertanya tidak 0 maka lakukan scrapping
+      @param delay: waktu tunggu request ke server jika tidak meresponse. default 1 seconds
 
       """
       requests.packages.urllib3.disable_warnings()
-      listStudent = []
+      print(f'Scrapping Student Course {kelas} kode {kode} | ', end="")
       try:
-        while not listStudent:
-          print(f'Scrapping Student Course {kelas} kode {kode}', end="")
-          response = requests.post(self.baseURL + '/detail', verify=False, 
-                    data={"semester": semester,
-                          "jenjang": jenjang,
-                          "pembatasan": pembatasan,
-                          "kode": kode,
-                          "kelas": kelas,
-                          })
-          pattern = re.compile(r'<td style=\\".*?\">(.*?)<\\/td>', re.IGNORECASE)
-          listStudent = pattern.findall(response.text)
+        listStudent = None
+        if int(peserta) != 0:
+          while not listStudent:
+            response = requests.post(self.baseURL + '/detail', verify=False, 
+                      data={"semester": semester,
+                            "jenjang": jenjang,
+                            "pembatasan": pembatasan,
+                            "kode": kode,
+                            "kelas": kelas,
+                            })
+            pattern = re.compile(r'<td style=\\".*?\">(.*?)<\\/td>', re.IGNORECASE)
+            listStudent = pattern.findall(response.text)
+            if not listStudent: 
+              print("Portal USK tidak memberikan response, mencoba ulang ...")
+              time.sleep(delay)
 
-          return [
-              {
-                  "no": listStudent[i],
-                  "kode": listStudent[i+1],
-                  "kelas": listStudent[i+2],
-                  "npm": listStudent[i+3],
-                  "nama": listStudent[i+4],
-                  "kelamin": listStudent[i+5]
-              } for i in range(0, len(listStudent), 6)
-          ]          
+        return [
+            {
+                "no": listStudent[i],
+                "kode": listStudent[i+1],
+                "kelas": listStudent[i+2],
+                "npm": listStudent[i+3],
+                "nama": listStudent[i+4],
+                "kelamin": listStudent[i+5]
+            } for i in range(0, len(listStudent), 6)
+        ]          
+      except TypeError:
+        print("Kelas tidak ada mahasiswa")
+        return None
 
       except Exception as e:
         print(e)
@@ -133,6 +144,9 @@ class PortalUSK:
       with open(path, 'w') as outfile:
         json.dump(data, outfile, indent=2)
 
+    def loadJson(self, path):
+      return json.loads( open(path).read() )
+
     def getExcel(self, path, sheet = 0):
       """
       Mendapatkan data dari excel dan mengembalikan dalam list
@@ -144,31 +158,27 @@ class PortalUSK:
 
       return [worksheet.row_values(i) for i in range(1, worksheet.nrows)]
 
-    def writeData(self, pathSave, excelData):
 
-      data = []
-      for excel in excelData:
-        dataStructure = {
-            "no": int(excel[0]),
-            "kode": excel[1],
-            "nama kelas": excel[2],
-            "kelas": excel[3],
-            "koordinator": excel[4],
-            "ruang": excel[5],
-            "hari": excel[6],
-            "waktu": excel[7],
-            "keterangan": excel[8],
-            "peserta": api.getPesertaKelas(
-                semester="20223",
-                jenjang="1",
-                pembatasan="0410501",
-                kode=excel[1],
-                kelas=int(excel[3])
-            )
-        }
-        data.append(dataStructure)
-
-      with open(r'./Database/Teknik/Elektro.json', 'w') as outfile:
-        json.dump(data, outfile)
-
-    
+    def findCourses(self, namePerson, data):
+      """
+      mengembalikan list matakuliah yang diambil seseorang
+      @param namePerson (string) : nama seseorang
+      @param data (list): data yang diambil
+      """
+      return [
+          {
+              "no": course["no"],
+              "kode": course["kode"],
+              "nama kelas": course["nama kelas"],
+              "kelas": str(int(course['kelas'])),
+              "koordinator": course["koordinator"],
+              "ruang": course["ruang"],
+              "hari": course["hari"],
+              "waktu": course["waktu"]
+          }
+          for course in data
+          if any(
+              peserta["nama"] == namePerson
+              for peserta in course["peserta"]
+          )
+      ]

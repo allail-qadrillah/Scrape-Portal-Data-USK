@@ -8,7 +8,7 @@
     "ruang": "A25-203",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -84,7 +84,7 @@
     "ruang": "Jts",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -103,7 +103,7 @@
     "ruang": "Jts",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "34",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -635,7 +635,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "7",
+    "peserta": "8",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS106",
@@ -2250,7 +2250,7 @@
     "ruang": "A12-301",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "21",
+    "peserta": "22",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS220",
@@ -3390,7 +3390,7 @@
     "ruang": "D3-Y",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "28",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS308",
@@ -3504,7 +3504,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "15",
+    "peserta": "14",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS310",
@@ -3523,7 +3523,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "15",
+    "peserta": "16",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS310",
@@ -5119,7 +5119,7 @@
     "ruang": "A12-302",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS422",
@@ -5632,7 +5632,7 @@
     "ruang": "PRODI",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "27",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS104",
@@ -6069,7 +6069,7 @@
     "ruang": "RB - 5A",
     "hari": "Jumat",
     "waktu": "8:00-10:30",
-    "peserta": "25",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS110",
@@ -6107,7 +6107,7 @@
     "ruang": "RB - 6A",
     "hari": "Jumat",
     "waktu": "8:00-10:30",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS110",
@@ -6430,7 +6430,7 @@
     "ruang": "RKTM 1",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "10",
+    "peserta": "16",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS210",
@@ -6487,7 +6487,7 @@
     "ruang": "RKTM 1",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "19",
+    "peserta": "20",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS212",
@@ -6506,7 +6506,7 @@
     "ruang": "MTM 1",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS212",
@@ -6563,7 +6563,7 @@
     "ruang": "A25 - 201",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "23",
+    "peserta": "22",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS214",
@@ -6582,7 +6582,7 @@
     "ruang": "RB - 6A",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS214",
@@ -6620,7 +6620,7 @@
     "ruang": "PRODI TM",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS214",
@@ -6639,7 +6639,7 @@
     "ruang": "LAB KONSTRUKSI",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "22",
+    "peserta": "20",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS302",
@@ -6658,7 +6658,7 @@
     "ruang": "A14 - 302",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "28",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS302",
@@ -6677,7 +6677,7 @@
     "ruang": "LAB MEKANIKA FLUIDA",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "28",
+    "peserta": "25",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS302",
@@ -6696,7 +6696,7 @@
     "ruang": "PRODI TM",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "28",
+    "peserta": "35",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS302",
@@ -6791,7 +6791,7 @@
     "ruang": "LAB MEKANIKA FLUIDA",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "27",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS306",
@@ -6810,7 +6810,7 @@
     "ruang": "LAB THERMAL",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "28",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS306",
@@ -6848,7 +6848,7 @@
     "ruang": "LAB MOTOR BAKAR",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "22",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS306",
@@ -6867,7 +6867,7 @@
     "ruang": "PRODI",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS308",
@@ -6886,7 +6886,7 @@
     "ruang": "MTM 1",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "31",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS308",
@@ -7019,7 +7019,7 @@
     "ruang": "RKTM 1",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS402",
@@ -7057,7 +7057,7 @@
     "ruang": "MTM 1",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "20",
+    "peserta": "21",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMS402",
@@ -7076,7 +7076,7 @@
     "ruang": "PRODI",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "97",
+    "peserta": "99",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMSP01",
@@ -7285,7 +7285,7 @@
     "ruang": "PRODI TM",
     "hari": "Senin",
     "waktu": "10:30-11:45",
-    "peserta": "39",
+    "peserta": "38",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMSP03",
@@ -8064,7 +8064,7 @@
     "ruang": "PRODI TM",
     "hari": "Senin",
     "waktu": "10:45-13:15",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMSP04",
@@ -8121,7 +8121,7 @@
     "ruang": "A21-201",
     "hari": "Senin",
     "waktu": "10:45-13:15",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMSP10",
@@ -8140,7 +8140,7 @@
     "ruang": "LAB MOTOR BAKAR",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "7",
+    "peserta": "6",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMSP12",
@@ -8178,7 +8178,7 @@
     "ruang": "LAB THERMAL",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "8",
+    "peserta": "6",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMSP16",
@@ -8197,7 +8197,7 @@
     "ruang": "LAB THERMAL",
     "hari": "Rabu",
     "waktu": "16:30-18:15",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMSP18",
@@ -8216,7 +8216,7 @@
     "ruang": "LAB THERMAL",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "7",
+    "peserta": "9",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMSP20",
@@ -8311,7 +8311,7 @@
     "ruang": "RKTM 1",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "4",
+    "peserta": "5",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMSP32",
@@ -8349,7 +8349,7 @@
     "ruang": "RKTM 2",
     "hari": "Selasa",
     "waktu": "10:45-12:25",
-    "peserta": "3",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMSP36",
@@ -8539,7 +8539,7 @@
     "ruang": "PRODI",
     "hari": "Senin",
     "waktu": "08:00-09:00",
-    "peserta": "99",
+    "peserta": "100",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMSPA1",
@@ -8558,7 +8558,7 @@
     "ruang": "PRODI",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "114",
+    "peserta": "116",
     "keterangan": "TeknikS1Teknik Mesin",
     "kode-peserta": {
       "data-kode": "TMSPA2",
@@ -11313,7 +11313,7 @@
     "ruang": "A14 - 304",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "32",
+    "peserta": "33",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR216",
@@ -11332,7 +11332,7 @@
     "ruang": "A14 - 301",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "34",
+    "peserta": "33",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR216",
@@ -12393,7 +12393,7 @@
     "nama": "PERENCANAAN DAN PERANCANGAN KOTA",
     "kelas": "13",
     "koordinator": "Teuku Ivan, S.T., M.T.NIP. 196801051999031001",
-    "ruang": "MBKM 7",
+    "ruang": "A25 - 202",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
     "peserta": "44",
@@ -12412,7 +12412,7 @@
     "nama": "PERENCANAAN DAN PERANCANGAN KOTA",
     "kelas": "14",
     "koordinator": "Pratitou Arafat, S.P., M.L.ANIP. 198811202022031003",
-    "ruang": "MBKM 8",
+    "ruang": "D3-V",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
     "peserta": "17",
@@ -13327,7 +13327,7 @@
     "ruang": "A14 - 301",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP12",
@@ -13365,7 +13365,7 @@
     "ruang": "A12 - 303",
     "hari": "Senin",
     "waktu": "10:45-12:25",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP16",
@@ -13479,7 +13479,7 @@
     "ruang": "A14-303",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP38",
@@ -13555,7 +13555,7 @@
     "ruang": "A12-303",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP52",
@@ -13688,7 +13688,7 @@
     "ruang": "A23-205",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP75",
@@ -13802,7 +13802,7 @@
     "ruang": "Prodi Arsitektur",
     "hari": "Sabtu",
     "waktu": "08:45-12:00",
-    "peserta": "110",
+    "peserta": "111",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARPA1",
@@ -13821,7 +13821,7 @@
     "ruang": "RKTE -1",
     "hari": "Jumat",
     "waktu": "12:00-15:00",
-    "peserta": "8",
+    "peserta": "6",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "FTEP01",
@@ -13897,7 +13897,7 @@
     "ruang": "RKTE",
     "hari": "Senin",
     "waktu": "16:30-18:15",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -14315,7 +14315,7 @@
     "ruang": "RKTE",
     "hari": "Rabu",
     "waktu": "8:00-9:40",
-    "peserta": "30",
+    "peserta": "33",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE208",
@@ -14391,7 +14391,7 @@
     "ruang": "A25-202",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE216",
@@ -14410,7 +14410,7 @@
     "ruang": "RKTE -2",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "19",
+    "peserta": "25",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE216",
@@ -14422,25 +14422,6 @@
   },
   {
     "no": "760",
-    "kode": "TLE216",
-    "nama": "DASAR SISTEM TELEKOMUNIKASI + LAB",
-    "kelas": "13",
-    "koordinator": "Ir. Ernita Dewi Meutia, M.S.Tc.E. IPMNIP. 196809041992032001",
-    "ruang": "RKTE -1",
-    "hari": "Selasa",
-    "waktu": "14:00-15:40",
-    "peserta": "0",
-    "keterangan": "TeknikS1Teknik Elektro",
-    "kode-peserta": {
-      "data-kode": "TLE216",
-      "data-kelas": "13",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0410501"
-    }
-  },
-  {
-    "no": "761",
     "kode": "TLE218",
     "nama": "DASAR SISTEM KENDALI + LAB",
     "kelas": "11",
@@ -14448,7 +14429,7 @@
     "ruang": "RKTE",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "30",
+    "peserta": "34",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE218",
@@ -14459,7 +14440,7 @@
     }
   },
   {
-    "no": "762",
+    "no": "761",
     "kode": "TLE218",
     "nama": "DASAR SISTEM KENDALI + LAB",
     "kelas": "12",
@@ -14467,7 +14448,7 @@
     "ruang": "RKTE",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE218",
@@ -14478,7 +14459,7 @@
     }
   },
   {
-    "no": "763",
+    "no": "762",
     "kode": "TLE218",
     "nama": "DASAR SISTEM KENDALI + LAB",
     "kelas": "13",
@@ -14497,7 +14478,7 @@
     }
   },
   {
-    "no": "764",
+    "no": "763",
     "kode": "TLE220",
     "nama": "RANGKAIAN LISTRIK II + LAB",
     "kelas": "11",
@@ -14505,7 +14486,7 @@
     "ruang": "A14 - 302",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE220",
@@ -14516,7 +14497,7 @@
     }
   },
   {
-    "no": "765",
+    "no": "764",
     "kode": "TLE220",
     "nama": "RANGKAIAN LISTRIK II + LAB",
     "kelas": "12",
@@ -14524,7 +14505,7 @@
     "ruang": "A12- 301",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "22",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE220",
@@ -14535,7 +14516,7 @@
     }
   },
   {
-    "no": "766",
+    "no": "765",
     "kode": "TLE220",
     "nama": "RANGKAIAN LISTRIK II + LAB",
     "kelas": "13",
@@ -14543,7 +14524,7 @@
     "ruang": "RKTE",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "15",
+    "peserta": "19",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE220",
@@ -14554,7 +14535,7 @@
     }
   },
   {
-    "no": "767",
+    "no": "766",
     "kode": "TLE222",
     "nama": "DASAR ELEKTRONIKA + LAB",
     "kelas": "11",
@@ -14573,7 +14554,7 @@
     }
   },
   {
-    "no": "768",
+    "no": "767",
     "kode": "TLE222",
     "nama": "DASAR ELEKTRONIKA + LAB",
     "kelas": "12",
@@ -14581,7 +14562,7 @@
     "ruang": "RKTE",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "8",
+    "peserta": "12",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE222",
@@ -14592,7 +14573,7 @@
     }
   },
   {
-    "no": "769",
+    "no": "768",
     "kode": "TLE222",
     "nama": "DASAR ELEKTRONIKA + LAB",
     "kelas": "13",
@@ -14611,7 +14592,7 @@
     }
   },
   {
-    "no": "770",
+    "no": "769",
     "kode": "TLE301",
     "nama": "TATA TULIS ILMIAH",
     "kelas": "11",
@@ -14630,7 +14611,7 @@
     }
   },
   {
-    "no": "771",
+    "no": "770",
     "kode": "TLE301",
     "nama": "TATA TULIS ILMIAH",
     "kelas": "12",
@@ -14649,7 +14630,7 @@
     }
   },
   {
-    "no": "772",
+    "no": "771",
     "kode": "TLE302",
     "nama": "METODE PENELITIAN",
     "kelas": "11",
@@ -14657,7 +14638,7 @@
     "ruang": "RKTE 3",
     "hari": "Selasa",
     "waktu": "10:45-12:25",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE302",
@@ -14668,7 +14649,7 @@
     }
   },
   {
-    "no": "773",
+    "no": "772",
     "kode": "TLE302",
     "nama": "METODE PENELITIAN",
     "kelas": "12",
@@ -14687,7 +14668,7 @@
     }
   },
   {
-    "no": "774",
+    "no": "773",
     "kode": "TLE303",
     "nama": "SISTEM MIKROPROSESOR + LAB",
     "kelas": "11",
@@ -14695,7 +14676,7 @@
     "ruang": "A25-202",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "18",
+    "peserta": "20",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE303",
@@ -14706,7 +14687,7 @@
     }
   },
   {
-    "no": "775",
+    "no": "774",
     "kode": "TLE303",
     "nama": "SISTEM MIKROPROSESOR + LAB",
     "kelas": "12",
@@ -14714,7 +14695,7 @@
     "ruang": "RKTE -1",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "19",
+    "peserta": "20",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE303",
@@ -14725,7 +14706,7 @@
     }
   },
   {
-    "no": "776",
+    "no": "775",
     "kode": "TLE304",
     "nama": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
     "kelas": "11",
@@ -14744,7 +14725,7 @@
     }
   },
   {
-    "no": "777",
+    "no": "776",
     "kode": "TLE304",
     "nama": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
     "kelas": "12",
@@ -14752,7 +14733,7 @@
     "ruang": "Rkte2",
     "hari": "Selasa",
     "waktu": "10:45-12:15",
-    "peserta": "18",
+    "peserta": "20",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE304",
@@ -14763,7 +14744,7 @@
     }
   },
   {
-    "no": "778",
+    "no": "777",
     "kode": "TLE305",
     "nama": "PENGOLAHAN SINYAL DIGITAL + LAB",
     "kelas": "11",
@@ -14771,7 +14752,7 @@
     "ruang": "RKTE -1",
     "hari": "Selasa",
     "waktu": "10:45-13:15",
-    "peserta": "3",
+    "peserta": "5",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE305",
@@ -14782,7 +14763,7 @@
     }
   },
   {
-    "no": "779",
+    "no": "778",
     "kode": "TLE305",
     "nama": "PENGOLAHAN SINYAL DIGITAL + LAB",
     "kelas": "12",
@@ -14801,7 +14782,7 @@
     }
   },
   {
-    "no": "780",
+    "no": "779",
     "kode": "TLE309",
     "nama": "PENGUKURAN DAN INSTRUMENTASI",
     "kelas": "11",
@@ -14820,7 +14801,7 @@
     }
   },
   {
-    "no": "781",
+    "no": "780",
     "kode": "TLE309",
     "nama": "PENGUKURAN DAN INSTRUMENTASI",
     "kelas": "12",
@@ -14839,7 +14820,7 @@
     }
   },
   {
-    "no": "782",
+    "no": "781",
     "kode": "TLE311",
     "nama": "MEDAN ELEKTROMAGNETIK",
     "kelas": "11",
@@ -14847,7 +14828,7 @@
     "ruang": "RKTE -1",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "28",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE311",
@@ -14858,7 +14839,7 @@
     }
   },
   {
-    "no": "783",
+    "no": "782",
     "kode": "TLE311",
     "nama": "MEDAN ELEKTROMAGNETIK",
     "kelas": "12",
@@ -14877,7 +14858,7 @@
     }
   },
   {
-    "no": "784",
+    "no": "783",
     "kode": "TLE313",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "11",
@@ -14885,7 +14866,7 @@
     "ruang": "RKTE -2",
     "hari": "Selasa",
     "waktu": "10:40-12:25",
-    "peserta": "32",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE313",
@@ -14896,7 +14877,7 @@
     }
   },
   {
-    "no": "785",
+    "no": "784",
     "kode": "TLE313",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "12",
@@ -14915,7 +14896,7 @@
     }
   },
   {
-    "no": "786",
+    "no": "785",
     "kode": "TLE313",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "13",
@@ -14934,7 +14915,7 @@
     }
   },
   {
-    "no": "787",
+    "no": "786",
     "kode": "TLE315",
     "nama": "ETIKA DAN PROFESIONALISME",
     "kelas": "11",
@@ -14942,7 +14923,7 @@
     "ruang": "RKTE -1",
     "hari": "Senin",
     "waktu": "10:45-12:25",
-    "peserta": "32",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE315",
@@ -14953,7 +14934,7 @@
     }
   },
   {
-    "no": "788",
+    "no": "787",
     "kode": "TLE315",
     "nama": "ETIKA DAN PROFESIONALISME",
     "kelas": "12",
@@ -14972,7 +14953,7 @@
     }
   },
   {
-    "no": "789",
+    "no": "788",
     "kode": "TLE502",
     "nama": "ELEKTRONIKA DAYA + LAB",
     "kelas": "11",
@@ -14991,7 +14972,7 @@
     }
   },
   {
-    "no": "790",
+    "no": "789",
     "kode": "TLE504",
     "nama": "TEKNIK TEGANGAN TINGGI",
     "kelas": "11",
@@ -15010,7 +14991,7 @@
     }
   },
   {
-    "no": "791",
+    "no": "790",
     "kode": "TLE506",
     "nama": "PROTEKSI SISTEM TENAGA DAN GIS",
     "kelas": "11",
@@ -15029,7 +15010,7 @@
     }
   },
   {
-    "no": "792",
+    "no": "791",
     "kode": "TLE508",
     "nama": "SISTEM SCADA + LAB",
     "kelas": "11",
@@ -15048,7 +15029,7 @@
     }
   },
   {
-    "no": "793",
+    "no": "792",
     "kode": "TLE510",
     "nama": "SISTEM DISTRIBUSI TENAGA LISTRIK + LAB",
     "kelas": "11",
@@ -15067,7 +15048,7 @@
     }
   },
   {
-    "no": "794",
+    "no": "793",
     "kode": "TLE512",
     "nama": "TEKNIK ENERGI TERBARUKAN + LAB",
     "kelas": "11",
@@ -15086,7 +15067,7 @@
     }
   },
   {
-    "no": "795",
+    "no": "794",
     "kode": "TLE514",
     "nama": "OPTOELEKTRONIKA + LAB",
     "kelas": "11",
@@ -15105,7 +15086,7 @@
     }
   },
   {
-    "no": "796",
+    "no": "795",
     "kode": "TLE516",
     "nama": "PERANCANGAN VLSI + LAB",
     "kelas": "11",
@@ -15124,7 +15105,7 @@
     }
   },
   {
-    "no": "797",
+    "no": "796",
     "kode": "TLE518",
     "nama": "INSTRUMENTASI ELEKTRONIKA + LAB",
     "kelas": "11",
@@ -15143,7 +15124,7 @@
     }
   },
   {
-    "no": "798",
+    "no": "797",
     "kode": "TLE520",
     "nama": "PERANCANGAN SISTEM ELEKTRONIKA",
     "kelas": "11",
@@ -15151,7 +15132,7 @@
     "ruang": "RKTE 1",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "0",
+    "peserta": "3",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE520",
@@ -15162,7 +15143,7 @@
     }
   },
   {
-    "no": "799",
+    "no": "798",
     "kode": "TLE522",
     "nama": "MIKROKONTROLER DAN APLIKASINYA",
     "kelas": "11",
@@ -15170,7 +15151,7 @@
     "ruang": "RKTE 1",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "13",
+    "peserta": "12",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE522",
@@ -15181,7 +15162,7 @@
     }
   },
   {
-    "no": "800",
+    "no": "799",
     "kode": "TLE524",
     "nama": "TEORI INFORMASI",
     "kelas": "11",
@@ -15189,7 +15170,7 @@
     "ruang": "A14 - 301",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "8",
+    "peserta": "10",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE524",
@@ -15200,7 +15181,7 @@
     }
   },
   {
-    "no": "801",
+    "no": "800",
     "kode": "TLE526",
     "nama": "SISTEM DAN TEKNOLOGI KOMUNIKASI OPTIK + LAB",
     "kelas": "11",
@@ -15208,7 +15189,7 @@
     "ruang": "RKTE 1",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "7",
+    "peserta": "8",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE526",
@@ -15219,7 +15200,7 @@
     }
   },
   {
-    "no": "802",
+    "no": "801",
     "kode": "TLE528",
     "nama": "TRANSMISI TELEKOMUNIKASI MULTIMEDIA",
     "kelas": "11",
@@ -15227,7 +15208,7 @@
     "ruang": "RKTE 2",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "8",
+    "peserta": "9",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE528",
@@ -15238,7 +15219,7 @@
     }
   },
   {
-    "no": "803",
+    "no": "802",
     "kode": "TLE530",
     "nama": "SISTEM KOMUNIKASI MULTIMEDIA + LAB",
     "kelas": "11",
@@ -15246,7 +15227,7 @@
     "ruang": "A23 - 204",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "7",
+    "peserta": "8",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE530",
@@ -15257,7 +15238,7 @@
     }
   },
   {
-    "no": "804",
+    "no": "803",
     "kode": "TLE532",
     "nama": "JARINGAN SATELIT DAN PENGINDERAAN JAUH",
     "kelas": "11",
@@ -15265,7 +15246,7 @@
     "ruang": "RKTE",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "6",
+    "peserta": "7",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE532",
@@ -15276,7 +15257,7 @@
     }
   },
   {
-    "no": "805",
+    "no": "804",
     "kode": "TLE536",
     "nama": "SISTEM KENDALI LOGIKA FUZZY",
     "kelas": "11",
@@ -15295,7 +15276,7 @@
     }
   },
   {
-    "no": "806",
+    "no": "805",
     "kode": "TLE538",
     "nama": "SISTEM KENDALI VARIABEL JAMAK",
     "kelas": "11",
@@ -15314,7 +15295,7 @@
     }
   },
   {
-    "no": "807",
+    "no": "806",
     "kode": "TLE540",
     "nama": "SISTEM KENDALI PROSES",
     "kelas": "11",
@@ -15322,7 +15303,7 @@
     "ruang": "D3 - X",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "15",
+    "peserta": "14",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE540",
@@ -15333,7 +15314,7 @@
     }
   },
   {
-    "no": "808",
+    "no": "807",
     "kode": "TLE542",
     "nama": "PENGOLAHAN CITRA DIGITAL + LAB",
     "kelas": "11",
@@ -15352,7 +15333,7 @@
     }
   },
   {
-    "no": "809",
+    "no": "808",
     "kode": "TLE544",
     "nama": "JARINGAN KOMPUTER + LAB",
     "kelas": "11",
@@ -15371,7 +15352,7 @@
     }
   },
   {
-    "no": "810",
+    "no": "809",
     "kode": "TLE546",
     "nama": "KECERDASAN BUATAN",
     "kelas": "11",
@@ -15379,7 +15360,7 @@
     "ruang": "RKTE 3",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "14",
+    "peserta": "10",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE546",
@@ -15390,7 +15371,7 @@
     }
   },
   {
-    "no": "811",
+    "no": "810",
     "kode": "TLE548",
     "nama": "SISTEM EMBEDDED + LAB",
     "kelas": "11",
@@ -15409,7 +15390,7 @@
     }
   },
   {
-    "no": "812",
+    "no": "811",
     "kode": "TLE550",
     "nama": "REKAYASA PERANGKAT LUNAK",
     "kelas": "11",
@@ -15417,7 +15398,7 @@
     "ruang": "RKTE 2",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "5",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE550",
@@ -15428,7 +15409,7 @@
     }
   },
   {
-    "no": "813",
+    "no": "812",
     "kode": "TLE554",
     "nama": "SISTEM INFORMASI GEOGRAFIS + LAB",
     "kelas": "11",
@@ -15447,7 +15428,7 @@
     }
   },
   {
-    "no": "814",
+    "no": "813",
     "kode": "TLEP02",
     "nama": "ELECTRICAL ENGINEERING DESIGN + LAB",
     "kelas": "11",
@@ -15466,7 +15447,7 @@
     }
   },
   {
-    "no": "815",
+    "no": "814",
     "kode": "TLEP02",
     "nama": "ELECTRICAL ENGINEERING DESIGN + LAB",
     "kelas": "12",
@@ -15474,7 +15455,7 @@
     "ruang": "RKTE -2",
     "hari": "Jumat",
     "waktu": "10:45-11:35",
-    "peserta": "17",
+    "peserta": "19",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLEP02",
@@ -15485,15 +15466,15 @@
     }
   },
   {
-    "no": "816",
+    "no": "815",
     "kode": "TLEP02",
     "nama": "ELECTRICAL ENGINEERING DESIGN + LAB",
     "kelas": "13",
-    "koordinator": "Ir. Fahri Heltha, M.EngNIP. 196309161990021001",
+    "koordinator": "Ir. Hafidh, S.T., MT., IPUNIP. 197205021999031003",
     "ruang": "RKTE -1",
-    "hari": "Jumat",
+    "hari": "Sabtu",
     "waktu": "10:45-11:35",
-    "peserta": "18",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLEP02",
@@ -15504,7 +15485,7 @@
     }
   },
   {
-    "no": "817",
+    "no": "816",
     "kode": "TLEP04",
     "nama": "KERJA PRAKTEK",
     "kelas": "11",
@@ -15512,7 +15493,7 @@
     "ruang": "RKTE 1",
     "hari": "Kamis",
     "waktu": "10:00-12:00",
-    "peserta": "57",
+    "peserta": "58",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLEP04",
@@ -15523,7 +15504,7 @@
     }
   },
   {
-    "no": "818",
+    "no": "817",
     "kode": "TLEPA1",
     "nama": "TUGAS AKHIR I",
     "kelas": "11",
@@ -15531,7 +15512,7 @@
     "ruang": "RKTE 1",
     "hari": "Senin",
     "waktu": "12:00-14:00",
-    "peserta": "97",
+    "peserta": "98",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLEPA1",
@@ -15542,7 +15523,7 @@
     }
   },
   {
-    "no": "819",
+    "no": "818",
     "kode": "TLEPA2",
     "nama": "TUGAS AKHIR II",
     "kelas": "13",
@@ -15561,7 +15542,7 @@
     }
   },
   {
-    "no": "820",
+    "no": "819",
     "kode": "FTT302",
     "nama": "TECHNOPRENEURSHIP",
     "kelas": "16",
@@ -15569,7 +15550,7 @@
     "ruang": "PRODI TI",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "39",
+    "peserta": "40",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -15580,7 +15561,7 @@
     }
   },
   {
-    "no": "821",
+    "no": "820",
     "kode": "FTT302",
     "nama": "TECHNOPRENEURSHIP",
     "kelas": "17",
@@ -15588,7 +15569,7 @@
     "ruang": "PRODI TI",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "39",
+    "peserta": "40",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -15599,7 +15580,7 @@
     }
   },
   {
-    "no": "822",
+    "no": "821",
     "kode": "FTT302",
     "nama": "TECHNOPRENEURSHIP",
     "kelas": "18",
@@ -15618,7 +15599,7 @@
     }
   },
   {
-    "no": "823",
+    "no": "822",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "11",
@@ -15637,7 +15618,7 @@
     }
   },
   {
-    "no": "824",
+    "no": "823",
     "kode": "TIU102",
     "nama": "KALKULUS II",
     "kelas": "11",
@@ -15656,7 +15637,7 @@
     }
   },
   {
-    "no": "825",
+    "no": "824",
     "kode": "TIU102",
     "nama": "KALKULUS II",
     "kelas": "12",
@@ -15675,7 +15656,7 @@
     }
   },
   {
-    "no": "826",
+    "no": "825",
     "kode": "TIU102",
     "nama": "KALKULUS II",
     "kelas": "13",
@@ -15694,7 +15675,7 @@
     }
   },
   {
-    "no": "827",
+    "no": "826",
     "kode": "TIU104",
     "nama": "FISIKA DASAR II + PRAKTIKUM",
     "kelas": "11",
@@ -15713,7 +15694,7 @@
     }
   },
   {
-    "no": "828",
+    "no": "827",
     "kode": "TIU104",
     "nama": "FISIKA DASAR II + PRAKTIKUM",
     "kelas": "12",
@@ -15732,7 +15713,7 @@
     }
   },
   {
-    "no": "829",
+    "no": "828",
     "kode": "TIU104",
     "nama": "FISIKA DASAR II + PRAKTIKUM",
     "kelas": "13",
@@ -15751,7 +15732,7 @@
     }
   },
   {
-    "no": "830",
+    "no": "829",
     "kode": "TIU106",
     "nama": "STATISTIK INDUSTRI I",
     "kelas": "11",
@@ -15770,7 +15751,7 @@
     }
   },
   {
-    "no": "831",
+    "no": "830",
     "kode": "TIU106",
     "nama": "STATISTIK INDUSTRI I",
     "kelas": "12",
@@ -15789,7 +15770,7 @@
     }
   },
   {
-    "no": "832",
+    "no": "831",
     "kode": "TIU106",
     "nama": "STATISTIK INDUSTRI I",
     "kelas": "13",
@@ -15808,7 +15789,7 @@
     }
   },
   {
-    "no": "833",
+    "no": "832",
     "kode": "TIU108",
     "nama": "MEKANIKA TEKNIK",
     "kelas": "11",
@@ -15827,7 +15808,7 @@
     }
   },
   {
-    "no": "834",
+    "no": "833",
     "kode": "TIU108",
     "nama": "MEKANIKA TEKNIK",
     "kelas": "12",
@@ -15846,7 +15827,7 @@
     }
   },
   {
-    "no": "835",
+    "no": "834",
     "kode": "TIU108",
     "nama": "MEKANIKA TEKNIK",
     "kelas": "13",
@@ -15865,7 +15846,7 @@
     }
   },
   {
-    "no": "836",
+    "no": "835",
     "kode": "TIU110",
     "nama": "MATRIKS DAN RUANG VEKTOR",
     "kelas": "11",
@@ -15884,7 +15865,7 @@
     }
   },
   {
-    "no": "837",
+    "no": "836",
     "kode": "TIU110",
     "nama": "MATRIKS DAN RUANG VEKTOR",
     "kelas": "12",
@@ -15903,7 +15884,7 @@
     }
   },
   {
-    "no": "838",
+    "no": "837",
     "kode": "TIU110",
     "nama": "MATRIKS DAN RUANG VEKTOR",
     "kelas": "13",
@@ -15922,7 +15903,7 @@
     }
   },
   {
-    "no": "839",
+    "no": "838",
     "kode": "TIU202",
     "nama": "PEMROGRAMAN  + PRAKTIKUM",
     "kelas": "11",
@@ -15930,7 +15911,7 @@
     "ruang": "RB 2A",
     "hari": "Sabtu",
     "waktu": "14:00-16:30",
-    "peserta": "18",
+    "peserta": "22",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU202",
@@ -15941,7 +15922,7 @@
     }
   },
   {
-    "no": "840",
+    "no": "839",
     "kode": "TIU202",
     "nama": "PEMROGRAMAN  + PRAKTIKUM",
     "kelas": "12",
@@ -15960,7 +15941,7 @@
     }
   },
   {
-    "no": "841",
+    "no": "840",
     "kode": "TIU202",
     "nama": "PEMROGRAMAN  + PRAKTIKUM",
     "kelas": "13",
@@ -15979,7 +15960,7 @@
     }
   },
   {
-    "no": "842",
+    "no": "841",
     "kode": "TIU204",
     "nama": "PENELITIAN OPERASIONAL I",
     "kelas": "11",
@@ -15987,7 +15968,7 @@
     "ruang": "PRODI TI",
     "hari": "Sabtu",
     "waktu": "08:00-10:30",
-    "peserta": "23",
+    "peserta": "25",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU204",
@@ -15998,7 +15979,7 @@
     }
   },
   {
-    "no": "843",
+    "no": "842",
     "kode": "TIU204",
     "nama": "PENELITIAN OPERASIONAL I",
     "kelas": "12",
@@ -16006,7 +15987,7 @@
     "ruang": "RB - 6A",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU204",
@@ -16017,7 +15998,7 @@
     }
   },
   {
-    "no": "844",
+    "no": "843",
     "kode": "TIU204",
     "nama": "PENELITIAN OPERASIONAL I",
     "kelas": "13",
@@ -16025,7 +16006,7 @@
     "ruang": "PRODI TI",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU204",
@@ -16036,7 +16017,7 @@
     }
   },
   {
-    "no": "845",
+    "no": "844",
     "kode": "TIU206",
     "nama": "PEMODELAN SISTEM",
     "kelas": "11",
@@ -16044,7 +16025,7 @@
     "ruang": "PRODI TI",
     "hari": "Senin",
     "waktu": "16:35-18:15",
-    "peserta": "23",
+    "peserta": "22",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU206",
@@ -16055,7 +16036,7 @@
     }
   },
   {
-    "no": "846",
+    "no": "845",
     "kode": "TIU206",
     "nama": "PEMODELAN SISTEM",
     "kelas": "12",
@@ -16074,7 +16055,7 @@
     }
   },
   {
-    "no": "847",
+    "no": "846",
     "kode": "TIU206",
     "nama": "PEMODELAN SISTEM",
     "kelas": "13",
@@ -16082,7 +16063,7 @@
     "ruang": "PRODI TI",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "28",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU206",
@@ -16093,7 +16074,7 @@
     }
   },
   {
-    "no": "848",
+    "no": "847",
     "kode": "TIU208",
     "nama": "ELEKTRONIKA INDUSTRI",
     "kelas": "11",
@@ -16112,7 +16093,7 @@
     }
   },
   {
-    "no": "849",
+    "no": "848",
     "kode": "TIU208",
     "nama": "ELEKTRONIKA INDUSTRI",
     "kelas": "12",
@@ -16120,7 +16101,7 @@
     "ruang": "PRODI TI",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU208",
@@ -16131,7 +16112,7 @@
     }
   },
   {
-    "no": "850",
+    "no": "849",
     "kode": "TIU208",
     "nama": "ELEKTRONIKA INDUSTRI",
     "kelas": "13",
@@ -16139,7 +16120,7 @@
     "ruang": "RB - 2A",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU208",
@@ -16150,7 +16131,7 @@
     }
   },
   {
-    "no": "851",
+    "no": "850",
     "kode": "TIU210",
     "nama": "PERANCANGAN SISTEM KERJA",
     "kelas": "11",
@@ -16169,7 +16150,7 @@
     }
   },
   {
-    "no": "852",
+    "no": "851",
     "kode": "TIU210",
     "nama": "PERANCANGAN SISTEM KERJA",
     "kelas": "12",
@@ -16188,7 +16169,7 @@
     }
   },
   {
-    "no": "853",
+    "no": "852",
     "kode": "TIU210",
     "nama": "PERANCANGAN SISTEM KERJA",
     "kelas": "13",
@@ -16207,7 +16188,7 @@
     }
   },
   {
-    "no": "854",
+    "no": "853",
     "kode": "TIU212",
     "nama": "ANALISIS DAN ESTIMASI BIAYA",
     "kelas": "11",
@@ -16226,7 +16207,7 @@
     }
   },
   {
-    "no": "855",
+    "no": "854",
     "kode": "TIU212",
     "nama": "ANALISIS DAN ESTIMASI BIAYA",
     "kelas": "12",
@@ -16245,7 +16226,7 @@
     }
   },
   {
-    "no": "856",
+    "no": "855",
     "kode": "TIU212",
     "nama": "ANALISIS DAN ESTIMASI BIAYA",
     "kelas": "13",
@@ -16264,7 +16245,7 @@
     }
   },
   {
-    "no": "857",
+    "no": "856",
     "kode": "TIU214",
     "nama": "PSIKOLOGI INDUSTRI",
     "kelas": "11",
@@ -16283,7 +16264,7 @@
     }
   },
   {
-    "no": "858",
+    "no": "857",
     "kode": "TIU214",
     "nama": "PSIKOLOGI INDUSTRI",
     "kelas": "12",
@@ -16291,7 +16272,7 @@
     "ruang": "PRODI TI",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU214",
@@ -16302,7 +16283,7 @@
     }
   },
   {
-    "no": "859",
+    "no": "858",
     "kode": "TIU214",
     "nama": "PSIKOLOGI INDUSTRI",
     "kelas": "13",
@@ -16310,7 +16291,7 @@
     "ruang": "RB - 2A",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "25",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU214",
@@ -16321,7 +16302,7 @@
     }
   },
   {
-    "no": "860",
+    "no": "859",
     "kode": "TIU216",
     "nama": "KESELAMATAN DAN KESEHATAN KERJA",
     "kelas": "11",
@@ -16329,7 +16310,7 @@
     "ruang": "PRODI TI",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU216",
@@ -16340,7 +16321,7 @@
     }
   },
   {
-    "no": "861",
+    "no": "860",
     "kode": "TIU216",
     "nama": "KESELAMATAN DAN KESEHATAN KERJA",
     "kelas": "12",
@@ -16359,7 +16340,7 @@
     }
   },
   {
-    "no": "862",
+    "no": "861",
     "kode": "TIU216",
     "nama": "KESELAMATAN DAN KESEHATAN KERJA",
     "kelas": "13",
@@ -16367,7 +16348,7 @@
     "ruang": "PRODI TI",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "28",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU216",
@@ -16378,7 +16359,7 @@
     }
   },
   {
-    "no": "863",
+    "no": "862",
     "kode": "TIU302",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "11",
@@ -16397,7 +16378,7 @@
     }
   },
   {
-    "no": "864",
+    "no": "863",
     "kode": "TIU302",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "12",
@@ -16416,7 +16397,7 @@
     }
   },
   {
-    "no": "865",
+    "no": "864",
     "kode": "TIU302",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "13",
@@ -16435,7 +16416,7 @@
     }
   },
   {
-    "no": "866",
+    "no": "865",
     "kode": "TIU304",
     "nama": "SISTEM PRODUKSI",
     "kelas": "11",
@@ -16443,7 +16424,7 @@
     "ruang": "PRODI TI",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU304",
@@ -16454,7 +16435,7 @@
     }
   },
   {
-    "no": "867",
+    "no": "866",
     "kode": "TIU304",
     "nama": "SISTEM PRODUKSI",
     "kelas": "12",
@@ -16473,7 +16454,7 @@
     }
   },
   {
-    "no": "868",
+    "no": "867",
     "kode": "TIU304",
     "nama": "SISTEM PRODUKSI",
     "kelas": "13",
@@ -16481,7 +16462,7 @@
     "ruang": "RB - 5A",
     "hari": "Senin",
     "waktu": "16:35-18:15",
-    "peserta": "32",
+    "peserta": "31",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU304",
@@ -16492,7 +16473,7 @@
     }
   },
   {
-    "no": "869",
+    "no": "868",
     "kode": "TIU306",
     "nama": "PRAKTIKUM TERINTEGRASI",
     "kelas": "11",
@@ -16511,7 +16492,7 @@
     }
   },
   {
-    "no": "870",
+    "no": "869",
     "kode": "TIU306",
     "nama": "PRAKTIKUM TERINTEGRASI",
     "kelas": "12",
@@ -16530,7 +16511,7 @@
     }
   },
   {
-    "no": "871",
+    "no": "870",
     "kode": "TIU306",
     "nama": "PRAKTIKUM TERINTEGRASI",
     "kelas": "13",
@@ -16549,7 +16530,7 @@
     }
   },
   {
-    "no": "872",
+    "no": "871",
     "kode": "TIU308",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "11",
@@ -16568,7 +16549,7 @@
     }
   },
   {
-    "no": "873",
+    "no": "872",
     "kode": "TIU308",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "12",
@@ -16587,7 +16568,7 @@
     }
   },
   {
-    "no": "874",
+    "no": "873",
     "kode": "TIU308",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "13",
@@ -16606,7 +16587,7 @@
     }
   },
   {
-    "no": "875",
+    "no": "874",
     "kode": "TIU310",
     "nama": "PENGENDALIAN DAN PENJAMINAN MUTU",
     "kelas": "11",
@@ -16614,7 +16595,7 @@
     "ruang": "D3 - W",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "38",
+    "peserta": "40",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU310",
@@ -16625,7 +16606,7 @@
     }
   },
   {
-    "no": "876",
+    "no": "875",
     "kode": "TIU310",
     "nama": "PENGENDALIAN DAN PENJAMINAN MUTU",
     "kelas": "12",
@@ -16644,7 +16625,7 @@
     }
   },
   {
-    "no": "877",
+    "no": "876",
     "kode": "TIU310",
     "nama": "PENGENDALIAN DAN PENJAMINAN MUTU",
     "kelas": "13",
@@ -16652,7 +16633,7 @@
     "ruang": "RK GB 2",
     "hari": "Jumat",
     "waktu": "10:00-12:30",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU310",
@@ -16663,7 +16644,7 @@
     }
   },
   {
-    "no": "878",
+    "no": "877",
     "kode": "TIU312",
     "nama": "ANALISIS DAN PERANCANGAN SISTEM INFORMASI + PRAKTIKUM",
     "kelas": "11",
@@ -16671,7 +16652,7 @@
     "ruang": "RK GB 1",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU312",
@@ -16682,7 +16663,7 @@
     }
   },
   {
-    "no": "879",
+    "no": "878",
     "kode": "TIU312",
     "nama": "ANALISIS DAN PERANCANGAN SISTEM INFORMASI + PRAKTIKUM",
     "kelas": "12",
@@ -16690,7 +16671,7 @@
     "ruang": "D3 - W",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "32",
+    "peserta": "34",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU312",
@@ -16701,7 +16682,7 @@
     }
   },
   {
-    "no": "880",
+    "no": "879",
     "kode": "TIU312",
     "nama": "ANALISIS DAN PERANCANGAN SISTEM INFORMASI + PRAKTIKUM",
     "kelas": "13",
@@ -16709,7 +16690,7 @@
     "ruang": "RK GB 1",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIU312",
@@ -16720,7 +16701,7 @@
     }
   },
   {
-    "no": "881",
+    "no": "880",
     "kode": "TIU314",
     "nama": "MANAJEMEN RANTAI PASOK",
     "kelas": "11",
@@ -16739,7 +16720,7 @@
     }
   },
   {
-    "no": "882",
+    "no": "881",
     "kode": "TIU314",
     "nama": "MANAJEMEN RANTAI PASOK",
     "kelas": "12",
@@ -16758,7 +16739,7 @@
     }
   },
   {
-    "no": "883",
+    "no": "882",
     "kode": "TIU314",
     "nama": "MANAJEMEN RANTAI PASOK",
     "kelas": "13",
@@ -16777,7 +16758,7 @@
     }
   },
   {
-    "no": "884",
+    "no": "883",
     "kode": "TIUP01",
     "nama": "KERJA PRAKTEK",
     "kelas": "11",
@@ -16796,7 +16777,7 @@
     }
   },
   {
-    "no": "885",
+    "no": "884",
     "kode": "TIUP10",
     "nama": "ERGONOMI UNTUK PERANCANGAN",
     "kelas": "11",
@@ -16815,7 +16796,7 @@
     }
   },
   {
-    "no": "886",
+    "no": "885",
     "kode": "TIUP11",
     "nama": "DESIGN FOR MANUFACTURE, ASSEMBLY & ENVIRONMENT",
     "kelas": "11",
@@ -16834,7 +16815,7 @@
     }
   },
   {
-    "no": "887",
+    "no": "886",
     "kode": "TIUP12",
     "nama": "REKAYASA CONCURRENT",
     "kelas": "11",
@@ -16853,7 +16834,7 @@
     }
   },
   {
-    "no": "888",
+    "no": "887",
     "kode": "TIUP13",
     "nama": "MANUFAKTUR RAMPING",
     "kelas": "11",
@@ -16872,7 +16853,7 @@
     }
   },
   {
-    "no": "889",
+    "no": "888",
     "kode": "TIUP14",
     "nama": "SISTEM MANUFAKTUR TERINTEGRASI KOMPUTER",
     "kelas": "11",
@@ -16891,7 +16872,7 @@
     }
   },
   {
-    "no": "890",
+    "no": "889",
     "kode": "TIUP15",
     "nama": "MANUFAKTUR BERKELANJUTAN",
     "kelas": "11",
@@ -16910,7 +16891,7 @@
     }
   },
   {
-    "no": "891",
+    "no": "890",
     "kode": "TIUP16",
     "nama": "MANAJEMEN TEKNOLOGI DAN INOVASI",
     "kelas": "11",
@@ -16929,7 +16910,7 @@
     }
   },
   {
-    "no": "892",
+    "no": "891",
     "kode": "TIUP17",
     "nama": "TEKNIK KEANDALAN DAN PERAWATAN",
     "kelas": "11",
@@ -16948,7 +16929,7 @@
     }
   },
   {
-    "no": "893",
+    "no": "892",
     "kode": "TIUP18",
     "nama": "PEMASARAN INDUSTRI",
     "kelas": "11",
@@ -16967,7 +16948,7 @@
     }
   },
   {
-    "no": "894",
+    "no": "893",
     "kode": "TIUP19",
     "nama": "PENINGKATAN KUALITAS",
     "kelas": "11",
@@ -16986,7 +16967,7 @@
     }
   },
   {
-    "no": "895",
+    "no": "894",
     "kode": "TIUP20",
     "nama": "SISTEM DAN KEBIJAKAN INDUSTRI",
     "kelas": "11",
@@ -17005,7 +16986,7 @@
     }
   },
   {
-    "no": "896",
+    "no": "895",
     "kode": "TIUP21",
     "nama": "STRATEGI KOMPETITIF",
     "kelas": "11",
@@ -17024,7 +17005,7 @@
     }
   },
   {
-    "no": "897",
+    "no": "896",
     "kode": "TIUP22",
     "nama": "PENGAMBILAN KEPUTUSAN MULTI KRITERIA",
     "kelas": "11",
@@ -17043,7 +17024,7 @@
     }
   },
   {
-    "no": "898",
+    "no": "897",
     "kode": "TIUP23",
     "nama": "SISTEM INVENTORI",
     "kelas": "11",
@@ -17062,7 +17043,7 @@
     }
   },
   {
-    "no": "899",
+    "no": "898",
     "kode": "TIUP24",
     "nama": "METAHEURISTIK",
     "kelas": "11",
@@ -17081,7 +17062,7 @@
     }
   },
   {
-    "no": "900",
+    "no": "899",
     "kode": "TIUP25",
     "nama": "MANAJEMEN KINERJA",
     "kelas": "11",
@@ -17100,7 +17081,7 @@
     }
   },
   {
-    "no": "901",
+    "no": "900",
     "kode": "TIUP26",
     "nama": "DESIGN OF EXPERIMENT",
     "kelas": "11",
@@ -17119,7 +17100,7 @@
     }
   },
   {
-    "no": "902",
+    "no": "901",
     "kode": "TIUP27",
     "nama": "REKAYASA PRODUKTIVITAS",
     "kelas": "11",
@@ -17138,7 +17119,7 @@
     }
   },
   {
-    "no": "903",
+    "no": "902",
     "kode": "TIUP29",
     "nama": "REKAYASA PROSES BISNIS",
     "kelas": "11",
@@ -17157,7 +17138,7 @@
     }
   },
   {
-    "no": "904",
+    "no": "903",
     "kode": "TIUP31",
     "nama": "SISTEM DINAMIK",
     "kelas": "11",
@@ -17176,7 +17157,7 @@
     }
   },
   {
-    "no": "905",
+    "no": "904",
     "kode": "TIUP33",
     "nama": "ENTERPRISE RESOURCE PLANNING SYSTEM",
     "kelas": "11",
@@ -17195,7 +17176,7 @@
     }
   },
   {
-    "no": "906",
+    "no": "905",
     "kode": "TIUP35",
     "nama": "DATA ANALITIK",
     "kelas": "11",
@@ -17203,7 +17184,7 @@
     "ruang": "PRODI TI",
     "hari": "Sabtu",
     "waktu": "08:00-10:30",
-    "peserta": "6",
+    "peserta": "7",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIUP35",
@@ -17214,7 +17195,7 @@
     }
   },
   {
-    "no": "907",
+    "no": "906",
     "kode": "TIUP37",
     "nama": "PERANCANGAN E-BISNIS",
     "kelas": "11",
@@ -17233,7 +17214,7 @@
     }
   },
   {
-    "no": "908",
+    "no": "907",
     "kode": "TIUPA1",
     "nama": "PROPOSAL TUGAS AKHIR",
     "kelas": "11",
@@ -17241,7 +17222,7 @@
     "ruang": "PRODI",
     "hari": "Senin",
     "waktu": "08:00-09:00",
-    "peserta": "80",
+    "peserta": "81",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIUPA1",
@@ -17252,7 +17233,7 @@
     }
   },
   {
-    "no": "909",
+    "no": "908",
     "kode": "TIUPA2",
     "nama": "TUGAS AKHIR",
     "kelas": "11",
@@ -17260,7 +17241,7 @@
     "ruang": "PRODI",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "108",
+    "peserta": "109",
     "keterangan": "TeknikS1Teknik Industri",
     "kode-peserta": {
       "data-kode": "TIUPA2",
@@ -17271,7 +17252,7 @@
     }
   },
   {
-    "no": "910",
+    "no": "909",
     "kode": "FTT302",
     "nama": "TECHNOPRENEURSHIP",
     "kelas": "27",
@@ -17290,7 +17271,7 @@
     }
   },
   {
-    "no": "911",
+    "no": "910",
     "kode": "FTT302",
     "nama": "TECHNOPRENEURSHIP",
     "kelas": "28",
@@ -17309,7 +17290,7 @@
     }
   },
   {
-    "no": "912",
+    "no": "911",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "11",
@@ -17328,7 +17309,7 @@
     }
   },
   {
-    "no": "913",
+    "no": "912",
     "kode": "TGS102",
     "nama": "KALKULUS  II",
     "kelas": "11",
@@ -17347,7 +17328,7 @@
     }
   },
   {
-    "no": "914",
+    "no": "913",
     "kode": "TGS102",
     "nama": "KALKULUS  II",
     "kelas": "12",
@@ -17366,7 +17347,7 @@
     }
   },
   {
-    "no": "915",
+    "no": "914",
     "kode": "TGS104",
     "nama": "TEKNOLOGI INFORMASI DAN KOMUNIKASI",
     "kelas": "11",
@@ -17385,7 +17366,7 @@
     }
   },
   {
-    "no": "916",
+    "no": "915",
     "kode": "TGS104",
     "nama": "TEKNOLOGI INFORMASI DAN KOMUNIKASI",
     "kelas": "12",
@@ -17404,7 +17385,7 @@
     }
   },
   {
-    "no": "917",
+    "no": "916",
     "kode": "TGS106",
     "nama": "FISIKA DASAR II",
     "kelas": "11",
@@ -17423,7 +17404,7 @@
     }
   },
   {
-    "no": "918",
+    "no": "917",
     "kode": "TGS106",
     "nama": "FISIKA DASAR II",
     "kelas": "13",
@@ -17442,7 +17423,7 @@
     }
   },
   {
-    "no": "919",
+    "no": "918",
     "kode": "TGS108",
     "nama": "GEOLOGI STRUKTUR",
     "kelas": "11",
@@ -17461,7 +17442,7 @@
     }
   },
   {
-    "no": "920",
+    "no": "919",
     "kode": "TGS108",
     "nama": "GEOLOGI STRUKTUR",
     "kelas": "12",
@@ -17480,7 +17461,7 @@
     }
   },
   {
-    "no": "921",
+    "no": "920",
     "kode": "TGS110",
     "nama": "TEKNOLOGI SUMBER DAYA BUMI",
     "kelas": "11",
@@ -17499,7 +17480,7 @@
     }
   },
   {
-    "no": "922",
+    "no": "921",
     "kode": "TGS110",
     "nama": "TEKNOLOGI SUMBER DAYA BUMI",
     "kelas": "12",
@@ -17518,7 +17499,7 @@
     }
   },
   {
-    "no": "923",
+    "no": "922",
     "kode": "TGS212",
     "nama": "METODE GAYA BERAT DAN MAGNETIK",
     "kelas": "11",
@@ -17537,7 +17518,7 @@
     }
   },
   {
-    "no": "924",
+    "no": "923",
     "kode": "TGS212",
     "nama": "METODE GAYA BERAT DAN MAGNETIK",
     "kelas": "12",
@@ -17556,7 +17537,7 @@
     }
   },
   {
-    "no": "925",
+    "no": "924",
     "kode": "TGS214",
     "nama": "GELOMBANG DALAM GEOFISIKA",
     "kelas": "11",
@@ -17575,7 +17556,7 @@
     }
   },
   {
-    "no": "926",
+    "no": "925",
     "kode": "TGS214",
     "nama": "GELOMBANG DALAM GEOFISIKA",
     "kelas": "12",
@@ -17594,7 +17575,7 @@
     }
   },
   {
-    "no": "927",
+    "no": "926",
     "kode": "TGS220",
     "nama": "INSTRUMENTASI GEOFISIKA",
     "kelas": "11",
@@ -17613,7 +17594,7 @@
     }
   },
   {
-    "no": "928",
+    "no": "927",
     "kode": "TGS220",
     "nama": "INSTRUMENTASI GEOFISIKA",
     "kelas": "12",
@@ -17632,7 +17613,7 @@
     }
   },
   {
-    "no": "929",
+    "no": "928",
     "kode": "TGS222",
     "nama": "GEOTERMODINAMIKA",
     "kelas": "11",
@@ -17651,7 +17632,7 @@
     }
   },
   {
-    "no": "930",
+    "no": "929",
     "kode": "TGS222",
     "nama": "GEOTERMODINAMIKA",
     "kelas": "12",
@@ -17670,7 +17651,7 @@
     }
   },
   {
-    "no": "931",
+    "no": "930",
     "kode": "TGS226",
     "nama": "GEO-MATEMATIKA II",
     "kelas": "11",
@@ -17689,7 +17670,7 @@
     }
   },
   {
-    "no": "932",
+    "no": "931",
     "kode": "TGS226",
     "nama": "GEO-MATEMATIKA II",
     "kelas": "12",
@@ -17708,7 +17689,7 @@
     }
   },
   {
-    "no": "933",
+    "no": "932",
     "kode": "TGS228",
     "nama": "GEOMATIKA",
     "kelas": "11",
@@ -17727,7 +17708,7 @@
     }
   },
   {
-    "no": "934",
+    "no": "933",
     "kode": "TGS228",
     "nama": "GEOMATIKA",
     "kelas": "12",
@@ -17746,7 +17727,7 @@
     }
   },
   {
-    "no": "935",
+    "no": "934",
     "kode": "TGS330",
     "nama": "GEOFISIKA KEBENCANAAN",
     "kelas": "11",
@@ -17765,7 +17746,7 @@
     }
   },
   {
-    "no": "936",
+    "no": "935",
     "kode": "TGS330",
     "nama": "GEOFISIKA KEBENCANAAN",
     "kelas": "12",
@@ -17784,7 +17765,7 @@
     }
   },
   {
-    "no": "937",
+    "no": "936",
     "kode": "TGS332",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "11",
@@ -17792,7 +17773,7 @@
     "ruang": "RB 1A",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "TeknikS1Teknik Geofisika",
     "kode-peserta": {
       "data-kode": "TGS332",
@@ -17803,7 +17784,7 @@
     }
   },
   {
-    "no": "938",
+    "no": "937",
     "kode": "TGS332",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "12",
@@ -17822,7 +17803,7 @@
     }
   },
   {
-    "no": "939",
+    "no": "938",
     "kode": "TGS338",
     "nama": "KERJA PRAKTEK",
     "kelas": "11",
@@ -17841,7 +17822,7 @@
     }
   },
   {
-    "no": "940",
+    "no": "939",
     "kode": "TGS542",
     "nama": "SEISMOLOGI LANJUT",
     "kelas": "11",
@@ -17860,7 +17841,7 @@
     }
   },
   {
-    "no": "941",
+    "no": "940",
     "kode": "TGS548",
     "nama": "PERMODELAN & SIMULASI GEOFISIKA",
     "kelas": "11",
@@ -17868,7 +17849,7 @@
     "ruang": "RB 1b",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "2",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Geofisika",
     "kode-peserta": {
       "data-kode": "TGS548",
@@ -17879,7 +17860,7 @@
     }
   },
   {
-    "no": "942",
+    "no": "941",
     "kode": "TGS548",
     "nama": "PERMODELAN & SIMULASI GEOFISIKA",
     "kelas": "12",
@@ -17898,7 +17879,7 @@
     }
   },
   {
-    "no": "943",
+    "no": "942",
     "kode": "TGS552",
     "nama": "HIDROGEOLOGI",
     "kelas": "11",
@@ -17906,7 +17887,7 @@
     "ruang": "RB 1A",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "21",
+    "peserta": "22",
     "keterangan": "TeknikS1Teknik Geofisika",
     "kode-peserta": {
       "data-kode": "TGS552",
@@ -17917,7 +17898,7 @@
     }
   },
   {
-    "no": "944",
+    "no": "943",
     "kode": "TGS556",
     "nama": "GEOFISIKA EKSPLORASI",
     "kelas": "11",
@@ -17936,7 +17917,7 @@
     }
   },
   {
-    "no": "945",
+    "no": "944",
     "kode": "TGS558",
     "nama": "GEOFISIKA LUBANG BOR",
     "kelas": "11",
@@ -17955,7 +17936,7 @@
     }
   },
   {
-    "no": "946",
+    "no": "945",
     "kode": "TGS560",
     "nama": "ANALISA DATA WELL LOG",
     "kelas": "11",
@@ -17974,7 +17955,7 @@
     }
   },
   {
-    "no": "947",
+    "no": "946",
     "kode": "TGS564",
     "nama": "GEOKRONOLOGI",
     "kelas": "11",
@@ -17982,7 +17963,7 @@
     "ruang": "RB 2A",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "TeknikS1Teknik Geofisika",
     "kode-peserta": {
       "data-kode": "TGS564",
@@ -17993,7 +17974,7 @@
     }
   },
   {
-    "no": "948",
+    "no": "947",
     "kode": "TGS565",
     "nama": "SEISMIK STRATIGRAFI",
     "kelas": "11",
@@ -18012,7 +17993,7 @@
     }
   },
   {
-    "no": "949",
+    "no": "948",
     "kode": "TGS566",
     "nama": "PALEOMAGNETIK",
     "kelas": "11",
@@ -18031,7 +18012,7 @@
     }
   },
   {
-    "no": "950",
+    "no": "949",
     "kode": "TGS568",
     "nama": "GEOFISIKA LAUT",
     "kelas": "11",
@@ -18050,7 +18031,7 @@
     }
   },
   {
-    "no": "951",
+    "no": "950",
     "kode": "TGS574",
     "nama": "KRISTALOGI & MINERALOGI",
     "kelas": "11",
@@ -18069,7 +18050,7 @@
     }
   },
   {
-    "no": "952",
+    "no": "951",
     "kode": "TGS588",
     "nama": "GEOFISIKA REGULASI & HUKUM KONTRAK",
     "kelas": "11",
@@ -18088,7 +18069,7 @@
     }
   },
   {
-    "no": "953",
+    "no": "952",
     "kode": "TGU202",
     "nama": "KOMPUTASI GEOFISIKA",
     "kelas": "11",
@@ -18107,7 +18088,7 @@
     }
   },
   {
-    "no": "954",
+    "no": "953",
     "kode": "TGU202",
     "nama": "KOMPUTASI GEOFISIKA",
     "kelas": "12",
@@ -18126,7 +18107,7 @@
     }
   },
   {
-    "no": "955",
+    "no": "954",
     "kode": "TGU202",
     "nama": "KOMPUTASI GEOFISIKA",
     "kelas": "13",
@@ -18145,7 +18126,7 @@
     }
   },
   {
-    "no": "956",
+    "no": "955",
     "kode": "TGU302",
     "nama": "METODE SEISMIK II",
     "kelas": "11",
@@ -18164,7 +18145,7 @@
     }
   },
   {
-    "no": "957",
+    "no": "956",
     "kode": "TGU302",
     "nama": "METODE SEISMIK II",
     "kelas": "12",
@@ -18183,7 +18164,7 @@
     }
   },
   {
-    "no": "958",
+    "no": "957",
     "kode": "TGU302",
     "nama": "METODE SEISMIK II",
     "kelas": "13",
@@ -18202,7 +18183,7 @@
     }
   },
   {
-    "no": "959",
+    "no": "958",
     "kode": "TGU304",
     "nama": "WORKSHOP GEOFISIKA",
     "kelas": "11",
@@ -18221,7 +18202,7 @@
     }
   },
   {
-    "no": "960",
+    "no": "959",
     "kode": "TGU401",
     "nama": "TUGAS AKHIR I",
     "kelas": "11",
@@ -18240,7 +18221,7 @@
     }
   },
   {
-    "no": "961",
+    "no": "960",
     "kode": "TGU504",
     "nama": "GEOTEKNIK DAN LINGKUNGAN",
     "kelas": "11",
@@ -18259,7 +18240,7 @@
     }
   },
   {
-    "no": "962",
+    "no": "961",
     "kode": "TGU506",
     "nama": "GEOLOGI MINYAK DAN GAS BUMI",
     "kelas": "11",
@@ -18278,7 +18259,7 @@
     }
   },
   {
-    "no": "963",
+    "no": "962",
     "kode": "TGU508",
     "nama": "BAHASA INGGRIS ILMIAH",
     "kelas": "11",
@@ -18297,7 +18278,7 @@
     }
   },
   {
-    "no": "964",
+    "no": "963",
     "kode": "TGU510",
     "nama": "PENGINDERAAN JAUH",
     "kelas": "11",
@@ -18316,7 +18297,7 @@
     }
   },
   {
-    "no": "965",
+    "no": "964",
     "kode": "TGUP02",
     "nama": "TUGAS AKHIR II",
     "kelas": "11",
@@ -18335,7 +18316,7 @@
     }
   },
   {
-    "no": "966",
+    "no": "965",
     "kode": "FTT302",
     "nama": "TECHNOPRENEURSHIP",
     "kelas": "19",
@@ -18354,7 +18335,7 @@
     }
   },
   {
-    "no": "967",
+    "no": "966",
     "kode": "FTT302",
     "nama": "TECHNOPRENEURSHIP",
     "kelas": "20",
@@ -18373,7 +18354,7 @@
     }
   },
   {
-    "no": "968",
+    "no": "967",
     "kode": "FTT302",
     "nama": "TECHNOPRENEURSHIP",
     "kelas": "21",
@@ -18392,7 +18373,7 @@
     }
   },
   {
-    "no": "969",
+    "no": "968",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "11",
@@ -18411,7 +18392,7 @@
     }
   },
   {
-    "no": "970",
+    "no": "969",
     "kode": "TPB102",
     "nama": "KALKULUS II",
     "kelas": "11",
@@ -18430,7 +18411,7 @@
     }
   },
   {
-    "no": "971",
+    "no": "970",
     "kode": "TPB102",
     "nama": "KALKULUS II",
     "kelas": "12",
@@ -18449,7 +18430,7 @@
     }
   },
   {
-    "no": "972",
+    "no": "971",
     "kode": "TPB102",
     "nama": "KALKULUS II",
     "kelas": "13",
@@ -18468,7 +18449,7 @@
     }
   },
   {
-    "no": "973",
+    "no": "972",
     "kode": "TPB110",
     "nama": "FISIKA DASAR II",
     "kelas": "11",
@@ -18487,7 +18468,7 @@
     }
   },
   {
-    "no": "974",
+    "no": "973",
     "kode": "TPB110",
     "nama": "FISIKA DASAR II",
     "kelas": "12",
@@ -18506,7 +18487,7 @@
     }
   },
   {
-    "no": "975",
+    "no": "974",
     "kode": "TPB110",
     "nama": "FISIKA DASAR II",
     "kelas": "13",
@@ -18525,7 +18506,7 @@
     }
   },
   {
-    "no": "976",
+    "no": "975",
     "kode": "TPB112",
     "nama": "KIMIA DASAR II",
     "kelas": "11",
@@ -18544,7 +18525,7 @@
     }
   },
   {
-    "no": "977",
+    "no": "976",
     "kode": "TPB112",
     "nama": "KIMIA DASAR II",
     "kelas": "12",
@@ -18563,7 +18544,7 @@
     }
   },
   {
-    "no": "978",
+    "no": "977",
     "kode": "TPB112",
     "nama": "KIMIA DASAR II",
     "kelas": "13",
@@ -18582,7 +18563,7 @@
     }
   },
   {
-    "no": "979",
+    "no": "978",
     "kode": "TPB114",
     "nama": "KRISTALOGRAFI DAN MINERALOGI",
     "kelas": "11",
@@ -18601,7 +18582,7 @@
     }
   },
   {
-    "no": "980",
+    "no": "979",
     "kode": "TPB114",
     "nama": "KRISTALOGRAFI DAN MINERALOGI",
     "kelas": "12",
@@ -18620,7 +18601,7 @@
     }
   },
   {
-    "no": "981",
+    "no": "980",
     "kode": "TPB114",
     "nama": "KRISTALOGRAFI DAN MINERALOGI",
     "kelas": "13",
@@ -18639,7 +18620,7 @@
     }
   },
   {
-    "no": "982",
+    "no": "981",
     "kode": "TPB202",
     "nama": "SISTEM INFORMASI GEOGRAFIS",
     "kelas": "11",
@@ -18658,7 +18639,7 @@
     }
   },
   {
-    "no": "983",
+    "no": "982",
     "kode": "TPB202",
     "nama": "SISTEM INFORMASI GEOGRAFIS",
     "kelas": "12",
@@ -18677,7 +18658,7 @@
     }
   },
   {
-    "no": "984",
+    "no": "983",
     "kode": "TPB202",
     "nama": "SISTEM INFORMASI GEOGRAFIS",
     "kelas": "13",
@@ -18696,7 +18677,7 @@
     }
   },
   {
-    "no": "985",
+    "no": "984",
     "kode": "TPB204",
     "nama": "TEKTONOFISIK",
     "kelas": "11",
@@ -18715,7 +18696,7 @@
     }
   },
   {
-    "no": "986",
+    "no": "985",
     "kode": "TPB204",
     "nama": "TEKTONOFISIK",
     "kelas": "12",
@@ -18734,7 +18715,7 @@
     }
   },
   {
-    "no": "987",
+    "no": "986",
     "kode": "TPB204",
     "nama": "TEKTONOFISIK",
     "kelas": "13",
@@ -18753,7 +18734,7 @@
     }
   },
   {
-    "no": "988",
+    "no": "987",
     "kode": "TPB208",
     "nama": "METODE NUMERIK",
     "kelas": "11",
@@ -18772,7 +18753,7 @@
     }
   },
   {
-    "no": "989",
+    "no": "988",
     "kode": "TPB208",
     "nama": "METODE NUMERIK",
     "kelas": "12",
@@ -18791,7 +18772,7 @@
     }
   },
   {
-    "no": "990",
+    "no": "989",
     "kode": "TPB208",
     "nama": "METODE NUMERIK",
     "kelas": "13",
@@ -18810,7 +18791,7 @@
     }
   },
   {
-    "no": "991",
+    "no": "990",
     "kode": "TPB210",
     "nama": "MEKANIKA BATUAN",
     "kelas": "11",
@@ -18829,7 +18810,7 @@
     }
   },
   {
-    "no": "992",
+    "no": "991",
     "kode": "TPB210",
     "nama": "MEKANIKA BATUAN",
     "kelas": "12",
@@ -18848,7 +18829,7 @@
     }
   },
   {
-    "no": "993",
+    "no": "992",
     "kode": "TPB210",
     "nama": "MEKANIKA BATUAN",
     "kelas": "13",
@@ -18867,7 +18848,7 @@
     }
   },
   {
-    "no": "994",
+    "no": "993",
     "kode": "TPB218",
     "nama": "PENGGERAK MULA",
     "kelas": "11",
@@ -18886,7 +18867,7 @@
     }
   },
   {
-    "no": "995",
+    "no": "994",
     "kode": "TPB218",
     "nama": "PENGGERAK MULA",
     "kelas": "12",
@@ -18905,7 +18886,7 @@
     }
   },
   {
-    "no": "996",
+    "no": "995",
     "kode": "TPB218",
     "nama": "PENGGERAK MULA",
     "kelas": "13",
@@ -18924,7 +18905,7 @@
     }
   },
   {
-    "no": "997",
+    "no": "996",
     "kode": "TPB220",
     "nama": "PENYALIRAN TAMBANG",
     "kelas": "11",
@@ -18943,7 +18924,7 @@
     }
   },
   {
-    "no": "998",
+    "no": "997",
     "kode": "TPB220",
     "nama": "PENYALIRAN TAMBANG",
     "kelas": "12",
@@ -18962,7 +18943,7 @@
     }
   },
   {
-    "no": "999",
+    "no": "998",
     "kode": "TPB220",
     "nama": "PENYALIRAN TAMBANG",
     "kelas": "13",
@@ -18981,7 +18962,7 @@
     }
   },
   {
-    "no": "1000",
+    "no": "999",
     "kode": "TPB222",
     "nama": "TAMBANG BAWAH TANAH",
     "kelas": "11",
@@ -19000,7 +18981,7 @@
     }
   },
   {
-    "no": "1001",
+    "no": "1000",
     "kode": "TPB222",
     "nama": "TAMBANG BAWAH TANAH",
     "kelas": "12",
@@ -19019,7 +19000,7 @@
     }
   },
   {
-    "no": "1002",
+    "no": "1001",
     "kode": "TPB222",
     "nama": "TAMBANG BAWAH TANAH",
     "kelas": "13",
@@ -19038,7 +19019,7 @@
     }
   },
   {
-    "no": "1003",
+    "no": "1002",
     "kode": "TPB224",
     "nama": "GENESA BAHAN GALIAN",
     "kelas": "11",
@@ -19057,7 +19038,7 @@
     }
   },
   {
-    "no": "1004",
+    "no": "1003",
     "kode": "TPB224",
     "nama": "GENESA BAHAN GALIAN",
     "kelas": "12",
@@ -19076,7 +19057,7 @@
     }
   },
   {
-    "no": "1005",
+    "no": "1004",
     "kode": "TPB224",
     "nama": "GENESA BAHAN GALIAN",
     "kelas": "13",
@@ -19095,7 +19076,7 @@
     }
   },
   {
-    "no": "1006",
+    "no": "1005",
     "kode": "TPB314",
     "nama": "MANAJEMEN TAMBANG",
     "kelas": "11",
@@ -19114,7 +19095,7 @@
     }
   },
   {
-    "no": "1007",
+    "no": "1006",
     "kode": "TPB314",
     "nama": "MANAJEMEN TAMBANG",
     "kelas": "12",
@@ -19133,7 +19114,7 @@
     }
   },
   {
-    "no": "1008",
+    "no": "1007",
     "kode": "TPB314",
     "nama": "MANAJEMEN TAMBANG",
     "kelas": "13",
@@ -19152,7 +19133,7 @@
     }
   },
   {
-    "no": "1009",
+    "no": "1008",
     "kode": "TPB316",
     "nama": "K3 DAN KESELAMATAN PERTAMBANGAN",
     "kelas": "11",
@@ -19171,7 +19152,7 @@
     }
   },
   {
-    "no": "1010",
+    "no": "1009",
     "kode": "TPB316",
     "nama": "K3 DAN KESELAMATAN PERTAMBANGAN",
     "kelas": "12",
@@ -19190,7 +19171,7 @@
     }
   },
   {
-    "no": "1011",
+    "no": "1010",
     "kode": "TPB316",
     "nama": "K3 DAN KESELAMATAN PERTAMBANGAN",
     "kelas": "13",
@@ -19209,7 +19190,7 @@
     }
   },
   {
-    "no": "1012",
+    "no": "1011",
     "kode": "TPB318",
     "nama": "KULIAH LAPANGAN",
     "kelas": "11",
@@ -19228,7 +19209,7 @@
     }
   },
   {
-    "no": "1013",
+    "no": "1012",
     "kode": "TPB415",
     "nama": "PERENCANAAN TAMBANG BAWAH TANAH",
     "kelas": "11",
@@ -19247,7 +19228,7 @@
     }
   },
   {
-    "no": "1014",
+    "no": "1013",
     "kode": "TPB510",
     "nama": "TEKNOLOGI BATUBARA",
     "kelas": "11",
@@ -19266,7 +19247,7 @@
     }
   },
   {
-    "no": "1015",
+    "no": "1014",
     "kode": "TPB512",
     "nama": "COAL BED METHANE (CBM)",
     "kelas": "11",
@@ -19285,7 +19266,7 @@
     }
   },
   {
-    "no": "1016",
+    "no": "1015",
     "kode": "TPB514",
     "nama": "PERENCANAAN PABRIK PENGOLAHAN MINERAL",
     "kelas": "11",
@@ -19304,7 +19285,7 @@
     }
   },
   {
-    "no": "1017",
+    "no": "1016",
     "kode": "TPB516",
     "nama": "KOROSI DALAM INDUSTRI PERTAMBANGAN",
     "kelas": "11",
@@ -19323,7 +19304,7 @@
     }
   },
   {
-    "no": "1018",
+    "no": "1017",
     "kode": "TPB518",
     "nama": "EVALUASI FORMASI",
     "kelas": "11",
@@ -19342,7 +19323,7 @@
     }
   },
   {
-    "no": "1019",
+    "no": "1018",
     "kode": "TPB522",
     "nama": "GEOTHERMAL",
     "kelas": "11",
@@ -19361,7 +19342,7 @@
     }
   },
   {
-    "no": "1020",
+    "no": "1019",
     "kode": "TPB524",
     "nama": "TEKNIK PRODUKSI MIGAS",
     "kelas": "11",
@@ -19380,7 +19361,7 @@
     }
   },
   {
-    "no": "1021",
+    "no": "1020",
     "kode": "TPB526",
     "nama": "ANALISIS DAMPAK LINGKUNGAN",
     "kelas": "11",
@@ -19399,7 +19380,7 @@
     }
   },
   {
-    "no": "1022",
+    "no": "1021",
     "kode": "TPB528",
     "nama": "REKLAMASI DAN PASCA TAMBANG",
     "kelas": "11",
@@ -19418,7 +19399,7 @@
     }
   },
   {
-    "no": "1023",
+    "no": "1022",
     "kode": "TPB530",
     "nama": "KEBIJAKAN PERTAMBANGAN",
     "kelas": "11",
@@ -19437,7 +19418,7 @@
     }
   },
   {
-    "no": "1024",
+    "no": "1023",
     "kode": "TPB532",
     "nama": "STRATEGI BISNIS PERTAMBANGAN",
     "kelas": "11",
@@ -19456,7 +19437,7 @@
     }
   },
   {
-    "no": "1025",
+    "no": "1024",
     "kode": "TPB534",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "11",
@@ -19475,7 +19456,7 @@
     }
   },
   {
-    "no": "1026",
+    "no": "1025",
     "kode": "TPB536",
     "nama": "TEKNIK KOMUNIKASI",
     "kelas": "11",
@@ -19494,7 +19475,7 @@
     }
   },
   {
-    "no": "1027",
+    "no": "1026",
     "kode": "TPB538",
     "nama": "PIROMETALURGI",
     "kelas": "11",
@@ -19513,7 +19494,7 @@
     }
   },
   {
-    "no": "1028",
+    "no": "1027",
     "kode": "TPB540",
     "nama": "HIDROGEOLOGI TAMBANG",
     "kelas": "11",
@@ -19532,7 +19513,7 @@
     }
   },
   {
-    "no": "1029",
+    "no": "1028",
     "kode": "TPB542",
     "nama": "TEKNIK PEMBORAN EKSPLORASI",
     "kelas": "11",
@@ -19551,7 +19532,7 @@
     }
   },
   {
-    "no": "1030",
+    "no": "1029",
     "kode": "TPB544",
     "nama": "SISTEM KEBUMIAN",
     "kelas": "11",
@@ -19570,7 +19551,7 @@
     }
   },
   {
-    "no": "1031",
+    "no": "1030",
     "kode": "TPB546",
     "nama": "FOTOGRAMETRI",
     "kelas": "11",
@@ -19589,7 +19570,7 @@
     }
   },
   {
-    "no": "1032",
+    "no": "1031",
     "kode": "TPB548",
     "nama": "MANAJEMEN KONFLIK",
     "kelas": "11",
@@ -19608,7 +19589,7 @@
     }
   },
   {
-    "no": "1033",
+    "no": "1032",
     "kode": "TPB550",
     "nama": "HIDROMETALURGI",
     "kelas": "11",
@@ -19627,7 +19608,7 @@
     }
   },
   {
-    "no": "1034",
+    "no": "1033",
     "kode": "TPBP02",
     "nama": "KERJA PRAKTEK",
     "kelas": "11",
@@ -19646,7 +19627,7 @@
     }
   },
   {
-    "no": "1035",
+    "no": "1034",
     "kode": "TPBP04",
     "nama": "SEMINAR",
     "kelas": "11",
@@ -19665,7 +19646,7 @@
     }
   },
   {
-    "no": "1036",
+    "no": "1035",
     "kode": "TPBPA2",
     "nama": "TUGAS AKHIR",
     "kelas": "11",
@@ -19684,7 +19665,7 @@
     }
   },
   {
-    "no": "1037",
+    "no": "1036",
     "kode": "FTT302",
     "nama": "TECHNOPRENEURSHIP",
     "kelas": "12",
@@ -19703,7 +19684,7 @@
     }
   },
   {
-    "no": "1038",
+    "no": "1037",
     "kode": "FTT302",
     "nama": "TECHNOPRENEURSHIP",
     "kelas": "19",
@@ -19722,7 +19703,7 @@
     }
   },
   {
-    "no": "1039",
+    "no": "1038",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "11",
@@ -19741,7 +19722,7 @@
     }
   },
   {
-    "no": "1040",
+    "no": "1039",
     "kode": "TGL102",
     "nama": "KALKULUS II",
     "kelas": "11",
@@ -19760,7 +19741,7 @@
     }
   },
   {
-    "no": "1041",
+    "no": "1040",
     "kode": "TGL102",
     "nama": "KALKULUS II",
     "kelas": "12",
@@ -19779,7 +19760,7 @@
     }
   },
   {
-    "no": "1042",
+    "no": "1041",
     "kode": "TGL102",
     "nama": "KALKULUS II",
     "kelas": "13",
@@ -19798,7 +19779,7 @@
     }
   },
   {
-    "no": "1043",
+    "no": "1042",
     "kode": "TGL104",
     "nama": "FISIKA II",
     "kelas": "11",
@@ -19817,7 +19798,7 @@
     }
   },
   {
-    "no": "1044",
+    "no": "1043",
     "kode": "TGL104",
     "nama": "FISIKA II",
     "kelas": "12",
@@ -19836,7 +19817,7 @@
     }
   },
   {
-    "no": "1045",
+    "no": "1044",
     "kode": "TGL104",
     "nama": "FISIKA II",
     "kelas": "13",
@@ -19855,7 +19836,7 @@
     }
   },
   {
-    "no": "1046",
+    "no": "1045",
     "kode": "TGL106",
     "nama": "KIMIA II",
     "kelas": "11",
@@ -19874,7 +19855,7 @@
     }
   },
   {
-    "no": "1047",
+    "no": "1046",
     "kode": "TGL106",
     "nama": "KIMIA II",
     "kelas": "12",
@@ -19893,7 +19874,7 @@
     }
   },
   {
-    "no": "1048",
+    "no": "1047",
     "kode": "TGL106",
     "nama": "KIMIA II",
     "kelas": "13",
@@ -19912,7 +19893,7 @@
     }
   },
   {
-    "no": "1049",
+    "no": "1048",
     "kode": "TGL110",
     "nama": "PETROLOGI",
     "kelas": "11",
@@ -19931,7 +19912,7 @@
     }
   },
   {
-    "no": "1050",
+    "no": "1049",
     "kode": "TGL110",
     "nama": "PETROLOGI",
     "kelas": "12",
@@ -19950,7 +19931,7 @@
     }
   },
   {
-    "no": "1051",
+    "no": "1050",
     "kode": "TGL110",
     "nama": "PETROLOGI",
     "kelas": "13",
@@ -19969,7 +19950,7 @@
     }
   },
   {
-    "no": "1052",
+    "no": "1051",
     "kode": "TGL112",
     "nama": "GEOMORFOLOGI",
     "kelas": "11",
@@ -19988,7 +19969,7 @@
     }
   },
   {
-    "no": "1053",
+    "no": "1052",
     "kode": "TGL112",
     "nama": "GEOMORFOLOGI",
     "kelas": "12",
@@ -20007,7 +19988,7 @@
     }
   },
   {
-    "no": "1054",
+    "no": "1053",
     "kode": "TGL112",
     "nama": "GEOMORFOLOGI",
     "kelas": "13",
@@ -20026,7 +20007,7 @@
     }
   },
   {
-    "no": "1055",
+    "no": "1054",
     "kode": "TGL204",
     "nama": "GEOLOGI SUMBER DAYA MINERAL",
     "kelas": "11",
@@ -20045,7 +20026,7 @@
     }
   },
   {
-    "no": "1056",
+    "no": "1055",
     "kode": "TGL204",
     "nama": "GEOLOGI SUMBER DAYA MINERAL",
     "kelas": "12",
@@ -20064,7 +20045,7 @@
     }
   },
   {
-    "no": "1057",
+    "no": "1056",
     "kode": "TGL204",
     "nama": "GEOLOGI SUMBER DAYA MINERAL",
     "kelas": "13",
@@ -20083,7 +20064,7 @@
     }
   },
   {
-    "no": "1058",
+    "no": "1057",
     "kode": "TGL206",
     "nama": "SEDIMENTOLOGI DAN STRATIGRAFI",
     "kelas": "11",
@@ -20102,7 +20083,7 @@
     }
   },
   {
-    "no": "1059",
+    "no": "1058",
     "kode": "TGL206",
     "nama": "SEDIMENTOLOGI DAN STRATIGRAFI",
     "kelas": "12",
@@ -20121,7 +20102,7 @@
     }
   },
   {
-    "no": "1060",
+    "no": "1059",
     "kode": "TGL206",
     "nama": "SEDIMENTOLOGI DAN STRATIGRAFI",
     "kelas": "13",
@@ -20140,7 +20121,7 @@
     }
   },
   {
-    "no": "1061",
+    "no": "1060",
     "kode": "TGL208",
     "nama": "MITIGASI BENCANA GEOLOGI",
     "kelas": "11",
@@ -20159,7 +20140,7 @@
     }
   },
   {
-    "no": "1062",
+    "no": "1061",
     "kode": "TGL208",
     "nama": "MITIGASI BENCANA GEOLOGI",
     "kelas": "12",
@@ -20178,7 +20159,7 @@
     }
   },
   {
-    "no": "1063",
+    "no": "1062",
     "kode": "TGL208",
     "nama": "MITIGASI BENCANA GEOLOGI",
     "kelas": "13",
@@ -20197,7 +20178,7 @@
     }
   },
   {
-    "no": "1064",
+    "no": "1063",
     "kode": "TGL210",
     "nama": "GEOLOGI LINGKUNGAN",
     "kelas": "11",
@@ -20216,7 +20197,7 @@
     }
   },
   {
-    "no": "1065",
+    "no": "1064",
     "kode": "TGL210",
     "nama": "GEOLOGI LINGKUNGAN",
     "kelas": "12",
@@ -20235,7 +20216,7 @@
     }
   },
   {
-    "no": "1066",
+    "no": "1065",
     "kode": "TGL210",
     "nama": "GEOLOGI LINGKUNGAN",
     "kelas": "13",
@@ -20254,7 +20235,7 @@
     }
   },
   {
-    "no": "1067",
+    "no": "1066",
     "kode": "TGL212",
     "nama": "PENGANTAR EKSPLORASI GEOFISIKA",
     "kelas": "11",
@@ -20273,7 +20254,7 @@
     }
   },
   {
-    "no": "1068",
+    "no": "1067",
     "kode": "TGL212",
     "nama": "PENGANTAR EKSPLORASI GEOFISIKA",
     "kelas": "12",
@@ -20292,7 +20273,7 @@
     }
   },
   {
-    "no": "1069",
+    "no": "1068",
     "kode": "TGL212",
     "nama": "PENGANTAR EKSPLORASI GEOFISIKA",
     "kelas": "13",
@@ -20311,7 +20292,7 @@
     }
   },
   {
-    "no": "1070",
+    "no": "1069",
     "kode": "TGL214",
     "nama": "GEOLOGI SEJARAH",
     "kelas": "11",
@@ -20330,7 +20311,7 @@
     }
   },
   {
-    "no": "1071",
+    "no": "1070",
     "kode": "TGL214",
     "nama": "GEOLOGI SEJARAH",
     "kelas": "12",
@@ -20349,7 +20330,7 @@
     }
   },
   {
-    "no": "1072",
+    "no": "1071",
     "kode": "TGL214",
     "nama": "GEOLOGI SEJARAH",
     "kelas": "13",
@@ -20368,7 +20349,7 @@
     }
   },
   {
-    "no": "1073",
+    "no": "1072",
     "kode": "TGL216",
     "nama": "HIDROGEOLOGI",
     "kelas": "11",
@@ -20387,7 +20368,7 @@
     }
   },
   {
-    "no": "1074",
+    "no": "1073",
     "kode": "TGL216",
     "nama": "HIDROGEOLOGI",
     "kelas": "12",
@@ -20406,7 +20387,7 @@
     }
   },
   {
-    "no": "1075",
+    "no": "1074",
     "kode": "TGL216",
     "nama": "HIDROGEOLOGI",
     "kelas": "13",
@@ -20425,7 +20406,7 @@
     }
   },
   {
-    "no": "1076",
+    "no": "1075",
     "kode": "TGL218",
     "nama": "METODE EKSPLORASI GEOLOGI",
     "kelas": "11",
@@ -20444,7 +20425,7 @@
     }
   },
   {
-    "no": "1077",
+    "no": "1076",
     "kode": "TGL218",
     "nama": "METODE EKSPLORASI GEOLOGI",
     "kelas": "12",
@@ -20463,7 +20444,7 @@
     }
   },
   {
-    "no": "1078",
+    "no": "1077",
     "kode": "TGL218",
     "nama": "METODE EKSPLORASI GEOLOGI",
     "kelas": "13",
@@ -20482,7 +20463,7 @@
     }
   },
   {
-    "no": "1079",
+    "no": "1078",
     "kode": "TGL304",
     "nama": "GEOLOGI INDONESIA",
     "kelas": "11",
@@ -20501,7 +20482,7 @@
     }
   },
   {
-    "no": "1080",
+    "no": "1079",
     "kode": "TGL304",
     "nama": "GEOLOGI INDONESIA",
     "kelas": "12",
@@ -20520,7 +20501,7 @@
     }
   },
   {
-    "no": "1081",
+    "no": "1080",
     "kode": "TGL306",
     "nama": "KOMPUTASI GEOLOGI",
     "kelas": "11",
@@ -20539,7 +20520,7 @@
     }
   },
   {
-    "no": "1082",
+    "no": "1081",
     "kode": "TGL306",
     "nama": "KOMPUTASI GEOLOGI",
     "kelas": "12",
@@ -20558,7 +20539,7 @@
     }
   },
   {
-    "no": "1083",
+    "no": "1082",
     "kode": "TGL308",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "11",
@@ -20577,7 +20558,7 @@
     }
   },
   {
-    "no": "1084",
+    "no": "1083",
     "kode": "TGL308",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "12",
@@ -20596,7 +20577,7 @@
     }
   },
   {
-    "no": "1085",
+    "no": "1084",
     "kode": "TGL310",
     "nama": "SEISMIK STRATIGRAFI",
     "kelas": "11",
@@ -20615,7 +20596,7 @@
     }
   },
   {
-    "no": "1086",
+    "no": "1085",
     "kode": "TGL310",
     "nama": "SEISMIK STRATIGRAFI",
     "kelas": "12",
@@ -20634,7 +20615,7 @@
     }
   },
   {
-    "no": "1087",
+    "no": "1086",
     "kode": "TGL312",
     "nama": "GEOSTATISTIK",
     "kelas": "11",
@@ -20653,7 +20634,7 @@
     }
   },
   {
-    "no": "1088",
+    "no": "1087",
     "kode": "TGL312",
     "nama": "GEOSTATISTIK",
     "kelas": "12",
@@ -20672,7 +20653,7 @@
     }
   },
   {
-    "no": "1089",
+    "no": "1088",
     "kode": "TGL314",
     "nama": "KULIAH LAPANGAN II",
     "kelas": "11",
@@ -20691,7 +20672,7 @@
     }
   },
   {
-    "no": "1090",
+    "no": "1089",
     "kode": "TGL316",
     "nama": "MEKANIKA BATUAN",
     "kelas": "11",
@@ -20710,7 +20691,7 @@
     }
   },
   {
-    "no": "1091",
+    "no": "1090",
     "kode": "TGL316",
     "nama": "MEKANIKA BATUAN",
     "kelas": "12",
@@ -20729,7 +20710,7 @@
     }
   },
   {
-    "no": "1092",
+    "no": "1091",
     "kode": "TGL504",
     "nama": "GEOMEKANIKA PERMINYAKAN",
     "kelas": "11",
@@ -20748,7 +20729,7 @@
     }
   },
   {
-    "no": "1093",
+    "no": "1092",
     "kode": "TGL506",
     "nama": "GEOLOGI BATU MULIA",
     "kelas": "11",
@@ -20767,7 +20748,7 @@
     }
   },
   {
-    "no": "1094",
+    "no": "1093",
     "kode": "TGL508",
     "nama": "GEOLOGI BAHAN KONSTRUKSI",
     "kelas": "11",
@@ -20786,7 +20767,7 @@
     }
   },
   {
-    "no": "1095",
+    "no": "1094",
     "kode": "TGL510",
     "nama": "SEISMOLOGI",
     "kelas": "11",
@@ -20805,7 +20786,7 @@
     }
   },
   {
-    "no": "1096",
+    "no": "1095",
     "kode": "TGL514",
     "nama": "GEOLOGI TATA RUANG",
     "kelas": "11",
@@ -20824,7 +20805,7 @@
     }
   },
   {
-    "no": "1097",
+    "no": "1096",
     "kode": "TGL530",
     "nama": "REKAYASA KEGEMPAAN LANJUT",
     "kelas": "11",
@@ -20843,7 +20824,7 @@
     }
   },
   {
-    "no": "1098",
+    "no": "1097",
     "kode": "TGLP01",
     "nama": "PROPOSAL TUGAS AKHIR",
     "kelas": "11",
@@ -20862,7 +20843,7 @@
     }
   },
   {
-    "no": "1099",
+    "no": "1098",
     "kode": "TGLP02",
     "nama": "GEOLOGI MINYAK DAN GAS BUMI NON KONVENSIONAL",
     "kelas": "11",
@@ -20881,7 +20862,7 @@
     }
   },
   {
-    "no": "1100",
+    "no": "1099",
     "kode": "TGLP12",
     "nama": "INVESTIGASI GEOTEKNIK",
     "kelas": "11",
@@ -20900,7 +20881,7 @@
     }
   },
   {
-    "no": "1101",
+    "no": "1100",
     "kode": "TGLP16",
     "nama": "GEOARKEOLOGI",
     "kelas": "11",
@@ -20919,7 +20900,7 @@
     }
   },
   {
-    "no": "1102",
+    "no": "1101",
     "kode": "TGLP18",
     "nama": "TOPIK KHUSUS GEOLOGI",
     "kelas": "11",
@@ -20938,7 +20919,7 @@
     }
   },
   {
-    "no": "1103",
+    "no": "1102",
     "kode": "TGLP22",
     "nama": "KONSEP TEKNOLOGI",
     "kelas": "11",
@@ -20957,7 +20938,7 @@
     }
   },
   {
-    "no": "1104",
+    "no": "1103",
     "kode": "TGLP24",
     "nama": "MANAJEMEN BENCANA GEOLOGI",
     "kelas": "11",
@@ -20976,7 +20957,7 @@
     }
   },
   {
-    "no": "1105",
+    "no": "1104",
     "kode": "TGLPA2",
     "nama": "TUGAS AKHIR",
     "kelas": "11",
@@ -20995,7 +20976,7 @@
     }
   },
   {
-    "no": "1106",
+    "no": "1105",
     "kode": "FTT302",
     "nama": "TECHNOPRENEURSHIP",
     "kelas": "24",
@@ -21014,7 +20995,7 @@
     }
   },
   {
-    "no": "1107",
+    "no": "1106",
     "kode": "FTT302",
     "nama": "TECHNOPRENEURSHIP",
     "kelas": "25",
@@ -21033,7 +21014,7 @@
     }
   },
   {
-    "no": "1108",
+    "no": "1107",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "11",
@@ -21041,7 +21022,7 @@
     "ruang": "Universitas",
     "hari": "Minggu",
     "waktu": "08:00-12:00",
-    "peserta": "12",
+    "peserta": "11",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "MKSP02",
@@ -21052,7 +21033,7 @@
     }
   },
   {
-    "no": "1109",
+    "no": "1108",
     "kode": "TPW108",
     "nama": "INFRASTRUKTUR WILAYAH DAN KOTA",
     "kelas": "11",
@@ -21071,7 +21052,7 @@
     }
   },
   {
-    "no": "1110",
+    "no": "1109",
     "kode": "TPW108",
     "nama": "INFRASTRUKTUR WILAYAH DAN KOTA",
     "kelas": "12",
@@ -21090,7 +21071,7 @@
     }
   },
   {
-    "no": "1111",
+    "no": "1110",
     "kode": "TPW110",
     "nama": "PERENCANAAN TAPAK",
     "kelas": "11",
@@ -21109,7 +21090,7 @@
     }
   },
   {
-    "no": "1112",
+    "no": "1111",
     "kode": "TPW110",
     "nama": "PERENCANAAN TAPAK",
     "kelas": "12",
@@ -21128,7 +21109,7 @@
     }
   },
   {
-    "no": "1113",
+    "no": "1112",
     "kode": "TPW112",
     "nama": "STUDIO PROSES PERENCANAAN",
     "kelas": "11",
@@ -21147,7 +21128,7 @@
     }
   },
   {
-    "no": "1114",
+    "no": "1113",
     "kode": "TPW112",
     "nama": "STUDIO PROSES PERENCANAAN",
     "kelas": "12",
@@ -21166,7 +21147,7 @@
     }
   },
   {
-    "no": "1115",
+    "no": "1114",
     "kode": "TPW112",
     "nama": "STUDIO PROSES PERENCANAAN",
     "kelas": "13",
@@ -21185,7 +21166,7 @@
     }
   },
   {
-    "no": "1116",
+    "no": "1115",
     "kode": "TPW112",
     "nama": "STUDIO PROSES PERENCANAAN",
     "kelas": "14",
@@ -21204,7 +21185,7 @@
     }
   },
   {
-    "no": "1117",
+    "no": "1116",
     "kode": "TPW112",
     "nama": "STUDIO PROSES PERENCANAAN",
     "kelas": "15",
@@ -21223,7 +21204,7 @@
     }
   },
   {
-    "no": "1118",
+    "no": "1117",
     "kode": "TPW112",
     "nama": "STUDIO PROSES PERENCANAAN",
     "kelas": "16",
@@ -21242,7 +21223,7 @@
     }
   },
   {
-    "no": "1119",
+    "no": "1118",
     "kode": "TPW114",
     "nama": "SISTEM SOSIAL DAN KEPENDUDUKAN",
     "kelas": "11",
@@ -21261,7 +21242,7 @@
     }
   },
   {
-    "no": "1120",
+    "no": "1119",
     "kode": "TPW114",
     "nama": "SISTEM SOSIAL DAN KEPENDUDUKAN",
     "kelas": "12",
@@ -21280,7 +21261,7 @@
     }
   },
   {
-    "no": "1121",
+    "no": "1120",
     "kode": "TPW204",
     "nama": "PERENCANAAN KOTA",
     "kelas": "11",
@@ -21299,7 +21280,7 @@
     }
   },
   {
-    "no": "1122",
+    "no": "1121",
     "kode": "TPW204",
     "nama": "PERENCANAAN KOTA",
     "kelas": "12",
@@ -21318,7 +21299,7 @@
     }
   },
   {
-    "no": "1123",
+    "no": "1122",
     "kode": "TPW210",
     "nama": "METODE ANALISIS PERENCANAAN II",
     "kelas": "11",
@@ -21337,7 +21318,7 @@
     }
   },
   {
-    "no": "1124",
+    "no": "1123",
     "kode": "TPW210",
     "nama": "METODE ANALISIS PERENCANAAN II",
     "kelas": "12",
@@ -21356,7 +21337,7 @@
     }
   },
   {
-    "no": "1125",
+    "no": "1124",
     "kode": "TPW216",
     "nama": "PERUMAHAN DAN PERMUKIMAN",
     "kelas": "11",
@@ -21375,7 +21356,7 @@
     }
   },
   {
-    "no": "1126",
+    "no": "1125",
     "kode": "TPW216",
     "nama": "PERUMAHAN DAN PERMUKIMAN",
     "kelas": "12",
@@ -21394,7 +21375,7 @@
     }
   },
   {
-    "no": "1127",
+    "no": "1126",
     "kode": "TPW218",
     "nama": "ANALISIS SUMBER DAYA ALAM DAN GEOLOGI LINGKUNGAN",
     "kelas": "11",
@@ -21413,7 +21394,7 @@
     }
   },
   {
-    "no": "1128",
+    "no": "1127",
     "kode": "TPW218",
     "nama": "ANALISIS SUMBER DAYA ALAM DAN GEOLOGI LINGKUNGAN",
     "kelas": "12",
@@ -21432,7 +21413,7 @@
     }
   },
   {
-    "no": "1129",
+    "no": "1128",
     "kode": "TPW220",
     "nama": "PENGEMBANGAN KOMUNITAS",
     "kelas": "11",
@@ -21440,7 +21421,7 @@
     "ruang": "A34-201",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "44",
+    "peserta": "45",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPW220",
@@ -21451,7 +21432,7 @@
     }
   },
   {
-    "no": "1130",
+    "no": "1129",
     "kode": "TPW220",
     "nama": "PENGEMBANGAN KOMUNITAS",
     "kelas": "12",
@@ -21470,7 +21451,7 @@
     }
   },
   {
-    "no": "1131",
+    "no": "1130",
     "kode": "TPW222",
     "nama": "EKONOMI WILAYAH DAN KOTA",
     "kelas": "11",
@@ -21489,7 +21470,7 @@
     }
   },
   {
-    "no": "1132",
+    "no": "1131",
     "kode": "TPW222",
     "nama": "EKONOMI WILAYAH DAN KOTA",
     "kelas": "12",
@@ -21508,7 +21489,7 @@
     }
   },
   {
-    "no": "1133",
+    "no": "1132",
     "kode": "TPW224",
     "nama": "STUDIO PERENCANAAN DESA",
     "kelas": "11",
@@ -21527,7 +21508,7 @@
     }
   },
   {
-    "no": "1134",
+    "no": "1133",
     "kode": "TPW224",
     "nama": "STUDIO PERENCANAAN DESA",
     "kelas": "12",
@@ -21546,7 +21527,7 @@
     }
   },
   {
-    "no": "1135",
+    "no": "1134",
     "kode": "TPW224",
     "nama": "STUDIO PERENCANAAN DESA",
     "kelas": "13",
@@ -21565,7 +21546,7 @@
     }
   },
   {
-    "no": "1136",
+    "no": "1135",
     "kode": "TPW224",
     "nama": "STUDIO PERENCANAAN DESA",
     "kelas": "14",
@@ -21584,7 +21565,7 @@
     }
   },
   {
-    "no": "1137",
+    "no": "1136",
     "kode": "TPW224",
     "nama": "STUDIO PERENCANAAN DESA",
     "kelas": "15",
@@ -21603,7 +21584,7 @@
     }
   },
   {
-    "no": "1138",
+    "no": "1137",
     "kode": "TPW224",
     "nama": "STUDIO PERENCANAAN DESA",
     "kelas": "16",
@@ -21622,7 +21603,7 @@
     }
   },
   {
-    "no": "1139",
+    "no": "1138",
     "kode": "TPW224",
     "nama": "STUDIO PERENCANAAN DESA",
     "kelas": "17",
@@ -21641,7 +21622,7 @@
     }
   },
   {
-    "no": "1140",
+    "no": "1139",
     "kode": "TPW224",
     "nama": "STUDIO PERENCANAAN DESA",
     "kelas": "18",
@@ -21660,7 +21641,7 @@
     }
   },
   {
-    "no": "1141",
+    "no": "1140",
     "kode": "TPW225",
     "nama": "STUDIO PERENCANAAN KAWASAN",
     "kelas": "11",
@@ -21679,7 +21660,7 @@
     }
   },
   {
-    "no": "1142",
+    "no": "1141",
     "kode": "TPW304",
     "nama": "PERENCANAAN KAWASAN PESISIR",
     "kelas": "11",
@@ -21698,7 +21679,7 @@
     }
   },
   {
-    "no": "1143",
+    "no": "1142",
     "kode": "TPW304",
     "nama": "PERENCANAAN KAWASAN PESISIR",
     "kelas": "12",
@@ -21717,7 +21698,7 @@
     }
   },
   {
-    "no": "1144",
+    "no": "1143",
     "kode": "TPW320",
     "nama": "MANAJEMEN PROYEK DAN PEMBIAYAAN",
     "kelas": "11",
@@ -21736,7 +21717,7 @@
     }
   },
   {
-    "no": "1145",
+    "no": "1144",
     "kode": "TPW320",
     "nama": "MANAJEMEN PROYEK DAN PEMBIAYAAN",
     "kelas": "12",
@@ -21755,7 +21736,7 @@
     }
   },
   {
-    "no": "1146",
+    "no": "1145",
     "kode": "TPW322",
     "nama": "METODE PENELITIAN",
     "kelas": "11",
@@ -21774,7 +21755,7 @@
     }
   },
   {
-    "no": "1147",
+    "no": "1146",
     "kode": "TPW322",
     "nama": "METODE PENELITIAN",
     "kelas": "12",
@@ -21793,7 +21774,7 @@
     }
   },
   {
-    "no": "1148",
+    "no": "1147",
     "kode": "TPW324",
     "nama": "STUDIO PERENCANAAN WILAYAH",
     "kelas": "11",
@@ -21812,7 +21793,7 @@
     }
   },
   {
-    "no": "1149",
+    "no": "1148",
     "kode": "TPW325",
     "nama": "STUDIO PERENCANAAN KOTA",
     "kelas": "11",
@@ -21831,7 +21812,7 @@
     }
   },
   {
-    "no": "1150",
+    "no": "1149",
     "kode": "TPW325",
     "nama": "STUDIO PERENCANAAN KOTA",
     "kelas": "12",
@@ -21850,7 +21831,7 @@
     }
   },
   {
-    "no": "1151",
+    "no": "1150",
     "kode": "TPW325",
     "nama": "STUDIO PERENCANAAN KOTA",
     "kelas": "13",
@@ -21869,7 +21850,7 @@
     }
   },
   {
-    "no": "1152",
+    "no": "1151",
     "kode": "TPW325",
     "nama": "STUDIO PERENCANAAN KOTA",
     "kelas": "14",
@@ -21888,7 +21869,7 @@
     }
   },
   {
-    "no": "1153",
+    "no": "1152",
     "kode": "TPW325",
     "nama": "STUDIO PERENCANAAN KOTA",
     "kelas": "15",
@@ -21907,7 +21888,7 @@
     }
   },
   {
-    "no": "1154",
+    "no": "1153",
     "kode": "TPW325",
     "nama": "STUDIO PERENCANAAN KOTA",
     "kelas": "16",
@@ -21926,7 +21907,7 @@
     }
   },
   {
-    "no": "1155",
+    "no": "1154",
     "kode": "TPWP01",
     "nama": "KERJA PRAKTEK",
     "kelas": "11",
@@ -21945,7 +21926,7 @@
     }
   },
   {
-    "no": "1156",
+    "no": "1155",
     "kode": "TPWP02",
     "nama": "PENGEMBANGAN LAHAN",
     "kelas": "11",
@@ -21964,7 +21945,7 @@
     }
   },
   {
-    "no": "1157",
+    "no": "1156",
     "kode": "TPWP03",
     "nama": "SEMINAR",
     "kelas": "11",
@@ -21983,7 +21964,7 @@
     }
   },
   {
-    "no": "1158",
+    "no": "1157",
     "kode": "TPWP04",
     "nama": "PERMODELAN WILAYAH DAN KOTA",
     "kelas": "11",
@@ -22002,7 +21983,7 @@
     }
   },
   {
-    "no": "1159",
+    "no": "1158",
     "kode": "TPWP05",
     "nama": "PERENCANAAN KOTA INKLUSIF",
     "kelas": "11",
@@ -22021,7 +22002,7 @@
     }
   },
   {
-    "no": "1160",
+    "no": "1159",
     "kode": "TPWP06",
     "nama": "PENGELOLAAN WILAYAH PESISIR DAN PULAU KECIL",
     "kelas": "11",
@@ -22029,7 +22010,7 @@
     "ruang": "A34-202",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "4",
+    "peserta": "3",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPWP06",
@@ -22040,7 +22021,7 @@
     }
   },
   {
-    "no": "1161",
+    "no": "1160",
     "kode": "TPWP07",
     "nama": "PERENCANAAN KOTA ISLAMI",
     "kelas": "11",
@@ -22048,7 +22029,7 @@
     "ruang": "Prodi PWK",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "3",
+    "peserta": "2",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPWP07",
@@ -22059,7 +22040,7 @@
     }
   },
   {
-    "no": "1162",
+    "no": "1161",
     "kode": "TPWP08",
     "nama": "PRESERVASI KAWASAN",
     "kelas": "11",
@@ -22067,7 +22048,7 @@
     "ruang": "A34-202",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPWP08",
@@ -22078,7 +22059,7 @@
     }
   },
   {
-    "no": "1163",
+    "no": "1162",
     "kode": "TPWP09",
     "nama": "PEMBANGUNAN BERORIENTASI TRANSIT",
     "kelas": "11",
@@ -22097,7 +22078,7 @@
     }
   },
   {
-    "no": "1164",
+    "no": "1163",
     "kode": "TPWP10",
     "nama": "PERENCANAAN PARTISIPATIF",
     "kelas": "11",
@@ -22116,7 +22097,7 @@
     }
   },
   {
-    "no": "1165",
+    "no": "1164",
     "kode": "TPWP11",
     "nama": "BIG DATA UNTUK PERENCANAAN SPASIAL",
     "kelas": "11",
@@ -22135,7 +22116,7 @@
     }
   },
   {
-    "no": "1166",
+    "no": "1165",
     "kode": "TPWP12",
     "nama": "PERENCANAAN PARIWISATA",
     "kelas": "11",
@@ -22154,7 +22135,7 @@
     }
   },
   {
-    "no": "1167",
+    "no": "1166",
     "kode": "TPWP13",
     "nama": "ASPEK LINGKUNGAN DALAM PERENCANAAN",
     "kelas": "11",
@@ -22173,7 +22154,7 @@
     }
   },
   {
-    "no": "1168",
+    "no": "1167",
     "kode": "TPWP14",
     "nama": "PERENCANAAN PASCA BENCANA",
     "kelas": "11",
@@ -22192,7 +22173,7 @@
     }
   },
   {
-    "no": "1169",
+    "no": "1168",
     "kode": "TPWP15",
     "nama": "TEKNOLOGI DAN PENGOLAHAN LIMBAH PERKOTAAN LANJUT",
     "kelas": "11",
@@ -22200,7 +22181,7 @@
     "ruang": "Prodi PWK",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "35",
+    "peserta": "36",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPWP15",
@@ -22211,7 +22192,7 @@
     }
   },
   {
-    "no": "1170",
+    "no": "1169",
     "kode": "TPWP16",
     "nama": "PENGEMBANGAN KOTA RENDAH KARBON",
     "kelas": "11",
@@ -22230,7 +22211,7 @@
     }
   },
   {
-    "no": "1171",
+    "no": "1170",
     "kode": "TPWP17",
     "nama": "INFORMALITAS DALAM PERKOTAAN",
     "kelas": "11",
@@ -22249,7 +22230,7 @@
     }
   },
   {
-    "no": "1172",
+    "no": "1171",
     "kode": "TPWP19",
     "nama": "PERENCANAAN KAWASAN TRANSMIGRASI",
     "kelas": "11",
@@ -22268,7 +22249,7 @@
     }
   },
   {
-    "no": "1173",
+    "no": "1172",
     "kode": "TPWPA1",
     "nama": "TUGAS AKHIR  TA",
     "kelas": "11",
@@ -22287,7 +22268,7 @@
     }
   },
   {
-    "no": "1174",
+    "no": "1173",
     "kode": "FTEP01",
     "nama": "MBKM MAGANG/KERJASAMA RISET MANDIRI/WIRAUSAHA",
     "kelas": "11",
@@ -22306,7 +22287,7 @@
     }
   },
   {
-    "no": "1175",
+    "no": "1174",
     "kode": "FTEP02",
     "nama": "MBKM PROYEK KEMANUSIAAN/INDEPENDEN/DESA/KAMPUS MENGAJAR",
     "kelas": "11",
@@ -22325,7 +22306,7 @@
     }
   },
   {
-    "no": "1176",
+    "no": "1175",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "11",
@@ -22344,7 +22325,7 @@
     }
   },
   {
-    "no": "1177",
+    "no": "1176",
     "kode": "TIK102",
     "nama": "KALKULUS II",
     "kelas": "11",
@@ -22363,7 +22344,7 @@
     }
   },
   {
-    "no": "1178",
+    "no": "1177",
     "kode": "TIK102",
     "nama": "KALKULUS II",
     "kelas": "12",
@@ -22382,7 +22363,7 @@
     }
   },
   {
-    "no": "1179",
+    "no": "1178",
     "kode": "TIK102",
     "nama": "KALKULUS II",
     "kelas": "13",
@@ -22401,7 +22382,7 @@
     }
   },
   {
-    "no": "1180",
+    "no": "1179",
     "kode": "TIK104",
     "nama": "FISIKA II + LAB",
     "kelas": "11",
@@ -22420,7 +22401,7 @@
     }
   },
   {
-    "no": "1181",
+    "no": "1180",
     "kode": "TIK104",
     "nama": "FISIKA II + LAB",
     "kelas": "12",
@@ -22439,7 +22420,7 @@
     }
   },
   {
-    "no": "1182",
+    "no": "1181",
     "kode": "TIK104",
     "nama": "FISIKA II + LAB",
     "kelas": "13",
@@ -22458,7 +22439,7 @@
     }
   },
   {
-    "no": "1183",
+    "no": "1182",
     "kode": "TIK106",
     "nama": "MATEMATIKA DISKRIT",
     "kelas": "11",
@@ -22477,7 +22458,7 @@
     }
   },
   {
-    "no": "1184",
+    "no": "1183",
     "kode": "TIK106",
     "nama": "MATEMATIKA DISKRIT",
     "kelas": "12",
@@ -22496,7 +22477,7 @@
     }
   },
   {
-    "no": "1185",
+    "no": "1184",
     "kode": "TIK106",
     "nama": "MATEMATIKA DISKRIT",
     "kelas": "13",
@@ -22515,7 +22496,7 @@
     }
   },
   {
-    "no": "1186",
+    "no": "1185",
     "kode": "TIK108",
     "nama": "ALJABAR LINEAR DAN VARIABEL KOMPLEKS",
     "kelas": "11",
@@ -22534,7 +22515,7 @@
     }
   },
   {
-    "no": "1187",
+    "no": "1186",
     "kode": "TIK108",
     "nama": "ALJABAR LINEAR DAN VARIABEL KOMPLEKS",
     "kelas": "12",
@@ -22553,7 +22534,7 @@
     }
   },
   {
-    "no": "1188",
+    "no": "1187",
     "kode": "TIK108",
     "nama": "ALJABAR LINEAR DAN VARIABEL KOMPLEKS",
     "kelas": "13",
@@ -22572,7 +22553,7 @@
     }
   },
   {
-    "no": "1189",
+    "no": "1188",
     "kode": "TIK110",
     "nama": "PENGANTAR DESAIN DIGITAL",
     "kelas": "11",
@@ -22591,7 +22572,7 @@
     }
   },
   {
-    "no": "1190",
+    "no": "1189",
     "kode": "TIK110",
     "nama": "PENGANTAR DESAIN DIGITAL",
     "kelas": "12",
@@ -22610,7 +22591,7 @@
     }
   },
   {
-    "no": "1191",
+    "no": "1190",
     "kode": "TIK110",
     "nama": "PENGANTAR DESAIN DIGITAL",
     "kelas": "13",
@@ -22629,7 +22610,7 @@
     }
   },
   {
-    "no": "1192",
+    "no": "1191",
     "kode": "TIK112",
     "nama": "PEMROGRAMAN II + LAB",
     "kelas": "11",
@@ -22648,7 +22629,7 @@
     }
   },
   {
-    "no": "1193",
+    "no": "1192",
     "kode": "TIK112",
     "nama": "PEMROGRAMAN II + LAB",
     "kelas": "12",
@@ -22667,7 +22648,7 @@
     }
   },
   {
-    "no": "1194",
+    "no": "1193",
     "kode": "TIK112",
     "nama": "PEMROGRAMAN II + LAB",
     "kelas": "13",
@@ -22686,7 +22667,7 @@
     }
   },
   {
-    "no": "1195",
+    "no": "1194",
     "kode": "TIK202",
     "nama": "ARTIFICIAL INTELLIGENCE",
     "kelas": "11",
@@ -22705,7 +22686,7 @@
     }
   },
   {
-    "no": "1196",
+    "no": "1195",
     "kode": "TIK202",
     "nama": "ARTIFICIAL INTELLIGENCE",
     "kelas": "12",
@@ -22724,7 +22705,7 @@
     }
   },
   {
-    "no": "1197",
+    "no": "1196",
     "kode": "TIK202",
     "nama": "ARTIFICIAL INTELLIGENCE",
     "kelas": "13",
@@ -22743,7 +22724,7 @@
     }
   },
   {
-    "no": "1198",
+    "no": "1197",
     "kode": "TIK204",
     "nama": "REKAYASA PERANGKAT LUNAK + LAB",
     "kelas": "11",
@@ -22762,7 +22743,7 @@
     }
   },
   {
-    "no": "1199",
+    "no": "1198",
     "kode": "TIK204",
     "nama": "REKAYASA PERANGKAT LUNAK + LAB",
     "kelas": "12",
@@ -22781,7 +22762,7 @@
     }
   },
   {
-    "no": "1200",
+    "no": "1199",
     "kode": "TIK204",
     "nama": "REKAYASA PERANGKAT LUNAK + LAB",
     "kelas": "13",
@@ -22800,7 +22781,7 @@
     }
   },
   {
-    "no": "1201",
+    "no": "1200",
     "kode": "TIK206",
     "nama": "DESAIN DATABASE",
     "kelas": "11",
@@ -22819,7 +22800,7 @@
     }
   },
   {
-    "no": "1202",
+    "no": "1201",
     "kode": "TIK206",
     "nama": "DESAIN DATABASE",
     "kelas": "12",
@@ -22838,7 +22819,7 @@
     }
   },
   {
-    "no": "1203",
+    "no": "1202",
     "kode": "TIK206",
     "nama": "DESAIN DATABASE",
     "kelas": "13",
@@ -22857,7 +22838,7 @@
     }
   },
   {
-    "no": "1204",
+    "no": "1203",
     "kode": "TIK208",
     "nama": "SISTEM OPERASI",
     "kelas": "11",
@@ -22876,7 +22857,7 @@
     }
   },
   {
-    "no": "1205",
+    "no": "1204",
     "kode": "TIK208",
     "nama": "SISTEM OPERASI",
     "kelas": "12",
@@ -22895,7 +22876,7 @@
     }
   },
   {
-    "no": "1206",
+    "no": "1205",
     "kode": "TIK208",
     "nama": "SISTEM OPERASI",
     "kelas": "13",
@@ -22914,7 +22895,7 @@
     }
   },
   {
-    "no": "1207",
+    "no": "1206",
     "kode": "TIK210",
     "nama": "JARINGAN KOMPUTER + LAB",
     "kelas": "11",
@@ -22933,7 +22914,7 @@
     }
   },
   {
-    "no": "1208",
+    "no": "1207",
     "kode": "TIK210",
     "nama": "JARINGAN KOMPUTER + LAB",
     "kelas": "12",
@@ -22952,7 +22933,7 @@
     }
   },
   {
-    "no": "1209",
+    "no": "1208",
     "kode": "TIK210",
     "nama": "JARINGAN KOMPUTER + LAB",
     "kelas": "13",
@@ -22971,7 +22952,7 @@
     }
   },
   {
-    "no": "1210",
+    "no": "1209",
     "kode": "TIK212",
     "nama": "RANGKAIAN ELEKTRONIKA + LAB",
     "kelas": "11",
@@ -22990,7 +22971,7 @@
     }
   },
   {
-    "no": "1211",
+    "no": "1210",
     "kode": "TIK212",
     "nama": "RANGKAIAN ELEKTRONIKA + LAB",
     "kelas": "12",
@@ -23009,7 +22990,7 @@
     }
   },
   {
-    "no": "1212",
+    "no": "1211",
     "kode": "TIK212",
     "nama": "RANGKAIAN ELEKTRONIKA + LAB",
     "kelas": "13",
@@ -23028,7 +23009,7 @@
     }
   },
   {
-    "no": "1213",
+    "no": "1212",
     "kode": "TIK301",
     "nama": "TATA TULIS ILMIAH",
     "kelas": "11",
@@ -23047,7 +23028,7 @@
     }
   },
   {
-    "no": "1214",
+    "no": "1213",
     "kode": "TIK302",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "11",
@@ -23066,7 +23047,7 @@
     }
   },
   {
-    "no": "1215",
+    "no": "1214",
     "kode": "TIK302",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "12",
@@ -23085,7 +23066,7 @@
     }
   },
   {
-    "no": "1216",
+    "no": "1215",
     "kode": "TIK304",
     "nama": "ETIKA DAN PROFESIONALISME",
     "kelas": "11",
@@ -23104,7 +23085,7 @@
     }
   },
   {
-    "no": "1217",
+    "no": "1216",
     "kode": "TIK304",
     "nama": "ETIKA DAN PROFESIONALISME",
     "kelas": "12",
@@ -23123,7 +23104,7 @@
     }
   },
   {
-    "no": "1218",
+    "no": "1217",
     "kode": "TIK305",
     "nama": "KOMPUTASI TERDISTRIBUSI + LAB",
     "kelas": "11",
@@ -23142,7 +23123,7 @@
     }
   },
   {
-    "no": "1219",
+    "no": "1218",
     "kode": "TIK305",
     "nama": "KOMPUTASI TERDISTRIBUSI + LAB",
     "kelas": "12",
@@ -23161,7 +23142,7 @@
     }
   },
   {
-    "no": "1220",
+    "no": "1219",
     "kode": "TIK307",
     "nama": "PENGOLAHAN CITRA DIGITAL + LAB",
     "kelas": "11",
@@ -23180,7 +23161,7 @@
     }
   },
   {
-    "no": "1221",
+    "no": "1220",
     "kode": "TIK311",
     "nama": "MACHINE LEARNING",
     "kelas": "11",
@@ -23199,7 +23180,7 @@
     }
   },
   {
-    "no": "1222",
+    "no": "1221",
     "kode": "TIK502",
     "nama": "KAPITA SELEKTA: SISTEM EMBEDDED I",
     "kelas": "11",
@@ -23218,7 +23199,7 @@
     }
   },
   {
-    "no": "1223",
+    "no": "1222",
     "kode": "TIK502",
     "nama": "KAPITA SELEKTA: SISTEM EMBEDDED I",
     "kelas": "12",
@@ -23237,7 +23218,7 @@
     }
   },
   {
-    "no": "1224",
+    "no": "1223",
     "kode": "TIK504",
     "nama": "PERANCANGAN INTERNET OF THINGS + LAB",
     "kelas": "11",
@@ -23256,7 +23237,7 @@
     }
   },
   {
-    "no": "1225",
+    "no": "1224",
     "kode": "TIK504",
     "nama": "PERANCANGAN INTERNET OF THINGS + LAB",
     "kelas": "12",
@@ -23275,7 +23256,7 @@
     }
   },
   {
-    "no": "1226",
+    "no": "1225",
     "kode": "TIK506",
     "nama": "SENSOR DAN TRANSDUSER",
     "kelas": "11",
@@ -23294,7 +23275,7 @@
     }
   },
   {
-    "no": "1227",
+    "no": "1226",
     "kode": "TIK506",
     "nama": "SENSOR DAN TRANSDUSER",
     "kelas": "12",
@@ -23313,7 +23294,7 @@
     }
   },
   {
-    "no": "1228",
+    "no": "1227",
     "kode": "TIK508",
     "nama": "MIKROPROSESOR DAN TEKNIK ANTARMUKA",
     "kelas": "11",
@@ -23332,7 +23313,7 @@
     }
   },
   {
-    "no": "1229",
+    "no": "1228",
     "kode": "TIK512",
     "nama": "PERANCANGAN INFRASTRUKTUR JARINGAN + LAB",
     "kelas": "11",
@@ -23351,7 +23332,7 @@
     }
   },
   {
-    "no": "1230",
+    "no": "1229",
     "kode": "TIK512",
     "nama": "PERANCANGAN INFRASTRUKTUR JARINGAN + LAB",
     "kelas": "12",
@@ -23370,7 +23351,7 @@
     }
   },
   {
-    "no": "1231",
+    "no": "1230",
     "kode": "TIK514",
     "nama": "KOMPUTASI BERKINERJA TINGGI + LAB",
     "kelas": "11",
@@ -23389,7 +23370,7 @@
     }
   },
   {
-    "no": "1232",
+    "no": "1231",
     "kode": "TIK516",
     "nama": "PEMROGRAMAN DAN SIMULASI JARINGAN",
     "kelas": "11",
@@ -23408,7 +23389,7 @@
     }
   },
   {
-    "no": "1233",
+    "no": "1232",
     "kode": "TIK520",
     "nama": "KOMPUTASI MULTIMEDIA + LAB",
     "kelas": "12",
@@ -23427,7 +23408,7 @@
     }
   },
   {
-    "no": "1234",
+    "no": "1233",
     "kode": "TIK522",
     "nama": "VISI KOMPUTER",
     "kelas": "11",
@@ -23446,7 +23427,7 @@
     }
   },
   {
-    "no": "1235",
+    "no": "1234",
     "kode": "TIK522",
     "nama": "VISI KOMPUTER",
     "kelas": "12",
@@ -23465,7 +23446,7 @@
     }
   },
   {
-    "no": "1236",
+    "no": "1235",
     "kode": "TIK524",
     "nama": "GRAFIKA KOMPUTER",
     "kelas": "11",
@@ -23484,7 +23465,7 @@
     }
   },
   {
-    "no": "1237",
+    "no": "1236",
     "kode": "TIK524",
     "nama": "GRAFIKA KOMPUTER",
     "kelas": "12",
@@ -23503,7 +23484,7 @@
     }
   },
   {
-    "no": "1238",
+    "no": "1237",
     "kode": "TIK526",
     "nama": "DEEP LEARNING",
     "kelas": "11",
@@ -23522,7 +23503,7 @@
     }
   },
   {
-    "no": "1239",
+    "no": "1238",
     "kode": "TIK526",
     "nama": "DEEP LEARNING",
     "kelas": "12",
@@ -23541,7 +23522,7 @@
     }
   },
   {
-    "no": "1240",
+    "no": "1239",
     "kode": "TIK528",
     "nama": "QUANTUM COMPUTING",
     "kelas": "11",
@@ -23560,7 +23541,7 @@
     }
   },
   {
-    "no": "1241",
+    "no": "1240",
     "kode": "TIK530",
     "nama": "E-SPORT",
     "kelas": "11",
@@ -23579,7 +23560,7 @@
     }
   },
   {
-    "no": "1242",
+    "no": "1241",
     "kode": "TIK532",
     "nama": "EXPERT SYSTEM",
     "kelas": "11",
@@ -23598,7 +23579,7 @@
     }
   },
   {
-    "no": "1243",
+    "no": "1242",
     "kode": "TIK532",
     "nama": "EXPERT SYSTEM",
     "kelas": "12",
@@ -23617,7 +23598,7 @@
     }
   },
   {
-    "no": "1244",
+    "no": "1243",
     "kode": "TIKP01",
     "nama": "HARDWARE-SOFTWARE CO-DESIGN + LAB",
     "kelas": "11",
@@ -23636,7 +23617,7 @@
     }
   },
   {
-    "no": "1245",
+    "no": "1244",
     "kode": "TIKP01",
     "nama": "HARDWARE-SOFTWARE CO-DESIGN + LAB",
     "kelas": "12",
@@ -23655,7 +23636,7 @@
     }
   },
   {
-    "no": "1246",
+    "no": "1245",
     "kode": "TIKP01",
     "nama": "HARDWARE-SOFTWARE CO-DESIGN + LAB",
     "kelas": "13",
@@ -23674,7 +23655,7 @@
     }
   },
   {
-    "no": "1247",
+    "no": "1246",
     "kode": "TIKP02",
     "nama": "KERJA PRAKTIK",
     "kelas": "11",
@@ -23693,7 +23674,7 @@
     }
   },
   {
-    "no": "1248",
+    "no": "1247",
     "kode": "TIKPA1",
     "nama": "TUGAS AKHIR I",
     "kelas": "11",
@@ -23712,7 +23693,7 @@
     }
   },
   {
-    "no": "1249",
+    "no": "1248",
     "kode": "TIKPA2",
     "nama": "TUGAS AKHIR II",
     "kelas": "11",
