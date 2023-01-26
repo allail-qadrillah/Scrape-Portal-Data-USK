@@ -42,8 +42,8 @@ class PortalUSK:
 
       """
       requests.packages.urllib3.disable_warnings()
-      print(f'Scrapping Student Course {kelas} kode {kode} | ', end="")
       try:
+        print(f'Scrapping Student Course {kelas} kode {kode} | ', end="")
         listStudent = None
         if int(peserta) != 0:
           while not listStudent:
