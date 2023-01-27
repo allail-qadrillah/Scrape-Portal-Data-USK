@@ -65,7 +65,7 @@
     "ruang": "EKP",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "5",
+    "peserta": "4",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB202",
@@ -141,7 +141,7 @@
     "ruang": "EKP",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB202",
@@ -198,7 +198,7 @@
     "ruang": "EKP",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "5",
+    "peserta": "6",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "FEB102",
@@ -825,7 +825,7 @@
     "ruang": "EKP",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "31",
+    "peserta": "29",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB210",
@@ -844,7 +844,7 @@
     "ruang": "EKP",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "14",
+    "peserta": "15",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "FEB112",
@@ -1034,7 +1034,7 @@
     "ruang": "B4",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "15",
+    "peserta": "16",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "FEBP01",
@@ -1110,7 +1110,7 @@
     "ruang": "EKP",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "FEB112",
@@ -1832,7 +1832,7 @@
     "ruang": "EKP",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "4",
+    "peserta": "5",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB519",
@@ -1889,7 +1889,7 @@
     "ruang": "MBKM - EKP",
     "hari": "Sabtu",
     "waktu": "16:35-19:10",
-    "peserta": "3",
+    "peserta": "4",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB520",
@@ -1927,7 +1927,7 @@
     "ruang": "EKP",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "40",
+    "peserta": "39",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEBP02",
@@ -1946,7 +1946,7 @@
     "ruang": "EKP",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "29",
+    "peserta": "26",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEBP02",
@@ -2212,7 +2212,7 @@
     "ruang": "MBKM",
     "hari": "Sabtu",
     "waktu": "08:00-10:30",
-    "peserta": "1",
+    "peserta": "0",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB514",
@@ -2231,7 +2231,7 @@
     "ruang": "EKP",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "32",
+    "peserta": "31",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB514",
@@ -2326,7 +2326,7 @@
     "ruang": "23",
     "hari": "Rabu",
     "waktu": "08:00-10:30",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB516",
@@ -2345,7 +2345,7 @@
     "ruang": "EKP",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "36",
+    "peserta": "35",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB516",
@@ -2364,7 +2364,7 @@
     "ruang": "28",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB516",
@@ -2383,7 +2383,7 @@
     "ruang": "EKP",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB518",
@@ -2421,7 +2421,7 @@
     "ruang": "EKP",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "7",
+    "peserta": "8",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB517",
@@ -2497,7 +2497,7 @@
     "ruang": "EKP",
     "hari": "Selasa",
     "waktu": "10:45-13:15",
-    "peserta": "32",
+    "peserta": "34",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB512",
@@ -2516,7 +2516,7 @@
     "ruang": "MBKM - EKP",
     "hari": "Sabtu",
     "waktu": "16:30-19:05",
-    "peserta": "4",
+    "peserta": "3",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB512",
@@ -2554,7 +2554,7 @@
     "ruang": "EKP",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB514",
@@ -2630,7 +2630,7 @@
     "ruang": "EKP",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEB308",
@@ -2782,7 +2782,7 @@
     "ruang": "EKP",
     "hari": "Rabu",
     "waktu": "08:00-10:30",
-    "peserta": "10",
+    "peserta": "9",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "FEB102",
@@ -3048,7 +3048,7 @@
     "ruang": "4DES",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "6",
+    "peserta": "10",
     "keterangan": "Ekonomi dan BisnisS1Ekonomi Pembangunan",
     "kode-peserta": {
       "data-kode": "PEBP02",
@@ -3466,7 +3466,7 @@
     "ruang": "EKM",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "33",
+    "peserta": "34",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB208",
@@ -3561,7 +3561,7 @@
     "ruang": "EKM",
     "hari": "Rabu",
     "waktu": "08:00-10:30",
-    "peserta": "36",
+    "peserta": "35",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB208",
@@ -3637,7 +3637,7 @@
     "ruang": "EKM",
     "hari": "Senin",
     "waktu": "10:45-13:15",
-    "peserta": "37",
+    "peserta": "36",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB202",
@@ -3846,7 +3846,7 @@
     "ruang": "EKM",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "18",
+    "peserta": "19",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB202",
@@ -3922,7 +3922,7 @@
     "ruang": "EKM",
     "hari": "Senin",
     "waktu": "10:45-13:15",
-    "peserta": "32",
+    "peserta": "31",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "FEB304",
@@ -3979,7 +3979,7 @@
     "ruang": "ekm",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "22",
+    "peserta": "25",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "FEB304",
@@ -4131,7 +4131,7 @@
     "ruang": "EKM",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB508",
@@ -4207,7 +4207,7 @@
     "ruang": "EKM",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "41",
+    "peserta": "39",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB504",
@@ -4264,7 +4264,7 @@
     "ruang": "ekm",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB502",
@@ -4283,7 +4283,7 @@
     "ruang": "EKM",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "36",
+    "peserta": "35",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB502",
@@ -4492,7 +4492,7 @@
     "ruang": "EKM",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "3",
+    "peserta": "5",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB522",
@@ -4568,7 +4568,7 @@
     "ruang": "EKM",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "0",
+    "peserta": "23",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB514",
@@ -4587,7 +4587,7 @@
     "ruang": "EKM",
     "hari": "Selasa",
     "waktu": "10:45-13:15",
-    "peserta": "44",
+    "peserta": "38",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB514",
@@ -4606,7 +4606,7 @@
     "ruang": "EKM",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "57",
+    "peserta": "40",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB514",
@@ -5214,7 +5214,7 @@
     "ruang": "EKM",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "36",
+    "peserta": "35",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB216",
@@ -5233,7 +5233,7 @@
     "ruang": "EKM",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "39",
+    "peserta": "40",
     "keterangan": "Ekonomi dan BisnisS1Manajemen",
     "kode-peserta": {
       "data-kode": "MEB216",
@@ -7395,7 +7395,7 @@
     "kode": "FEB102",
     "nama": "PENGANTAR MAKROEKONOMI",
     "kelas": "73",
-    "koordinator": "Dr. Riha Dedi Priantana, SE.Ak, M.SiNIP. 197912032008011007",
+    "koordinator": "Cut Zakia Rizki, SE., M.SiNIP. 198410292010122002",
     "ruang": "C5",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
@@ -7414,7 +7414,7 @@
     "kode": "FEB102",
     "nama": "PENGANTAR MAKROEKONOMI",
     "kelas": "72",
-    "koordinator": "Dr. Riha Dedi Priantana, SE.Ak, M.SiNIP. 197912032008011007",
+    "koordinator": "Fakhruddin, S.E, M.S.ENIP. 197902082005011002",
     "ruang": "C4",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
@@ -7737,7 +7737,7 @@
     "kode": "FEB102",
     "nama": "PENGANTAR MAKROEKONOMI",
     "kelas": "71",
-    "koordinator": "Dr. Riha Dedi Priantana, SE.Ak, M.SiNIP. 197912032008011007",
+    "koordinator": "Fakhruddin, S.E, M.S.ENIP. 197902082005011002",
     "ruang": "C8",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
@@ -7817,7 +7817,7 @@
     "ruang": "IBEP IAP",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "14",
+    "peserta": "13",
     "keterangan": "Ekonomi dan BisnisS1Akuntansi",
     "kode-peserta": {
       "data-kode": "FEBP03",
@@ -8710,7 +8710,7 @@
     "ruang": "EKA",
     "hari": "Senin",
     "waktu": "10:45-13:15",
-    "peserta": "32",
+    "peserta": "34",
     "keterangan": "Ekonomi dan BisnisS1Akuntansi",
     "kode-peserta": {
       "data-kode": "AEB202",
@@ -8881,7 +8881,7 @@
     "ruang": "EKA",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "40",
+    "peserta": "41",
     "keterangan": "Ekonomi dan BisnisS1Akuntansi",
     "kode-peserta": {
       "data-kode": "AEB304",
@@ -8919,7 +8919,7 @@
     "ruang": "EKA",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "37",
+    "peserta": "38",
     "keterangan": "Ekonomi dan BisnisS1Akuntansi",
     "kode-peserta": {
       "data-kode": "AEB304",
@@ -8976,7 +8976,7 @@
     "ruang": "EKA",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "Ekonomi dan BisnisS1Akuntansi",
     "kode-peserta": {
       "data-kode": "AEB306",
@@ -9128,7 +9128,7 @@
     "ruang": "EKA",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "Ekonomi dan BisnisS1Akuntansi",
     "kode-peserta": {
       "data-kode": "AEBP05",

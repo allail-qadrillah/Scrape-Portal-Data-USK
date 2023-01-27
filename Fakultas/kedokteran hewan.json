@@ -7968,7 +7968,232 @@
     "hari": "Selasa",
     "waktu": "14:00-15:40",
     "keterangan": "Kedokteran HewanS1Pendidikan Kedokteran Hewan",
-    "peserta": null
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010005",
+        "nama": "ANNA MARDHATILLAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010013",
+        "nama": "DINI FITRISIA ARISKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010026",
+        "nama": "AZMI KHULAIFA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010039",
+        "nama": "AMBUN SURI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010055",
+        "nama": "VANESA SYAHRANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010071",
+        "nama": "AFIYFAH SALSABILA SIREGAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010086",
+        "nama": "ANNISA RAHMATUL KHAIR",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010094",
+        "nama": "ISRA WAHYUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010097",
+        "nama": "RIFKY RAMADHAN NOVIANDRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010098",
+        "nama": "SYAHZIDANE",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010133",
+        "nama": "ILHAM FAUZI RITONGA MR",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010142",
+        "nama": "ENGLA FITRIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010143",
+        "nama": "ANDRIAN SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010144",
+        "nama": "SUKMA",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010150",
+        "nama": "SYIFA GHAZALAH ERMAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010165",
+        "nama": "MUTIARA CAHYA RAMADHANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010166",
+        "nama": "REZA ALDINO GINTING",
+        "kelamin": "L"
+      },
+      {
+        "no": "18",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010167",
+        "nama": "AFRILLA DWI PUTRI YOLANDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010168",
+        "nama": "JABEER SULTHAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "20",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010169",
+        "nama": "CHELLA SUCI MAHARANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "21",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010173",
+        "nama": "RISKIA RAMADANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "22",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010186",
+        "nama": "ARRIKA WARDAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "23",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010199",
+        "nama": "ALDILA AQSA ANTARIKSA",
+        "kelamin": "L"
+      },
+      {
+        "no": "24",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010201",
+        "nama": "MUDHIAH LHOKSMI EKA PUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "25",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010204",
+        "nama": "MUHAMMAD RISKI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "26",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010213",
+        "nama": "ATTAYA RAHMATULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "27",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010215",
+        "nama": "ALMA CHANIA SHUGRA",
+        "kelamin": "P"
+      },
+      {
+        "no": "28",
+        "kode": "SKH304",
+        "kelas": "5",
+        "npm": "2002101010218",
+        "nama": "ZAYYAN NABILAH HANUN",
+        "kelamin": "P"
+      }
+    ]
   },
   {
     "no": "34",

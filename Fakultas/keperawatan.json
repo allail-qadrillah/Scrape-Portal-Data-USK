@@ -1007,7 +1007,7 @@
     "kode": "FKA302",
     "nama kelas": "MANAJEMEN KEPERAWATAN",
     "kelas": "01",
-    "koordinator": "Dr. Hajjul Kamil, S.Kp, M.Kep.NIP. 196803071990021001",
+    "koordinator": "Ners. Ardia Putra, S.Kep., MNSNIP. 198210172006041004",
     "ruang": "Tutorial 1",
     "hari": "Senin",
     "waktu": "14:00-17:00",
@@ -1164,7 +1164,7 @@
     "kode": "FKA302",
     "nama kelas": "MANAJEMEN KEPERAWATAN",
     "kelas": "02",
-    "koordinator": "Dr. Hajjul Kamil, S.Kp, M.Kep.NIP. 196803071990021001",
+    "koordinator": "Ners. Ardia Putra, S.Kep., MNSNIP. 198210172006041004",
     "ruang": "Tutorial 2",
     "hari": "Senin",
     "waktu": "14:00-17:00",
@@ -1329,7 +1329,7 @@
     "kode": "FKA302",
     "nama kelas": "MANAJEMEN KEPERAWATAN",
     "kelas": "03",
-    "koordinator": "Dr. Hajjul Kamil, S.Kp, M.Kep.NIP. 196803071990021001",
+    "koordinator": "Ners. Ardia Putra, S.Kep., MNSNIP. 198210172006041004",
     "ruang": "Tutorial 3",
     "hari": "Senin",
     "waktu": "14:00-17:00",
@@ -1486,7 +1486,7 @@
     "kode": "FKA302",
     "nama kelas": "MANAJEMEN KEPERAWATAN",
     "kelas": "04",
-    "koordinator": "Dr. Hajjul Kamil, S.Kp, M.Kep.NIP. 196803071990021001",
+    "koordinator": "Ners. Ardia Putra, S.Kep., MNSNIP. 198210172006041004",
     "ruang": "Tutorial 4",
     "hari": "Senin",
     "waktu": "14:00-17:00",
@@ -1635,7 +1635,7 @@
     "kode": "FKA302",
     "nama kelas": "MANAJEMEN KEPERAWATAN",
     "kelas": "05",
-    "koordinator": "Dr. Hajjul Kamil, S.Kp, M.Kep.NIP. 196803071990021001",
+    "koordinator": "Ners. Ardia Putra, S.Kep., MNSNIP. 198210172006041004",
     "ruang": "Tutorial 5",
     "hari": "Senin",
     "waktu": "14:00-17:00",
@@ -1800,7 +1800,7 @@
     "kode": "FKA302",
     "nama kelas": "MANAJEMEN KEPERAWATAN",
     "kelas": "06",
-    "koordinator": "Dr. Hajjul Kamil, S.Kp, M.Kep.NIP. 196803071990021001",
+    "koordinator": "Ners. Ardia Putra, S.Kep., MNSNIP. 198210172006041004",
     "ruang": "Tutorial 6",
     "hari": "Senin",
     "waktu": "14:00-17:00",
@@ -1949,7 +1949,7 @@
     "kode": "FKA302",
     "nama kelas": "MANAJEMEN KEPERAWATAN",
     "kelas": "07",
-    "koordinator": "Dr. Hajjul Kamil, S.Kp, M.Kep.NIP. 196803071990021001",
+    "koordinator": "Ners. Ardia Putra, S.Kep., MNSNIP. 198210172006041004",
     "ruang": "Tutorial 7",
     "hari": "Senin",
     "waktu": "14:00-17:00",
@@ -2098,7 +2098,7 @@
     "kode": "FKA302",
     "nama kelas": "MANAJEMEN KEPERAWATAN",
     "kelas": "08",
-    "koordinator": "Dr. Hajjul Kamil, S.Kp, M.Kep.NIP. 196803071990021001",
+    "koordinator": "Ners. Ardia Putra, S.Kep., MNSNIP. 198210172006041004",
     "ruang": "Tutorial 8",
     "hari": "Senin",
     "waktu": "14:00-17:00",
@@ -22543,7 +22543,256 @@
     "hari": "Rabu",
     "waktu": "15:40-17:05",
     "keterangan": "KeperawatanS1Ilmu Keperawatan",
-    "peserta": null
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010004",
+        "nama": "DHIKA FATHIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010012",
+        "nama": "DHEA MELIZA PUTERI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010013",
+        "nama": "FAKHDATUL ASYURA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010021",
+        "nama": "MISBAHHERA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010022",
+        "nama": "YULIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010028",
+        "nama": "ROSINITTA SINAMO",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010032",
+        "nama": "KHANALISA DARMA",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010033",
+        "nama": "JANNIA ELSA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010034",
+        "nama": "TIRWIHAJ",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010036",
+        "nama": "SELLY AMELIA NURAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010040",
+        "nama": "KATIJAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010042",
+        "nama": "MANISHA EZA AL-MUGHNY",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010043",
+        "nama": "IRFAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010044",
+        "nama": "ALMAYRA RIZKI SARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010048",
+        "nama": "RIADHUL ARDHIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010049",
+        "nama": "MULKAN RAFIQI",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010050",
+        "nama": "ELDINA NAFISA",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010051",
+        "nama": "SITI JIHAN FADHILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010052",
+        "nama": "SYIFA FANIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "20",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010054",
+        "nama": "NABILLA PUTRI ZAHRA",
+        "kelamin": "P"
+      },
+      {
+        "no": "21",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010057",
+        "nama": "RIZKY MULIA PUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "22",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010061",
+        "nama": "MEI VITA NUR RAHMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "23",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010066",
+        "nama": "DHEA SALSABILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "24",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010068",
+        "nama": "LATIFA NAJLA",
+        "kelamin": "P"
+      },
+      {
+        "no": "25",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010071",
+        "nama": "JAZILATUL ICHSAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "26",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010080",
+        "nama": "SABILA YASSARAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "27",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010090",
+        "nama": "CUT EGIA AULIA NAZAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "28",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010111",
+        "nama": "SYARIFAH LAILI ALIYA",
+        "kelamin": "P"
+      },
+      {
+        "no": "29",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010114",
+        "nama": "RIZKA MULIA PUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "30",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010121",
+        "nama": "IZZATUL KABIRAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "31",
+        "kode": "FKA112",
+        "kelas": "02",
+        "npm": "2212101010124",
+        "nama": "JAHRANITA",
+        "kelamin": "P"
+      }
+    ]
   },
   {
     "no": "136",
@@ -22555,7 +22804,240 @@
     "hari": "Kamis",
     "waktu": "15:40-17:05",
     "keterangan": "KeperawatanS1Ilmu Keperawatan",
-    "peserta": null
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010001",
+        "nama": "NAJWA MIFTAHUL JANNAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010003",
+        "nama": "FARAH SALSABILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010007",
+        "nama": "PUTRI AMELIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010009",
+        "nama": "DIAN FAJARNA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010011",
+        "nama": "DINDA SITI FAIZA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010015",
+        "nama": "AZWINA RIZKI ALDANIE",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010018",
+        "nama": "AULIA SYAFITRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010024",
+        "nama": "ZARZANIELLA FAJARNA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010027",
+        "nama": "NISSA ULFITRIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010029",
+        "nama": "RADI MULIA PUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010030",
+        "nama": "CUT RIFQAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010037",
+        "nama": "FARADILLA",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010038",
+        "nama": "CUT MARDIANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010047",
+        "nama": "AURA NISYA",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010058",
+        "nama": "RONA SHOFIYAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010059",
+        "nama": "TAZKIA THAHIRA",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010069",
+        "nama": "NADHIRA RAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010070",
+        "nama": "RAHMI LIANI ANANDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010076",
+        "nama": "CUT NAJHAN RIZA",
+        "kelamin": "P"
+      },
+      {
+        "no": "20",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010079",
+        "nama": "NISRINA PUTRI ZAINAL",
+        "kelamin": "P"
+      },
+      {
+        "no": "21",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010085",
+        "nama": "DAFFA YUSRIL ALFARIZI MARZOEKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "22",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010094",
+        "nama": "MAGHFIRAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "23",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010100",
+        "nama": "ZAKIRAH ULFA",
+        "kelamin": "P"
+      },
+      {
+        "no": "24",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010104",
+        "nama": "FARIHUN ILMI AFIF",
+        "kelamin": "L"
+      },
+      {
+        "no": "25",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010105",
+        "nama": "ADINDA BALQIS MULIADI",
+        "kelamin": "P"
+      },
+      {
+        "no": "26",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010109",
+        "nama": "M. RIFQI",
+        "kelamin": "L"
+      },
+      {
+        "no": "27",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010110",
+        "nama": "PUTRI DIRA ALIFA",
+        "kelamin": "P"
+      },
+      {
+        "no": "28",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010118",
+        "nama": "NAILA FITRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "29",
+        "kode": "FKA112",
+        "kelas": "03",
+        "npm": "2212101010123",
+        "nama": "HASANAH",
+        "kelamin": "P"
+      }
+    ]
   },
   {
     "no": "137",

@@ -107,7 +107,8 @@ if __name__ == "__main__":
   #     api.findCoursesFromDir('./Database', 'M.AL-LAIL QADRILLAH'))
   # getAllMataKuliah('./Portal Data USK', URUTAN_FAKULTAS)
   # getAllPeserta('./Portal Data USK', './Database')
-  getAllPesertaThread('./Portal Data USK', './Fakultas')
+  getAllMataKuliah('./Portal USK', URUTAN_FAKULTAS)
+  getAllPesertaThread('./Portal USK', './Fakultas')
   # print(
   #     api.getPesertaKelas(
   #         semester= "20223",
