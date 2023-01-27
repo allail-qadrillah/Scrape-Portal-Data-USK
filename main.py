@@ -76,8 +76,8 @@ def getAllPesertaInThread(pathLoad, pathSave, fakultas, delay = 5):
         "peserta": listPeserta
     })
   
-    api.writeJson(
-      f"{pathSave}/{fakultas[:-5]}/{course['keterangan']}.json", pesertaMK)
+  api.writeJson(
+      f"{pathSave}/{fakultas[:-5]}.json", pesertaMK)
 
 @Timer
 def getAllPesertaThread(pathLoad, pathSave):
@@ -100,10 +100,14 @@ def getAllPesertaThread(pathLoad, pathSave):
 
 
 if __name__ == "__main__":
-
+  # data = api.loadJson(
+  #     './Database/teknik/TeknikS1Teknik Elektro.json')
+  # print(api.findCoursesV2('NURYA MUFTIANA KHAIRANI', data))
+  # print (
+  #     api.findCoursesFromDir('./Database', 'M.AL-LAIL QADRILLAH'))
   # getAllMataKuliah('./Portal Data USK', URUTAN_FAKULTAS)
   # getAllPeserta('./Portal Data USK', './Database')
-  getAllPesertaThread('./Portal Data USK', './Database')
+  getAllPesertaThread('./Portal Data USK', './Fakultas')
   # print(
   #     api.getPesertaKelas(
   #         semester= "20223",

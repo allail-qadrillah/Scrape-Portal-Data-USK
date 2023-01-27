@@ -70,6 +70,10 @@ web = {
 
 
 # Membuat thread untuk setiap website
-threads = []
-for key in web:
-    print(key)
+# threads = []
+# for key in web:
+#     print(key)
+
+a = [1, 2, 3, 4, 5]
+print(a.slice(2, 4))
+

@@ -43,8 +43,8 @@ class PortalUSK:
       """
       requests.packages.urllib3.disable_warnings()
       try:
-        print(f'Scrapping Student Course {kelas} kode {kode} | ', end="")
         listStudent = None
+        print(f'Scrapping Student Course {kelas} kode {kode} | ', end="")
         if int(peserta) != 0:
           while not listStudent:
             response = requests.post(self.baseURL + '/detail', verify=False, 
@@ -158,27 +158,33 @@ class PortalUSK:
 
       return [worksheet.row_values(i) for i in range(1, worksheet.nrows)]
 
-
     def findCourses(self, namePerson, data):
       """
       mengembalikan list matakuliah yang diambil seseorang
       @param namePerson (string) : nama seseorang
       @param data (list): data yang diambil
       """
-      return [
-          {
-              "no": course["no"],
-              "kode": course["kode"],
-              "nama kelas": course["nama kelas"],
-              "kelas": str(int(course['kelas'])),
-              "koordinator": course["koordinator"],
-              "ruang": course["ruang"],
-              "hari": course["hari"],
-              "waktu": course["waktu"]
-          }
-          for course in data
-          if any(
-              peserta["nama"] == namePerson
-              for peserta in course["peserta"]
-          )
-      ]
+      course = []
+      for courses in data:
+        if courses['peserta'] != None:
+          for peserta in courses["peserta"]:
+            if peserta["nama"] == namePerson:
+              course.append({
+                  "no": courses["no"],
+                  "kode": courses["kode"],
+                  "nama kelas": courses["nama kelas"],
+                  "kelas": str(int(courses['kelas'])),
+                  "koordinator": courses["koordinator"],
+                  "ruang": courses["ruang"],
+                  "hari": courses["hari"],
+                  "waktu": courses["waktu"]
+              })
+      return course
+
+    def findCoursesFromDir(self, path, namePerson):
+      course = []
+      for folder in os.listdir(path):
+        for file in ( os.listdir(path + '/' + folder) ):
+          data = self.loadJson( path + '/' + folder + '/' + file )
+          course.append( self.findCourses(namePerson, data) )
+      return course
