@@ -44,6 +44,7 @@ class PortalUSK:
       requests.packages.urllib3.disable_warnings()
       try:
         listStudent = None
+        countNotResponse = 0
         print(f'Scrapping Student Course {kelas} kode {kode} | ', end="")
         if int(peserta) != 0:
           while not listStudent:
@@ -58,6 +59,10 @@ class PortalUSK:
             listStudent = pattern.findall(response.text)
             if not listStudent: 
               print("Portal USK tidak memberikan response, mencoba ulang ...")
+              countNotResponse += 1
+              if countNotResponse == 2: 
+                print("--------------- Skip Kelas --------------- ")
+                break
               time.sleep(delay)
 
         return [
@@ -126,37 +131,42 @@ class PortalUSK:
       except Exception as e:
         print(e)
 
-    def writeJson(self, path, data, createIfNotExist=True):
-      """
-      menulis file kedalam format .json
-      @params path: path untuk menulis file, ex: './path/file.json'
-      @params data: data yang akan ditulis (dict)
-      @params createIfNotExists: jika file tidak ada maka akan dibuat (default = True)
-      """
-      if createIfNotExist:
-        try:
-          if not os.path.exists(path):
-            print(f'create path {path}')
-            os.makedirs(os.path.dirname(path))
-        except FileExistsError as f:
-          pass
 
-      with open(path, 'w') as outfile:
-        json.dump(data, outfile, indent=2)
-
-    def loadJson(self, path):
-      return json.loads( open(path).read() )
-
-    def getExcel(self, path, sheet = 0):
-      """
-      Mendapatkan data dari excel dan mengembalikan dalam list
-      @param path: lokasi file
-      @param sheet : list sheet. default = 0
-      """
-      workbook = xlrd.open_workbook(path)
-      worksheet= workbook.sheet_by_index(sheet)
 
       return [worksheet.row_values(i) for i in range(1, worksheet.nrows)]
+
+
+    def getAllPesertaInThread(self, pathLoad, pathSave, fakultas, delay=5):
+      courses = self.loadJson(f"{pathLoad}/{fakultas}")
+      pesertaMK = []
+      for course in courses:
+        listPeserta = self.getPesertaKelas(
+            semester=course['kode-peserta']['data-semester'],
+            jenjang=course['kode-peserta']['data-jenjang'],
+            pembatasan=course['kode-peserta']['data-pembatasan'],
+            kode=course['kode-peserta']['data-kode'],
+            kelas=course['kode-peserta']['data-kelas'],
+            peserta=course['peserta'],
+            delay=delay
+        )
+        pesertaMK.append({
+            "no": course['no'],
+            "kode": course['kode'],
+            "nama kelas": course['nama'],
+            "kelas": course['kelas'],
+            "koordinator": course['koordinator'],
+            "ruang": course['ruang'],
+            "hari": course['hari'],
+            "waktu": course['waktu'],
+            "keterangan": course['keterangan'],
+            "peserta": listPeserta
+        })
+
+      self.writeJson(
+          f"{pathSave}/{fakultas[:-5]}.json", pesertaMK)
+
+
+
 
     def findCourses(self, namePerson, data):
       """
@@ -212,12 +222,37 @@ class PortalUSK:
         course.append(self.findCourses(namePerson, data))
       return course
 
-    def findCoursesFromDirV2(self, path, namePerson):
+
+
+
+
+
+    def writeJson(self, path, data, createIfNotExist=True):
       """
-      mencari matakuliah mahasiswa yang diambil dari folder tertentu dan mengembalikannya dalam list
+      menulis file kedalam format .json
+      @params path: path untuk menulis file, ex: './path/file.json'
+      @params data: data yang akan ditulis (dict)
+      @params createIfNotExists: jika file tidak ada maka akan dibuat (default = True)
       """
-      course = []
-      for files in os.listdir(path):
-        data = self.loadJson( path + '/' + files )
-        course.append( self.findCourses(namePerson, data) )
-      return course
+      if createIfNotExist:
+        try:
+          if not os.path.exists(path):
+            print(f'create path {path}')
+            os.makedirs(os.path.dirname(path))
+        except FileExistsError as f:
+          pass
+
+      with open(path, 'w') as outfile:
+        json.dump(data, outfile, indent=2)
+
+    def loadJson(self, path):
+      return json.loads( open(path).read() )
+
+    def getExcel(self, path, sheet = 0):
+      """
+      Mendapatkan data dari excel dan mengembalikan dalam list
+      @param path: lokasi file
+      @param sheet : list sheet. default = 0
+      """
+      workbook = xlrd.open_workbook(path)
+      worksheet= workbook.sheet_by_index(sheet)

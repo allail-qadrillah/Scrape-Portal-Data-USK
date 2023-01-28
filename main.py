@@ -100,23 +100,50 @@ def getAllPesertaThread(pathLoad, pathSave):
 
 
 if __name__ == "__main__":
-  # data = api.loadJson(
-  #     './Database/teknik/TeknikS1Teknik Elektro.json')
+  data = api.loadJson(
+      './Database/teknik/TeknikS1Teknik Elektro.json')
   # print(api.findCoursesV2('NURYA MUFTIANA KHAIRANI', data))
-  print (
-      api.findCoursesFromDir('./Fakultas', 'ANANDA MUNAWWARAH Z'))
+  # print (
+  #     api.findCoursesFromDir('./Fakultas', 'ANANDA MUNAWWARAH Z'))
   # getAllMataKuliah('./Portal Data USK', URUTAN_FAKULTAS)
   # getAllPeserta('./Portal Data USK', './Database')
   # getAllPesertaThread('./Portal Data USK', './Fakultas')
-  # print(
-  #     api.getPesertaKelas(
-  #         semester= "20223",
-  #         jenjang= "1",
-  #         pembatasan= "0410101",
-  #         kode= 'PTS106',
-  #         kelas= "20",
-  #         peserta = "1",
-  #         delay=1
-  #     )
-  # )
+  print(
+      api.getPesertaKelas(
+          semester= "20223",
+          jenjang= "1",
+          pembatasan= "0410101",
+          kode= 'PTS106',
+          kelas= "20",
+          peserta = "1",
+          delay=1
+      )
+  )
+  courses = api.loadJson(f"./Portal USK/kip.json")
+  lenData = len(courses)
+  pesertaMK = []
+  for i, course in enumerate(courses):
+      print(f"persetase = { round( (i / lenData )*100, 2 ) }%")
+      listPeserta = api.getPesertaKelas(
+          semester=course['kode-peserta']['data-semester'],
+          jenjang=course['kode-peserta']['data-jenjang'],
+          pembatasan=course['kode-peserta']['data-pembatasan'],
+          kode=course['kode-peserta']['data-kode'],
+          kelas=course['kode-peserta']['data-kelas'],
+          peserta=course['peserta']
+      )
+      pesertaMK.append({
+          "no": course['no'],
+          "kode": course['kode'],
+          "nama kelas": course['nama'],
+          "kelas": course['kelas'],
+          "koordinator": course['koordinator'],
+          "ruang": course['ruang'],
+          "hari": course['hari'],
+          "waktu": course['waktu'],
+          "keterangan": course['keterangan'],
+          "peserta": listPeserta
+      })
 
+      api.writeJson(
+          f"Fakultas/kip.json", pesertaMK)
