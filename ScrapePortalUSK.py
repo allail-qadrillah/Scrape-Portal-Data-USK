@@ -24,11 +24,12 @@ class PortalUSK:
       return wrapper
 
     @timer
-    def getPesertaKelas(self, semester, jenjang, pembatasan, kode, kelas, peserta = 1, delay = 1) -> 'list':
+    def getPesertaKelas(self, semester, jenjang, pembatasan, kode, kelas, peserta = 1, delay = 1, notResponse = 5) -> 'list':
       """
       Mendapatkan daftar peserta kelas dan mengembalikan dalam Dictionary.
       Jika list tidak ditemukan kemungkinan dikarenakan server memberikan data kosong, maka program akan terus meminta hingga server memberikan data. 
       jika kelasnya memang kosong, maka return None. oleh karena itu parameter peserta harus diisi
+      jika Portal USK terus menerus tidak memberikan response. maka skip aja kelasnya
 
       @param semester: Semester yang akan diambil. ex : 20223 
       @param jenjang: jenjang sarjana. ex : 1
@@ -39,7 +40,7 @@ class PortalUSK:
       @param peserta: peserta yang ada didalam kelas, default = 1
       jika pesertanya tidak 0 maka lakukan scrapping
       @param delay: waktu tunggu request ke server jika tidak meresponse. default 1 seconds
-
+      @param notResponse: jika Portal USK tidak response sebanyak notResponse maka skip kelasnya. default = 5
       """
       requests.packages.urllib3.disable_warnings()
       try:
@@ -60,7 +61,7 @@ class PortalUSK:
             if not listStudent: 
               print("Portal USK tidak memberikan response, mencoba ulang ...")
               countNotResponse += 1
-              if countNotResponse == 2: 
+              if countNotResponse == notResponse: 
                 print("--------------- Skip Kelas --------------- ")
                 break
               time.sleep(delay)
@@ -133,37 +134,8 @@ class PortalUSK:
 
 
 
-      return [worksheet.row_values(i) for i in range(1, worksheet.nrows)]
 
 
-    def getAllPesertaInThread(self, pathLoad, pathSave, fakultas, delay=5):
-      courses = self.loadJson(f"{pathLoad}/{fakultas}")
-      pesertaMK = []
-      for course in courses:
-        listPeserta = self.getPesertaKelas(
-            semester=course['kode-peserta']['data-semester'],
-            jenjang=course['kode-peserta']['data-jenjang'],
-            pembatasan=course['kode-peserta']['data-pembatasan'],
-            kode=course['kode-peserta']['data-kode'],
-            kelas=course['kode-peserta']['data-kelas'],
-            peserta=course['peserta'],
-            delay=delay
-        )
-        pesertaMK.append({
-            "no": course['no'],
-            "kode": course['kode'],
-            "nama kelas": course['nama'],
-            "kelas": course['kelas'],
-            "koordinator": course['koordinator'],
-            "ruang": course['ruang'],
-            "hari": course['hari'],
-            "waktu": course['waktu'],
-            "keterangan": course['keterangan'],
-            "peserta": listPeserta
-        })
-
-      self.writeJson(
-          f"{pathSave}/{fakultas[:-5]}.json", pesertaMK)
 
 
 
@@ -224,9 +196,6 @@ class PortalUSK:
 
 
 
-
-
-
     def writeJson(self, path, data, createIfNotExist=True):
       """
       menulis file kedalam format .json
@@ -249,6 +218,8 @@ class PortalUSK:
       return json.loads( open(path).read() )
 
     def getExcel(self, path, sheet = 0):
+
+    
       """
       Mendapatkan data dari excel dan mengembalikan dalam list
       @param path: lokasi file
@@ -256,3 +227,5 @@ class PortalUSK:
       """
       workbook = xlrd.open_workbook(path)
       worksheet= workbook.sheet_by_index(sheet)
+
+      return [worksheet.row_values(i) for i in range(1, worksheet.nrows)]

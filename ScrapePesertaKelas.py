@@ -60,6 +60,8 @@ class MiningMKFakultas(PortalUSK):
         f"{self.pathSave}/{pathFakultas}", pesertaMK)
 
   def getAllPesertaThread(self):
+  
+    self.getAllMataKuliah()
     print("========== THREADING START ==========")
     threads = []
     for fakultas in os.listdir(self.pathLoad):
@@ -86,5 +88,4 @@ scrape = MiningMKFakultas(
   URUTAN_FAKULTAS
 )
 
-scrape.getAllMataKuliah()
 scrape.getAllPesertaThread()

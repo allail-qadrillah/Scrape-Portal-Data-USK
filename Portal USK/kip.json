@@ -274,7 +274,7 @@
     "ruang": "prodi",
     "hari": "Minggu",
     "waktu": "08:00-09:40",
-    "peserta": "78",
+    "peserta": "79",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "EDUPA1",
@@ -825,7 +825,7 @@
     "ruang": "3.05A",
     "hari": "Sabtu",
     "waktu": "08:00-10:30",
-    "peserta": "32",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPK214",
@@ -844,7 +844,7 @@
     "ruang": "2.09A",
     "hari": "Sabtu",
     "waktu": "10:40-11:10",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPK214",
@@ -863,7 +863,7 @@
     "ruang": "2.09A",
     "hari": "Jumat",
     "waktu": "9:40-11:30",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPK216",
@@ -1053,7 +1053,7 @@
     "ruang": "1.02",
     "hari": "Kamis",
     "waktu": "16:20-18:20",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPK222",
@@ -1072,7 +1072,7 @@
     "ruang": "3.05A",
     "hari": "Senin",
     "waktu": "8:00-9:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPK222",
@@ -1547,7 +1547,7 @@
     "ruang": "2.09A",
     "hari": "Sabtu",
     "waktu": "08:00-09:40",
-    "peserta": "31",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPK322",
@@ -1623,7 +1623,7 @@
     "ruang": "1.02",
     "hari": "Jumat",
     "waktu": "8:00-9:40",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPKP06",
@@ -2041,7 +2041,7 @@
     "ruang": "LAPANGAN",
     "hari": "Rabu",
     "waktu": "10:40-13:10",
-    "peserta": "53",
+    "peserta": "52",
     "keterangan": "KIPS1Pendidikan Sejarah",
     "kode-peserta": {
       "data-kode": "EDUPA1",
@@ -3846,7 +3846,7 @@
     "ruang": "MTL 4 A",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "8",
+    "peserta": "9",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "EDU302",
@@ -3865,7 +3865,7 @@
     "ruang": "MTL 1",
     "hari": "Senin",
     "waktu": "08:00-12:00",
-    "peserta": "3",
+    "peserta": "2",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "EDUP07",
@@ -3884,7 +3884,7 @@
     "ruang": "MTL 2",
     "hari": "Senin",
     "waktu": "08:00-12:00",
-    "peserta": "8",
+    "peserta": "7",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "EDUP09",
@@ -3960,7 +3960,7 @@
     "ruang": "1.03",
     "hari": "Senin",
     "waktu": "10:45-13:15",
-    "peserta": "35",
+    "peserta": "36",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE106",
@@ -3998,7 +3998,7 @@
     "ruang": "1.03",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "17",
+    "peserta": "16",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE106",
@@ -4074,7 +4074,7 @@
     "ruang": "3.06",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "24",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE114",
@@ -4131,7 +4131,7 @@
     "ruang": "108",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "30",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE114",
@@ -4283,7 +4283,7 @@
     "ruang": "3.06",
     "hari": "Senin",
     "waktu": "16:30-19:00",
-    "peserta": "14",
+    "peserta": "13",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE218",
@@ -4321,7 +4321,7 @@
     "ruang": "RKU 4 14.02.006",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE218",
@@ -4587,7 +4587,7 @@
     "ruang": "2.07 Lab Kom",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "45",
+    "peserta": "41",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE230",
@@ -4606,7 +4606,7 @@
     "ruang": "2.08 Lab. Kom",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE230",
@@ -4777,7 +4777,7 @@
     "ruang": "2.06",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE308",
@@ -4796,7 +4796,7 @@
     "ruang": "14.02.009",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "27",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE308",
@@ -4815,7 +4815,7 @@
     "ruang": "14.02.009",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "27",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE310",
@@ -4834,7 +4834,7 @@
     "ruang": "3.06",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "22",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE310",
@@ -4872,7 +4872,7 @@
     "ruang": "1.03",
     "hari": "Sabtu",
     "waktu": "08:00-09:45",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE312",
@@ -4891,7 +4891,7 @@
     "ruang": "1.08",
     "hari": "Selasa",
     "waktu": "08:00-09:45",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE312",
@@ -4907,10 +4907,10 @@
     "nama": "PENELITIAN PENDIDIKAN",
     "kelas": "01",
     "koordinator": "Dr. Nazaruddin, S.E., M.EdNIP. 197506172008121002",
-    "ruang": "1.08",
+    "ruang": "3.06",
     "hari": "Jumat",
     "waktu": "09:50-11:30",
-    "peserta": "23",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE314",
@@ -4948,7 +4948,7 @@
     "ruang": "2.06",
     "hari": "Sabtu",
     "waktu": "11:30-13:10",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE314",
@@ -4967,7 +4967,7 @@
     "ruang": "1.08",
     "hari": "Jumat",
     "waktu": "10:00-12:30",
-    "peserta": "23",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE316",
@@ -4986,7 +4986,7 @@
     "ruang": "14.02.009",
     "hari": "Sabtu",
     "waktu": "08:00-10:30",
-    "peserta": "20",
+    "peserta": "21",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE316",
@@ -5043,7 +5043,7 @@
     "ruang": "RKU 4 14.02.009",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "25",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE318",
@@ -5290,7 +5290,7 @@
     "ruang": "14.02.006",
     "hari": "Senin",
     "waktu": "11:30-13:10",
-    "peserta": "30",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDEP08",
@@ -5366,7 +5366,7 @@
     "ruang": "3.06",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "27",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDEP17",
@@ -5575,7 +5575,7 @@
     "ruang": "2.03",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "7",
+    "peserta": "6",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -5594,7 +5594,7 @@
     "ruang": "2.03",
     "hari": "Senin",
     "waktu": "16:35-18:10",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -5917,7 +5917,7 @@
     "ruang": "3.12",
     "hari": "Jumat",
     "waktu": "10:40-12:20",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MGP515",
@@ -5993,7 +5993,7 @@
     "ruang": "3.12",
     "hari": "Kamis",
     "waktu": "8:00-9:40",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG104",
@@ -6164,7 +6164,7 @@
     "ruang": "2.03",
     "hari": "Jumat",
     "waktu": "16:35-18:10",
-    "peserta": "16",
+    "peserta": "15",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG121",
@@ -6354,7 +6354,7 @@
     "ruang": "2.03",
     "hari": "Rabu",
     "waktu": "9:30-10:40",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG206",
@@ -6373,7 +6373,7 @@
     "ruang": "2.03",
     "hari": "Rabu",
     "waktu": "08:00-10:40",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG206",
@@ -6430,7 +6430,7 @@
     "ruang": "3.12",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "31",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG207",
@@ -6468,7 +6468,7 @@
     "ruang": "3.12",
     "hari": "Sabtu",
     "waktu": "08:00-09:40",
-    "peserta": "11",
+    "peserta": "12",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG207",
@@ -6506,7 +6506,7 @@
     "ruang": "3.14",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG210",
@@ -6525,7 +6525,7 @@
     "ruang": "3.14",
     "hari": "Senin",
     "waktu": "16:35-18:10",
-    "peserta": "17",
+    "peserta": "16",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG210",
@@ -6582,7 +6582,7 @@
     "ruang": "lab geografi",
     "hari": "Rabu",
     "waktu": "09:40-11:20",
-    "peserta": "14",
+    "peserta": "13",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG212",
@@ -6601,7 +6601,7 @@
     "ruang": "lab geografi",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "19",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG212",
@@ -6620,7 +6620,7 @@
     "ruang": "3.14",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "14",
+    "peserta": "13",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG214",
@@ -6639,7 +6639,7 @@
     "ruang": "3.14",
     "hari": "Kamis",
     "waktu": "09:40-11:30",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG214",
@@ -6753,7 +6753,7 @@
     "ruang": "3.14",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG218",
@@ -6772,7 +6772,7 @@
     "ruang": "3.14",
     "hari": "Rabu",
     "waktu": "16:35-18:10",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG218",
@@ -6848,7 +6848,7 @@
     "ruang": "3.12",
     "hari": "Jumat",
     "waktu": "16:35-18:10",
-    "peserta": "25",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG302",
@@ -6924,7 +6924,7 @@
     "ruang": "3.14",
     "hari": "Jumat",
     "waktu": "16:35-18:10",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG306",
@@ -6943,7 +6943,7 @@
     "ruang": "3.14",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "15",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG306",
@@ -7038,7 +7038,7 @@
     "ruang": "3.12",
     "hari": "Selasa",
     "waktu": "16:35-18:10",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG311",
@@ -7057,7 +7057,7 @@
     "ruang": "3.12",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "4",
+    "peserta": "3",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG311",
@@ -7076,7 +7076,7 @@
     "ruang": "3.12",
     "hari": "Rabu",
     "waktu": "16:35-18:10",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG311",
@@ -7114,7 +7114,7 @@
     "ruang": "3.14",
     "hari": "Selasa",
     "waktu": "16:35-18:10",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG312",
@@ -7133,7 +7133,7 @@
     "ruang": "3.14",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "18",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG312",
@@ -7247,7 +7247,7 @@
     "ruang": "2.03",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG405",
@@ -7266,7 +7266,7 @@
     "ruang": "2.03",
     "hari": "Kamis",
     "waktu": "16:35-18:10",
-    "peserta": "16",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG405",
@@ -7361,7 +7361,7 @@
     "ruang": "lab geografi",
     "hari": "Kamis",
     "waktu": "14:00-17:20",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKGP01",
@@ -7418,7 +7418,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "35",
+    "peserta": "36",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "EDU201",
@@ -7437,7 +7437,7 @@
     "ruang": "3.05 (GEDUNG FKIP)",
     "hari": "Selasa",
     "waktu": "11:30-13:10",
-    "peserta": "32",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "EDU201",
@@ -7494,7 +7494,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "33",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -7570,7 +7570,7 @@
     "ruang": "SEKOLAH & KAMPUNG",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "4",
+    "peserta": "5",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "EDUP09",
@@ -7589,7 +7589,7 @@
     "ruang": "FKIP",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "109",
+    "peserta": "110",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "EDUPA1",
@@ -7627,7 +7627,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Senin",
     "waktu": "10:45-12:20",
-    "peserta": "33",
+    "peserta": "36",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI102",
@@ -7646,7 +7646,7 @@
     "ruang": "3.05 (GEDUNG FKIP)",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "31",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI102",
@@ -7817,7 +7817,7 @@
     "ruang": "3.05 (GEDUNG FKIP)",
     "hari": "Kamis",
     "waktu": "10:45-13:10",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI108",
@@ -7855,7 +7855,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "28",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI110",
@@ -7893,7 +7893,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Sabtu",
     "waktu": "08:00-09:40",
-    "peserta": "25",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI110",
@@ -7969,7 +7969,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "11:30-13:10",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI114",
@@ -7988,7 +7988,7 @@
     "ruang": "3.05 (GEDUNG FKIP)",
     "hari": "Kamis",
     "waktu": "11:30-13:10",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI114",
@@ -8026,7 +8026,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Selasa",
     "waktu": "09:40-11:35",
-    "peserta": "27",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI116",
@@ -8045,7 +8045,7 @@
     "ruang": "3.05 (GEDUNG FKIP)",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "41",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI116",
@@ -8083,7 +8083,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "37",
+    "peserta": "39",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI118",
@@ -8102,7 +8102,7 @@
     "ruang": "3.05 (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "36",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI118",
@@ -8197,7 +8197,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Senin",
     "waktu": "10:45-13:15",
-    "peserta": "38",
+    "peserta": "37",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI122",
@@ -8216,7 +8216,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "31",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI122",
@@ -8235,7 +8235,7 @@
     "ruang": "15.03.003 (RKU 5)",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "38",
+    "peserta": "36",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI122",
@@ -8273,7 +8273,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Sabtu",
     "waktu": "14:00-16:30",
-    "peserta": "27",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI122",
@@ -8292,7 +8292,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "34",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI124",
@@ -8311,7 +8311,7 @@
     "ruang": "3.05 (GEDUNG FKIP)",
     "hari": "Kamis",
     "waktu": "09:50-11:30",
-    "peserta": "37",
+    "peserta": "38",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI124",
@@ -8349,7 +8349,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "11:30-13:10",
-    "peserta": "36",
+    "peserta": "37",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI126",
@@ -8368,7 +8368,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "31",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI126",
@@ -8387,7 +8387,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "09:50-11:30",
-    "peserta": "36",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI128",
@@ -8425,7 +8425,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Sabtu",
     "waktu": "14:00-17:50",
-    "peserta": "11",
+    "peserta": "13",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI128",
@@ -8463,7 +8463,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "39",
+    "peserta": "40",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI130",
@@ -8482,7 +8482,7 @@
     "ruang": "15.03.003 (RKU 5)",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "41",
+    "peserta": "42",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI132",
@@ -8501,7 +8501,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "09:50-11:35",
-    "peserta": "38",
+    "peserta": "37",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI132",
@@ -8520,7 +8520,7 @@
     "ruang": "13.05 (GEDUNG FKIP)",
     "hari": "Jumat",
     "waktu": "08:00-10:40",
-    "peserta": "29",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI134",
@@ -8539,7 +8539,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Kamis",
     "waktu": "08:00-10:40",
-    "peserta": "21",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI134",
@@ -8596,7 +8596,7 @@
     "ruang": "15.03.003 (RKU 5)",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "39",
+    "peserta": "41",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI144",
@@ -8615,7 +8615,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "36",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI144",
@@ -8672,7 +8672,7 @@
     "ruang": "C2.10",
     "hari": "Selasa",
     "waktu": "9:40-11:30",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EDU202",
@@ -8729,7 +8729,7 @@
     "ruang": "C3.07",
     "hari": "Jumat",
     "waktu": "10:40-12:00",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EDU202",
@@ -8748,7 +8748,7 @@
     "ruang": "C2.12",
     "hari": "Senin",
     "waktu": "16:30-18:00",
-    "peserta": "30",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -8786,7 +8786,7 @@
     "ruang": "C3.09",
     "hari": "Kamis",
     "waktu": "9:40-11:30",
-    "peserta": "27",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -9356,7 +9356,7 @@
     "ruang": "C2.12",
     "hari": "Selasa",
     "waktu": "10:40-13:10",
-    "peserta": "28",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED202",
@@ -9375,7 +9375,7 @@
     "ruang": "C2.10",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED202",
@@ -9413,7 +9413,7 @@
     "ruang": "C3.07",
     "hari": "Rabu",
     "waktu": "10:40-13:10",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED202",
@@ -9508,7 +9508,7 @@
     "ruang": "C3.09",
     "hari": "Rabu",
     "waktu": "8:00-10:30",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED206",
@@ -9546,7 +9546,7 @@
     "ruang": "C2.12",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED206",
@@ -9622,7 +9622,7 @@
     "ruang": "C2.12",
     "hari": "Jumat",
     "waktu": "16:30-18:00",
-    "peserta": "32",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED216",
@@ -9641,7 +9641,7 @@
     "ruang": "15.03.001",
     "hari": "Selasa",
     "waktu": "9:40-11:30",
-    "peserta": "28",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED216",
@@ -9679,7 +9679,7 @@
     "ruang": "C2.12",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED221",
@@ -9698,7 +9698,7 @@
     "ruang": "C2.10",
     "hari": "Senin",
     "waktu": "8:00-10:30",
-    "peserta": "27",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED221",
@@ -9717,7 +9717,7 @@
     "ruang": "C2.10",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED221",
@@ -9736,7 +9736,7 @@
     "ruang": "15.03.001",
     "hari": "Rabu",
     "waktu": "14:00-15:30",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED228",
@@ -9755,7 +9755,7 @@
     "ruang": "C3.07",
     "hari": "Kamis",
     "waktu": "14:00-15:30",
-    "peserta": "30",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED228",
@@ -9774,7 +9774,7 @@
     "ruang": "C3.09",
     "hari": "Selasa",
     "waktu": "14:00-15:30",
-    "peserta": "32",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED228",
@@ -9793,7 +9793,7 @@
     "ruang": "C2.10",
     "hari": "Rabu",
     "waktu": "9:40-11:30",
-    "peserta": "21",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED228",
@@ -9945,7 +9945,7 @@
     "ruang": "C2.10",
     "hari": "Jumat",
     "waktu": "8:00-9:30",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED314",
@@ -10002,7 +10002,7 @@
     "ruang": "14.02.006",
     "hari": "Kamis",
     "waktu": "09:40-11:30",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED314",
@@ -10040,7 +10040,7 @@
     "ruang": "14.02.006",
     "hari": "Jumat",
     "waktu": "9:40-11:30",
-    "peserta": "32",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED317",
@@ -10059,7 +10059,7 @@
     "ruang": "C2.10",
     "hari": "Kamis",
     "waktu": "16:30-18:00",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED317",
@@ -10325,7 +10325,7 @@
     "ruang": "C3.09",
     "hari": "Jumat",
     "waktu": "10:40-12:25",
-    "peserta": "33",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED508",
@@ -10648,7 +10648,7 @@
     "ruang": "C3.07",
     "hari": "Kamis",
     "waktu": "9:40-11:30",
-    "peserta": "22",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EEDP06",
@@ -10686,7 +10686,7 @@
     "ruang": "C2.10",
     "hari": "Kamis",
     "waktu": "9:40-11:30",
-    "peserta": "22",
+    "peserta": "21",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EEDP06",
@@ -10781,7 +10781,7 @@
     "ruang": "04",
     "hari": "Senin",
     "waktu": "09:50-11:30",
-    "peserta": "4",
+    "peserta": "6",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "EDU102",
@@ -11047,7 +11047,7 @@
     "ruang": "DRAMA",
     "hari": "Senin",
     "waktu": "11:00-13:10",
-    "peserta": "10",
+    "peserta": "3",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI102",
@@ -11085,7 +11085,7 @@
     "ruang": "MUSIK",
     "hari": "Senin",
     "waktu": "11:00-13:10",
-    "peserta": "33",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI102",
@@ -11104,7 +11104,7 @@
     "ruang": "RUPA",
     "hari": "Senin",
     "waktu": "11:00-13:10",
-    "peserta": "15",
+    "peserta": "12",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI102",
@@ -11123,7 +11123,7 @@
     "ruang": "TARI",
     "hari": "Senin",
     "waktu": "09:50-11:30",
-    "peserta": "5",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI102",
@@ -11142,7 +11142,7 @@
     "ruang": "01",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "10",
+    "peserta": "12",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI104",
@@ -11218,7 +11218,7 @@
     "ruang": "01",
     "hari": "Selasa",
     "waktu": "11:00-13:10",
-    "peserta": "15",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI106",
@@ -11294,7 +11294,7 @@
     "ruang": "01",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "30",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI108",
@@ -11370,7 +11370,7 @@
     "ruang": "DRAMA",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "9",
+    "peserta": "3",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI110",
@@ -11389,7 +11389,7 @@
     "ruang": "RUPA",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "14",
+    "peserta": "11",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI110",
@@ -11427,7 +11427,7 @@
     "ruang": "MUSIK",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "33",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI110",
@@ -11446,7 +11446,7 @@
     "ruang": "TARI",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "6",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI110",
@@ -12111,7 +12111,7 @@
     "ruang": "TARI",
     "hari": "Selasa",
     "waktu": "10:45-13:15",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI310",
@@ -12149,7 +12149,7 @@
     "ruang": "TARI",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI310",
@@ -12168,7 +12168,7 @@
     "ruang": "DRAMA",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI312",
@@ -12206,7 +12206,7 @@
     "ruang": "TARI",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "30",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI312",
@@ -12225,7 +12225,7 @@
     "ruang": "MUSIK",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI312",
@@ -14410,7 +14410,7 @@
     "ruang": "1.05",
     "hari": "Rabu",
     "waktu": "09:50-11:35",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEP322",
@@ -14479,25 +14479,6 @@
   },
   {
     "no": "763",
-    "kode": "BEP506",
-    "nama": "EKOLOGI PERAIRAN",
-    "kelas": "02",
-    "koordinator": "Prof. Dr. M. Ali S, M.SiNIP. 195903251986031003",
-    "ruang": "2.01 (MBKM)",
-    "hari": "Rabu",
-    "waktu": "11:40-13:15",
-    "peserta": "0",
-    "keterangan": "KIPS1Pendidikan Biologi",
-    "kode-peserta": {
-      "data-kode": "BEP506",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610301"
-    }
-  },
-  {
-    "no": "764",
     "kode": "BEP510",
     "nama": "MIKOLOGI",
     "kelas": "01",
@@ -14516,7 +14497,7 @@
     }
   },
   {
-    "no": "765",
+    "no": "764",
     "kode": "BEP510",
     "nama": "MIKOLOGI",
     "kelas": "02",
@@ -14524,7 +14505,7 @@
     "ruang": "3.03",
     "hari": "Sabtu",
     "waktu": "11:30-13:15",
-    "peserta": "21",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEP510",
@@ -14535,7 +14516,7 @@
     }
   },
   {
-    "no": "766",
+    "no": "765",
     "kode": "BEP512",
     "nama": "EVOLUSI",
     "kelas": "01",
@@ -14554,7 +14535,7 @@
     }
   },
   {
-    "no": "767",
+    "no": "766",
     "kode": "BEP512",
     "nama": "EVOLUSI",
     "kelas": "02",
@@ -14573,7 +14554,7 @@
     }
   },
   {
-    "no": "768",
+    "no": "767",
     "kode": "BEPP01",
     "nama": "SEMINAR PENDIDIKAN BIOLOGI",
     "kelas": "01",
@@ -14592,7 +14573,7 @@
     }
   },
   {
-    "no": "769",
+    "no": "768",
     "kode": "BEPP01",
     "nama": "SEMINAR PENDIDIKAN BIOLOGI",
     "kelas": "02",
@@ -14611,7 +14592,7 @@
     }
   },
   {
-    "no": "770",
+    "no": "769",
     "kode": "BEPP01",
     "nama": "SEMINAR PENDIDIKAN BIOLOGI",
     "kelas": "03",
@@ -14630,7 +14611,7 @@
     }
   },
   {
-    "no": "771",
+    "no": "770",
     "kode": "BEPP01",
     "nama": "SEMINAR PENDIDIKAN BIOLOGI",
     "kelas": "04",
@@ -14649,7 +14630,7 @@
     }
   },
   {
-    "no": "772",
+    "no": "771",
     "kode": "BEPP02",
     "nama": "KONSTRUKSI INSTRUMEN",
     "kelas": "01",
@@ -14668,7 +14649,7 @@
     }
   },
   {
-    "no": "773",
+    "no": "772",
     "kode": "BEPP03",
     "nama": "KAPITA SELEKTA PENDIDIKAN BIOLOGI",
     "kelas": "01",
@@ -14687,7 +14668,7 @@
     }
   },
   {
-    "no": "774",
+    "no": "773",
     "kode": "BEPP04",
     "nama": "BERPIKIR KREATIF",
     "kelas": "01",
@@ -14706,26 +14687,7 @@
     }
   },
   {
-    "no": "775",
-    "kode": "BEPP05",
-    "nama": "STEM\u00a0BIOLOGI",
-    "kelas": "01",
-    "koordinator": "Dr. Wiwit Artika, S.Si., M.Ed.NIP. 198206102009122006",
-    "ruang": "1.05",
-    "hari": "Kamis",
-    "waktu": "8:00-9:45",
-    "peserta": "3",
-    "keterangan": "KIPS1Pendidikan Biologi",
-    "kode-peserta": {
-      "data-kode": "BEPP05",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610301"
-    }
-  },
-  {
-    "no": "776",
+    "no": "774",
     "kode": "BEPP06",
     "nama": "KAJIAN\u00a0KURIKULUM\u00a0BIOLOGI SEKOLAH MENENGAH",
     "kelas": "01",
@@ -14733,7 +14695,7 @@
     "ruang": "2.01",
     "hari": "Selasa",
     "waktu": "11:40-13:15",
-    "peserta": "3",
+    "peserta": "2",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEPP06",
@@ -14744,7 +14706,7 @@
     }
   },
   {
-    "no": "777",
+    "no": "775",
     "kode": "BEPP07",
     "nama": "PEMBELAJARAN\u00a0BIOLOGI\u00a0BERBASIS\u00a0LINGKUNGAN",
     "kelas": "01",
@@ -14763,26 +14725,7 @@
     }
   },
   {
-    "no": "778",
-    "kode": "BEPP08",
-    "nama": "KOMUNIKASI\u00a0SAINS",
-    "kelas": "01",
-    "koordinator": "Dewi Andayani, S.Pd., M.Pd.NIP. 198304212015042003",
-    "ruang": "1.05",
-    "hari": "Rabu",
-    "waktu": "08:00-09:45",
-    "peserta": "0",
-    "keterangan": "KIPS1Pendidikan Biologi",
-    "kode-peserta": {
-      "data-kode": "BEPP08",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610301"
-    }
-  },
-  {
-    "no": "779",
+    "no": "776",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "01",
@@ -14801,7 +14744,7 @@
     }
   },
   {
-    "no": "780",
+    "no": "777",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "02",
@@ -14820,7 +14763,7 @@
     }
   },
   {
-    "no": "781",
+    "no": "778",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "03",
@@ -14839,7 +14782,7 @@
     }
   },
   {
-    "no": "782",
+    "no": "779",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "04",
@@ -14858,7 +14801,7 @@
     }
   },
   {
-    "no": "783",
+    "no": "780",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "01",
@@ -14877,7 +14820,7 @@
     }
   },
   {
-    "no": "784",
+    "no": "781",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "02",
@@ -14896,7 +14839,7 @@
     }
   },
   {
-    "no": "785",
+    "no": "782",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "03",
@@ -14915,7 +14858,7 @@
     }
   },
   {
-    "no": "786",
+    "no": "783",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "04",
@@ -14934,7 +14877,7 @@
     }
   },
   {
-    "no": "787",
+    "no": "784",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "01",
@@ -14953,7 +14896,7 @@
     }
   },
   {
-    "no": "788",
+    "no": "785",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "02",
@@ -14972,7 +14915,7 @@
     }
   },
   {
-    "no": "789",
+    "no": "786",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "03",
@@ -14991,7 +14934,7 @@
     }
   },
   {
-    "no": "790",
+    "no": "787",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "04",
@@ -15010,7 +14953,7 @@
     }
   },
   {
-    "no": "791",
+    "no": "788",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "01",
@@ -15029,7 +14972,7 @@
     }
   },
   {
-    "no": "792",
+    "no": "789",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "01",
@@ -15048,7 +14991,7 @@
     }
   },
   {
-    "no": "793",
+    "no": "790",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "01",
@@ -15056,7 +14999,7 @@
     "ruang": "MTL 1",
     "hari": "Sabtu",
     "waktu": "16:35-18:20",
-    "peserta": "1",
+    "peserta": "4",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "EDUP09",
@@ -15067,26 +15010,7 @@
     }
   },
   {
-    "no": "794",
-    "kode": "EDUP09",
-    "nama": "PLP II",
-    "kelas": "02",
-    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
-    "ruang": "PRODI (MBKM)",
-    "hari": "Rabu",
-    "waktu": "14:00-15:45",
-    "peserta": "3",
-    "keterangan": "KIPS1Pendidikan Biologi",
-    "kode-peserta": {
-      "data-kode": "EDUP09",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610301"
-    }
-  },
-  {
-    "no": "795",
+    "no": "791",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "01",
@@ -15105,7 +15029,7 @@
     }
   },
   {
-    "no": "796",
+    "no": "792",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "01",
@@ -15124,7 +15048,7 @@
     }
   },
   {
-    "no": "797",
+    "no": "793",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "01",
@@ -15143,7 +15067,7 @@
     }
   },
   {
-    "no": "798",
+    "no": "794",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "02",
@@ -15162,7 +15086,7 @@
     }
   },
   {
-    "no": "799",
+    "no": "795",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "03",
@@ -15181,7 +15105,7 @@
     }
   },
   {
-    "no": "800",
+    "no": "796",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "04",
@@ -15200,7 +15124,7 @@
     }
   },
   {
-    "no": "801",
+    "no": "797",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "01",
@@ -15219,7 +15143,7 @@
     }
   },
   {
-    "no": "802",
+    "no": "798",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "02",
@@ -15238,7 +15162,7 @@
     }
   },
   {
-    "no": "803",
+    "no": "799",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "03",
@@ -15257,7 +15181,7 @@
     }
   },
   {
-    "no": "804",
+    "no": "800",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "04",
@@ -15276,7 +15200,7 @@
     }
   },
   {
-    "no": "805",
+    "no": "801",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "01",
@@ -15295,7 +15219,7 @@
     }
   },
   {
-    "no": "806",
+    "no": "802",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "02",
@@ -15314,7 +15238,7 @@
     }
   },
   {
-    "no": "807",
+    "no": "803",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "03",
@@ -15333,7 +15257,7 @@
     }
   },
   {
-    "no": "808",
+    "no": "804",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "04",
@@ -15352,7 +15276,7 @@
     }
   },
   {
-    "no": "809",
+    "no": "805",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "01",
@@ -15371,7 +15295,7 @@
     }
   },
   {
-    "no": "810",
+    "no": "806",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "02",
@@ -15390,7 +15314,7 @@
     }
   },
   {
-    "no": "811",
+    "no": "807",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "01",
@@ -15409,7 +15333,7 @@
     }
   },
   {
-    "no": "812",
+    "no": "808",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "01",
@@ -15428,7 +15352,7 @@
     }
   },
   {
-    "no": "813",
+    "no": "809",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "03",
@@ -15447,7 +15371,7 @@
     }
   },
   {
-    "no": "814",
+    "no": "810",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "01",
@@ -15466,7 +15390,7 @@
     }
   },
   {
-    "no": "815",
+    "no": "811",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "01",
@@ -15485,7 +15409,7 @@
     }
   },
   {
-    "no": "816",
+    "no": "812",
     "kode": "PMA106",
     "nama": "KALKULUS INTEGRAL",
     "kelas": "01",
@@ -15504,7 +15428,7 @@
     }
   },
   {
-    "no": "817",
+    "no": "813",
     "kode": "PMA106",
     "nama": "KALKULUS INTEGRAL",
     "kelas": "02",
@@ -15523,7 +15447,7 @@
     }
   },
   {
-    "no": "818",
+    "no": "814",
     "kode": "PMA106",
     "nama": "KALKULUS INTEGRAL",
     "kelas": "03",
@@ -15542,7 +15466,7 @@
     }
   },
   {
-    "no": "819",
+    "no": "815",
     "kode": "PMA106",
     "nama": "KALKULUS INTEGRAL",
     "kelas": "04",
@@ -15561,7 +15485,7 @@
     }
   },
   {
-    "no": "820",
+    "no": "816",
     "kode": "PMA108",
     "nama": "TEORI HIMPUNAN",
     "kelas": "01",
@@ -15580,7 +15504,7 @@
     }
   },
   {
-    "no": "821",
+    "no": "817",
     "kode": "PMA108",
     "nama": "TEORI HIMPUNAN",
     "kelas": "02",
@@ -15599,7 +15523,7 @@
     }
   },
   {
-    "no": "822",
+    "no": "818",
     "kode": "PMA108",
     "nama": "TEORI HIMPUNAN",
     "kelas": "03",
@@ -15618,7 +15542,7 @@
     }
   },
   {
-    "no": "823",
+    "no": "819",
     "kode": "PMA108",
     "nama": "TEORI HIMPUNAN",
     "kelas": "04",
@@ -15637,7 +15561,7 @@
     }
   },
   {
-    "no": "824",
+    "no": "820",
     "kode": "PMA110",
     "nama": "FILSAFAT DAN SEJARAH MATEMATIKA",
     "kelas": "01",
@@ -15656,7 +15580,7 @@
     }
   },
   {
-    "no": "825",
+    "no": "821",
     "kode": "PMA110",
     "nama": "FILSAFAT DAN SEJARAH MATEMATIKA",
     "kelas": "02",
@@ -15675,7 +15599,7 @@
     }
   },
   {
-    "no": "826",
+    "no": "822",
     "kode": "PMA110",
     "nama": "FILSAFAT DAN SEJARAH MATEMATIKA",
     "kelas": "03",
@@ -15694,7 +15618,7 @@
     }
   },
   {
-    "no": "827",
+    "no": "823",
     "kode": "PMA110",
     "nama": "FILSAFAT DAN SEJARAH MATEMATIKA",
     "kelas": "04",
@@ -15713,7 +15637,7 @@
     }
   },
   {
-    "no": "828",
+    "no": "824",
     "kode": "PMA112",
     "nama": "PENGANTAR APLIKASI KOMPUTER",
     "kelas": "01",
@@ -15732,7 +15656,7 @@
     }
   },
   {
-    "no": "829",
+    "no": "825",
     "kode": "PMA112",
     "nama": "PENGANTAR APLIKASI KOMPUTER",
     "kelas": "02",
@@ -15751,7 +15675,7 @@
     }
   },
   {
-    "no": "830",
+    "no": "826",
     "kode": "PMA112",
     "nama": "PENGANTAR APLIKASI KOMPUTER",
     "kelas": "03",
@@ -15770,7 +15694,7 @@
     }
   },
   {
-    "no": "831",
+    "no": "827",
     "kode": "PMA112",
     "nama": "PENGANTAR APLIKASI KOMPUTER",
     "kelas": "04",
@@ -15789,7 +15713,7 @@
     }
   },
   {
-    "no": "832",
+    "no": "828",
     "kode": "PMA114",
     "nama": "GEOMETRI ANALITIK",
     "kelas": "01",
@@ -15808,7 +15732,7 @@
     }
   },
   {
-    "no": "833",
+    "no": "829",
     "kode": "PMA114",
     "nama": "GEOMETRI ANALITIK",
     "kelas": "02",
@@ -15827,7 +15751,7 @@
     }
   },
   {
-    "no": "834",
+    "no": "830",
     "kode": "PMA114",
     "nama": "GEOMETRI ANALITIK",
     "kelas": "03",
@@ -15846,7 +15770,7 @@
     }
   },
   {
-    "no": "835",
+    "no": "831",
     "kode": "PMA114",
     "nama": "GEOMETRI ANALITIK",
     "kelas": "04",
@@ -15865,7 +15789,7 @@
     }
   },
   {
-    "no": "836",
+    "no": "832",
     "kode": "PMA116",
     "nama": "KAJIAN MATEMATIKA SMP",
     "kelas": "01",
@@ -15884,7 +15808,7 @@
     }
   },
   {
-    "no": "837",
+    "no": "833",
     "kode": "PMA116",
     "nama": "KAJIAN MATEMATIKA SMP",
     "kelas": "02",
@@ -15903,7 +15827,7 @@
     }
   },
   {
-    "no": "838",
+    "no": "834",
     "kode": "PMA116",
     "nama": "KAJIAN MATEMATIKA SMP",
     "kelas": "03",
@@ -15922,7 +15846,7 @@
     }
   },
   {
-    "no": "839",
+    "no": "835",
     "kode": "PMA116",
     "nama": "KAJIAN MATEMATIKA SMP",
     "kelas": "04",
@@ -15941,7 +15865,7 @@
     }
   },
   {
-    "no": "840",
+    "no": "836",
     "kode": "PMA208",
     "nama": "PERSAMAAN DIFERENSIAL",
     "kelas": "01",
@@ -15960,7 +15884,7 @@
     }
   },
   {
-    "no": "841",
+    "no": "837",
     "kode": "PMA208",
     "nama": "PERSAMAAN DIFERENSIAL",
     "kelas": "02",
@@ -15979,7 +15903,7 @@
     }
   },
   {
-    "no": "842",
+    "no": "838",
     "kode": "PMA208",
     "nama": "PERSAMAAN DIFERENSIAL",
     "kelas": "03",
@@ -15998,7 +15922,7 @@
     }
   },
   {
-    "no": "843",
+    "no": "839",
     "kode": "PMA208",
     "nama": "PERSAMAAN DIFERENSIAL",
     "kelas": "04",
@@ -16017,7 +15941,7 @@
     }
   },
   {
-    "no": "844",
+    "no": "840",
     "kode": "PMA208",
     "nama": "PERSAMAAN DIFERENSIAL",
     "kelas": "05",
@@ -16036,7 +15960,7 @@
     }
   },
   {
-    "no": "845",
+    "no": "841",
     "kode": "PMA212",
     "nama": "TEORI PELUANG",
     "kelas": "01",
@@ -16055,7 +15979,7 @@
     }
   },
   {
-    "no": "846",
+    "no": "842",
     "kode": "PMA212",
     "nama": "TEORI PELUANG",
     "kelas": "02",
@@ -16074,7 +15998,7 @@
     }
   },
   {
-    "no": "847",
+    "no": "843",
     "kode": "PMA212",
     "nama": "TEORI PELUANG",
     "kelas": "03",
@@ -16093,7 +16017,7 @@
     }
   },
   {
-    "no": "848",
+    "no": "844",
     "kode": "PMA212",
     "nama": "TEORI PELUANG",
     "kelas": "04",
@@ -16112,7 +16036,7 @@
     }
   },
   {
-    "no": "849",
+    "no": "845",
     "kode": "PMA212",
     "nama": "TEORI PELUANG",
     "kelas": "05",
@@ -16131,7 +16055,7 @@
     }
   },
   {
-    "no": "850",
+    "no": "846",
     "kode": "PMA212",
     "nama": "TEORI PELUANG",
     "kelas": "06",
@@ -16150,7 +16074,7 @@
     }
   },
   {
-    "no": "851",
+    "no": "847",
     "kode": "PMA214",
     "nama": "GEOMETRI TRANSFORMASI",
     "kelas": "01",
@@ -16169,7 +16093,7 @@
     }
   },
   {
-    "no": "852",
+    "no": "848",
     "kode": "PMA214",
     "nama": "GEOMETRI TRANSFORMASI",
     "kelas": "02",
@@ -16188,7 +16112,7 @@
     }
   },
   {
-    "no": "853",
+    "no": "849",
     "kode": "PMA214",
     "nama": "GEOMETRI TRANSFORMASI",
     "kelas": "03",
@@ -16196,7 +16120,7 @@
     "ruang": "3:02",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA214",
@@ -16207,7 +16131,7 @@
     }
   },
   {
-    "no": "854",
+    "no": "850",
     "kode": "PMA214",
     "nama": "GEOMETRI TRANSFORMASI",
     "kelas": "04",
@@ -16226,7 +16150,7 @@
     }
   },
   {
-    "no": "855",
+    "no": "851",
     "kode": "PMA216",
     "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
     "kelas": "01",
@@ -16245,7 +16169,7 @@
     }
   },
   {
-    "no": "856",
+    "no": "852",
     "kode": "PMA216",
     "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
     "kelas": "02",
@@ -16264,7 +16188,7 @@
     }
   },
   {
-    "no": "857",
+    "no": "853",
     "kode": "PMA216",
     "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
     "kelas": "03",
@@ -16283,7 +16207,7 @@
     }
   },
   {
-    "no": "858",
+    "no": "854",
     "kode": "PMA216",
     "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
     "kelas": "04",
@@ -16291,7 +16215,7 @@
     "ruang": "LAB MAT",
     "hari": "Senin",
     "waktu": "09:40-11:30",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA216",
@@ -16302,7 +16226,7 @@
     }
   },
   {
-    "no": "859",
+    "no": "855",
     "kode": "PMA216",
     "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
     "kelas": "05",
@@ -16321,7 +16245,7 @@
     }
   },
   {
-    "no": "860",
+    "no": "856",
     "kode": "PMA216",
     "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
     "kelas": "06",
@@ -16340,7 +16264,7 @@
     }
   },
   {
-    "no": "861",
+    "no": "857",
     "kode": "PMA218",
     "nama": "ANALISIS VEKTOR",
     "kelas": "01",
@@ -16359,7 +16283,7 @@
     }
   },
   {
-    "no": "862",
+    "no": "858",
     "kode": "PMA218",
     "nama": "ANALISIS VEKTOR",
     "kelas": "02",
@@ -16378,7 +16302,7 @@
     }
   },
   {
-    "no": "863",
+    "no": "859",
     "kode": "PMA218",
     "nama": "ANALISIS VEKTOR",
     "kelas": "03",
@@ -16397,7 +16321,7 @@
     }
   },
   {
-    "no": "864",
+    "no": "860",
     "kode": "PMA218",
     "nama": "ANALISIS VEKTOR",
     "kelas": "04",
@@ -16405,7 +16329,7 @@
     "ruang": "2:04A",
     "hari": "Sabtu",
     "waktu": "09:40-11:30",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA218",
@@ -16416,7 +16340,7 @@
     }
   },
   {
-    "no": "865",
+    "no": "861",
     "kode": "PMA218",
     "nama": "ANALISIS VEKTOR",
     "kelas": "05",
@@ -16435,7 +16359,7 @@
     }
   },
   {
-    "no": "866",
+    "no": "862",
     "kode": "PMA218",
     "nama": "ANALISIS VEKTOR",
     "kelas": "06",
@@ -16454,7 +16378,7 @@
     }
   },
   {
-    "no": "867",
+    "no": "863",
     "kode": "PMA220",
     "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
     "kelas": "01",
@@ -16473,7 +16397,7 @@
     }
   },
   {
-    "no": "868",
+    "no": "864",
     "kode": "PMA220",
     "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
     "kelas": "02",
@@ -16492,7 +16416,7 @@
     }
   },
   {
-    "no": "869",
+    "no": "865",
     "kode": "PMA220",
     "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
     "kelas": "03",
@@ -16511,7 +16435,7 @@
     }
   },
   {
-    "no": "870",
+    "no": "866",
     "kode": "PMA220",
     "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
     "kelas": "04",
@@ -16530,7 +16454,7 @@
     }
   },
   {
-    "no": "871",
+    "no": "867",
     "kode": "PMA220",
     "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
     "kelas": "05",
@@ -16549,7 +16473,7 @@
     }
   },
   {
-    "no": "872",
+    "no": "868",
     "kode": "PMA222",
     "nama": "ALJABAR LINIER",
     "kelas": "01",
@@ -16568,7 +16492,7 @@
     }
   },
   {
-    "no": "873",
+    "no": "869",
     "kode": "PMA222",
     "nama": "ALJABAR LINIER",
     "kelas": "02",
@@ -16587,7 +16511,7 @@
     }
   },
   {
-    "no": "874",
+    "no": "870",
     "kode": "PMA222",
     "nama": "ALJABAR LINIER",
     "kelas": "03",
@@ -16606,7 +16530,7 @@
     }
   },
   {
-    "no": "875",
+    "no": "871",
     "kode": "PMA222",
     "nama": "ALJABAR LINIER",
     "kelas": "04",
@@ -16614,7 +16538,7 @@
     "ruang": "15:03:004",
     "hari": "Kamis",
     "waktu": "10:30-13:10",
-    "peserta": "22",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA222",
@@ -16625,7 +16549,7 @@
     }
   },
   {
-    "no": "876",
+    "no": "872",
     "kode": "PMAP01",
     "nama": "SEMINAR PENDIDIKAN MATEMATIKA",
     "kelas": "01",
@@ -16633,7 +16557,7 @@
     "ruang": "LAB MAT",
     "hari": "Selasa",
     "waktu": "09:40-11:30",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP01",
@@ -16644,7 +16568,7 @@
     }
   },
   {
-    "no": "877",
+    "no": "873",
     "kode": "PMAP01",
     "nama": "SEMINAR PENDIDIKAN MATEMATIKA",
     "kelas": "02",
@@ -16663,7 +16587,7 @@
     }
   },
   {
-    "no": "878",
+    "no": "874",
     "kode": "PMAP02",
     "nama": "ANALISIS REAL LANJUTAN",
     "kelas": "01",
@@ -16682,7 +16606,7 @@
     }
   },
   {
-    "no": "879",
+    "no": "875",
     "kode": "PMAP02",
     "nama": "ANALISIS REAL LANJUTAN",
     "kelas": "02",
@@ -16701,7 +16625,7 @@
     }
   },
   {
-    "no": "880",
+    "no": "876",
     "kode": "PMAP04",
     "nama": "TEORI GRAPH",
     "kelas": "01",
@@ -16720,7 +16644,7 @@
     }
   },
   {
-    "no": "881",
+    "no": "877",
     "kode": "PMAP04",
     "nama": "TEORI GRAPH",
     "kelas": "02",
@@ -16728,7 +16652,7 @@
     "ruang": "3:10",
     "hari": "Selasa",
     "waktu": "11:30-13:10",
-    "peserta": "20",
+    "peserta": "21",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP04",
@@ -16739,7 +16663,7 @@
     }
   },
   {
-    "no": "882",
+    "no": "878",
     "kode": "PMAP04",
     "nama": "TEORI GRAPH",
     "kelas": "03",
@@ -16758,7 +16682,7 @@
     }
   },
   {
-    "no": "883",
+    "no": "879",
     "kode": "PMAP06",
     "nama": "WORKSHOP PENULISAN ARTIKEL & POSTER",
     "kelas": "01",
@@ -16777,7 +16701,7 @@
     }
   },
   {
-    "no": "884",
+    "no": "880",
     "kode": "PMAP06",
     "nama": "WORKSHOP PENULISAN ARTIKEL & POSTER",
     "kelas": "02",
@@ -16796,7 +16720,7 @@
     }
   },
   {
-    "no": "885",
+    "no": "881",
     "kode": "PMAP06",
     "nama": "WORKSHOP PENULISAN ARTIKEL & POSTER",
     "kelas": "03",
@@ -16804,7 +16728,7 @@
     "ruang": "3:10",
     "hari": "Senin",
     "waktu": "17:10-18:30",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP06",
@@ -16815,7 +16739,7 @@
     }
   },
   {
-    "no": "886",
+    "no": "882",
     "kode": "PMAP08",
     "nama": "PENGEMBANGAN KEWIRAUSAHAAN PENDIDIK",
     "kelas": "01",
@@ -16834,7 +16758,7 @@
     }
   },
   {
-    "no": "887",
+    "no": "883",
     "kode": "PMAP08",
     "nama": "PENGEMBANGAN KEWIRAUSAHAAN PENDIDIK",
     "kelas": "02",
@@ -16853,7 +16777,7 @@
     }
   },
   {
-    "no": "888",
+    "no": "884",
     "kode": "PMAP08",
     "nama": "PENGEMBANGAN KEWIRAUSAHAAN PENDIDIK",
     "kelas": "03",
@@ -16861,7 +16785,7 @@
     "ruang": "2:04A",
     "hari": "Sabtu",
     "waktu": "12:00-14:30",
-    "peserta": "22",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP08",
@@ -16872,7 +16796,7 @@
     }
   },
   {
-    "no": "889",
+    "no": "885",
     "kode": "PMAP10",
     "nama": "GEOMETRI MELUKIS",
     "kelas": "01",
@@ -16891,7 +16815,7 @@
     }
   },
   {
-    "no": "890",
+    "no": "886",
     "kode": "PMAP10",
     "nama": "GEOMETRI MELUKIS",
     "kelas": "02",
@@ -16910,7 +16834,7 @@
     }
   },
   {
-    "no": "891",
+    "no": "887",
     "kode": "PMAP10",
     "nama": "GEOMETRI MELUKIS",
     "kelas": "03",
@@ -16929,7 +16853,7 @@
     }
   },
   {
-    "no": "892",
+    "no": "888",
     "kode": "PMAP12",
     "nama": "SISTEM-SISTEM GEOMETRI",
     "kelas": "01",
@@ -16948,7 +16872,7 @@
     }
   },
   {
-    "no": "893",
+    "no": "889",
     "kode": "PMAP12",
     "nama": "SISTEM-SISTEM GEOMETRI",
     "kelas": "02",
@@ -16967,7 +16891,7 @@
     }
   },
   {
-    "no": "894",
+    "no": "890",
     "kode": "PMAP12",
     "nama": "SISTEM-SISTEM GEOMETRI",
     "kelas": "03",
@@ -16986,7 +16910,7 @@
     }
   },
   {
-    "no": "895",
+    "no": "891",
     "kode": "PMAP14",
     "nama": "PENDIDIKAN KARAKTER",
     "kelas": "01",
@@ -17005,7 +16929,7 @@
     }
   },
   {
-    "no": "896",
+    "no": "892",
     "kode": "PMAP14",
     "nama": "PENDIDIKAN KARAKTER",
     "kelas": "02",
@@ -17024,7 +16948,7 @@
     }
   },
   {
-    "no": "897",
+    "no": "893",
     "kode": "PMAP14",
     "nama": "PENDIDIKAN KARAKTER",
     "kelas": "03",
@@ -17043,7 +16967,7 @@
     }
   },
   {
-    "no": "898",
+    "no": "894",
     "kode": "PMAP16",
     "nama": "KOMPUTASI STATISTIK",
     "kelas": "01",
@@ -17051,7 +16975,7 @@
     "ruang": "LABKOM 2:07",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP16",
@@ -17062,7 +16986,7 @@
     }
   },
   {
-    "no": "899",
+    "no": "895",
     "kode": "PMAP16",
     "nama": "KOMPUTASI STATISTIK",
     "kelas": "02",
@@ -17081,7 +17005,7 @@
     }
   },
   {
-    "no": "900",
+    "no": "896",
     "kode": "PMAP16",
     "nama": "KOMPUTASI STATISTIK",
     "kelas": "03",
@@ -17100,7 +17024,7 @@
     }
   },
   {
-    "no": "901",
+    "no": "897",
     "kode": "PMAP18",
     "nama": "PEMROGRAMAN MATLAB",
     "kelas": "01",
@@ -17119,7 +17043,7 @@
     }
   },
   {
-    "no": "902",
+    "no": "898",
     "kode": "PMAP18",
     "nama": "PEMROGRAMAN MATLAB",
     "kelas": "02",
@@ -17138,7 +17062,7 @@
     }
   },
   {
-    "no": "903",
+    "no": "899",
     "kode": "PMAP18",
     "nama": "PEMROGRAMAN MATLAB",
     "kelas": "03",
@@ -17146,7 +17070,7 @@
     "ruang": "LABKOM",
     "hari": "Jumat",
     "waktu": "12:30-14:30",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP18",
@@ -17157,7 +17081,7 @@
     }
   },
   {
-    "no": "904",
+    "no": "900",
     "kode": "PMAP20",
     "nama": "PENDEKATAN MATEMATIKA REALISTIK DENGAN KONTEKS LOKAL",
     "kelas": "01",
@@ -17176,7 +17100,7 @@
     }
   },
   {
-    "no": "905",
+    "no": "901",
     "kode": "PMAP20",
     "nama": "PENDEKATAN MATEMATIKA REALISTIK DENGAN KONTEKS LOKAL",
     "kelas": "02",
@@ -17195,7 +17119,7 @@
     }
   },
   {
-    "no": "906",
+    "no": "902",
     "kode": "PMAP20",
     "nama": "PENDEKATAN MATEMATIKA REALISTIK DENGAN KONTEKS LOKAL",
     "kelas": "03",
@@ -17214,7 +17138,7 @@
     }
   },
   {
-    "no": "907",
+    "no": "903",
     "kode": "PMAP22",
     "nama": "MIXED-METHOD DESIGN",
     "kelas": "01",
@@ -17233,7 +17157,7 @@
     }
   },
   {
-    "no": "908",
+    "no": "904",
     "kode": "PMAP22",
     "nama": "MIXED-METHOD DESIGN",
     "kelas": "02",
@@ -17252,7 +17176,7 @@
     }
   },
   {
-    "no": "909",
+    "no": "905",
     "kode": "PMAP22",
     "nama": "MIXED-METHOD DESIGN",
     "kelas": "03",
@@ -17260,7 +17184,7 @@
     "ruang": "PRODI",
     "hari": "Jumat",
     "waktu": "12:30-14:30",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP22",
@@ -17271,7 +17195,7 @@
     }
   },
   {
-    "no": "910",
+    "no": "906",
     "kode": "PMAP24",
     "nama": "MATEMATIKA EKONOMI",
     "kelas": "01",
@@ -17290,7 +17214,7 @@
     }
   },
   {
-    "no": "911",
+    "no": "907",
     "kode": "PMAP24",
     "nama": "MATEMATIKA EKONOMI",
     "kelas": "02",
@@ -17309,7 +17233,7 @@
     }
   },
   {
-    "no": "912",
+    "no": "908",
     "kode": "PMAP24",
     "nama": "MATEMATIKA EKONOMI",
     "kelas": "03",
@@ -17328,7 +17252,7 @@
     }
   },
   {
-    "no": "913",
+    "no": "909",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "01",
@@ -17347,7 +17271,7 @@
     }
   },
   {
-    "no": "914",
+    "no": "910",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "02",
@@ -17366,7 +17290,7 @@
     }
   },
   {
-    "no": "915",
+    "no": "911",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "03",
@@ -17385,7 +17309,7 @@
     }
   },
   {
-    "no": "916",
+    "no": "912",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "01",
@@ -17404,7 +17328,7 @@
     }
   },
   {
-    "no": "917",
+    "no": "913",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "02",
@@ -17423,7 +17347,7 @@
     }
   },
   {
-    "no": "918",
+    "no": "914",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "03",
@@ -17442,7 +17366,7 @@
     }
   },
   {
-    "no": "919",
+    "no": "915",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "01",
@@ -17461,7 +17385,7 @@
     }
   },
   {
-    "no": "920",
+    "no": "916",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "02",
@@ -17480,7 +17404,7 @@
     }
   },
   {
-    "no": "921",
+    "no": "917",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "03",
@@ -17499,7 +17423,7 @@
     }
   },
   {
-    "no": "922",
+    "no": "918",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "01",
@@ -17518,7 +17442,7 @@
     }
   },
   {
-    "no": "923",
+    "no": "919",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "02",
@@ -17537,7 +17461,7 @@
     }
   },
   {
-    "no": "924",
+    "no": "920",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "03",
@@ -17556,7 +17480,7 @@
     }
   },
   {
-    "no": "925",
+    "no": "921",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "01",
@@ -17575,7 +17499,7 @@
     }
   },
   {
-    "no": "926",
+    "no": "922",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "01",
@@ -17594,7 +17518,7 @@
     }
   },
   {
-    "no": "927",
+    "no": "923",
     "kode": "PHE102",
     "nama": "KAJIAN FISIKA SEKOLAH I",
     "kelas": "01",
@@ -17613,7 +17537,7 @@
     }
   },
   {
-    "no": "928",
+    "no": "924",
     "kode": "PHE102",
     "nama": "KAJIAN FISIKA SEKOLAH I",
     "kelas": "02",
@@ -17632,7 +17556,7 @@
     }
   },
   {
-    "no": "929",
+    "no": "925",
     "kode": "PHE102",
     "nama": "KAJIAN FISIKA SEKOLAH I",
     "kelas": "03",
@@ -17651,7 +17575,7 @@
     }
   },
   {
-    "no": "930",
+    "no": "926",
     "kode": "PHE104",
     "nama": "PRAKTIKUM FISIKA DASAR II",
     "kelas": "01",
@@ -17670,7 +17594,7 @@
     }
   },
   {
-    "no": "931",
+    "no": "927",
     "kode": "PHE104",
     "nama": "PRAKTIKUM FISIKA DASAR II",
     "kelas": "02",
@@ -17689,7 +17613,7 @@
     }
   },
   {
-    "no": "932",
+    "no": "928",
     "kode": "PHE104",
     "nama": "PRAKTIKUM FISIKA DASAR II",
     "kelas": "03",
@@ -17708,7 +17632,7 @@
     }
   },
   {
-    "no": "933",
+    "no": "929",
     "kode": "PHE106",
     "nama": "FISIKA DASAR II",
     "kelas": "01",
@@ -17727,7 +17651,7 @@
     }
   },
   {
-    "no": "934",
+    "no": "930",
     "kode": "PHE106",
     "nama": "FISIKA DASAR II",
     "kelas": "02",
@@ -17746,7 +17670,7 @@
     }
   },
   {
-    "no": "935",
+    "no": "931",
     "kode": "PHE106",
     "nama": "FISIKA DASAR II",
     "kelas": "03",
@@ -17765,7 +17689,7 @@
     }
   },
   {
-    "no": "936",
+    "no": "932",
     "kode": "PHE108",
     "nama": "ALAT UKUR DAN PENGUKURAN",
     "kelas": "01",
@@ -17784,7 +17708,7 @@
     }
   },
   {
-    "no": "937",
+    "no": "933",
     "kode": "PHE108",
     "nama": "ALAT UKUR DAN PENGUKURAN",
     "kelas": "02",
@@ -17803,7 +17727,7 @@
     }
   },
   {
-    "no": "938",
+    "no": "934",
     "kode": "PHE108",
     "nama": "ALAT UKUR DAN PENGUKURAN",
     "kelas": "03",
@@ -17822,7 +17746,7 @@
     }
   },
   {
-    "no": "939",
+    "no": "935",
     "kode": "PHE202",
     "nama": "ELEKTRONIKA LANJUT",
     "kelas": "01",
@@ -17841,7 +17765,7 @@
     }
   },
   {
-    "no": "940",
+    "no": "936",
     "kode": "PHE202",
     "nama": "ELEKTRONIKA LANJUT",
     "kelas": "02",
@@ -17860,7 +17784,7 @@
     }
   },
   {
-    "no": "941",
+    "no": "937",
     "kode": "PHE202",
     "nama": "ELEKTRONIKA LANJUT",
     "kelas": "03",
@@ -17879,7 +17803,7 @@
     }
   },
   {
-    "no": "942",
+    "no": "938",
     "kode": "PHE204",
     "nama": "PRAKTIKUM ELEKTRONIKA LANJUT",
     "kelas": "01",
@@ -17887,7 +17811,7 @@
     "ruang": "LAB FISIKA",
     "hari": "Rabu",
     "waktu": "16:20-18:10",
-    "peserta": "20",
+    "peserta": "21",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE204",
@@ -17898,7 +17822,7 @@
     }
   },
   {
-    "no": "943",
+    "no": "939",
     "kode": "PHE204",
     "nama": "PRAKTIKUM ELEKTRONIKA LANJUT",
     "kelas": "02",
@@ -17917,7 +17841,7 @@
     }
   },
   {
-    "no": "944",
+    "no": "940",
     "kode": "PHE204",
     "nama": "PRAKTIKUM ELEKTRONIKA LANJUT",
     "kelas": "03",
@@ -17936,7 +17860,7 @@
     }
   },
   {
-    "no": "945",
+    "no": "941",
     "kode": "PHE206",
     "nama": "EVALUASI PENGAJARAN FISIKA",
     "kelas": "01",
@@ -17955,7 +17879,7 @@
     }
   },
   {
-    "no": "946",
+    "no": "942",
     "kode": "PHE206",
     "nama": "EVALUASI PENGAJARAN FISIKA",
     "kelas": "02",
@@ -17974,7 +17898,7 @@
     }
   },
   {
-    "no": "947",
+    "no": "943",
     "kode": "PHE206",
     "nama": "EVALUASI PENGAJARAN FISIKA",
     "kelas": "03",
@@ -17993,7 +17917,7 @@
     }
   },
   {
-    "no": "948",
+    "no": "944",
     "kode": "PHE208",
     "nama": "FISIKA MODERN",
     "kelas": "01",
@@ -18012,7 +17936,7 @@
     }
   },
   {
-    "no": "949",
+    "no": "945",
     "kode": "PHE208",
     "nama": "FISIKA MODERN",
     "kelas": "02",
@@ -18031,7 +17955,7 @@
     }
   },
   {
-    "no": "950",
+    "no": "946",
     "kode": "PHE208",
     "nama": "FISIKA MODERN",
     "kelas": "03",
@@ -18050,7 +17974,7 @@
     }
   },
   {
-    "no": "951",
+    "no": "947",
     "kode": "PHE210",
     "nama": "STRATEGI BELAJAR MENGAJAR FISIKA",
     "kelas": "01",
@@ -18069,7 +17993,7 @@
     }
   },
   {
-    "no": "952",
+    "no": "948",
     "kode": "PHE210",
     "nama": "STRATEGI BELAJAR MENGAJAR FISIKA",
     "kelas": "02",
@@ -18088,7 +18012,7 @@
     }
   },
   {
-    "no": "953",
+    "no": "949",
     "kode": "PHE210",
     "nama": "STRATEGI BELAJAR MENGAJAR FISIKA",
     "kelas": "03",
@@ -18107,7 +18031,7 @@
     }
   },
   {
-    "no": "954",
+    "no": "950",
     "kode": "PHE212",
     "nama": "KAJIAN FISIKA SEKOLAH III",
     "kelas": "01",
@@ -18126,7 +18050,7 @@
     }
   },
   {
-    "no": "955",
+    "no": "951",
     "kode": "PHE212",
     "nama": "KAJIAN FISIKA SEKOLAH III",
     "kelas": "02",
@@ -18145,7 +18069,7 @@
     }
   },
   {
-    "no": "956",
+    "no": "952",
     "kode": "PHE212",
     "nama": "KAJIAN FISIKA SEKOLAH III",
     "kelas": "03",
@@ -18164,7 +18088,7 @@
     }
   },
   {
-    "no": "957",
+    "no": "953",
     "kode": "PHE214",
     "nama": "MATEMATIKA FISIKA II",
     "kelas": "01",
@@ -18183,7 +18107,7 @@
     }
   },
   {
-    "no": "958",
+    "no": "954",
     "kode": "PHE214",
     "nama": "MATEMATIKA FISIKA II",
     "kelas": "02",
@@ -18202,7 +18126,7 @@
     }
   },
   {
-    "no": "959",
+    "no": "955",
     "kode": "PHE214",
     "nama": "MATEMATIKA FISIKA II",
     "kelas": "03",
@@ -18221,7 +18145,7 @@
     }
   },
   {
-    "no": "960",
+    "no": "956",
     "kode": "PHE216",
     "nama": "ANALISIS VEKTOR",
     "kelas": "01",
@@ -18229,7 +18153,7 @@
     "ruang": "2.06 A",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "28",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE216",
@@ -18240,7 +18164,7 @@
     }
   },
   {
-    "no": "961",
+    "no": "957",
     "kode": "PHE216",
     "nama": "ANALISIS VEKTOR",
     "kelas": "02",
@@ -18259,7 +18183,7 @@
     }
   },
   {
-    "no": "962",
+    "no": "958",
     "kode": "PHE216",
     "nama": "ANALISIS VEKTOR",
     "kelas": "03",
@@ -18278,7 +18202,7 @@
     }
   },
   {
-    "no": "963",
+    "no": "959",
     "kode": "PHE216",
     "nama": "ANALISIS VEKTOR",
     "kelas": "04",
@@ -18297,7 +18221,7 @@
     }
   },
   {
-    "no": "964",
+    "no": "960",
     "kode": "PHE302",
     "nama": "PENDAHULUAN FISIKA ZAT PADAT",
     "kelas": "01",
@@ -18316,7 +18240,7 @@
     }
   },
   {
-    "no": "965",
+    "no": "961",
     "kode": "PHE302",
     "nama": "PENDAHULUAN FISIKA ZAT PADAT",
     "kelas": "02",
@@ -18335,7 +18259,7 @@
     }
   },
   {
-    "no": "966",
+    "no": "962",
     "kode": "PHE302",
     "nama": "PENDAHULUAN FISIKA ZAT PADAT",
     "kelas": "03",
@@ -18354,7 +18278,7 @@
     }
   },
   {
-    "no": "967",
+    "no": "963",
     "kode": "PHE303",
     "nama": "OPTIK",
     "kelas": "01",
@@ -18373,7 +18297,7 @@
     }
   },
   {
-    "no": "968",
+    "no": "964",
     "kode": "PHE304",
     "nama": "LISTRIK MAGNET",
     "kelas": "01",
@@ -18392,7 +18316,7 @@
     }
   },
   {
-    "no": "969",
+    "no": "965",
     "kode": "PHE304",
     "nama": "LISTRIK MAGNET",
     "kelas": "02",
@@ -18411,7 +18335,7 @@
     }
   },
   {
-    "no": "970",
+    "no": "966",
     "kode": "PHE304",
     "nama": "LISTRIK MAGNET",
     "kelas": "03",
@@ -18430,7 +18354,7 @@
     }
   },
   {
-    "no": "971",
+    "no": "967",
     "kode": "PHE306",
     "nama": "LABORATORIUM FISIKA I",
     "kelas": "01",
@@ -18449,7 +18373,7 @@
     }
   },
   {
-    "no": "972",
+    "no": "968",
     "kode": "PHE306",
     "nama": "LABORATORIUM FISIKA I",
     "kelas": "02",
@@ -18468,7 +18392,7 @@
     }
   },
   {
-    "no": "973",
+    "no": "969",
     "kode": "PHE306",
     "nama": "LABORATORIUM FISIKA I",
     "kelas": "03",
@@ -18487,7 +18411,7 @@
     }
   },
   {
-    "no": "974",
+    "no": "970",
     "kode": "PHE308",
     "nama": "FISIKA KUANTUM",
     "kelas": "01",
@@ -18506,7 +18430,7 @@
     }
   },
   {
-    "no": "975",
+    "no": "971",
     "kode": "PHE308",
     "nama": "FISIKA KUANTUM",
     "kelas": "02",
@@ -18525,7 +18449,7 @@
     }
   },
   {
-    "no": "976",
+    "no": "972",
     "kode": "PHE308",
     "nama": "FISIKA KUANTUM",
     "kelas": "03",
@@ -18544,7 +18468,7 @@
     }
   },
   {
-    "no": "977",
+    "no": "973",
     "kode": "PHE402",
     "nama": "SEMINAR FISIKA",
     "kelas": "01",
@@ -18563,7 +18487,7 @@
     }
   },
   {
-    "no": "978",
+    "no": "974",
     "kode": "PHE402",
     "nama": "SEMINAR FISIKA",
     "kelas": "02",
@@ -18582,7 +18506,7 @@
     }
   },
   {
-    "no": "979",
+    "no": "975",
     "kode": "PHE402",
     "nama": "SEMINAR FISIKA",
     "kelas": "03",
@@ -18601,7 +18525,7 @@
     }
   },
   {
-    "no": "980",
+    "no": "976",
     "kode": "PHE502",
     "nama": "FISIKA ATMOSFER",
     "kelas": "01",
@@ -18620,7 +18544,7 @@
     }
   },
   {
-    "no": "981",
+    "no": "977",
     "kode": "PHE506",
     "nama": "DASAR-DASAR PEMOGRAMAN KOMPUTER",
     "kelas": "01",
@@ -18639,7 +18563,7 @@
     }
   },
   {
-    "no": "982",
+    "no": "978",
     "kode": "PHE508",
     "nama": "PRAKTIKUM DASAR-DASAR PEMOGRAMAN KOMPUTER",
     "kelas": "01",
@@ -18658,7 +18582,7 @@
     }
   },
   {
-    "no": "983",
+    "no": "979",
     "kode": "PHE516",
     "nama": "FIBER OPTIK",
     "kelas": "01",
@@ -18677,7 +18601,7 @@
     }
   },
   {
-    "no": "984",
+    "no": "980",
     "kode": "PHEP04",
     "nama": "PEMBELAJARAN BERBASIS STEM",
     "kelas": "01",
@@ -18696,7 +18620,7 @@
     }
   },
   {
-    "no": "985",
+    "no": "981",
     "kode": "PHEP04",
     "nama": "PEMBELAJARAN BERBASIS STEM",
     "kelas": "02",
@@ -18715,7 +18639,7 @@
     }
   },
   {
-    "no": "986",
+    "no": "982",
     "kode": "PHEP10",
     "nama": "MULTIMEDIA PEMBELAJARAN FISIKA",
     "kelas": "01",
@@ -18734,7 +18658,7 @@
     }
   },
   {
-    "no": "987",
+    "no": "983",
     "kode": "PHEP12",
     "nama": "PRAKTIKUM MULTIMEDIA PEMBELAJARAN FISIKA",
     "kelas": "01",
@@ -18753,7 +18677,7 @@
     }
   },
   {
-    "no": "988",
+    "no": "984",
     "kode": "PHEP14",
     "nama": "PEMBELAJARAN BERBASIS ARTIFICIAL INTELLIGENCE",
     "kelas": "01",
@@ -18772,7 +18696,7 @@
     }
   },
   {
-    "no": "989",
+    "no": "985",
     "kode": "EDC102",
     "nama": "KIMIA DASAR II",
     "kelas": "01",
@@ -18791,7 +18715,7 @@
     }
   },
   {
-    "no": "990",
+    "no": "986",
     "kode": "EDC102",
     "nama": "KIMIA DASAR II",
     "kelas": "02",
@@ -18810,7 +18734,7 @@
     }
   },
   {
-    "no": "991",
+    "no": "987",
     "kode": "EDC102",
     "nama": "KIMIA DASAR II",
     "kelas": "03",
@@ -18829,7 +18753,7 @@
     }
   },
   {
-    "no": "992",
+    "no": "988",
     "kode": "EDC104",
     "nama": "KIMIA LARUTAN",
     "kelas": "01",
@@ -18848,7 +18772,7 @@
     }
   },
   {
-    "no": "993",
+    "no": "989",
     "kode": "EDC104",
     "nama": "KIMIA LARUTAN",
     "kelas": "02",
@@ -18867,7 +18791,7 @@
     }
   },
   {
-    "no": "994",
+    "no": "990",
     "kode": "EDC104",
     "nama": "KIMIA LARUTAN",
     "kelas": "03",
@@ -18886,7 +18810,7 @@
     }
   },
   {
-    "no": "995",
+    "no": "991",
     "kode": "EDC106",
     "nama": "ICT DALAM PEMBELAJARAN KIMIA",
     "kelas": "01",
@@ -18905,7 +18829,7 @@
     }
   },
   {
-    "no": "996",
+    "no": "992",
     "kode": "EDC106",
     "nama": "ICT DALAM PEMBELAJARAN KIMIA",
     "kelas": "02",
@@ -18924,7 +18848,7 @@
     }
   },
   {
-    "no": "997",
+    "no": "993",
     "kode": "EDC106",
     "nama": "ICT DALAM PEMBELAJARAN KIMIA",
     "kelas": "03",
@@ -18943,7 +18867,7 @@
     }
   },
   {
-    "no": "998",
+    "no": "994",
     "kode": "EDC108",
     "nama": "PRAKTIKUM KIMIA DASAR",
     "kelas": "01",
@@ -18962,7 +18886,7 @@
     }
   },
   {
-    "no": "999",
+    "no": "995",
     "kode": "EDC108",
     "nama": "PRAKTIKUM KIMIA DASAR",
     "kelas": "02",
@@ -18981,7 +18905,7 @@
     }
   },
   {
-    "no": "1000",
+    "no": "996",
     "kode": "EDC108",
     "nama": "PRAKTIKUM KIMIA DASAR",
     "kelas": "03",
@@ -19000,7 +18924,7 @@
     }
   },
   {
-    "no": "1001",
+    "no": "997",
     "kode": "EDC110",
     "nama": "PRAKTIKUM KIMIA LARUTAN",
     "kelas": "01",
@@ -19019,7 +18943,7 @@
     }
   },
   {
-    "no": "1002",
+    "no": "998",
     "kode": "EDC110",
     "nama": "PRAKTIKUM KIMIA LARUTAN",
     "kelas": "02",
@@ -19038,7 +18962,7 @@
     }
   },
   {
-    "no": "1003",
+    "no": "999",
     "kode": "EDC110",
     "nama": "PRAKTIKUM KIMIA LARUTAN",
     "kelas": "03",
@@ -19057,7 +18981,7 @@
     }
   },
   {
-    "no": "1004",
+    "no": "1000",
     "kode": "EDC112",
     "nama": "KAJIAN BUKU AJAR KIMIA KELAS XI",
     "kelas": "01",
@@ -19076,7 +19000,7 @@
     }
   },
   {
-    "no": "1005",
+    "no": "1001",
     "kode": "EDC112",
     "nama": "KAJIAN BUKU AJAR KIMIA KELAS XI",
     "kelas": "02",
@@ -19095,7 +19019,7 @@
     }
   },
   {
-    "no": "1006",
+    "no": "1002",
     "kode": "EDC112",
     "nama": "KAJIAN BUKU AJAR KIMIA KELAS XI",
     "kelas": "03",
@@ -19114,7 +19038,7 @@
     }
   },
   {
-    "no": "1007",
+    "no": "1003",
     "kode": "EDC202",
     "nama": "KINETIKA KIMIA",
     "kelas": "01",
@@ -19133,7 +19057,7 @@
     }
   },
   {
-    "no": "1008",
+    "no": "1004",
     "kode": "EDC202",
     "nama": "KINETIKA KIMIA",
     "kelas": "02",
@@ -19152,7 +19076,7 @@
     }
   },
   {
-    "no": "1009",
+    "no": "1005",
     "kode": "EDC202",
     "nama": "KINETIKA KIMIA",
     "kelas": "03",
@@ -19171,7 +19095,7 @@
     }
   },
   {
-    "no": "1010",
+    "no": "1006",
     "kode": "EDC204",
     "nama": "KIMIA ORGANIK POLIFUNGSIONAL",
     "kelas": "01",
@@ -19190,7 +19114,7 @@
     }
   },
   {
-    "no": "1011",
+    "no": "1007",
     "kode": "EDC204",
     "nama": "KIMIA ORGANIK POLIFUNGSIONAL",
     "kelas": "02",
@@ -19209,7 +19133,7 @@
     }
   },
   {
-    "no": "1012",
+    "no": "1008",
     "kode": "EDC204",
     "nama": "KIMIA ORGANIK POLIFUNGSIONAL",
     "kelas": "03",
@@ -19228,7 +19152,7 @@
     }
   },
   {
-    "no": "1013",
+    "no": "1009",
     "kode": "EDC206",
     "nama": "EVALUASI PENGAJARAN KIMIA",
     "kelas": "01",
@@ -19247,7 +19171,7 @@
     }
   },
   {
-    "no": "1014",
+    "no": "1010",
     "kode": "EDC206",
     "nama": "EVALUASI PENGAJARAN KIMIA",
     "kelas": "02",
@@ -19266,7 +19190,7 @@
     }
   },
   {
-    "no": "1015",
+    "no": "1011",
     "kode": "EDC206",
     "nama": "EVALUASI PENGAJARAN KIMIA",
     "kelas": "03",
@@ -19285,7 +19209,7 @@
     }
   },
   {
-    "no": "1016",
+    "no": "1012",
     "kode": "EDC208",
     "nama": "UNSUR DAN SENYAWA GOLONGAN UTAMA",
     "kelas": "01",
@@ -19304,7 +19228,7 @@
     }
   },
   {
-    "no": "1017",
+    "no": "1013",
     "kode": "EDC208",
     "nama": "UNSUR DAN SENYAWA GOLONGAN UTAMA",
     "kelas": "02",
@@ -19323,7 +19247,7 @@
     }
   },
   {
-    "no": "1018",
+    "no": "1014",
     "kode": "EDC208",
     "nama": "UNSUR DAN SENYAWA GOLONGAN UTAMA",
     "kelas": "03",
@@ -19342,7 +19266,7 @@
     }
   },
   {
-    "no": "1019",
+    "no": "1015",
     "kode": "EDC210",
     "nama": "KIMIA ANALISA KUANTITATIF",
     "kelas": "01",
@@ -19361,7 +19285,7 @@
     }
   },
   {
-    "no": "1020",
+    "no": "1016",
     "kode": "EDC210",
     "nama": "KIMIA ANALISA KUANTITATIF",
     "kelas": "02",
@@ -19380,7 +19304,7 @@
     }
   },
   {
-    "no": "1021",
+    "no": "1017",
     "kode": "EDC210",
     "nama": "KIMIA ANALISA KUANTITATIF",
     "kelas": "03",
@@ -19399,7 +19323,7 @@
     }
   },
   {
-    "no": "1022",
+    "no": "1018",
     "kode": "EDC212",
     "nama": "PERENCANAAN PENGAJARAN KIMIA",
     "kelas": "01",
@@ -19418,7 +19342,7 @@
     }
   },
   {
-    "no": "1023",
+    "no": "1019",
     "kode": "EDC212",
     "nama": "PERENCANAAN PENGAJARAN KIMIA",
     "kelas": "02",
@@ -19437,7 +19361,7 @@
     }
   },
   {
-    "no": "1024",
+    "no": "1020",
     "kode": "EDC212",
     "nama": "PERENCANAAN PENGAJARAN KIMIA",
     "kelas": "03",
@@ -19456,7 +19380,7 @@
     }
   },
   {
-    "no": "1025",
+    "no": "1021",
     "kode": "EDC214",
     "nama": "PRAKTIKUM KIMIA FISIK",
     "kelas": "01",
@@ -19475,7 +19399,7 @@
     }
   },
   {
-    "no": "1026",
+    "no": "1022",
     "kode": "EDC214",
     "nama": "PRAKTIKUM KIMIA FISIK",
     "kelas": "02",
@@ -19494,7 +19418,7 @@
     }
   },
   {
-    "no": "1027",
+    "no": "1023",
     "kode": "EDC214",
     "nama": "PRAKTIKUM KIMIA FISIK",
     "kelas": "03",
@@ -19513,7 +19437,7 @@
     }
   },
   {
-    "no": "1028",
+    "no": "1024",
     "kode": "EDC302",
     "nama": "KIMIA ANALISA INSTRUMEN",
     "kelas": "01",
@@ -19532,7 +19456,7 @@
     }
   },
   {
-    "no": "1029",
+    "no": "1025",
     "kode": "EDC302",
     "nama": "KIMIA ANALISA INSTRUMEN",
     "kelas": "02",
@@ -19551,7 +19475,7 @@
     }
   },
   {
-    "no": "1030",
+    "no": "1026",
     "kode": "EDC302",
     "nama": "KIMIA ANALISA INSTRUMEN",
     "kelas": "03",
@@ -19570,7 +19494,7 @@
     }
   },
   {
-    "no": "1031",
+    "no": "1027",
     "kode": "EDC304",
     "nama": "PRAKTIKUM KIMIA ANORGANIK",
     "kelas": "01",
@@ -19589,7 +19513,7 @@
     }
   },
   {
-    "no": "1032",
+    "no": "1028",
     "kode": "EDC304",
     "nama": "PRAKTIKUM KIMIA ANORGANIK",
     "kelas": "02",
@@ -19608,7 +19532,7 @@
     }
   },
   {
-    "no": "1033",
+    "no": "1029",
     "kode": "EDC304",
     "nama": "PRAKTIKUM KIMIA ANORGANIK",
     "kelas": "03",
@@ -19627,7 +19551,7 @@
     }
   },
   {
-    "no": "1034",
+    "no": "1030",
     "kode": "EDC306",
     "nama": "PENGELOLAAN LABORATORIUM",
     "kelas": "01",
@@ -19646,7 +19570,7 @@
     }
   },
   {
-    "no": "1035",
+    "no": "1031",
     "kode": "EDC306",
     "nama": "PENGELOLAAN LABORATORIUM",
     "kelas": "02",
@@ -19665,7 +19589,7 @@
     }
   },
   {
-    "no": "1036",
+    "no": "1032",
     "kode": "EDC306",
     "nama": "PENGELOLAAN LABORATORIUM",
     "kelas": "03",
@@ -19684,7 +19608,7 @@
     }
   },
   {
-    "no": "1037",
+    "no": "1033",
     "kode": "EDC308",
     "nama": "SPEKTROSKOPI MOLEKUL",
     "kelas": "01",
@@ -19703,7 +19627,7 @@
     }
   },
   {
-    "no": "1038",
+    "no": "1034",
     "kode": "EDC308",
     "nama": "SPEKTROSKOPI MOLEKUL",
     "kelas": "02",
@@ -19722,7 +19646,7 @@
     }
   },
   {
-    "no": "1039",
+    "no": "1035",
     "kode": "EDC308",
     "nama": "SPEKTROSKOPI MOLEKUL",
     "kelas": "03",
@@ -19741,7 +19665,7 @@
     }
   },
   {
-    "no": "1040",
+    "no": "1036",
     "kode": "EDC310",
     "nama": "PRAKTIKUM KIMIA ANALITIK",
     "kelas": "01",
@@ -19760,7 +19684,7 @@
     }
   },
   {
-    "no": "1041",
+    "no": "1037",
     "kode": "EDC310",
     "nama": "PRAKTIKUM KIMIA ANALITIK",
     "kelas": "02",
@@ -19779,7 +19703,7 @@
     }
   },
   {
-    "no": "1042",
+    "no": "1038",
     "kode": "EDC310",
     "nama": "PRAKTIKUM KIMIA ANALITIK",
     "kelas": "03",
@@ -19798,7 +19722,7 @@
     }
   },
   {
-    "no": "1043",
+    "no": "1039",
     "kode": "EDC312",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "01",
@@ -19817,7 +19741,7 @@
     }
   },
   {
-    "no": "1044",
+    "no": "1040",
     "kode": "EDC312",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "02",
@@ -19836,7 +19760,7 @@
     }
   },
   {
-    "no": "1045",
+    "no": "1041",
     "kode": "EDC312",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "03",
@@ -19855,7 +19779,7 @@
     }
   },
   {
-    "no": "1046",
+    "no": "1042",
     "kode": "EDC502",
     "nama": "ELEKTROKIMIA",
     "kelas": "01",
@@ -19863,7 +19787,7 @@
     "ruang": "3.06",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "1",
     "keterangan": "KIPS1Pendidikan Kimia",
     "kode-peserta": {
       "data-kode": "EDC502",
@@ -19874,7 +19798,7 @@
     }
   },
   {
-    "no": "1047",
+    "no": "1043",
     "kode": "EDC508",
     "nama": "BIOTEKNOLOGI",
     "kelas": "01",
@@ -19893,7 +19817,7 @@
     }
   },
   {
-    "no": "1048",
+    "no": "1044",
     "kode": "EDC510",
     "nama": "KIMIA PERMUKAAN DAN PADATAN",
     "kelas": "01",
@@ -19901,7 +19825,7 @@
     "ruang": "3.11",
     "hari": "Jumat",
     "waktu": "09:50-11:30",
-    "peserta": "2",
+    "peserta": "1",
     "keterangan": "KIPS1Pendidikan Kimia",
     "kode-peserta": {
       "data-kode": "EDC510",
@@ -19912,7 +19836,7 @@
     }
   },
   {
-    "no": "1049",
+    "no": "1045",
     "kode": "EDC512",
     "nama": "KIMIA KITOSAN",
     "kelas": "01",
@@ -19931,7 +19855,7 @@
     }
   },
   {
-    "no": "1050",
+    "no": "1046",
     "kode": "EDC514",
     "nama": "KIMIA ORGANIK BAHAN ALAM",
     "kelas": "01",
@@ -19950,7 +19874,7 @@
     }
   },
   {
-    "no": "1051",
+    "no": "1047",
     "kode": "EDCP10",
     "nama": "KIMIA LINGKUNGAN",
     "kelas": "01",
@@ -19958,7 +19882,7 @@
     "ruang": "3.11",
     "hari": "Sabtu",
     "waktu": "11:30-13:10",
-    "peserta": "16",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Kimia",
     "kode-peserta": {
       "data-kode": "EDCP10",
@@ -19969,7 +19893,7 @@
     }
   },
   {
-    "no": "1052",
+    "no": "1048",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "01",
@@ -19988,7 +19912,7 @@
     }
   },
   {
-    "no": "1053",
+    "no": "1049",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "02",
@@ -20007,7 +19931,7 @@
     }
   },
   {
-    "no": "1054",
+    "no": "1050",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "03",
@@ -20026,7 +19950,7 @@
     }
   },
   {
-    "no": "1055",
+    "no": "1051",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "01",
@@ -20045,7 +19969,7 @@
     }
   },
   {
-    "no": "1056",
+    "no": "1052",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "02",
@@ -20064,7 +19988,7 @@
     }
   },
   {
-    "no": "1057",
+    "no": "1053",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "03",
@@ -20083,7 +20007,7 @@
     }
   },
   {
-    "no": "1058",
+    "no": "1054",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "01",
@@ -20102,7 +20026,7 @@
     }
   },
   {
-    "no": "1059",
+    "no": "1055",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "02",
@@ -20121,7 +20045,7 @@
     }
   },
   {
-    "no": "1060",
+    "no": "1056",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "03",
@@ -20140,7 +20064,7 @@
     }
   },
   {
-    "no": "1061",
+    "no": "1057",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "01",
@@ -20159,7 +20083,7 @@
     }
   },
   {
-    "no": "1062",
+    "no": "1058",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "01",
@@ -20178,7 +20102,7 @@
     }
   },
   {
-    "no": "1063",
+    "no": "1059",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "01",
@@ -20197,7 +20121,7 @@
     }
   },
   {
-    "no": "1064",
+    "no": "1060",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "01",
@@ -20216,7 +20140,7 @@
     }
   },
   {
-    "no": "1065",
+    "no": "1061",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "01",
@@ -20235,7 +20159,7 @@
     }
   },
   {
-    "no": "1066",
+    "no": "1062",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "02",
@@ -20254,7 +20178,7 @@
     }
   },
   {
-    "no": "1067",
+    "no": "1063",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "03",
@@ -20273,7 +20197,7 @@
     }
   },
   {
-    "no": "1068",
+    "no": "1064",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "04",
@@ -20292,7 +20216,7 @@
     }
   },
   {
-    "no": "1069",
+    "no": "1065",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "01",
@@ -20300,7 +20224,7 @@
     "ruang": "R. 2.01 Tata Boga",
     "hari": "Rabu",
     "waktu": "12:00-13:00",
-    "peserta": "18",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "EDU202",
@@ -20311,7 +20235,7 @@
     }
   },
   {
-    "no": "1070",
+    "no": "1066",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "03",
@@ -20330,7 +20254,7 @@
     }
   },
   {
-    "no": "1071",
+    "no": "1067",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "04",
@@ -20338,7 +20262,7 @@
     "ruang": "CR. 1.03A FKIP",
     "hari": "Senin",
     "waktu": "09:50-11:30",
-    "peserta": "30",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "EDU202",
@@ -20349,7 +20273,7 @@
     }
   },
   {
-    "no": "1072",
+    "no": "1068",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "05",
@@ -20368,7 +20292,7 @@
     }
   },
   {
-    "no": "1073",
+    "no": "1069",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "01",
@@ -20387,7 +20311,7 @@
     }
   },
   {
-    "no": "1074",
+    "no": "1070",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "03",
@@ -20406,7 +20330,7 @@
     }
   },
   {
-    "no": "1075",
+    "no": "1071",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "04",
@@ -20414,7 +20338,7 @@
     "ruang": "CR. 1.03A FKIP",
     "hari": "Kamis",
     "waktu": "12:00-12:00",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -20425,7 +20349,7 @@
     }
   },
   {
-    "no": "1076",
+    "no": "1072",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "05",
@@ -20433,7 +20357,7 @@
     "ruang": "R. 2.01 Busana",
     "hari": "Rabu",
     "waktu": "12:00-12:00",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -20444,7 +20368,7 @@
     }
   },
   {
-    "no": "1077",
+    "no": "1073",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "01",
@@ -20463,7 +20387,7 @@
     }
   },
   {
-    "no": "1078",
+    "no": "1074",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "01",
@@ -20482,7 +20406,7 @@
     }
   },
   {
-    "no": "1079",
+    "no": "1075",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "03",
@@ -20501,7 +20425,7 @@
     }
   },
   {
-    "no": "1080",
+    "no": "1076",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "01",
@@ -20520,7 +20444,7 @@
     }
   },
   {
-    "no": "1081",
+    "no": "1077",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "03",
@@ -20539,7 +20463,7 @@
     }
   },
   {
-    "no": "1082",
+    "no": "1078",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "01",
@@ -20558,7 +20482,7 @@
     }
   },
   {
-    "no": "1083",
+    "no": "1079",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "03",
@@ -20566,7 +20490,7 @@
     "ruang": "pkk",
     "hari": "Sabtu",
     "waktu": "12:00-13:00",
-    "peserta": "70",
+    "peserta": "71",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "EDUPA1",
@@ -20577,7 +20501,7 @@
     }
   },
   {
-    "no": "1084",
+    "no": "1080",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "01",
@@ -20596,7 +20520,7 @@
     }
   },
   {
-    "no": "1085",
+    "no": "1081",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "02",
@@ -20615,7 +20539,7 @@
     }
   },
   {
-    "no": "1086",
+    "no": "1082",
     "kode": "PKK102",
     "nama": "ILMU KESEJAHTERAAN KELUARGA",
     "kelas": "01",
@@ -20634,7 +20558,7 @@
     }
   },
   {
-    "no": "1087",
+    "no": "1083",
     "kode": "PKK102",
     "nama": "ILMU KESEJAHTERAAN KELUARGA",
     "kelas": "02",
@@ -20653,7 +20577,7 @@
     }
   },
   {
-    "no": "1088",
+    "no": "1084",
     "kode": "PKK102",
     "nama": "ILMU KESEJAHTERAAN KELUARGA",
     "kelas": "03",
@@ -20672,7 +20596,7 @@
     }
   },
   {
-    "no": "1089",
+    "no": "1085",
     "kode": "PKK102",
     "nama": "ILMU KESEJAHTERAAN KELUARGA",
     "kelas": "04",
@@ -20691,7 +20615,7 @@
     }
   },
   {
-    "no": "1090",
+    "no": "1086",
     "kode": "PKK104",
     "nama": "ETIKA DAN ETIKET",
     "kelas": "01",
@@ -20710,7 +20634,7 @@
     }
   },
   {
-    "no": "1091",
+    "no": "1087",
     "kode": "PKK104",
     "nama": "ETIKA DAN ETIKET",
     "kelas": "02",
@@ -20729,7 +20653,7 @@
     }
   },
   {
-    "no": "1092",
+    "no": "1088",
     "kode": "PKK104",
     "nama": "ETIKA DAN ETIKET",
     "kelas": "03",
@@ -20748,7 +20672,7 @@
     }
   },
   {
-    "no": "1093",
+    "no": "1089",
     "kode": "PKK104",
     "nama": "ETIKA DAN ETIKET",
     "kelas": "04",
@@ -20767,7 +20691,7 @@
     }
   },
   {
-    "no": "1094",
+    "no": "1090",
     "kode": "PKK106",
     "nama": "PENDIDIKAN  KONSUMEN",
     "kelas": "01",
@@ -20786,7 +20710,7 @@
     }
   },
   {
-    "no": "1095",
+    "no": "1091",
     "kode": "PKK106",
     "nama": "PENDIDIKAN  KONSUMEN",
     "kelas": "02",
@@ -20805,7 +20729,7 @@
     }
   },
   {
-    "no": "1096",
+    "no": "1092",
     "kode": "PKK106",
     "nama": "PENDIDIKAN  KONSUMEN",
     "kelas": "03",
@@ -20824,7 +20748,7 @@
     }
   },
   {
-    "no": "1097",
+    "no": "1093",
     "kode": "PKK106",
     "nama": "PENDIDIKAN  KONSUMEN",
     "kelas": "04",
@@ -20843,7 +20767,7 @@
     }
   },
   {
-    "no": "1098",
+    "no": "1094",
     "kode": "PKK108",
     "nama": "ILMU KESEHATAN",
     "kelas": "01",
@@ -20862,7 +20786,7 @@
     }
   },
   {
-    "no": "1099",
+    "no": "1095",
     "kode": "PKK108",
     "nama": "ILMU KESEHATAN",
     "kelas": "02",
@@ -20881,7 +20805,7 @@
     }
   },
   {
-    "no": "1100",
+    "no": "1096",
     "kode": "PKK108",
     "nama": "ILMU KESEHATAN",
     "kelas": "03",
@@ -20900,7 +20824,7 @@
     }
   },
   {
-    "no": "1101",
+    "no": "1097",
     "kode": "PKK108",
     "nama": "ILMU KESEHATAN",
     "kelas": "04",
@@ -20919,7 +20843,7 @@
     }
   },
   {
-    "no": "1102",
+    "no": "1098",
     "kode": "PKK112",
     "nama": "DASAR GRAHA",
     "kelas": "01",
@@ -20938,7 +20862,7 @@
     }
   },
   {
-    "no": "1103",
+    "no": "1099",
     "kode": "PKK112",
     "nama": "DASAR GRAHA",
     "kelas": "02",
@@ -20957,7 +20881,7 @@
     }
   },
   {
-    "no": "1104",
+    "no": "1100",
     "kode": "PKK112",
     "nama": "DASAR GRAHA",
     "kelas": "03",
@@ -20976,7 +20900,7 @@
     }
   },
   {
-    "no": "1105",
+    "no": "1101",
     "kode": "PKK112",
     "nama": "DASAR GRAHA",
     "kelas": "04",
@@ -20995,7 +20919,7 @@
     }
   },
   {
-    "no": "1106",
+    "no": "1102",
     "kode": "PKK204",
     "nama": "KERAJINAN",
     "kelas": "01",
@@ -21014,7 +20938,7 @@
     }
   },
   {
-    "no": "1107",
+    "no": "1103",
     "kode": "PKK204",
     "nama": "KERAJINAN",
     "kelas": "02",
@@ -21033,7 +20957,7 @@
     }
   },
   {
-    "no": "1108",
+    "no": "1104",
     "kode": "PKK204",
     "nama": "KERAJINAN",
     "kelas": "03",
@@ -21052,7 +20976,7 @@
     }
   },
   {
-    "no": "1109",
+    "no": "1105",
     "kode": "PKK204",
     "nama": "KERAJINAN",
     "kelas": "04",
@@ -21071,7 +20995,7 @@
     }
   },
   {
-    "no": "1110",
+    "no": "1106",
     "kode": "PKK204",
     "nama": "KERAJINAN",
     "kelas": "05",
@@ -21090,7 +21014,7 @@
     }
   },
   {
-    "no": "1111",
+    "no": "1107",
     "kode": "PKK206",
     "nama": "KAJIAN KURIKULUM SMP/SMA/SMK",
     "kelas": "01",
@@ -21109,7 +21033,7 @@
     }
   },
   {
-    "no": "1112",
+    "no": "1108",
     "kode": "PKK206",
     "nama": "KAJIAN KURIKULUM SMP/SMA/SMK",
     "kelas": "03",
@@ -21128,7 +21052,7 @@
     }
   },
   {
-    "no": "1113",
+    "no": "1109",
     "kode": "PKK206",
     "nama": "KAJIAN KURIKULUM SMP/SMA/SMK",
     "kelas": "04",
@@ -21136,7 +21060,7 @@
     "ruang": "R. 2.01 Busana",
     "hari": "Rabu",
     "waktu": "12:00-12:00",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK206",
@@ -21147,7 +21071,7 @@
     }
   },
   {
-    "no": "1114",
+    "no": "1110",
     "kode": "PKK206",
     "nama": "KAJIAN KURIKULUM SMP/SMA/SMK",
     "kelas": "05",
@@ -21166,7 +21090,7 @@
     }
   },
   {
-    "no": "1115",
+    "no": "1111",
     "kode": "PKK208",
     "nama": "DESAIN KOMPUTER",
     "kelas": "01",
@@ -21185,7 +21109,7 @@
     }
   },
   {
-    "no": "1116",
+    "no": "1112",
     "kode": "PKK208",
     "nama": "DESAIN KOMPUTER",
     "kelas": "03",
@@ -21204,7 +21128,7 @@
     }
   },
   {
-    "no": "1117",
+    "no": "1113",
     "kode": "PKK208",
     "nama": "DESAIN KOMPUTER",
     "kelas": "04",
@@ -21212,7 +21136,7 @@
     "ruang": "Lab. Com",
     "hari": "Kamis",
     "waktu": "12:00-12:00",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK208",
@@ -21223,7 +21147,7 @@
     }
   },
   {
-    "no": "1118",
+    "no": "1114",
     "kode": "PKK208",
     "nama": "DESAIN KOMPUTER",
     "kelas": "05",
@@ -21231,7 +21155,7 @@
     "ruang": "Lab. Com",
     "hari": "Kamis",
     "waktu": "12:00-12:00",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK208",
@@ -21242,7 +21166,7 @@
     }
   },
   {
-    "no": "1119",
+    "no": "1115",
     "kode": "PKK502",
     "nama": "PENGETAHUAN BUSANA TRADISIONAL ACEH",
     "kelas": "03",
@@ -21250,7 +21174,7 @@
     "ruang": "Pkk",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "29",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK502",
@@ -21261,7 +21185,7 @@
     }
   },
   {
-    "no": "1120",
+    "no": "1116",
     "kode": "PKK502",
     "nama": "PENGETAHUAN BUSANA TRADISIONAL ACEH",
     "kelas": "04",
@@ -21269,7 +21193,7 @@
     "ruang": "Pkk",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK502",
@@ -21280,7 +21204,7 @@
     }
   },
   {
-    "no": "1121",
+    "no": "1117",
     "kode": "PKK502",
     "nama": "PENGETAHUAN BUSANA TRADISIONAL ACEH",
     "kelas": "05",
@@ -21288,7 +21212,7 @@
     "ruang": "Pkk",
     "hari": "Jumat",
     "waktu": "11:30-01:10",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK502",
@@ -21299,7 +21223,7 @@
     }
   },
   {
-    "no": "1122",
+    "no": "1118",
     "kode": "PKK506",
     "nama": "BUSANA WANITA II",
     "kelas": "03",
@@ -21318,7 +21242,7 @@
     }
   },
   {
-    "no": "1123",
+    "no": "1119",
     "kode": "PKK506",
     "nama": "BUSANA WANITA II",
     "kelas": "04",
@@ -21326,7 +21250,7 @@
     "ruang": "Lab. I Busana Lt. 1",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK506",
@@ -21337,7 +21261,7 @@
     }
   },
   {
-    "no": "1124",
+    "no": "1120",
     "kode": "PKK506",
     "nama": "BUSANA WANITA II",
     "kelas": "05",
@@ -21356,7 +21280,7 @@
     }
   },
   {
-    "no": "1125",
+    "no": "1121",
     "kode": "PKK508",
     "nama": "BUSANA PRIA",
     "kelas": "03",
@@ -21364,7 +21288,7 @@
     "ruang": "Lab. I Busana Lt. 1",
     "hari": "Kamis",
     "waktu": "12:00-12:00",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK508",
@@ -21375,7 +21299,7 @@
     }
   },
   {
-    "no": "1126",
+    "no": "1122",
     "kode": "PKK508",
     "nama": "BUSANA PRIA",
     "kelas": "04",
@@ -21383,7 +21307,7 @@
     "ruang": "Lab. I Busana Lt. 1",
     "hari": "Jumat",
     "waktu": "12:00-12:00",
-    "peserta": "30",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK508",
@@ -21394,7 +21318,7 @@
     }
   },
   {
-    "no": "1127",
+    "no": "1123",
     "kode": "PKK508",
     "nama": "BUSANA PRIA",
     "kelas": "05",
@@ -21402,7 +21326,7 @@
     "ruang": "Lab. I Busana Lt. 1",
     "hari": "Jumat",
     "waktu": "12:00-12:00",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK508",
@@ -21413,7 +21337,7 @@
     }
   },
   {
-    "no": "1128",
+    "no": "1124",
     "kode": "PKK510",
     "nama": "BORDIR",
     "kelas": "03",
@@ -21421,7 +21345,7 @@
     "ruang": "Lab. II Busana Lt. 2",
     "hari": "Kamis",
     "waktu": "12:00-12:00",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK510",
@@ -21432,7 +21356,7 @@
     }
   },
   {
-    "no": "1129",
+    "no": "1125",
     "kode": "PKK510",
     "nama": "BORDIR",
     "kelas": "04",
@@ -21440,7 +21364,7 @@
     "ruang": "Lab. II Busana Lt. 2",
     "hari": "Selasa",
     "waktu": "12:00-12:00",
-    "peserta": "32",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK510",
@@ -21451,7 +21375,7 @@
     }
   },
   {
-    "no": "1130",
+    "no": "1126",
     "kode": "PKK510",
     "nama": "BORDIR",
     "kelas": "05",
@@ -21470,7 +21394,7 @@
     }
   },
   {
-    "no": "1131",
+    "no": "1127",
     "kode": "PKK512",
     "nama": "ILMU TEKSTIL",
     "kelas": "03",
@@ -21478,7 +21402,7 @@
     "ruang": "R. 2.02 Busana",
     "hari": "Selasa",
     "waktu": "12:00-12:00",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK512",
@@ -21489,7 +21413,7 @@
     }
   },
   {
-    "no": "1132",
+    "no": "1128",
     "kode": "PKK512",
     "nama": "ILMU TEKSTIL",
     "kelas": "04",
@@ -21508,7 +21432,7 @@
     }
   },
   {
-    "no": "1133",
+    "no": "1129",
     "kode": "PKK512",
     "nama": "ILMU TEKSTIL",
     "kelas": "05",
@@ -21527,7 +21451,7 @@
     }
   },
   {
-    "no": "1134",
+    "no": "1130",
     "kode": "PKK514",
     "nama": "DESAIN BUSANA KHUSUS",
     "kelas": "03",
@@ -21546,7 +21470,7 @@
     }
   },
   {
-    "no": "1135",
+    "no": "1131",
     "kode": "PKK514",
     "nama": "DESAIN BUSANA KHUSUS",
     "kelas": "04",
@@ -21565,7 +21489,7 @@
     }
   },
   {
-    "no": "1136",
+    "no": "1132",
     "kode": "PKK514",
     "nama": "DESAIN BUSANA KHUSUS",
     "kelas": "05",
@@ -21584,7 +21508,7 @@
     }
   },
   {
-    "no": "1137",
+    "no": "1133",
     "kode": "PKK516",
     "nama": "BUSANA FANTASI",
     "kelas": "03",
@@ -21603,7 +21527,7 @@
     }
   },
   {
-    "no": "1138",
+    "no": "1134",
     "kode": "PKK516",
     "nama": "BUSANA FANTASI",
     "kelas": "04",
@@ -21622,7 +21546,7 @@
     }
   },
   {
-    "no": "1139",
+    "no": "1135",
     "kode": "PKK520",
     "nama": "KONVEKSI LENEN RUMAH TANGGA",
     "kelas": "03",
@@ -21630,7 +21554,7 @@
     "ruang": "Lab. II Busana Lt. 2",
     "hari": "Rabu",
     "waktu": "12:00-13:00",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK520",
@@ -21641,7 +21565,7 @@
     }
   },
   {
-    "no": "1140",
+    "no": "1136",
     "kode": "PKK552",
     "nama": "DIETETIKA",
     "kelas": "01",
@@ -21660,7 +21584,7 @@
     }
   },
   {
-    "no": "1141",
+    "no": "1137",
     "kode": "PKK554",
     "nama": "HIGIENE DAN SANITASI MAKANAN",
     "kelas": "01",
@@ -21668,7 +21592,7 @@
     "ruang": "R. 2.02 Tata Boga",
     "hari": "Kamis",
     "waktu": "12:00-13:00",
-    "peserta": "25",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK554",
@@ -21679,7 +21603,7 @@
     }
   },
   {
-    "no": "1142",
+    "no": "1138",
     "kode": "PKK554",
     "nama": "HIGIENE DAN SANITASI MAKANAN",
     "kelas": "02",
@@ -21687,7 +21611,7 @@
     "ruang": "pkk",
     "hari": "Sabtu",
     "waktu": "12:00-12:00",
-    "peserta": "18",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKK554",
@@ -21698,7 +21622,7 @@
     }
   },
   {
-    "no": "1143",
+    "no": "1139",
     "kode": "PKK556",
     "nama": "KULINARI NUSANTARA",
     "kelas": "01",
@@ -21717,7 +21641,7 @@
     }
   },
   {
-    "no": "1144",
+    "no": "1140",
     "kode": "PKK556",
     "nama": "KULINARI NUSANTARA",
     "kelas": "02",
@@ -21736,7 +21660,7 @@
     }
   },
   {
-    "no": "1145",
+    "no": "1141",
     "kode": "PKK558",
     "nama": "KULINARI ACEH",
     "kelas": "01",
@@ -21755,7 +21679,7 @@
     }
   },
   {
-    "no": "1146",
+    "no": "1142",
     "kode": "PKK558",
     "nama": "KULINARI ACEH",
     "kelas": "02",
@@ -21774,7 +21698,7 @@
     }
   },
   {
-    "no": "1147",
+    "no": "1143",
     "kode": "PKK560",
     "nama": "MIKROBIOLOGI PANGAN",
     "kelas": "01",
@@ -21793,7 +21717,7 @@
     }
   },
   {
-    "no": "1148",
+    "no": "1144",
     "kode": "PKK562",
     "nama": "KULINARI KONTINENTAL",
     "kelas": "01",
@@ -21812,7 +21736,7 @@
     }
   },
   {
-    "no": "1149",
+    "no": "1145",
     "kode": "PKK562",
     "nama": "KULINARI KONTINENTAL",
     "kelas": "02",
@@ -21831,7 +21755,7 @@
     }
   },
   {
-    "no": "1150",
+    "no": "1146",
     "kode": "PKK568",
     "nama": "PENGEMBANGAN PRODUK COOKIES",
     "kelas": "01",
@@ -21850,7 +21774,7 @@
     }
   },
   {
-    "no": "1151",
+    "no": "1147",
     "kode": "PKK568",
     "nama": "PENGEMBANGAN PRODUK COOKIES",
     "kelas": "02",
@@ -21869,7 +21793,7 @@
     }
   },
   {
-    "no": "1152",
+    "no": "1148",
     "kode": "PKKP03",
     "nama": "DASAR BUSANA",
     "kelas": "01",
@@ -21888,7 +21812,7 @@
     }
   },
   {
-    "no": "1153",
+    "no": "1149",
     "kode": "PKKP03",
     "nama": "DASAR BUSANA",
     "kelas": "02",
@@ -21907,7 +21831,7 @@
     }
   },
   {
-    "no": "1154",
+    "no": "1150",
     "kode": "PKKP03",
     "nama": "DASAR BUSANA",
     "kelas": "03",
@@ -21926,7 +21850,7 @@
     }
   },
   {
-    "no": "1155",
+    "no": "1151",
     "kode": "PKKP03",
     "nama": "DASAR BUSANA",
     "kelas": "04",
@@ -21945,7 +21869,7 @@
     }
   },
   {
-    "no": "1156",
+    "no": "1152",
     "kode": "PKKP07",
     "nama": "KEWIRAUSAHAAN",
     "kelas": "01",
@@ -21964,7 +21888,7 @@
     }
   },
   {
-    "no": "1157",
+    "no": "1153",
     "kode": "PKKP07",
     "nama": "KEWIRAUSAHAAN",
     "kelas": "03",
@@ -21983,7 +21907,7 @@
     }
   },
   {
-    "no": "1158",
+    "no": "1154",
     "kode": "PKKP07",
     "nama": "KEWIRAUSAHAAN",
     "kelas": "04",
@@ -21991,7 +21915,7 @@
     "ruang": "R. 2.01 Busana",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKKP07",
@@ -22002,7 +21926,7 @@
     }
   },
   {
-    "no": "1159",
+    "no": "1155",
     "kode": "PKKP07",
     "nama": "KEWIRAUSAHAAN",
     "kelas": "05",
@@ -22010,7 +21934,7 @@
     "ruang": "CR. 1.03A FKIP",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Kesejahteraan Keluarga",
     "kode-peserta": {
       "data-kode": "PKKP07",
@@ -22021,7 +21945,7 @@
     }
   },
   {
-    "no": "1160",
+    "no": "1156",
     "kode": "PKKP10",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "01",
@@ -22040,7 +21964,7 @@
     }
   },
   {
-    "no": "1161",
+    "no": "1157",
     "kode": "PKKP10",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "03",
@@ -22059,7 +21983,7 @@
     }
   },
   {
-    "no": "1162",
+    "no": "1158",
     "kode": "PKKP10",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "04",
@@ -22078,7 +22002,7 @@
     }
   },
   {
-    "no": "1163",
+    "no": "1159",
     "kode": "PKKP10",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "05",
@@ -22097,7 +22021,7 @@
     }
   },
   {
-    "no": "1164",
+    "no": "1160",
     "kode": "PKKP11",
     "nama": "PENGELOLAAN USAHA II",
     "kelas": "01",
@@ -22116,7 +22040,7 @@
     }
   },
   {
-    "no": "1165",
+    "no": "1161",
     "kode": "PKKP11",
     "nama": "PENGELOLAAN USAHA II",
     "kelas": "02",
@@ -22135,7 +22059,7 @@
     }
   },
   {
-    "no": "1166",
+    "no": "1162",
     "kode": "PKKP11",
     "nama": "PENGELOLAAN USAHA II",
     "kelas": "03",
@@ -22154,7 +22078,7 @@
     }
   },
   {
-    "no": "1167",
+    "no": "1163",
     "kode": "PKKP11",
     "nama": "PENGELOLAAN USAHA II",
     "kelas": "04",
@@ -22173,7 +22097,7 @@
     }
   },
   {
-    "no": "1168",
+    "no": "1164",
     "kode": "PKKP11",
     "nama": "PENGELOLAAN USAHA II",
     "kelas": "05",
@@ -22192,7 +22116,7 @@
     }
   },
   {
-    "no": "1169",
+    "no": "1165",
     "kode": "PKKP12",
     "nama": "CIPTA KARYA",
     "kelas": "01",
@@ -22211,7 +22135,7 @@
     }
   },
   {
-    "no": "1170",
+    "no": "1166",
     "kode": "PKKP12",
     "nama": "CIPTA KARYA",
     "kelas": "02",
@@ -22230,7 +22154,7 @@
     }
   },
   {
-    "no": "1171",
+    "no": "1167",
     "kode": "PKKP12",
     "nama": "CIPTA KARYA",
     "kelas": "03",
@@ -22249,7 +22173,7 @@
     }
   },
   {
-    "no": "1172",
+    "no": "1168",
     "kode": "PKKP12",
     "nama": "CIPTA KARYA",
     "kelas": "04",
@@ -22268,7 +22192,7 @@
     }
   },
   {
-    "no": "1173",
+    "no": "1169",
     "kode": "PKKP12",
     "nama": "CIPTA KARYA",
     "kelas": "05",
@@ -22287,7 +22211,7 @@
     }
   },
   {
-    "no": "1174",
+    "no": "1170",
     "kode": "PKKP12",
     "nama": "CIPTA KARYA",
     "kelas": "06",
@@ -22306,7 +22230,7 @@
     }
   },
   {
-    "no": "1175",
+    "no": "1171",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "1",
@@ -22314,7 +22238,7 @@
     "ruang": "RKU 15.03.002",
     "hari": "Rabu",
     "waktu": "11:30-13:10",
-    "peserta": "19",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "EDU101",
@@ -22325,15 +22249,15 @@
     }
   },
   {
-    "no": "1176",
+    "no": "1172",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "2",
     "koordinator": "Dra. Zuraini M, M.PdNIP. 196208221986082001",
     "ruang": "RKU 15.03.002",
     "hari": "Kamis",
-    "waktu": "09:50-11:30",
-    "peserta": "20",
+    "waktu": "14:00-15:40",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "EDU101",
@@ -22344,7 +22268,7 @@
     }
   },
   {
-    "no": "1177",
+    "no": "1173",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "3",
@@ -22363,7 +22287,7 @@
     }
   },
   {
-    "no": "1178",
+    "no": "1174",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "4",
@@ -22382,7 +22306,7 @@
     }
   },
   {
-    "no": "1179",
+    "no": "1175",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "1",
@@ -22401,7 +22325,7 @@
     }
   },
   {
-    "no": "1180",
+    "no": "1176",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "2",
@@ -22420,7 +22344,7 @@
     }
   },
   {
-    "no": "1181",
+    "no": "1177",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "3",
@@ -22439,7 +22363,7 @@
     }
   },
   {
-    "no": "1182",
+    "no": "1178",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "4",
@@ -22458,7 +22382,7 @@
     }
   },
   {
-    "no": "1183",
+    "no": "1179",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "1",
@@ -22466,7 +22390,7 @@
     "ruang": "Agussalim 3",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "EDU301",
@@ -22477,7 +22401,7 @@
     }
   },
   {
-    "no": "1184",
+    "no": "1180",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "2",
@@ -22496,7 +22420,7 @@
     }
   },
   {
-    "no": "1185",
+    "no": "1181",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "3",
@@ -22504,7 +22428,7 @@
     "ruang": "Agussalim 1",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "EDU301",
@@ -22515,7 +22439,7 @@
     }
   },
   {
-    "no": "1186",
+    "no": "1182",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "4",
@@ -22534,7 +22458,7 @@
     }
   },
   {
-    "no": "1187",
+    "no": "1183",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "1",
@@ -22553,7 +22477,7 @@
     }
   },
   {
-    "no": "1188",
+    "no": "1184",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "2",
@@ -22572,7 +22496,7 @@
     }
   },
   {
-    "no": "1189",
+    "no": "1185",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "3",
@@ -22591,7 +22515,7 @@
     }
   },
   {
-    "no": "1190",
+    "no": "1186",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "1",
@@ -22599,7 +22523,7 @@
     "ruang": "SCU",
     "hari": "Sabtu",
     "waktu": "08:00-09:00",
-    "peserta": "34",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "EDUP07",
@@ -22610,7 +22534,7 @@
     }
   },
   {
-    "no": "1191",
+    "no": "1187",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "1",
@@ -22629,7 +22553,7 @@
     }
   },
   {
-    "no": "1192",
+    "no": "1188",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "1",
@@ -22648,7 +22572,7 @@
     }
   },
   {
-    "no": "1193",
+    "no": "1189",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "1",
@@ -22667,7 +22591,7 @@
     }
   },
   {
-    "no": "1194",
+    "no": "1190",
     "kode": "PJS102",
     "nama": "PEMBELAJARAN ATLETIK DASAR",
     "kelas": "1",
@@ -22686,7 +22610,7 @@
     }
   },
   {
-    "no": "1195",
+    "no": "1191",
     "kode": "PJS102",
     "nama": "PEMBELAJARAN ATLETIK DASAR",
     "kelas": "2",
@@ -22705,7 +22629,7 @@
     }
   },
   {
-    "no": "1196",
+    "no": "1192",
     "kode": "PJS102",
     "nama": "PEMBELAJARAN ATLETIK DASAR",
     "kelas": "3",
@@ -22724,7 +22648,7 @@
     }
   },
   {
-    "no": "1197",
+    "no": "1193",
     "kode": "PJS102",
     "nama": "PEMBELAJARAN ATLETIK DASAR",
     "kelas": "4",
@@ -22743,7 +22667,7 @@
     }
   },
   {
-    "no": "1198",
+    "no": "1194",
     "kode": "PJS104",
     "nama": "PEMBELAJARAN SENAM DAN RITMIK DASAR",
     "kelas": "1",
@@ -22762,7 +22686,7 @@
     }
   },
   {
-    "no": "1199",
+    "no": "1195",
     "kode": "PJS104",
     "nama": "PEMBELAJARAN SENAM DAN RITMIK DASAR",
     "kelas": "2",
@@ -22781,7 +22705,7 @@
     }
   },
   {
-    "no": "1200",
+    "no": "1196",
     "kode": "PJS104",
     "nama": "PEMBELAJARAN SENAM DAN RITMIK DASAR",
     "kelas": "3",
@@ -22800,7 +22724,7 @@
     }
   },
   {
-    "no": "1201",
+    "no": "1197",
     "kode": "PJS104",
     "nama": "PEMBELAJARAN SENAM DAN RITMIK DASAR",
     "kelas": "4",
@@ -22819,7 +22743,7 @@
     }
   },
   {
-    "no": "1202",
+    "no": "1198",
     "kode": "PJS106",
     "nama": "PEMBELAJARAN AQUATIK DASAR",
     "kelas": "1",
@@ -22838,7 +22762,7 @@
     }
   },
   {
-    "no": "1203",
+    "no": "1199",
     "kode": "PJS106",
     "nama": "PEMBELAJARAN AQUATIK DASAR",
     "kelas": "2",
@@ -22857,7 +22781,7 @@
     }
   },
   {
-    "no": "1204",
+    "no": "1200",
     "kode": "PJS106",
     "nama": "PEMBELAJARAN AQUATIK DASAR",
     "kelas": "3",
@@ -22876,7 +22800,7 @@
     }
   },
   {
-    "no": "1205",
+    "no": "1201",
     "kode": "PJS106",
     "nama": "PEMBELAJARAN AQUATIK DASAR",
     "kelas": "4",
@@ -22895,7 +22819,7 @@
     }
   },
   {
-    "no": "1206",
+    "no": "1202",
     "kode": "PJS108",
     "nama": "MOTOR DEVELOPMENT",
     "kelas": "1",
@@ -22914,7 +22838,7 @@
     }
   },
   {
-    "no": "1207",
+    "no": "1203",
     "kode": "PJS108",
     "nama": "MOTOR DEVELOPMENT",
     "kelas": "2",
@@ -22933,7 +22857,7 @@
     }
   },
   {
-    "no": "1208",
+    "no": "1204",
     "kode": "PJS108",
     "nama": "MOTOR DEVELOPMENT",
     "kelas": "3",
@@ -22952,7 +22876,7 @@
     }
   },
   {
-    "no": "1209",
+    "no": "1205",
     "kode": "PJS108",
     "nama": "MOTOR DEVELOPMENT",
     "kelas": "4",
@@ -22971,7 +22895,7 @@
     }
   },
   {
-    "no": "1210",
+    "no": "1206",
     "kode": "PJS108",
     "nama": "MOTOR DEVELOPMENT",
     "kelas": "5",
@@ -22990,7 +22914,7 @@
     }
   },
   {
-    "no": "1211",
+    "no": "1207",
     "kode": "PJS108",
     "nama": "MOTOR DEVELOPMENT",
     "kelas": "6",
@@ -23009,7 +22933,7 @@
     }
   },
   {
-    "no": "1212",
+    "no": "1208",
     "kode": "PJS110",
     "nama": "PEMBELAJARAN BULUTANGKIS",
     "kelas": "1",
@@ -23028,7 +22952,7 @@
     }
   },
   {
-    "no": "1213",
+    "no": "1209",
     "kode": "PJS110",
     "nama": "PEMBELAJARAN BULUTANGKIS",
     "kelas": "2",
@@ -23047,7 +22971,7 @@
     }
   },
   {
-    "no": "1214",
+    "no": "1210",
     "kode": "PJS110",
     "nama": "PEMBELAJARAN BULUTANGKIS",
     "kelas": "3",
@@ -23066,7 +22990,7 @@
     }
   },
   {
-    "no": "1215",
+    "no": "1211",
     "kode": "PJS110",
     "nama": "PEMBELAJARAN BULUTANGKIS",
     "kelas": "4",
@@ -23085,7 +23009,7 @@
     }
   },
   {
-    "no": "1216",
+    "no": "1212",
     "kode": "PJS112",
     "nama": "SOSIOLOGI OLAHRAGA",
     "kelas": "1",
@@ -23104,7 +23028,7 @@
     }
   },
   {
-    "no": "1217",
+    "no": "1213",
     "kode": "PJS112",
     "nama": "SOSIOLOGI OLAHRAGA",
     "kelas": "2",
@@ -23123,7 +23047,7 @@
     }
   },
   {
-    "no": "1218",
+    "no": "1214",
     "kode": "PJS112",
     "nama": "SOSIOLOGI OLAHRAGA",
     "kelas": "3",
@@ -23142,7 +23066,7 @@
     }
   },
   {
-    "no": "1219",
+    "no": "1215",
     "kode": "PJS112",
     "nama": "SOSIOLOGI OLAHRAGA",
     "kelas": "4",
@@ -23161,7 +23085,7 @@
     }
   },
   {
-    "no": "1220",
+    "no": "1216",
     "kode": "PJS202",
     "nama": "ILMU GIZI OLAHRAGA",
     "kelas": "1",
@@ -23180,7 +23104,7 @@
     }
   },
   {
-    "no": "1221",
+    "no": "1217",
     "kode": "PJS202",
     "nama": "ILMU GIZI OLAHRAGA",
     "kelas": "2",
@@ -23199,7 +23123,7 @@
     }
   },
   {
-    "no": "1222",
+    "no": "1218",
     "kode": "PJS202",
     "nama": "ILMU GIZI OLAHRAGA",
     "kelas": "3",
@@ -23218,7 +23142,7 @@
     }
   },
   {
-    "no": "1223",
+    "no": "1219",
     "kode": "PJS202",
     "nama": "ILMU GIZI OLAHRAGA",
     "kelas": "4",
@@ -23237,7 +23161,7 @@
     }
   },
   {
-    "no": "1224",
+    "no": "1220",
     "kode": "PJS204",
     "nama": "PEMBELAJARAN BOLAVOLI",
     "kelas": "1",
@@ -23256,7 +23180,7 @@
     }
   },
   {
-    "no": "1225",
+    "no": "1221",
     "kode": "PJS204",
     "nama": "PEMBELAJARAN BOLAVOLI",
     "kelas": "2",
@@ -23275,7 +23199,7 @@
     }
   },
   {
-    "no": "1226",
+    "no": "1222",
     "kode": "PJS204",
     "nama": "PEMBELAJARAN BOLAVOLI",
     "kelas": "3",
@@ -23294,7 +23218,7 @@
     }
   },
   {
-    "no": "1227",
+    "no": "1223",
     "kode": "PJS204",
     "nama": "PEMBELAJARAN BOLAVOLI",
     "kelas": "4",
@@ -23313,7 +23237,7 @@
     }
   },
   {
-    "no": "1228",
+    "no": "1224",
     "kode": "PJS206",
     "nama": "PEMBELAJARAN BOLABASKET",
     "kelas": "1",
@@ -23332,7 +23256,7 @@
     }
   },
   {
-    "no": "1229",
+    "no": "1225",
     "kode": "PJS206",
     "nama": "PEMBELAJARAN BOLABASKET",
     "kelas": "2",
@@ -23351,7 +23275,7 @@
     }
   },
   {
-    "no": "1230",
+    "no": "1226",
     "kode": "PJS206",
     "nama": "PEMBELAJARAN BOLABASKET",
     "kelas": "3",
@@ -23359,7 +23283,7 @@
     "ruang": "Lap. Basket",
     "hari": "Senin",
     "waktu": "09:50-11:30",
-    "peserta": "29",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS206",
@@ -23370,7 +23294,7 @@
     }
   },
   {
-    "no": "1231",
+    "no": "1227",
     "kode": "PJS206",
     "nama": "PEMBELAJARAN BOLABASKET",
     "kelas": "4",
@@ -23389,7 +23313,7 @@
     }
   },
   {
-    "no": "1232",
+    "no": "1228",
     "kode": "PJS208",
     "nama": "KINESIOLOGI & BIOMEKANIKA OLAHRAGA",
     "kelas": "1",
@@ -23408,7 +23332,7 @@
     }
   },
   {
-    "no": "1233",
+    "no": "1229",
     "kode": "PJS208",
     "nama": "KINESIOLOGI & BIOMEKANIKA OLAHRAGA",
     "kelas": "2",
@@ -23427,7 +23351,7 @@
     }
   },
   {
-    "no": "1234",
+    "no": "1230",
     "kode": "PJS208",
     "nama": "KINESIOLOGI & BIOMEKANIKA OLAHRAGA",
     "kelas": "3",
@@ -23446,7 +23370,7 @@
     }
   },
   {
-    "no": "1235",
+    "no": "1231",
     "kode": "PJS208",
     "nama": "KINESIOLOGI & BIOMEKANIKA OLAHRAGA",
     "kelas": "4",
@@ -23465,7 +23389,7 @@
     }
   },
   {
-    "no": "1236",
+    "no": "1232",
     "kode": "PJS210",
     "nama": "PENGEMBANGAN KURIKULUM PENJAS",
     "kelas": "1",
@@ -23484,7 +23408,7 @@
     }
   },
   {
-    "no": "1237",
+    "no": "1233",
     "kode": "PJS210",
     "nama": "PENGEMBANGAN KURIKULUM PENJAS",
     "kelas": "2",
@@ -23503,7 +23427,7 @@
     }
   },
   {
-    "no": "1238",
+    "no": "1234",
     "kode": "PJS210",
     "nama": "PENGEMBANGAN KURIKULUM PENJAS",
     "kelas": "3",
@@ -23522,7 +23446,7 @@
     }
   },
   {
-    "no": "1239",
+    "no": "1235",
     "kode": "PJS210",
     "nama": "PENGEMBANGAN KURIKULUM PENJAS",
     "kelas": "4",
@@ -23541,7 +23465,7 @@
     }
   },
   {
-    "no": "1240",
+    "no": "1236",
     "kode": "PJS212",
     "nama": "PERENCANAAN PEMBELAJARAN PENJAS",
     "kelas": "1",
@@ -23560,7 +23484,7 @@
     }
   },
   {
-    "no": "1241",
+    "no": "1237",
     "kode": "PJS212",
     "nama": "PERENCANAAN PEMBELAJARAN PENJAS",
     "kelas": "2",
@@ -23579,7 +23503,7 @@
     }
   },
   {
-    "no": "1242",
+    "no": "1238",
     "kode": "PJS212",
     "nama": "PERENCANAAN PEMBELAJARAN PENJAS",
     "kelas": "3",
@@ -23598,7 +23522,7 @@
     }
   },
   {
-    "no": "1243",
+    "no": "1239",
     "kode": "PJS212",
     "nama": "PERENCANAAN PEMBELAJARAN PENJAS",
     "kelas": "4",
@@ -23617,7 +23541,7 @@
     }
   },
   {
-    "no": "1244",
+    "no": "1240",
     "kode": "PJS214",
     "nama": "PEMBELAJARAN TENIS MEJA",
     "kelas": "1",
@@ -23625,7 +23549,7 @@
     "ruang": "SCU",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS214",
@@ -23636,7 +23560,7 @@
     }
   },
   {
-    "no": "1245",
+    "no": "1241",
     "kode": "PJS214",
     "nama": "PEMBELAJARAN TENIS MEJA",
     "kelas": "2",
@@ -23655,7 +23579,7 @@
     }
   },
   {
-    "no": "1246",
+    "no": "1242",
     "kode": "PJS214",
     "nama": "PEMBELAJARAN TENIS MEJA",
     "kelas": "3",
@@ -23674,7 +23598,7 @@
     }
   },
   {
-    "no": "1247",
+    "no": "1243",
     "kode": "PJS214",
     "nama": "PEMBELAJARAN TENIS MEJA",
     "kelas": "4",
@@ -23693,7 +23617,7 @@
     }
   },
   {
-    "no": "1248",
+    "no": "1244",
     "kode": "PJS214",
     "nama": "PEMBELAJARAN TENIS MEJA",
     "kelas": "5",
@@ -23706,6 +23630,82 @@
     "kode-peserta": {
       "data-kode": "PJS214",
       "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610402"
+    }
+  },
+  {
+    "no": "1245",
+    "kode": "PJS216",
+    "nama": "PSIKOLOGI OLAHRAGA",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Saifuddin, M.Pd.NIP. 195805051987031005",
+    "ruang": "Agussalim 2",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
+    "kode-peserta": {
+      "data-kode": "PJS216",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610402"
+    }
+  },
+  {
+    "no": "1246",
+    "kode": "PJS216",
+    "nama": "PSIKOLOGI OLAHRAGA",
+    "kelas": "2",
+    "koordinator": "Prof. Dr. Saifuddin, M.Pd.NIP. 195805051987031005",
+    "ruang": "Agussalim 2",
+    "hari": "Rabu",
+    "waktu": "11:30-13:10",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
+    "kode-peserta": {
+      "data-kode": "PJS216",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610402"
+    }
+  },
+  {
+    "no": "1247",
+    "kode": "PJS216",
+    "nama": "PSIKOLOGI OLAHRAGA",
+    "kelas": "3",
+    "koordinator": "Prof. Dr. Saifuddin, M.Pd.NIP. 195805051987031005",
+    "ruang": "Agussalim 1",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
+    "kode-peserta": {
+      "data-kode": "PJS216",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610402"
+    }
+  },
+  {
+    "no": "1248",
+    "kode": "PJS216",
+    "nama": "PSIKOLOGI OLAHRAGA",
+    "kelas": "4",
+    "koordinator": "Prof. Dr. Saifuddin, M.Pd.NIP. 195805051987031005",
+    "ruang": "Agussalim 1",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
+    "kode-peserta": {
+      "data-kode": "PJS216",
+      "data-kelas": "4",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -23715,88 +23715,12 @@
     "no": "1249",
     "kode": "PJS216",
     "nama": "PSIKOLOGI OLAHRAGA",
-    "kelas": "1",
-    "koordinator": "Prof. Dr. Saifuddin, M.Pd.NIP. 195805051987031005",
-    "ruang": "Agussalim 2",
-    "hari": "Rabu",
-    "waktu": "14:00-15:40",
-    "peserta": "30",
-    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
-    "kode-peserta": {
-      "data-kode": "PJS216",
-      "data-kelas": "1",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610402"
-    }
-  },
-  {
-    "no": "1250",
-    "kode": "PJS216",
-    "nama": "PSIKOLOGI OLAHRAGA",
-    "kelas": "2",
-    "koordinator": "Prof. Dr. Saifuddin, M.Pd.NIP. 195805051987031005",
-    "ruang": "Agussalim 2",
-    "hari": "Rabu",
-    "waktu": "11:30-13:10",
-    "peserta": "30",
-    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
-    "kode-peserta": {
-      "data-kode": "PJS216",
-      "data-kelas": "2",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610402"
-    }
-  },
-  {
-    "no": "1251",
-    "kode": "PJS216",
-    "nama": "PSIKOLOGI OLAHRAGA",
-    "kelas": "3",
-    "koordinator": "Prof. Dr. Saifuddin, M.Pd.NIP. 195805051987031005",
-    "ruang": "Agussalim 1",
-    "hari": "Senin",
-    "waktu": "14:00-15:40",
-    "peserta": "30",
-    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
-    "kode-peserta": {
-      "data-kode": "PJS216",
-      "data-kelas": "3",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610402"
-    }
-  },
-  {
-    "no": "1252",
-    "kode": "PJS216",
-    "nama": "PSIKOLOGI OLAHRAGA",
-    "kelas": "4",
-    "koordinator": "Prof. Dr. Saifuddin, M.Pd.NIP. 195805051987031005",
-    "ruang": "Agussalim 1",
-    "hari": "Senin",
-    "waktu": "16:35-18:15",
-    "peserta": "30",
-    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
-    "kode-peserta": {
-      "data-kode": "PJS216",
-      "data-kelas": "4",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610402"
-    }
-  },
-  {
-    "no": "1253",
-    "kode": "PJS216",
-    "nama": "PSIKOLOGI OLAHRAGA",
     "kelas": "5",
     "koordinator": "Dr. Drs. Mansur, M.KesNIP. 196911261994031001",
     "ruang": "Agussalim 1",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS216",
@@ -23807,7 +23731,7 @@
     }
   },
   {
-    "no": "1254",
+    "no": "1250",
     "kode": "PJS302",
     "nama": "PENCEGAHAN & PERAWATAN CEDERA",
     "kelas": "1",
@@ -23826,7 +23750,7 @@
     }
   },
   {
-    "no": "1255",
+    "no": "1251",
     "kode": "PJS302",
     "nama": "PENCEGAHAN & PERAWATAN CEDERA",
     "kelas": "2",
@@ -23845,7 +23769,7 @@
     }
   },
   {
-    "no": "1256",
+    "no": "1252",
     "kode": "PJS302",
     "nama": "PENCEGAHAN & PERAWATAN CEDERA",
     "kelas": "3",
@@ -23853,7 +23777,7 @@
     "ruang": "Agussalim 3",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "28",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS302",
@@ -23864,7 +23788,7 @@
     }
   },
   {
-    "no": "1257",
+    "no": "1253",
     "kode": "PJS302",
     "nama": "PENCEGAHAN & PERAWATAN CEDERA",
     "kelas": "4",
@@ -23883,7 +23807,7 @@
     }
   },
   {
-    "no": "1258",
+    "no": "1254",
     "kode": "PJS304",
     "nama": "SPORT MEDICINE",
     "kelas": "1",
@@ -23902,7 +23826,7 @@
     }
   },
   {
-    "no": "1259",
+    "no": "1255",
     "kode": "PJS304",
     "nama": "SPORT MEDICINE",
     "kelas": "2",
@@ -23921,7 +23845,7 @@
     }
   },
   {
-    "no": "1260",
+    "no": "1256",
     "kode": "PJS304",
     "nama": "SPORT MEDICINE",
     "kelas": "3",
@@ -23940,7 +23864,7 @@
     }
   },
   {
-    "no": "1261",
+    "no": "1257",
     "kode": "PJS304",
     "nama": "SPORT MEDICINE",
     "kelas": "4",
@@ -23959,7 +23883,7 @@
     }
   },
   {
-    "no": "1262",
+    "no": "1258",
     "kode": "PJS306",
     "nama": "PEMBELAJARAN PENJAS ADAPTIF",
     "kelas": "1",
@@ -23978,7 +23902,7 @@
     }
   },
   {
-    "no": "1263",
+    "no": "1259",
     "kode": "PJS306",
     "nama": "PEMBELAJARAN PENJAS ADAPTIF",
     "kelas": "2",
@@ -23997,7 +23921,7 @@
     }
   },
   {
-    "no": "1264",
+    "no": "1260",
     "kode": "PJS306",
     "nama": "PEMBELAJARAN PENJAS ADAPTIF",
     "kelas": "3",
@@ -24016,7 +23940,7 @@
     }
   },
   {
-    "no": "1265",
+    "no": "1261",
     "kode": "PJS306",
     "nama": "PEMBELAJARAN PENJAS ADAPTIF",
     "kelas": "4",
@@ -24035,7 +23959,7 @@
     }
   },
   {
-    "no": "1266",
+    "no": "1262",
     "kode": "PJS308",
     "nama": "METODE PENELITIAN OLAHRAGA",
     "kelas": "1",
@@ -24054,7 +23978,7 @@
     }
   },
   {
-    "no": "1267",
+    "no": "1263",
     "kode": "PJS308",
     "nama": "METODE PENELITIAN OLAHRAGA",
     "kelas": "2",
@@ -24073,7 +23997,7 @@
     }
   },
   {
-    "no": "1268",
+    "no": "1264",
     "kode": "PJS308",
     "nama": "METODE PENELITIAN OLAHRAGA",
     "kelas": "3",
@@ -24092,7 +24016,7 @@
     }
   },
   {
-    "no": "1269",
+    "no": "1265",
     "kode": "PJS308",
     "nama": "METODE PENELITIAN OLAHRAGA",
     "kelas": "4",
@@ -24111,7 +24035,7 @@
     }
   },
   {
-    "no": "1270",
+    "no": "1266",
     "kode": "PJS310",
     "nama": "FIELD WORK DAN PERWASITAN OLAHRAGA",
     "kelas": "1",
@@ -24130,7 +24054,7 @@
     }
   },
   {
-    "no": "1271",
+    "no": "1267",
     "kode": "PJS310",
     "nama": "FIELD WORK DAN PERWASITAN OLAHRAGA",
     "kelas": "2",
@@ -24138,7 +24062,7 @@
     "ruang": "Agussalim 3",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS310",
@@ -24149,7 +24073,7 @@
     }
   },
   {
-    "no": "1272",
+    "no": "1268",
     "kode": "PJS310",
     "nama": "FIELD WORK DAN PERWASITAN OLAHRAGA",
     "kelas": "3",
@@ -24168,7 +24092,7 @@
     }
   },
   {
-    "no": "1273",
+    "no": "1269",
     "kode": "PJS310",
     "nama": "FIELD WORK DAN PERWASITAN OLAHRAGA",
     "kelas": "4",
@@ -24187,7 +24111,7 @@
     }
   },
   {
-    "no": "1274",
+    "no": "1270",
     "kode": "PJS502",
     "nama": "SPORT TECHNOLOGY AND INDUSTRY",
     "kelas": "1",
@@ -24206,7 +24130,7 @@
     }
   },
   {
-    "no": "1275",
+    "no": "1271",
     "kode": "PJS502",
     "nama": "SPORT TECHNOLOGY AND INDUSTRY",
     "kelas": "2",
@@ -24225,7 +24149,7 @@
     }
   },
   {
-    "no": "1276",
+    "no": "1272",
     "kode": "PJS504",
     "nama": "DAYUNG",
     "kelas": "1",
@@ -24244,7 +24168,7 @@
     }
   },
   {
-    "no": "1277",
+    "no": "1273",
     "kode": "PJS504",
     "nama": "DAYUNG",
     "kelas": "2",
@@ -24263,7 +24187,7 @@
     }
   },
   {
-    "no": "1278",
+    "no": "1274",
     "kode": "PJS504",
     "nama": "DAYUNG",
     "kelas": "3",
@@ -24282,7 +24206,7 @@
     }
   },
   {
-    "no": "1279",
+    "no": "1275",
     "kode": "PJS506",
     "nama": "PEMBELAJARAN PENJAS DAN OLAHRAGA USIA DINI",
     "kelas": "1",
@@ -24301,7 +24225,7 @@
     }
   },
   {
-    "no": "1280",
+    "no": "1276",
     "kode": "PJS506",
     "nama": "PEMBELAJARAN PENJAS DAN OLAHRAGA USIA DINI",
     "kelas": "2",
@@ -24320,7 +24244,7 @@
     }
   },
   {
-    "no": "1281",
+    "no": "1277",
     "kode": "PJS506",
     "nama": "PEMBELAJARAN PENJAS DAN OLAHRAGA USIA DINI",
     "kelas": "3",
@@ -24328,7 +24252,7 @@
     "ruang": "SCU",
     "hari": "Jumat",
     "waktu": "16:35-18:10",
-    "peserta": "24",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS506",
@@ -24339,7 +24263,7 @@
     }
   },
   {
-    "no": "1282",
+    "no": "1278",
     "kode": "PJS508",
     "nama": "POLITIK DAN JURNALISTIK OLAHRAGA",
     "kelas": "1",
@@ -24347,7 +24271,7 @@
     "ruang": "Agussalim 2",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS508",
@@ -24358,7 +24282,7 @@
     }
   },
   {
-    "no": "1283",
+    "no": "1279",
     "kode": "PJS508",
     "nama": "POLITIK DAN JURNALISTIK OLAHRAGA",
     "kelas": "2",
@@ -24377,7 +24301,7 @@
     }
   },
   {
-    "no": "1284",
+    "no": "1280",
     "kode": "PJS510",
     "nama": "KEMPO",
     "kelas": "1",
@@ -24396,7 +24320,7 @@
     }
   },
   {
-    "no": "1285",
+    "no": "1281",
     "kode": "PJS510",
     "nama": "KEMPO",
     "kelas": "2",
@@ -24415,7 +24339,7 @@
     }
   },
   {
-    "no": "1286",
+    "no": "1282",
     "kode": "PJS510",
     "nama": "KEMPO",
     "kelas": "3",
@@ -24434,7 +24358,7 @@
     }
   },
   {
-    "no": "1287",
+    "no": "1283",
     "kode": "PJS512",
     "nama": "PETANQUE",
     "kelas": "1",
@@ -24453,7 +24377,7 @@
     }
   },
   {
-    "no": "1288",
+    "no": "1284",
     "kode": "PJS512",
     "nama": "PETANQUE",
     "kelas": "2",
@@ -24472,7 +24396,7 @@
     }
   },
   {
-    "no": "1289",
+    "no": "1285",
     "kode": "PJS512",
     "nama": "PETANQUE",
     "kelas": "3",
@@ -24491,7 +24415,7 @@
     }
   },
   {
-    "no": "1290",
+    "no": "1286",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "01",
@@ -24510,7 +24434,7 @@
     }
   },
   {
-    "no": "1291",
+    "no": "1287",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "02",
@@ -24529,7 +24453,7 @@
     }
   },
   {
-    "no": "1292",
+    "no": "1288",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "03",
@@ -24548,7 +24472,7 @@
     }
   },
   {
-    "no": "1293",
+    "no": "1289",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "04",
@@ -24567,7 +24491,7 @@
     }
   },
   {
-    "no": "1294",
+    "no": "1290",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "01",
@@ -24586,7 +24510,7 @@
     }
   },
   {
-    "no": "1295",
+    "no": "1291",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "02",
@@ -24605,7 +24529,7 @@
     }
   },
   {
-    "no": "1296",
+    "no": "1292",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "03",
@@ -24624,7 +24548,7 @@
     }
   },
   {
-    "no": "1297",
+    "no": "1293",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "01",
@@ -24643,7 +24567,7 @@
     }
   },
   {
-    "no": "1298",
+    "no": "1294",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "02",
@@ -24662,7 +24586,7 @@
     }
   },
   {
-    "no": "1299",
+    "no": "1295",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "03",
@@ -24681,7 +24605,7 @@
     }
   },
   {
-    "no": "1300",
+    "no": "1296",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "01",
@@ -24700,7 +24624,7 @@
     }
   },
   {
-    "no": "1301",
+    "no": "1297",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "01",
@@ -24719,7 +24643,7 @@
     }
   },
   {
-    "no": "1302",
+    "no": "1298",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "01",
@@ -24738,7 +24662,7 @@
     }
   },
   {
-    "no": "1303",
+    "no": "1299",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "01",
@@ -24757,7 +24681,7 @@
     }
   },
   {
-    "no": "1304",
+    "no": "1300",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "01",
@@ -24765,7 +24689,7 @@
     "ruang": "R.Lab BK",
     "hari": "Sabtu",
     "waktu": "8:00-10:50",
-    "peserta": "36",
+    "peserta": "35",
     "keterangan": "KIPS1Bimbingan dan Konseling",
     "kode-peserta": {
       "data-kode": "MKSP02",
@@ -24776,7 +24700,7 @@
     }
   },
   {
-    "no": "1305",
+    "no": "1301",
     "kode": "PBK104",
     "nama": "INSTRUMEN BK I (NONTES)",
     "kelas": "01",
@@ -24795,7 +24719,7 @@
     }
   },
   {
-    "no": "1306",
+    "no": "1302",
     "kode": "PBK104",
     "nama": "INSTRUMEN BK I (NONTES)",
     "kelas": "02",
@@ -24814,7 +24738,7 @@
     }
   },
   {
-    "no": "1307",
+    "no": "1303",
     "kode": "PBK104",
     "nama": "INSTRUMEN BK I (NONTES)",
     "kelas": "03",
@@ -24833,7 +24757,7 @@
     }
   },
   {
-    "no": "1308",
+    "no": "1304",
     "kode": "PBK104",
     "nama": "INSTRUMEN BK I (NONTES)",
     "kelas": "04",
@@ -24852,7 +24776,7 @@
     }
   },
   {
-    "no": "1309",
+    "no": "1305",
     "kode": "PBK110",
     "nama": "PSIKOLOGI SOSIAL",
     "kelas": "01",
@@ -24871,7 +24795,7 @@
     }
   },
   {
-    "no": "1310",
+    "no": "1306",
     "kode": "PBK110",
     "nama": "PSIKOLOGI SOSIAL",
     "kelas": "02",
@@ -24890,7 +24814,7 @@
     }
   },
   {
-    "no": "1311",
+    "no": "1307",
     "kode": "PBK110",
     "nama": "PSIKOLOGI SOSIAL",
     "kelas": "03",
@@ -24909,7 +24833,7 @@
     }
   },
   {
-    "no": "1312",
+    "no": "1308",
     "kode": "PBK110",
     "nama": "PSIKOLOGI SOSIAL",
     "kelas": "04",
@@ -24928,7 +24852,7 @@
     }
   },
   {
-    "no": "1313",
+    "no": "1309",
     "kode": "PBK112",
     "nama": "ICT LAYANAN BK",
     "kelas": "01",
@@ -24947,7 +24871,7 @@
     }
   },
   {
-    "no": "1314",
+    "no": "1310",
     "kode": "PBK112",
     "nama": "ICT LAYANAN BK",
     "kelas": "02",
@@ -24966,7 +24890,7 @@
     }
   },
   {
-    "no": "1315",
+    "no": "1311",
     "kode": "PBK112",
     "nama": "ICT LAYANAN BK",
     "kelas": "03",
@@ -24985,7 +24909,7 @@
     }
   },
   {
-    "no": "1316",
+    "no": "1312",
     "kode": "PBK112",
     "nama": "ICT LAYANAN BK",
     "kelas": "04",
@@ -25004,7 +24928,7 @@
     }
   },
   {
-    "no": "1317",
+    "no": "1313",
     "kode": "PBK112",
     "nama": "ICT LAYANAN BK",
     "kelas": "05",
@@ -25023,7 +24947,7 @@
     }
   },
   {
-    "no": "1318",
+    "no": "1314",
     "kode": "PBK112",
     "nama": "ICT LAYANAN BK",
     "kelas": "06",
@@ -25042,7 +24966,7 @@
     }
   },
   {
-    "no": "1319",
+    "no": "1315",
     "kode": "PBK114",
     "nama": "BIMBINGAN DAN KONSELING BELAJAR",
     "kelas": "01",
@@ -25061,7 +24985,7 @@
     }
   },
   {
-    "no": "1320",
+    "no": "1316",
     "kode": "PBK114",
     "nama": "BIMBINGAN DAN KONSELING BELAJAR",
     "kelas": "02",
@@ -25080,7 +25004,7 @@
     }
   },
   {
-    "no": "1321",
+    "no": "1317",
     "kode": "PBK114",
     "nama": "BIMBINGAN DAN KONSELING BELAJAR",
     "kelas": "03",
@@ -25099,7 +25023,7 @@
     }
   },
   {
-    "no": "1322",
+    "no": "1318",
     "kode": "PBK114",
     "nama": "BIMBINGAN DAN KONSELING BELAJAR",
     "kelas": "04",
@@ -25118,7 +25042,7 @@
     }
   },
   {
-    "no": "1323",
+    "no": "1319",
     "kode": "PBK116",
     "nama": "PSIKOLOGI KEPRIBADIAN",
     "kelas": "01",
@@ -25137,7 +25061,7 @@
     }
   },
   {
-    "no": "1324",
+    "no": "1320",
     "kode": "PBK116",
     "nama": "PSIKOLOGI KEPRIBADIAN",
     "kelas": "02",
@@ -25156,7 +25080,7 @@
     }
   },
   {
-    "no": "1325",
+    "no": "1321",
     "kode": "PBK116",
     "nama": "PSIKOLOGI KEPRIBADIAN",
     "kelas": "03",
@@ -25175,7 +25099,7 @@
     }
   },
   {
-    "no": "1326",
+    "no": "1322",
     "kode": "PBK116",
     "nama": "PSIKOLOGI KEPRIBADIAN",
     "kelas": "04",
@@ -25194,7 +25118,7 @@
     }
   },
   {
-    "no": "1327",
+    "no": "1323",
     "kode": "PBK204",
     "nama": "BIMBINGAN DAN KONSELING KARIR",
     "kelas": "01",
@@ -25213,7 +25137,7 @@
     }
   },
   {
-    "no": "1328",
+    "no": "1324",
     "kode": "PBK204",
     "nama": "BIMBINGAN DAN KONSELING KARIR",
     "kelas": "02",
@@ -25232,7 +25156,7 @@
     }
   },
   {
-    "no": "1329",
+    "no": "1325",
     "kode": "PBK204",
     "nama": "BIMBINGAN DAN KONSELING KARIR",
     "kelas": "03",
@@ -25251,7 +25175,7 @@
     }
   },
   {
-    "no": "1330",
+    "no": "1326",
     "kode": "PBK206",
     "nama": "BIMBINGAN DAN KONSELING KELOMPOK",
     "kelas": "01",
@@ -25270,7 +25194,7 @@
     }
   },
   {
-    "no": "1331",
+    "no": "1327",
     "kode": "PBK206",
     "nama": "BIMBINGAN DAN KONSELING KELOMPOK",
     "kelas": "02",
@@ -25289,7 +25213,7 @@
     }
   },
   {
-    "no": "1332",
+    "no": "1328",
     "kode": "PBK206",
     "nama": "BIMBINGAN DAN KONSELING KELOMPOK",
     "kelas": "03",
@@ -25308,7 +25232,7 @@
     }
   },
   {
-    "no": "1333",
+    "no": "1329",
     "kode": "PBK214",
     "nama": "PERENCANAAN LAYANAN BK",
     "kelas": "01",
@@ -25327,7 +25251,7 @@
     }
   },
   {
-    "no": "1334",
+    "no": "1330",
     "kode": "PBK214",
     "nama": "PERENCANAAN LAYANAN BK",
     "kelas": "02",
@@ -25346,7 +25270,7 @@
     }
   },
   {
-    "no": "1335",
+    "no": "1331",
     "kode": "PBK214",
     "nama": "PERENCANAAN LAYANAN BK",
     "kelas": "03",
@@ -25365,7 +25289,7 @@
     }
   },
   {
-    "no": "1336",
+    "no": "1332",
     "kode": "PBK216",
     "nama": "TEORI DAN TEKNIK KONSELING I",
     "kelas": "01",
@@ -25373,7 +25297,7 @@
     "ruang": "R. 1.01",
     "hari": "Selasa",
     "waktu": "8:00-10:30",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Bimbingan dan Konseling",
     "kode-peserta": {
       "data-kode": "PBK216",
@@ -25384,7 +25308,7 @@
     }
   },
   {
-    "no": "1337",
+    "no": "1333",
     "kode": "PBK216",
     "nama": "TEORI DAN TEKNIK KONSELING I",
     "kelas": "02",
@@ -25403,7 +25327,7 @@
     }
   },
   {
-    "no": "1338",
+    "no": "1334",
     "kode": "PBK216",
     "nama": "TEORI DAN TEKNIK KONSELING I",
     "kelas": "03",
@@ -25422,7 +25346,7 @@
     }
   },
   {
-    "no": "1339",
+    "no": "1335",
     "kode": "PBK218",
     "nama": "PENGGUNAAN HASIL ASESMEN",
     "kelas": "01",
@@ -25441,7 +25365,7 @@
     }
   },
   {
-    "no": "1340",
+    "no": "1336",
     "kode": "PBK218",
     "nama": "PENGGUNAAN HASIL ASESMEN",
     "kelas": "02",
@@ -25460,7 +25384,7 @@
     }
   },
   {
-    "no": "1341",
+    "no": "1337",
     "kode": "PBK218",
     "nama": "PENGGUNAAN HASIL ASESMEN",
     "kelas": "03",
@@ -25479,7 +25403,7 @@
     }
   },
   {
-    "no": "1342",
+    "no": "1338",
     "kode": "PBK220",
     "nama": "METODE PENELITIAN KUANTITATIF",
     "kelas": "01",
@@ -25498,7 +25422,7 @@
     }
   },
   {
-    "no": "1343",
+    "no": "1339",
     "kode": "PBK220",
     "nama": "METODE PENELITIAN KUANTITATIF",
     "kelas": "02",
@@ -25517,7 +25441,7 @@
     }
   },
   {
-    "no": "1344",
+    "no": "1340",
     "kode": "PBK220",
     "nama": "METODE PENELITIAN KUANTITATIF",
     "kelas": "03",
@@ -25536,7 +25460,7 @@
     }
   },
   {
-    "no": "1345",
+    "no": "1341",
     "kode": "PBK306",
     "nama": "PENGEMBANGAN PRIBADI KONSELOR",
     "kelas": "01",
@@ -25555,7 +25479,7 @@
     }
   },
   {
-    "no": "1346",
+    "no": "1342",
     "kode": "PBK306",
     "nama": "PENGEMBANGAN PRIBADI KONSELOR",
     "kelas": "02",
@@ -25574,7 +25498,7 @@
     }
   },
   {
-    "no": "1347",
+    "no": "1343",
     "kode": "PBK306",
     "nama": "PENGEMBANGAN PRIBADI KONSELOR",
     "kelas": "03",
@@ -25593,7 +25517,7 @@
     }
   },
   {
-    "no": "1348",
+    "no": "1344",
     "kode": "PBK306",
     "nama": "PENGEMBANGAN PRIBADI KONSELOR",
     "kelas": "04",
@@ -25612,7 +25536,7 @@
     }
   },
   {
-    "no": "1349",
+    "no": "1345",
     "kode": "PBK310",
     "nama": "KONSELING LINTAS BUDAYA",
     "kelas": "01",
@@ -25620,7 +25544,7 @@
     "ruang": "R. 1.01",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "35",
+    "peserta": "36",
     "keterangan": "KIPS1Bimbingan dan Konseling",
     "kode-peserta": {
       "data-kode": "PBK310",
@@ -25631,7 +25555,7 @@
     }
   },
   {
-    "no": "1350",
+    "no": "1346",
     "kode": "PBK310",
     "nama": "KONSELING LINTAS BUDAYA",
     "kelas": "02",
@@ -25650,7 +25574,7 @@
     }
   },
   {
-    "no": "1351",
+    "no": "1347",
     "kode": "PBK310",
     "nama": "KONSELING LINTAS BUDAYA",
     "kelas": "03",
@@ -25669,7 +25593,7 @@
     }
   },
   {
-    "no": "1352",
+    "no": "1348",
     "kode": "PBK310",
     "nama": "KONSELING LINTAS BUDAYA",
     "kelas": "04",
@@ -25677,7 +25601,7 @@
     "ruang": "1.01",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "36",
+    "peserta": "35",
     "keterangan": "KIPS1Bimbingan dan Konseling",
     "kode-peserta": {
       "data-kode": "PBK310",
@@ -25688,7 +25612,7 @@
     }
   },
   {
-    "no": "1353",
+    "no": "1349",
     "kode": "PBK314",
     "nama": "KONSELING INDIVIDUAL",
     "kelas": "01A",
@@ -25707,7 +25631,7 @@
     }
   },
   {
-    "no": "1354",
+    "no": "1350",
     "kode": "PBK314",
     "nama": "KONSELING INDIVIDUAL",
     "kelas": "01B",
@@ -25726,7 +25650,7 @@
     }
   },
   {
-    "no": "1355",
+    "no": "1351",
     "kode": "PBK314",
     "nama": "KONSELING INDIVIDUAL",
     "kelas": "02A",
@@ -25734,7 +25658,7 @@
     "ruang": "R. Lab BK",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "6",
+    "peserta": "7",
     "keterangan": "KIPS1Bimbingan dan Konseling",
     "kode-peserta": {
       "data-kode": "PBK314",
@@ -25745,7 +25669,7 @@
     }
   },
   {
-    "no": "1356",
+    "no": "1352",
     "kode": "PBK314",
     "nama": "KONSELING INDIVIDUAL",
     "kelas": "02B",
@@ -25764,7 +25688,7 @@
     }
   },
   {
-    "no": "1357",
+    "no": "1353",
     "kode": "PBK314",
     "nama": "KONSELING INDIVIDUAL",
     "kelas": "04A",
@@ -25783,7 +25707,7 @@
     }
   },
   {
-    "no": "1358",
+    "no": "1354",
     "kode": "PBK314",
     "nama": "KONSELING INDIVIDUAL",
     "kelas": "05A",
@@ -25802,7 +25726,7 @@
     }
   },
   {
-    "no": "1359",
+    "no": "1355",
     "kode": "PBK314",
     "nama": "KONSELING INDIVIDUAL",
     "kelas": "06B",
@@ -25821,7 +25745,7 @@
     }
   },
   {
-    "no": "1360",
+    "no": "1356",
     "kode": "PBK316",
     "nama": "EVALUASI DAN SUPERVISI BK",
     "kelas": "01",
@@ -25840,7 +25764,7 @@
     }
   },
   {
-    "no": "1361",
+    "no": "1357",
     "kode": "PBK316",
     "nama": "EVALUASI DAN SUPERVISI BK",
     "kelas": "02",
@@ -25859,7 +25783,7 @@
     }
   },
   {
-    "no": "1362",
+    "no": "1358",
     "kode": "PBK316",
     "nama": "EVALUASI DAN SUPERVISI BK",
     "kelas": "03",
@@ -25878,7 +25802,7 @@
     }
   },
   {
-    "no": "1363",
+    "no": "1359",
     "kode": "PBK317",
     "nama": "TEORI DAN TEKNIK KONSELING II",
     "kelas": "01",
@@ -25886,7 +25810,7 @@
     "ruang": "R.3.11",
     "hari": "Jumat",
     "waktu": "10:45-13:15",
-    "peserta": "44",
+    "peserta": "43",
     "keterangan": "KIPS1Bimbingan dan Konseling",
     "kode-peserta": {
       "data-kode": "PBK317",
@@ -25897,7 +25821,7 @@
     }
   },
   {
-    "no": "1364",
+    "no": "1360",
     "kode": "PBK317",
     "nama": "TEORI DAN TEKNIK KONSELING II",
     "kelas": "02",
@@ -25916,7 +25840,7 @@
     }
   },
   {
-    "no": "1365",
+    "no": "1361",
     "kode": "PBK318",
     "nama": "SEMINAR BK",
     "kelas": "01",
@@ -25924,7 +25848,7 @@
     "ruang": "R. 2.02",
     "hari": "Senin",
     "waktu": "8:00-10:30",
-    "peserta": "21",
+    "peserta": "22",
     "keterangan": "KIPS1Bimbingan dan Konseling",
     "kode-peserta": {
       "data-kode": "PBK318",
@@ -25935,7 +25859,7 @@
     }
   },
   {
-    "no": "1366",
+    "no": "1362",
     "kode": "PBK318",
     "nama": "SEMINAR BK",
     "kelas": "02",
@@ -25943,7 +25867,7 @@
     "ruang": "R. 2.02",
     "hari": "Senin",
     "waktu": "10:45-13:15",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "KIPS1Bimbingan dan Konseling",
     "kode-peserta": {
       "data-kode": "PBK318",
@@ -25954,7 +25878,7 @@
     }
   },
   {
-    "no": "1367",
+    "no": "1363",
     "kode": "PBK319",
     "nama": "PRAKTIKUM KONSELING KARIR",
     "kelas": "01",
@@ -25973,7 +25897,7 @@
     }
   },
   {
-    "no": "1368",
+    "no": "1364",
     "kode": "PBK319",
     "nama": "PRAKTIKUM KONSELING KARIR",
     "kelas": "02",
@@ -25992,7 +25916,7 @@
     }
   },
   {
-    "no": "1369",
+    "no": "1365",
     "kode": "PBK319",
     "nama": "PRAKTIKUM KONSELING KARIR",
     "kelas": "03",
@@ -26011,7 +25935,7 @@
     }
   },
   {
-    "no": "1370",
+    "no": "1366",
     "kode": "PBK323",
     "nama": "TINJAUAN LITERATUR",
     "kelas": "01",
@@ -26030,7 +25954,7 @@
     }
   },
   {
-    "no": "1371",
+    "no": "1367",
     "kode": "PBK323",
     "nama": "TINJAUAN LITERATUR",
     "kelas": "02",
@@ -26049,7 +25973,7 @@
     }
   },
   {
-    "no": "1372",
+    "no": "1368",
     "kode": "PBK325",
     "nama": "METODE PENELITIAN KUALITATIF DAN CAMPURAN",
     "kelas": "01",
@@ -26068,7 +25992,7 @@
     }
   },
   {
-    "no": "1373",
+    "no": "1369",
     "kode": "PBK325",
     "nama": "METODE PENELITIAN KUALITATIF DAN CAMPURAN",
     "kelas": "02",
@@ -26087,7 +26011,7 @@
     }
   },
   {
-    "no": "1374",
+    "no": "1370",
     "kode": "PBKP03",
     "nama": "KESEHATAN MENTAL",
     "kelas": "01",
@@ -26106,7 +26030,7 @@
     }
   },
   {
-    "no": "1375",
+    "no": "1371",
     "kode": "PBKP03",
     "nama": "KESEHATAN MENTAL",
     "kelas": "02",
@@ -26114,7 +26038,7 @@
     "ruang": "1.01",
     "hari": "Sabtu",
     "waktu": "8:00-10:30",
-    "peserta": "41",
+    "peserta": "40",
     "keterangan": "KIPS1Bimbingan dan Konseling",
     "kode-peserta": {
       "data-kode": "PBKP03",
@@ -26125,7 +26049,7 @@
     }
   },
   {
-    "no": "1376",
+    "no": "1372",
     "kode": "PBKP07",
     "nama": "TERAPI BERMAIN",
     "kelas": "01",
@@ -26144,7 +26068,7 @@
     }
   },
   {
-    "no": "1377",
+    "no": "1373",
     "kode": "PBKP07",
     "nama": "TERAPI BERMAIN",
     "kelas": "02",
@@ -26152,7 +26076,7 @@
     "ruang": "1.01",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "37",
+    "peserta": "36",
     "keterangan": "KIPS1Bimbingan dan Konseling",
     "kode-peserta": {
       "data-kode": "PBKP07",
@@ -26163,7 +26087,7 @@
     }
   },
   {
-    "no": "1378",
+    "no": "1374",
     "kode": "PBKP07",
     "nama": "TERAPI BERMAIN",
     "kelas": "03",
@@ -26171,7 +26095,7 @@
     "ruang": "Lab BK",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "6",
+    "peserta": "9",
     "keterangan": "KIPS1Bimbingan dan Konseling",
     "kode-peserta": {
       "data-kode": "PBKP07",
@@ -26182,7 +26106,45 @@
     }
   },
   {
-    "no": "1379",
+    "no": "1375",
+    "kode": "PBKP11",
+    "nama": "PROBLEMATIKA DAN TEKNIK BK ANAK",
+    "kelas": "01",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "1.01",
+    "hari": "Senin",
+    "waktu": "08:00-09:35",
+    "peserta": "1",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBKP11",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "1376",
+    "kode": "PBKP12",
+    "nama": "PEMAHAMAN DAN TEKNIK BK ABK",
+    "kelas": "01",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "1.01",
+    "hari": "Senin",
+    "waktu": "08:00-10:50",
+    "peserta": "1",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBKP12",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "1377",
     "kode": "EDP102",
     "nama": "KETRAMPILAN  MENYIMAK DAN  KETRAMPILAN BERBICARA",
     "kelas": "01",
@@ -26201,7 +26163,7 @@
     }
   },
   {
-    "no": "1380",
+    "no": "1378",
     "kode": "EDP102",
     "nama": "KETRAMPILAN  MENYIMAK DAN  KETRAMPILAN BERBICARA",
     "kelas": "02",
@@ -26220,7 +26182,7 @@
     }
   },
   {
-    "no": "1381",
+    "no": "1379",
     "kode": "EDP102",
     "nama": "KETRAMPILAN  MENYIMAK DAN  KETRAMPILAN BERBICARA",
     "kelas": "03",
@@ -26239,7 +26201,7 @@
     }
   },
   {
-    "no": "1382",
+    "no": "1380",
     "kode": "EDP102",
     "nama": "KETRAMPILAN  MENYIMAK DAN  KETRAMPILAN BERBICARA",
     "kelas": "04",
@@ -26258,7 +26220,7 @@
     }
   },
   {
-    "no": "1383",
+    "no": "1381",
     "kode": "EDP104",
     "nama": "TEORI BILANGAN",
     "kelas": "01",
@@ -26277,7 +26239,7 @@
     }
   },
   {
-    "no": "1384",
+    "no": "1382",
     "kode": "EDP104",
     "nama": "TEORI BILANGAN",
     "kelas": "02",
@@ -26296,7 +26258,7 @@
     }
   },
   {
-    "no": "1385",
+    "no": "1383",
     "kode": "EDP104",
     "nama": "TEORI BILANGAN",
     "kelas": "03",
@@ -26315,7 +26277,7 @@
     }
   },
   {
-    "no": "1386",
+    "no": "1384",
     "kode": "EDP104",
     "nama": "TEORI BILANGAN",
     "kelas": "04",
@@ -26334,7 +26296,7 @@
     }
   },
   {
-    "no": "1387",
+    "no": "1385",
     "kode": "EDP110",
     "nama": "PERKEMBANGAN PESERTA DIDIK",
     "kelas": "01",
@@ -26353,7 +26315,7 @@
     }
   },
   {
-    "no": "1388",
+    "no": "1386",
     "kode": "EDP110",
     "nama": "PERKEMBANGAN PESERTA DIDIK",
     "kelas": "02",
@@ -26372,7 +26334,7 @@
     }
   },
   {
-    "no": "1389",
+    "no": "1387",
     "kode": "EDP110",
     "nama": "PERKEMBANGAN PESERTA DIDIK",
     "kelas": "03",
@@ -26391,7 +26353,7 @@
     }
   },
   {
-    "no": "1390",
+    "no": "1388",
     "kode": "EDP110",
     "nama": "PERKEMBANGAN PESERTA DIDIK",
     "kelas": "04",
@@ -26410,7 +26372,7 @@
     }
   },
   {
-    "no": "1391",
+    "no": "1389",
     "kode": "EDP112",
     "nama": "STRATEGI BELAJAR MENGAJAR",
     "kelas": "01",
@@ -26429,7 +26391,7 @@
     }
   },
   {
-    "no": "1392",
+    "no": "1390",
     "kode": "EDP112",
     "nama": "STRATEGI BELAJAR MENGAJAR",
     "kelas": "02",
@@ -26448,7 +26410,7 @@
     }
   },
   {
-    "no": "1393",
+    "no": "1391",
     "kode": "EDP112",
     "nama": "STRATEGI BELAJAR MENGAJAR",
     "kelas": "03",
@@ -26467,7 +26429,7 @@
     }
   },
   {
-    "no": "1394",
+    "no": "1392",
     "kode": "EDP112",
     "nama": "STRATEGI BELAJAR MENGAJAR",
     "kelas": "04",
@@ -26486,7 +26448,7 @@
     }
   },
   {
-    "no": "1395",
+    "no": "1393",
     "kode": "EDP116",
     "nama": "KONSEP DASAR IPA SD 2",
     "kelas": "01",
@@ -26505,7 +26467,7 @@
     }
   },
   {
-    "no": "1396",
+    "no": "1394",
     "kode": "EDP116",
     "nama": "KONSEP DASAR IPA SD 2",
     "kelas": "02",
@@ -26524,7 +26486,7 @@
     }
   },
   {
-    "no": "1397",
+    "no": "1395",
     "kode": "EDP116",
     "nama": "KONSEP DASAR IPA SD 2",
     "kelas": "03",
@@ -26543,7 +26505,7 @@
     }
   },
   {
-    "no": "1398",
+    "no": "1396",
     "kode": "EDP116",
     "nama": "KONSEP DASAR IPA SD 2",
     "kelas": "04",
@@ -26562,7 +26524,7 @@
     }
   },
   {
-    "no": "1399",
+    "no": "1397",
     "kode": "EDP118",
     "nama": "KONSEP DASAR IPS SD 2",
     "kelas": "01",
@@ -26581,7 +26543,7 @@
     }
   },
   {
-    "no": "1400",
+    "no": "1398",
     "kode": "EDP118",
     "nama": "KONSEP DASAR IPS SD 2",
     "kelas": "02",
@@ -26600,7 +26562,7 @@
     }
   },
   {
-    "no": "1401",
+    "no": "1399",
     "kode": "EDP118",
     "nama": "KONSEP DASAR IPS SD 2",
     "kelas": "03",
@@ -26619,7 +26581,7 @@
     }
   },
   {
-    "no": "1402",
+    "no": "1400",
     "kode": "EDP118",
     "nama": "KONSEP DASAR IPS SD 2",
     "kelas": "04",
@@ -26638,7 +26600,7 @@
     }
   },
   {
-    "no": "1403",
+    "no": "1401",
     "kode": "EDP202",
     "nama": "PEMBELAJARAN BAHASA DAN SASTRA  INDONESIA SD KELAS AWAL",
     "kelas": "05",
@@ -26657,7 +26619,7 @@
     }
   },
   {
-    "no": "1404",
+    "no": "1402",
     "kode": "EDP202",
     "nama": "PEMBELAJARAN BAHASA DAN SASTRA  INDONESIA SD KELAS AWAL",
     "kelas": "06",
@@ -26676,7 +26638,7 @@
     }
   },
   {
-    "no": "1405",
+    "no": "1403",
     "kode": "EDP202",
     "nama": "PEMBELAJARAN BAHASA DAN SASTRA  INDONESIA SD KELAS AWAL",
     "kelas": "07",
@@ -26695,7 +26657,7 @@
     }
   },
   {
-    "no": "1406",
+    "no": "1404",
     "kode": "EDP202",
     "nama": "PEMBELAJARAN BAHASA DAN SASTRA  INDONESIA SD KELAS AWAL",
     "kelas": "08",
@@ -26714,7 +26676,7 @@
     }
   },
   {
-    "no": "1407",
+    "no": "1405",
     "kode": "EDP210",
     "nama": "PERENCANAAN PEMBELAJARAN",
     "kelas": "05",
@@ -26733,7 +26695,7 @@
     }
   },
   {
-    "no": "1408",
+    "no": "1406",
     "kode": "EDP210",
     "nama": "PERENCANAAN PEMBELAJARAN",
     "kelas": "06",
@@ -26752,7 +26714,7 @@
     }
   },
   {
-    "no": "1409",
+    "no": "1407",
     "kode": "EDP210",
     "nama": "PERENCANAAN PEMBELAJARAN",
     "kelas": "07",
@@ -26771,7 +26733,7 @@
     }
   },
   {
-    "no": "1410",
+    "no": "1408",
     "kode": "EDP210",
     "nama": "PERENCANAAN PEMBELAJARAN",
     "kelas": "08",
@@ -26790,7 +26752,7 @@
     }
   },
   {
-    "no": "1411",
+    "no": "1409",
     "kode": "EDP212",
     "nama": "PENGEMBANGAN  KONSEP DASAR PKN",
     "kelas": "05",
@@ -26809,7 +26771,7 @@
     }
   },
   {
-    "no": "1412",
+    "no": "1410",
     "kode": "EDP212",
     "nama": "PENGEMBANGAN  KONSEP DASAR PKN",
     "kelas": "06",
@@ -26828,7 +26790,7 @@
     }
   },
   {
-    "no": "1413",
+    "no": "1411",
     "kode": "EDP212",
     "nama": "PENGEMBANGAN  KONSEP DASAR PKN",
     "kelas": "07",
@@ -26847,7 +26809,7 @@
     }
   },
   {
-    "no": "1414",
+    "no": "1412",
     "kode": "EDP212",
     "nama": "PENGEMBANGAN  KONSEP DASAR PKN",
     "kelas": "08",
@@ -26866,7 +26828,7 @@
     }
   },
   {
-    "no": "1415",
+    "no": "1413",
     "kode": "EDP214",
     "nama": "PENDIDIKAN SENI RUPA DAN PRAKARYA",
     "kelas": "05",
@@ -26885,7 +26847,7 @@
     }
   },
   {
-    "no": "1416",
+    "no": "1414",
     "kode": "EDP214",
     "nama": "PENDIDIKAN SENI RUPA DAN PRAKARYA",
     "kelas": "06",
@@ -26904,7 +26866,7 @@
     }
   },
   {
-    "no": "1417",
+    "no": "1415",
     "kode": "EDP214",
     "nama": "PENDIDIKAN SENI RUPA DAN PRAKARYA",
     "kelas": "07",
@@ -26923,7 +26885,7 @@
     }
   },
   {
-    "no": "1418",
+    "no": "1416",
     "kode": "EDP214",
     "nama": "PENDIDIKAN SENI RUPA DAN PRAKARYA",
     "kelas": "08",
@@ -26942,7 +26904,7 @@
     }
   },
   {
-    "no": "1419",
+    "no": "1417",
     "kode": "EDP216",
     "nama": "PEMBELAJARAN MATEMATIKA SD 2",
     "kelas": "05",
@@ -26961,7 +26923,7 @@
     }
   },
   {
-    "no": "1420",
+    "no": "1418",
     "kode": "EDP216",
     "nama": "PEMBELAJARAN MATEMATIKA SD 2",
     "kelas": "06",
@@ -26980,7 +26942,7 @@
     }
   },
   {
-    "no": "1421",
+    "no": "1419",
     "kode": "EDP216",
     "nama": "PEMBELAJARAN MATEMATIKA SD 2",
     "kelas": "07",
@@ -26999,7 +26961,7 @@
     }
   },
   {
-    "no": "1422",
+    "no": "1420",
     "kode": "EDP216",
     "nama": "PEMBELAJARAN MATEMATIKA SD 2",
     "kelas": "08",
@@ -27018,7 +26980,7 @@
     }
   },
   {
-    "no": "1423",
+    "no": "1421",
     "kode": "EDP218",
     "nama": "PEMBELAJARAN IPA SD",
     "kelas": "05",
@@ -27037,7 +26999,7 @@
     }
   },
   {
-    "no": "1424",
+    "no": "1422",
     "kode": "EDP218",
     "nama": "PEMBELAJARAN IPA SD",
     "kelas": "06",
@@ -27056,7 +27018,7 @@
     }
   },
   {
-    "no": "1425",
+    "no": "1423",
     "kode": "EDP218",
     "nama": "PEMBELAJARAN IPA SD",
     "kelas": "07",
@@ -27075,7 +27037,7 @@
     }
   },
   {
-    "no": "1426",
+    "no": "1424",
     "kode": "EDP218",
     "nama": "PEMBELAJARAN IPA SD",
     "kelas": "08",
@@ -27094,7 +27056,7 @@
     }
   },
   {
-    "no": "1427",
+    "no": "1425",
     "kode": "EDP220",
     "nama": "PEMBELAJARAN IPS SD",
     "kelas": "05",
@@ -27113,7 +27075,7 @@
     }
   },
   {
-    "no": "1428",
+    "no": "1426",
     "kode": "EDP220",
     "nama": "PEMBELAJARAN IPS SD",
     "kelas": "06",
@@ -27132,7 +27094,7 @@
     }
   },
   {
-    "no": "1429",
+    "no": "1427",
     "kode": "EDP220",
     "nama": "PEMBELAJARAN IPS SD",
     "kelas": "07",
@@ -27151,7 +27113,7 @@
     }
   },
   {
-    "no": "1430",
+    "no": "1428",
     "kode": "EDP220",
     "nama": "PEMBELAJARAN IPS SD",
     "kelas": "08",
@@ -27170,7 +27132,7 @@
     }
   },
   {
-    "no": "1431",
+    "no": "1429",
     "kode": "EDP302",
     "nama": "SEMINAR KARYA ILMIAH  KE- SD- AN",
     "kelas": "05",
@@ -27189,7 +27151,7 @@
     }
   },
   {
-    "no": "1432",
+    "no": "1430",
     "kode": "EDP302",
     "nama": "SEMINAR KARYA ILMIAH  KE- SD- AN",
     "kelas": "06",
@@ -27208,7 +27170,7 @@
     }
   },
   {
-    "no": "1433",
+    "no": "1431",
     "kode": "EDP302",
     "nama": "SEMINAR KARYA ILMIAH  KE- SD- AN",
     "kelas": "07",
@@ -27227,7 +27189,7 @@
     }
   },
   {
-    "no": "1434",
+    "no": "1432",
     "kode": "EDP302",
     "nama": "SEMINAR KARYA ILMIAH  KE- SD- AN",
     "kelas": "08",
@@ -27246,7 +27208,7 @@
     }
   },
   {
-    "no": "1435",
+    "no": "1433",
     "kode": "EDP302",
     "nama": "SEMINAR KARYA ILMIAH  KE- SD- AN",
     "kelas": "09",
@@ -27265,7 +27227,7 @@
     }
   },
   {
-    "no": "1436",
+    "no": "1434",
     "kode": "EDP302",
     "nama": "SEMINAR KARYA ILMIAH  KE- SD- AN",
     "kelas": "10",
@@ -27284,7 +27246,7 @@
     }
   },
   {
-    "no": "1437",
+    "no": "1435",
     "kode": "EDP302",
     "nama": "SEMINAR KARYA ILMIAH  KE- SD- AN",
     "kelas": "11",
@@ -27303,7 +27265,7 @@
     }
   },
   {
-    "no": "1438",
+    "no": "1436",
     "kode": "EDP302",
     "nama": "SEMINAR KARYA ILMIAH  KE- SD- AN",
     "kelas": "12",
@@ -27322,7 +27284,7 @@
     }
   },
   {
-    "no": "1439",
+    "no": "1437",
     "kode": "EDP304",
     "nama": "PEMBELAJARAN BAHASA INGGRIS SD",
     "kelas": "09",
@@ -27341,7 +27303,7 @@
     }
   },
   {
-    "no": "1440",
+    "no": "1438",
     "kode": "EDP304",
     "nama": "PEMBELAJARAN BAHASA INGGRIS SD",
     "kelas": "10",
@@ -27360,7 +27322,7 @@
     }
   },
   {
-    "no": "1441",
+    "no": "1439",
     "kode": "EDP304",
     "nama": "PEMBELAJARAN BAHASA INGGRIS SD",
     "kelas": "11",
@@ -27379,7 +27341,7 @@
     }
   },
   {
-    "no": "1442",
+    "no": "1440",
     "kode": "EDP304",
     "nama": "PEMBELAJARAN BAHASA INGGRIS SD",
     "kelas": "12",
@@ -27398,7 +27360,7 @@
     }
   },
   {
-    "no": "1443",
+    "no": "1441",
     "kode": "EDP308",
     "nama": "WORKSHOP PENGEMBANGAN  MEDIA",
     "kelas": "08",
@@ -27417,7 +27379,7 @@
     }
   },
   {
-    "no": "1444",
+    "no": "1442",
     "kode": "EDP308",
     "nama": "WORKSHOP PENGEMBANGAN  MEDIA",
     "kelas": "09",
@@ -27436,7 +27398,7 @@
     }
   },
   {
-    "no": "1445",
+    "no": "1443",
     "kode": "EDP308",
     "nama": "WORKSHOP PENGEMBANGAN  MEDIA",
     "kelas": "10",
@@ -27455,7 +27417,7 @@
     }
   },
   {
-    "no": "1446",
+    "no": "1444",
     "kode": "EDP308",
     "nama": "WORKSHOP PENGEMBANGAN  MEDIA",
     "kelas": "11",
@@ -27474,7 +27436,7 @@
     }
   },
   {
-    "no": "1447",
+    "no": "1445",
     "kode": "EDP308",
     "nama": "WORKSHOP PENGEMBANGAN  MEDIA",
     "kelas": "12",
@@ -27493,7 +27455,7 @@
     }
   },
   {
-    "no": "1448",
+    "no": "1446",
     "kode": "EDP316",
     "nama": "PENDIDIKAN SENI TARI DAN DRAMA",
     "kelas": "09",
@@ -27512,7 +27474,7 @@
     }
   },
   {
-    "no": "1449",
+    "no": "1447",
     "kode": "EDP316",
     "nama": "PENDIDIKAN SENI TARI DAN DRAMA",
     "kelas": "10",
@@ -27531,7 +27493,7 @@
     }
   },
   {
-    "no": "1450",
+    "no": "1448",
     "kode": "EDP316",
     "nama": "PENDIDIKAN SENI TARI DAN DRAMA",
     "kelas": "11",
@@ -27550,7 +27512,7 @@
     }
   },
   {
-    "no": "1451",
+    "no": "1449",
     "kode": "EDP316",
     "nama": "PENDIDIKAN SENI TARI DAN DRAMA",
     "kelas": "12",
@@ -27569,7 +27531,7 @@
     }
   },
   {
-    "no": "1452",
+    "no": "1450",
     "kode": "EDP322",
     "nama": "PENDIDIKAN JASMANI",
     "kelas": "09",
@@ -27588,7 +27550,7 @@
     }
   },
   {
-    "no": "1453",
+    "no": "1451",
     "kode": "EDP322",
     "nama": "PENDIDIKAN JASMANI",
     "kelas": "10",
@@ -27607,7 +27569,7 @@
     }
   },
   {
-    "no": "1454",
+    "no": "1452",
     "kode": "EDP322",
     "nama": "PENDIDIKAN JASMANI",
     "kelas": "11",
@@ -27626,7 +27588,7 @@
     }
   },
   {
-    "no": "1455",
+    "no": "1453",
     "kode": "EDP322",
     "nama": "PENDIDIKAN JASMANI",
     "kelas": "12",
@@ -27645,7 +27607,7 @@
     }
   },
   {
-    "no": "1456",
+    "no": "1454",
     "kode": "EDP324",
     "nama": "PENELITIAN TINDAKAN KELAS",
     "kelas": "09",
@@ -27664,7 +27626,7 @@
     }
   },
   {
-    "no": "1457",
+    "no": "1455",
     "kode": "EDP324",
     "nama": "PENELITIAN TINDAKAN KELAS",
     "kelas": "10",
@@ -27683,7 +27645,7 @@
     }
   },
   {
-    "no": "1458",
+    "no": "1456",
     "kode": "EDP324",
     "nama": "PENELITIAN TINDAKAN KELAS",
     "kelas": "11",
@@ -27702,7 +27664,7 @@
     }
   },
   {
-    "no": "1459",
+    "no": "1457",
     "kode": "EDP324",
     "nama": "PENELITIAN TINDAKAN KELAS",
     "kelas": "12",
@@ -27721,7 +27683,7 @@
     }
   },
   {
-    "no": "1460",
+    "no": "1458",
     "kode": "EDP502",
     "nama": "GEOMETRI",
     "kelas": "09",
@@ -27740,7 +27702,7 @@
     }
   },
   {
-    "no": "1461",
+    "no": "1459",
     "kode": "EDP502",
     "nama": "GEOMETRI",
     "kelas": "10",
@@ -27759,7 +27721,7 @@
     }
   },
   {
-    "no": "1462",
+    "no": "1460",
     "kode": "EDP504",
     "nama": "SEMINAR MATEMATIKA",
     "kelas": "10",
@@ -27778,7 +27740,7 @@
     }
   },
   {
-    "no": "1463",
+    "no": "1461",
     "kode": "EDP506",
     "nama": "PENULISAN KARYA TULIS",
     "kelas": "09",
@@ -27797,7 +27759,7 @@
     }
   },
   {
-    "no": "1464",
+    "no": "1462",
     "kode": "EDP506",
     "nama": "PENULISAN KARYA TULIS",
     "kelas": "10",
@@ -27816,7 +27778,7 @@
     }
   },
   {
-    "no": "1465",
+    "no": "1463",
     "kode": "EDP512",
     "nama": "BIOLOGI UMUM",
     "kelas": "10",
@@ -27835,7 +27797,7 @@
     }
   },
   {
-    "no": "1466",
+    "no": "1464",
     "kode": "EDP512",
     "nama": "BIOLOGI UMUM",
     "kelas": "11",
@@ -27854,7 +27816,7 @@
     }
   },
   {
-    "no": "1467",
+    "no": "1465",
     "kode": "EDP514",
     "nama": "BIMBINGAN KONSELING",
     "kelas": "11",
@@ -27873,7 +27835,7 @@
     }
   },
   {
-    "no": "1468",
+    "no": "1466",
     "kode": "EDP514",
     "nama": "BIMBINGAN KONSELING",
     "kelas": "12",
@@ -27892,7 +27854,7 @@
     }
   },
   {
-    "no": "1469",
+    "no": "1467",
     "kode": "EDP516",
     "nama": "PENDIDIKAN JASMANI 2",
     "kelas": "11",
@@ -27911,7 +27873,7 @@
     }
   },
   {
-    "no": "1470",
+    "no": "1468",
     "kode": "EDP516",
     "nama": "PENDIDIKAN JASMANI 2",
     "kelas": "12",
@@ -27930,7 +27892,7 @@
     }
   },
   {
-    "no": "1471",
+    "no": "1469",
     "kode": "EDP518",
     "nama": "KAJIAN BUKU TEKS MATEMATIKA SD",
     "kelas": "10",
@@ -27949,7 +27911,7 @@
     }
   },
   {
-    "no": "1472",
+    "no": "1470",
     "kode": "EDP520",
     "nama": "PENDIDIKAN KARAKTER",
     "kelas": "12",
@@ -27968,7 +27930,7 @@
     }
   },
   {
-    "no": "1473",
+    "no": "1471",
     "kode": "EDP522",
     "nama": "KAJIAN BAHASA & SASTRA DALAM BUKU PAKET SD",
     "kelas": "06",
@@ -27987,7 +27949,7 @@
     }
   },
   {
-    "no": "1474",
+    "no": "1472",
     "kode": "EDP522",
     "nama": "KAJIAN BAHASA & SASTRA DALAM BUKU PAKET SD",
     "kelas": "10",
@@ -28006,7 +27968,7 @@
     }
   },
   {
-    "no": "1475",
+    "no": "1473",
     "kode": "EDP524",
     "nama": "ILMU PENGETAHUAN BUMI DAN ANTARIKSA",
     "kelas": "11",
@@ -28025,7 +27987,7 @@
     }
   },
   {
-    "no": "1476",
+    "no": "1474",
     "kode": "EDP526",
     "nama": "KEWIRAUSAHAAN",
     "kelas": "10",
@@ -28044,7 +28006,7 @@
     }
   },
   {
-    "no": "1477",
+    "no": "1475",
     "kode": "EDP526",
     "nama": "KEWIRAUSAHAAN",
     "kelas": "11",
@@ -28063,7 +28025,7 @@
     }
   },
   {
-    "no": "1478",
+    "no": "1476",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "01",
@@ -28082,7 +28044,7 @@
     }
   },
   {
-    "no": "1479",
+    "no": "1477",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "02",
@@ -28101,7 +28063,7 @@
     }
   },
   {
-    "no": "1480",
+    "no": "1478",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "03",
@@ -28120,7 +28082,7 @@
     }
   },
   {
-    "no": "1481",
+    "no": "1479",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "04",
@@ -28139,7 +28101,7 @@
     }
   },
   {
-    "no": "1482",
+    "no": "1480",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "05",
@@ -28158,7 +28120,7 @@
     }
   },
   {
-    "no": "1483",
+    "no": "1481",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "06",
@@ -28177,7 +28139,7 @@
     }
   },
   {
-    "no": "1484",
+    "no": "1482",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "07",
@@ -28196,7 +28158,7 @@
     }
   },
   {
-    "no": "1485",
+    "no": "1483",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "08",
@@ -28215,7 +28177,7 @@
     }
   },
   {
-    "no": "1486",
+    "no": "1484",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "05",
@@ -28234,7 +28196,7 @@
     }
   },
   {
-    "no": "1487",
+    "no": "1485",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "06",
@@ -28253,7 +28215,7 @@
     }
   },
   {
-    "no": "1488",
+    "no": "1486",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "07",
@@ -28272,7 +28234,7 @@
     }
   },
   {
-    "no": "1489",
+    "no": "1487",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "08",
@@ -28291,7 +28253,7 @@
     }
   },
   {
-    "no": "1490",
+    "no": "1488",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "05",
@@ -28310,7 +28272,7 @@
     }
   },
   {
-    "no": "1491",
+    "no": "1489",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "04",
@@ -28329,7 +28291,7 @@
     }
   },
   {
-    "no": "1492",
+    "no": "1490",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "06",
@@ -28348,7 +28310,7 @@
     }
   },
   {
-    "no": "1493",
+    "no": "1491",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "10",
@@ -28367,7 +28329,7 @@
     }
   },
   {
-    "no": "1494",
+    "no": "1492",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "09",
@@ -28386,7 +28348,7 @@
     }
   },
   {
-    "no": "1495",
+    "no": "1493",
     "kode": "ECE102",
     "nama": "PSIKOLOGI PERKEMBANGAN AUD",
     "kelas": "01",
@@ -28405,7 +28367,7 @@
     }
   },
   {
-    "no": "1496",
+    "no": "1494",
     "kode": "ECE102",
     "nama": "PSIKOLOGI PERKEMBANGAN AUD",
     "kelas": "02",
@@ -28424,7 +28386,7 @@
     }
   },
   {
-    "no": "1497",
+    "no": "1495",
     "kode": "ECE102",
     "nama": "PSIKOLOGI PERKEMBANGAN AUD",
     "kelas": "03",
@@ -28443,7 +28405,7 @@
     }
   },
   {
-    "no": "1498",
+    "no": "1496",
     "kode": "ECE104",
     "nama": "MATEMATIKA UNTUK AUD",
     "kelas": "01",
@@ -28462,7 +28424,7 @@
     }
   },
   {
-    "no": "1499",
+    "no": "1497",
     "kode": "ECE104",
     "nama": "MATEMATIKA UNTUK AUD",
     "kelas": "02",
@@ -28481,7 +28443,7 @@
     }
   },
   {
-    "no": "1500",
+    "no": "1498",
     "kode": "ECE104",
     "nama": "MATEMATIKA UNTUK AUD",
     "kelas": "03",
@@ -28500,7 +28462,7 @@
     }
   },
   {
-    "no": "1501",
+    "no": "1499",
     "kode": "ECE106",
     "nama": "PENGEMBANGAN KEMAMPUAN BAHASA AUD",
     "kelas": "01",
@@ -28519,7 +28481,7 @@
     }
   },
   {
-    "no": "1502",
+    "no": "1500",
     "kode": "ECE106",
     "nama": "PENGEMBANGAN KEMAMPUAN BAHASA AUD",
     "kelas": "02",
@@ -28538,7 +28500,7 @@
     }
   },
   {
-    "no": "1503",
+    "no": "1501",
     "kode": "ECE106",
     "nama": "PENGEMBANGAN KEMAMPUAN BAHASA AUD",
     "kelas": "03",
@@ -28557,7 +28519,7 @@
     }
   },
   {
-    "no": "1504",
+    "no": "1502",
     "kode": "ECE108",
     "nama": "PENDIDIKAN KARAKTER",
     "kelas": "01",
@@ -28576,7 +28538,7 @@
     }
   },
   {
-    "no": "1505",
+    "no": "1503",
     "kode": "ECE108",
     "nama": "PENDIDIKAN KARAKTER",
     "kelas": "02",
@@ -28595,7 +28557,7 @@
     }
   },
   {
-    "no": "1506",
+    "no": "1504",
     "kode": "ECE108",
     "nama": "PENDIDIKAN KARAKTER",
     "kelas": "03",
@@ -28614,7 +28576,7 @@
     }
   },
   {
-    "no": "1507",
+    "no": "1505",
     "kode": "ECE202",
     "nama": "PERENCANAAN PEMBELAJARAN PAUD",
     "kelas": "01",
@@ -28633,7 +28595,7 @@
     }
   },
   {
-    "no": "1508",
+    "no": "1506",
     "kode": "ECE202",
     "nama": "PERENCANAAN PEMBELAJARAN PAUD",
     "kelas": "02",
@@ -28652,7 +28614,7 @@
     }
   },
   {
-    "no": "1509",
+    "no": "1507",
     "kode": "ECE202",
     "nama": "PERENCANAAN PEMBELAJARAN PAUD",
     "kelas": "03",
@@ -28671,7 +28633,7 @@
     }
   },
   {
-    "no": "1510",
+    "no": "1508",
     "kode": "ECE202",
     "nama": "PERENCANAAN PEMBELAJARAN PAUD",
     "kelas": "04",
@@ -28690,7 +28652,7 @@
     }
   },
   {
-    "no": "1511",
+    "no": "1509",
     "kode": "ECE202",
     "nama": "PERENCANAAN PEMBELAJARAN PAUD",
     "kelas": "05",
@@ -28709,7 +28671,7 @@
     }
   },
   {
-    "no": "1512",
+    "no": "1510",
     "kode": "ECE202",
     "nama": "PERENCANAAN PEMBELAJARAN PAUD",
     "kelas": "06",
@@ -28728,7 +28690,7 @@
     }
   },
   {
-    "no": "1513",
+    "no": "1511",
     "kode": "ECE204",
     "nama": "SENI MENDIDIK AUD",
     "kelas": "01",
@@ -28747,7 +28709,7 @@
     }
   },
   {
-    "no": "1514",
+    "no": "1512",
     "kode": "ECE204",
     "nama": "SENI MENDIDIK AUD",
     "kelas": "02",
@@ -28766,7 +28728,7 @@
     }
   },
   {
-    "no": "1515",
+    "no": "1513",
     "kode": "ECE204",
     "nama": "SENI MENDIDIK AUD",
     "kelas": "03",
@@ -28785,7 +28747,7 @@
     }
   },
   {
-    "no": "1516",
+    "no": "1514",
     "kode": "ECE206",
     "nama": "PEMBELAJARAN TARI",
     "kelas": "01",
@@ -28804,7 +28766,7 @@
     }
   },
   {
-    "no": "1517",
+    "no": "1515",
     "kode": "ECE206",
     "nama": "PEMBELAJARAN TARI",
     "kelas": "02",
@@ -28823,7 +28785,7 @@
     }
   },
   {
-    "no": "1518",
+    "no": "1516",
     "kode": "ECE206",
     "nama": "PEMBELAJARAN TARI",
     "kelas": "03",
@@ -28842,7 +28804,7 @@
     }
   },
   {
-    "no": "1519",
+    "no": "1517",
     "kode": "ECE206",
     "nama": "PEMBELAJARAN TARI",
     "kelas": "04",
@@ -28861,7 +28823,7 @@
     }
   },
   {
-    "no": "1520",
+    "no": "1518",
     "kode": "ECE206",
     "nama": "PEMBELAJARAN TARI",
     "kelas": "05",
@@ -28880,7 +28842,7 @@
     }
   },
   {
-    "no": "1521",
+    "no": "1519",
     "kode": "ECE206",
     "nama": "PEMBELAJARAN TARI",
     "kelas": "06",
@@ -28899,7 +28861,7 @@
     }
   },
   {
-    "no": "1522",
+    "no": "1520",
     "kode": "ECE208",
     "nama": "STATISTIKA",
     "kelas": "01",
@@ -28918,7 +28880,7 @@
     }
   },
   {
-    "no": "1523",
+    "no": "1521",
     "kode": "ECE208",
     "nama": "STATISTIKA",
     "kelas": "02",
@@ -28937,7 +28899,7 @@
     }
   },
   {
-    "no": "1524",
+    "no": "1522",
     "kode": "ECE208",
     "nama": "STATISTIKA",
     "kelas": "03",
@@ -28956,7 +28918,7 @@
     }
   },
   {
-    "no": "1525",
+    "no": "1523",
     "kode": "ECE210",
     "nama": "METODE PENELITIAN KUALITATIF",
     "kelas": "01",
@@ -28975,7 +28937,7 @@
     }
   },
   {
-    "no": "1526",
+    "no": "1524",
     "kode": "ECE210",
     "nama": "METODE PENELITIAN KUALITATIF",
     "kelas": "02",
@@ -28994,7 +28956,7 @@
     }
   },
   {
-    "no": "1527",
+    "no": "1525",
     "kode": "ECE210",
     "nama": "METODE PENELITIAN KUALITATIF",
     "kelas": "03",
@@ -29013,7 +28975,7 @@
     }
   },
   {
-    "no": "1528",
+    "no": "1526",
     "kode": "ECE212",
     "nama": "PERMAINAN  AUD",
     "kelas": "01",
@@ -29032,7 +28994,7 @@
     }
   },
   {
-    "no": "1529",
+    "no": "1527",
     "kode": "ECE212",
     "nama": "PERMAINAN  AUD",
     "kelas": "02",
@@ -29051,7 +29013,7 @@
     }
   },
   {
-    "no": "1530",
+    "no": "1528",
     "kode": "ECE212",
     "nama": "PERMAINAN  AUD",
     "kelas": "03",
@@ -29070,7 +29032,7 @@
     }
   },
   {
-    "no": "1531",
+    "no": "1529",
     "kode": "ECE214",
     "nama": "PENGEMBANGAN MEDIA PEMBELAJARAN ANAK USIA DINI",
     "kelas": "01",
@@ -29089,7 +29051,7 @@
     }
   },
   {
-    "no": "1532",
+    "no": "1530",
     "kode": "ECE214",
     "nama": "PENGEMBANGAN MEDIA PEMBELAJARAN ANAK USIA DINI",
     "kelas": "02",
@@ -29108,7 +29070,7 @@
     }
   },
   {
-    "no": "1533",
+    "no": "1531",
     "kode": "ECE214",
     "nama": "PENGEMBANGAN MEDIA PEMBELAJARAN ANAK USIA DINI",
     "kelas": "03",
@@ -29127,7 +29089,7 @@
     }
   },
   {
-    "no": "1534",
+    "no": "1532",
     "kode": "ECE214",
     "nama": "PENGEMBANGAN MEDIA PEMBELAJARAN ANAK USIA DINI",
     "kelas": "04",
@@ -29146,7 +29108,7 @@
     }
   },
   {
-    "no": "1535",
+    "no": "1533",
     "kode": "ECE214",
     "nama": "PENGEMBANGAN MEDIA PEMBELAJARAN ANAK USIA DINI",
     "kelas": "05",
@@ -29165,7 +29127,7 @@
     }
   },
   {
-    "no": "1536",
+    "no": "1534",
     "kode": "ECE214",
     "nama": "PENGEMBANGAN MEDIA PEMBELAJARAN ANAK USIA DINI",
     "kelas": "06",
@@ -29184,7 +29146,7 @@
     }
   },
   {
-    "no": "1537",
+    "no": "1535",
     "kode": "ECE304",
     "nama": "PENGEMBANGAN PROGRAM KERJA PAUD",
     "kelas": "01",
@@ -29203,7 +29165,7 @@
     }
   },
   {
-    "no": "1538",
+    "no": "1536",
     "kode": "ECE304",
     "nama": "PENGEMBANGAN PROGRAM KERJA PAUD",
     "kelas": "02",
@@ -29222,7 +29184,7 @@
     }
   },
   {
-    "no": "1539",
+    "no": "1537",
     "kode": "ECE304",
     "nama": "PENGEMBANGAN PROGRAM KERJA PAUD",
     "kelas": "03",
@@ -29241,7 +29203,7 @@
     }
   },
   {
-    "no": "1540",
+    "no": "1538",
     "kode": "ECE304",
     "nama": "PENGEMBANGAN PROGRAM KERJA PAUD",
     "kelas": "04",
@@ -29260,7 +29222,7 @@
     }
   },
   {
-    "no": "1541",
+    "no": "1539",
     "kode": "ECE306",
     "nama": "PENELITIAN TINDAKAN KELAS",
     "kelas": "01",
@@ -29279,7 +29241,7 @@
     }
   },
   {
-    "no": "1542",
+    "no": "1540",
     "kode": "ECE306",
     "nama": "PENELITIAN TINDAKAN KELAS",
     "kelas": "02",
@@ -29298,7 +29260,7 @@
     }
   },
   {
-    "no": "1543",
+    "no": "1541",
     "kode": "ECE306",
     "nama": "PENELITIAN TINDAKAN KELAS",
     "kelas": "03",
@@ -29317,7 +29279,7 @@
     }
   },
   {
-    "no": "1544",
+    "no": "1542",
     "kode": "ECE306",
     "nama": "PENELITIAN TINDAKAN KELAS",
     "kelas": "04",
@@ -29336,7 +29298,7 @@
     }
   },
   {
-    "no": "1545",
+    "no": "1543",
     "kode": "ECE308",
     "nama": "TATA RIAS DAN BUSANA ANAK",
     "kelas": "01",
@@ -29355,7 +29317,7 @@
     }
   },
   {
-    "no": "1546",
+    "no": "1544",
     "kode": "ECE308",
     "nama": "TATA RIAS DAN BUSANA ANAK",
     "kelas": "02",
@@ -29363,7 +29325,7 @@
     "ruang": "1.04",
     "hari": "Rabu",
     "waktu": "10:40-13:10",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE308",
@@ -29374,7 +29336,7 @@
     }
   },
   {
-    "no": "1547",
+    "no": "1545",
     "kode": "ECE308",
     "nama": "TATA RIAS DAN BUSANA ANAK",
     "kelas": "03",
@@ -29382,7 +29344,7 @@
     "ruang": "1.04",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE308",
@@ -29393,7 +29355,7 @@
     }
   },
   {
-    "no": "1548",
+    "no": "1546",
     "kode": "ECE308",
     "nama": "TATA RIAS DAN BUSANA ANAK",
     "kelas": "04",
@@ -29412,7 +29374,7 @@
     }
   },
   {
-    "no": "1549",
+    "no": "1547",
     "kode": "ECE308",
     "nama": "TATA RIAS DAN BUSANA ANAK",
     "kelas": "05",
@@ -29431,7 +29393,7 @@
     }
   },
   {
-    "no": "1550",
+    "no": "1548",
     "kode": "ECE405",
     "nama": "PENDIDIKAN DALAM KELUARGA DAN MASYARAKAT",
     "kelas": "01",
@@ -29450,7 +29412,7 @@
     }
   },
   {
-    "no": "1551",
+    "no": "1549",
     "kode": "ECE405",
     "nama": "PENDIDIKAN DALAM KELUARGA DAN MASYARAKAT",
     "kelas": "02",
@@ -29469,7 +29431,7 @@
     }
   },
   {
-    "no": "1552",
+    "no": "1550",
     "kode": "ECE502",
     "nama": "PENGASUHAN AUD",
     "kelas": "01",
@@ -29488,7 +29450,7 @@
     }
   },
   {
-    "no": "1553",
+    "no": "1551",
     "kode": "ECE504",
     "nama": "PERTOLONGAN PERTAMA PADA KECELAKAAN (P3K)",
     "kelas": "01",
@@ -29507,7 +29469,7 @@
     }
   },
   {
-    "no": "1554",
+    "no": "1552",
     "kode": "ECE506",
     "nama": "KEWIRAUSAHAAN",
     "kelas": "01",
@@ -29526,7 +29488,7 @@
     }
   },
   {
-    "no": "1555",
+    "no": "1553",
     "kode": "ECE508",
     "nama": "KETERLIBATAN ORANGTUA DI PAUD",
     "kelas": "01",
@@ -29534,7 +29496,7 @@
     "ruang": "LAB. PAUD",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE508",
@@ -29545,7 +29507,7 @@
     }
   },
   {
-    "no": "1556",
+    "no": "1554",
     "kode": "ECE510",
     "nama": "PEMBELAJARAN FIQIH UNTUK AUD",
     "kelas": "01",
@@ -29564,7 +29526,7 @@
     }
   },
   {
-    "no": "1557",
+    "no": "1555",
     "kode": "ECE512",
     "nama": "PEMBELAJARAN BAHASA DAERAH",
     "kelas": "01",
@@ -29583,7 +29545,7 @@
     }
   },
   {
-    "no": "1558",
+    "no": "1556",
     "kode": "ECEP02",
     "nama": "SEMINAR PAUD",
     "kelas": "01",
@@ -29602,7 +29564,7 @@
     }
   },
   {
-    "no": "1559",
+    "no": "1557",
     "kode": "ECEP02",
     "nama": "SEMINAR PAUD",
     "kelas": "02",
@@ -29621,7 +29583,7 @@
     }
   },
   {
-    "no": "1560",
+    "no": "1558",
     "kode": "ECEP02",
     "nama": "SEMINAR PAUD",
     "kelas": "03",
@@ -29640,7 +29602,7 @@
     }
   },
   {
-    "no": "1561",
+    "no": "1559",
     "kode": "ECEP02",
     "nama": "SEMINAR PAUD",
     "kelas": "04",
@@ -29659,7 +29621,7 @@
     }
   },
   {
-    "no": "1562",
+    "no": "1560",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "01",
@@ -29678,7 +29640,7 @@
     }
   },
   {
-    "no": "1563",
+    "no": "1561",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "02",
@@ -29697,7 +29659,7 @@
     }
   },
   {
-    "no": "1564",
+    "no": "1562",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "03",
@@ -29716,7 +29678,7 @@
     }
   },
   {
-    "no": "1565",
+    "no": "1563",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "01",
@@ -29735,7 +29697,7 @@
     }
   },
   {
-    "no": "1566",
+    "no": "1564",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "02",
@@ -29754,7 +29716,7 @@
     }
   },
   {
-    "no": "1567",
+    "no": "1565",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "03",
@@ -29773,7 +29735,7 @@
     }
   },
   {
-    "no": "1568",
+    "no": "1566",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "01",
@@ -29792,7 +29754,7 @@
     }
   },
   {
-    "no": "1569",
+    "no": "1567",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "02",
@@ -29811,7 +29773,7 @@
     }
   },
   {
-    "no": "1570",
+    "no": "1568",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "03",
@@ -29830,7 +29792,7 @@
     }
   },
   {
-    "no": "1571",
+    "no": "1569",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "01",
@@ -29849,7 +29811,7 @@
     }
   },
   {
-    "no": "1572",
+    "no": "1570",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "01",
@@ -29868,7 +29830,7 @@
     }
   },
   {
-    "no": "1573",
+    "no": "1571",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "01",
@@ -29887,7 +29849,7 @@
     }
   },
   {
-    "no": "1574",
+    "no": "1572",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "01",
@@ -29906,7 +29868,7 @@
     }
   },
   {
-    "no": "1575",
+    "no": "1573",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "01",
@@ -29925,7 +29887,7 @@
     }
   },
   {
-    "no": "1576",
+    "no": "1574",
     "kode": "BEE502",
     "nama": "BIOLOGI PERKEMBANGAN TUMBUHAN",
     "kelas": "03",
@@ -29944,7 +29906,7 @@
     }
   },
   {
-    "no": "1577",
+    "no": "1575",
     "kode": "BEE510",
     "nama": "MIKOLOGI",
     "kelas": "02",
@@ -29963,7 +29925,7 @@
     }
   },
   {
-    "no": "1578",
+    "no": "1576",
     "kode": "BEE512",
     "nama": "EVOLUSI",
     "kelas": "02",
@@ -29982,7 +29944,7 @@
     }
   },
   {
-    "no": "1579",
+    "no": "1577",
     "kode": "BEEP03",
     "nama": "KAPITA SELEKTA PENDIDIKAN BIOLOGI",
     "kelas": "02",
@@ -30001,7 +29963,7 @@
     }
   },
   {
-    "no": "1580",
+    "no": "1578",
     "kode": "BEEP04",
     "nama": "BERPIKIR KREATIF",
     "kelas": "02",
@@ -30020,7 +29982,7 @@
     }
   },
   {
-    "no": "1581",
+    "no": "1579",
     "kode": "BEEP05",
     "nama": "STEM BIOLOGI",
     "kelas": "03",
@@ -30039,7 +30001,7 @@
     }
   },
   {
-    "no": "1582",
+    "no": "1580",
     "kode": "BEG106",
     "nama": "BIOLOGI SEL",
     "kelas": "01",
@@ -30058,7 +30020,7 @@
     }
   },
   {
-    "no": "1583",
+    "no": "1581",
     "kode": "BEG112",
     "nama": "ZOOLOGI INVERTEBRATA",
     "kelas": "01",
@@ -30077,7 +30039,7 @@
     }
   },
   {
-    "no": "1584",
+    "no": "1582",
     "kode": "BEG114",
     "nama": "PRAKTIKUM ZOOLOGI INVERTEBRATA",
     "kelas": "01",
@@ -30096,7 +30058,7 @@
     }
   },
   {
-    "no": "1585",
+    "no": "1583",
     "kode": "BEG116",
     "nama": "BIOKIMIA",
     "kelas": "01",
@@ -30115,7 +30077,7 @@
     }
   },
   {
-    "no": "1586",
+    "no": "1584",
     "kode": "BEG118",
     "nama": "PRAKTIKUM BIOKIMIA",
     "kelas": "01",
@@ -30134,7 +30096,7 @@
     }
   },
   {
-    "no": "1587",
+    "no": "1585",
     "kode": "BEG120",
     "nama": "MORFOLOGI TUMBUHAN",
     "kelas": "01",
@@ -30153,7 +30115,7 @@
     }
   },
   {
-    "no": "1588",
+    "no": "1586",
     "kode": "BEG122",
     "nama": "PRAKTIKUM MORFOLOGI TUMBUHAN",
     "kelas": "01",
@@ -30172,7 +30134,7 @@
     }
   },
   {
-    "no": "1589",
+    "no": "1587",
     "kode": "BEG124",
     "nama": "TEKNOLOGI PEMBELAJARAN BIOLOGI",
     "kelas": "01",
@@ -30191,7 +30153,7 @@
     }
   },
   {
-    "no": "1590",
+    "no": "1588",
     "kode": "BEG212",
     "nama": "BOTANI TUMBUHAN TINGGI",
     "kelas": "02",
@@ -30210,7 +30172,7 @@
     }
   },
   {
-    "no": "1591",
+    "no": "1589",
     "kode": "BEG214",
     "nama": "PRAKTIKUM BOTANI TUMBUHAN TINGGI",
     "kelas": "02",
@@ -30229,7 +30191,7 @@
     }
   },
   {
-    "no": "1592",
+    "no": "1590",
     "kode": "BEG216",
     "nama": "STRUKTUR HEWAN",
     "kelas": "02",
@@ -30248,7 +30210,7 @@
     }
   },
   {
-    "no": "1593",
+    "no": "1591",
     "kode": "BEG218",
     "nama": "PRAKTIKUM STRUKTUR HEWAN",
     "kelas": "02",
@@ -30267,7 +30229,7 @@
     }
   },
   {
-    "no": "1594",
+    "no": "1592",
     "kode": "BEG220",
     "nama": "MIKROBIOLOGI",
     "kelas": "02",
@@ -30286,7 +30248,7 @@
     }
   },
   {
-    "no": "1595",
+    "no": "1593",
     "kode": "BEG222",
     "nama": "PRAKTIKUM MIKROBIOLOGI",
     "kelas": "02",
@@ -30305,7 +30267,7 @@
     }
   },
   {
-    "no": "1596",
+    "no": "1594",
     "kode": "BEG224",
     "nama": "GIZI DAN KESEHATAN",
     "kelas": "02",
@@ -30324,7 +30286,7 @@
     }
   },
   {
-    "no": "1597",
+    "no": "1595",
     "kode": "BEG226",
     "nama": "EVALUASI PEMBELAJARAN BIOLOGI",
     "kelas": "02",
@@ -30343,7 +30305,7 @@
     }
   },
   {
-    "no": "1598",
+    "no": "1596",
     "kode": "BEG228",
     "nama": "INOVASI DAN MEDIA PEMBELAJARAN",
     "kelas": "02",
@@ -30362,7 +30324,7 @@
     }
   },
   {
-    "no": "1599",
+    "no": "1597",
     "kode": "BEG310",
     "nama": "EKOLOGI HEWAN",
     "kelas": "03",
@@ -30381,7 +30343,7 @@
     }
   },
   {
-    "no": "1600",
+    "no": "1598",
     "kode": "BEG312",
     "nama": "PRAKTIKUM EKOLOGI HEWAN",
     "kelas": "03",
@@ -30400,7 +30362,7 @@
     }
   },
   {
-    "no": "1601",
+    "no": "1599",
     "kode": "BEG314",
     "nama": "EKOLOGI TUMBUHAN",
     "kelas": "03",
@@ -30419,7 +30381,7 @@
     }
   },
   {
-    "no": "1602",
+    "no": "1600",
     "kode": "BEG316",
     "nama": "PRAKTIKUM EKOLOGI TUMBUHAN",
     "kelas": "03",
@@ -30438,7 +30400,7 @@
     }
   },
   {
-    "no": "1603",
+    "no": "1601",
     "kode": "BEG318",
     "nama": "GENETIKA",
     "kelas": "03",
@@ -30457,7 +30419,7 @@
     }
   },
   {
-    "no": "1604",
+    "no": "1602",
     "kode": "BEG320",
     "nama": "PRAKTIKUM GENETIKA",
     "kelas": "03",
@@ -30476,7 +30438,7 @@
     }
   },
   {
-    "no": "1605",
+    "no": "1603",
     "kode": "BEG322",
     "nama": "PARASITOLOGI",
     "kelas": "03",
@@ -30495,7 +30457,7 @@
     }
   },
   {
-    "no": "1606",
+    "no": "1604",
     "kode": "BEG324",
     "nama": "SEMINAR PENDIDIKAN BIOLOGI",
     "kelas": "03",
@@ -30514,7 +30476,7 @@
     }
   },
   {
-    "no": "1607",
+    "no": "1605",
     "kode": "EDU101",
     "nama": "LANDASAN PENDIDIKAN",
     "kelas": "01",
@@ -30533,7 +30495,7 @@
     }
   },
   {
-    "no": "1608",
+    "no": "1606",
     "kode": "EDU201",
     "nama": "PSIKOLOGI PENDIDIKAN",
     "kelas": "02",
@@ -30552,7 +30514,7 @@
     }
   },
   {
-    "no": "1609",
+    "no": "1607",
     "kode": "EDU301",
     "nama": "PROFESI PENDIDIKAN",
     "kelas": "02",
@@ -30571,7 +30533,7 @@
     }
   },
   {
-    "no": "1610",
+    "no": "1608",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "03",
@@ -30590,7 +30552,7 @@
     }
   },
   {
-    "no": "1611",
+    "no": "1609",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "02",
@@ -30609,7 +30571,7 @@
     }
   },
   {
-    "no": "1612",
+    "no": "1610",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "03",
@@ -30628,7 +30590,7 @@
     }
   },
   {
-    "no": "1613",
+    "no": "1611",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "03",
@@ -30647,7 +30609,7 @@
     }
   },
   {
-    "no": "1614",
+    "no": "1612",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "03",
