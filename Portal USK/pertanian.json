@@ -293,7 +293,7 @@
     "ruang": "B.03.09",
     "hari": "Jumat",
     "waktu": "10:00-11:40",
-    "peserta": "5",
+    "peserta": "2",
     "keterangan": "PertanianS1Agroteknologi",
     "kode-peserta": {
       "data-kode": "AGE302",
@@ -331,7 +331,7 @@
     "ruang": "B.03.11",
     "hari": "Rabu",
     "waktu": "16:20-18:00",
-    "peserta": "7",
+    "peserta": "10",
     "keterangan": "PertanianS1Agroteknologi",
     "kode-peserta": {
       "data-kode": "AGE302",
@@ -464,7 +464,7 @@
     "ruang": "B.03.07",
     "hari": "Senin",
     "waktu": "10:00-11:40",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "PertanianS1Agroteknologi",
     "kode-peserta": {
       "data-kode": "AGE304",
@@ -768,7 +768,7 @@
     "ruang": "D. 01.03",
     "hari": "Jumat",
     "waktu": "16:20-18:00",
-    "peserta": "23",
+    "peserta": "25",
     "keterangan": "PertanianS1Agroteknologi",
     "kode-peserta": {
       "data-kode": "AGEP05",
@@ -825,7 +825,7 @@
     "ruang": "D. 03.05",
     "hari": "Kamis",
     "waktu": "10:00-11:40",
-    "peserta": "32",
+    "peserta": "30",
     "keterangan": "PertanianS1Agroteknologi",
     "kode-peserta": {
       "data-kode": "AGEP11",
@@ -1186,7 +1186,7 @@
     "ruang": "D. 03.01",
     "hari": "Senin",
     "waktu": "8:10-9:50",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "PertanianS1Agroteknologi",
     "kode-peserta": {
       "data-kode": "AGE306",
@@ -1224,7 +1224,7 @@
     "ruang": "D. 01.01",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "PertanianS1Agroteknologi",
     "kode-peserta": {
       "data-kode": "AGE306",
@@ -1243,7 +1243,7 @@
     "ruang": "B.03.13",
     "hari": "Rabu",
     "waktu": "16:20-18:00",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "PertanianS1Agroteknologi",
     "kode-peserta": {
       "data-kode": "AGE304",
@@ -1414,7 +1414,7 @@
     "ruang": "PRODI AGRIBISNIS",
     "hari": "Sabtu",
     "waktu": "8:00-18:00",
-    "peserta": "114",
+    "peserta": "116",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBPA1",
@@ -1452,7 +1452,7 @@
     "ruang": "B. 03.03",
     "hari": "Kamis",
     "waktu": "10:00-11:40",
-    "peserta": "36",
+    "peserta": "35",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP18",
@@ -1490,7 +1490,7 @@
     "ruang": "B.03.05",
     "hari": "Rabu",
     "waktu": "10:00-11:40",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "PEN302",
@@ -1509,7 +1509,7 @@
     "ruang": "B.03.09",
     "hari": "Senin",
     "waktu": "10:00-11:40",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "PEN302",
@@ -1547,7 +1547,7 @@
     "ruang": "B.03.14",
     "hari": "Jumat",
     "waktu": "10:00-11:40",
-    "peserta": "49",
+    "peserta": "46",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP26",
@@ -1585,7 +1585,7 @@
     "ruang": "B.03.08",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "36",
+    "peserta": "37",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP34",
@@ -1623,7 +1623,7 @@
     "ruang": "B.03.08",
     "hari": "Senin",
     "waktu": "8:00-9:50",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGB112",
@@ -1813,7 +1813,7 @@
     "ruang": "D.03.05",
     "hari": "Senin",
     "waktu": "10:00-11:40",
-    "peserta": "56",
+    "peserta": "57",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGB206",
@@ -1870,7 +1870,7 @@
     "ruang": "B.03.09",
     "hari": "Selasa",
     "waktu": "10:00-11:40",
-    "peserta": "39",
+    "peserta": "40",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGB112",
@@ -2193,7 +2193,7 @@
     "ruang": "B.03.09",
     "hari": "Kamis",
     "waktu": "16:20-18:00",
-    "peserta": "12",
+    "peserta": "11",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP32",
@@ -2212,7 +2212,7 @@
     "ruang": "D.03.03",
     "hari": "Selasa",
     "waktu": "16:20-18:00",
-    "peserta": "38",
+    "peserta": "43",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP10",
@@ -2231,7 +2231,7 @@
     "ruang": "B.03.10",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "31",
+    "peserta": "26",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP10",
@@ -2250,7 +2250,7 @@
     "ruang": "B.03.04",
     "hari": "Kamis",
     "waktu": "16:20-18:00",
-    "peserta": "45",
+    "peserta": "43",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP12",
@@ -2269,7 +2269,7 @@
     "ruang": "D.03.04",
     "hari": "Jumat",
     "waktu": "10:00-11:40",
-    "peserta": "22",
+    "peserta": "26",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP12",
@@ -2288,7 +2288,7 @@
     "ruang": "D.03.05",
     "hari": "Jumat",
     "waktu": "16:20-18:00",
-    "peserta": "40",
+    "peserta": "42",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP14",
@@ -2307,7 +2307,7 @@
     "ruang": "B.03.02",
     "hari": "Selasa",
     "waktu": "16:20-18:00",
-    "peserta": "36",
+    "peserta": "34",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP14",
@@ -2326,7 +2326,7 @@
     "ruang": "B.03.12",
     "hari": "Jumat",
     "waktu": "8:00-9:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP16",
@@ -2364,7 +2364,7 @@
     "ruang": "B.03.11",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "39",
+    "peserta": "37",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP22",
@@ -2383,7 +2383,7 @@
     "ruang": "B.03.11",
     "hari": "Jumat",
     "waktu": "16:20-18:00",
-    "peserta": "39",
+    "peserta": "38",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP24",
@@ -2402,7 +2402,7 @@
     "ruang": "B.03.12",
     "hari": "Kamis",
     "waktu": "14:00-15:30",
-    "peserta": "51",
+    "peserta": "52",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP28",
@@ -2459,7 +2459,7 @@
     "ruang": "B. 03.12",
     "hari": "Rabu",
     "waktu": "16:20-18:00",
-    "peserta": "39",
+    "peserta": "40",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP08",
@@ -2478,7 +2478,7 @@
     "ruang": "B. 03.14",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "35",
+    "peserta": "31",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP06",
@@ -2497,7 +2497,7 @@
     "ruang": "B.03.08",
     "hari": "Senin",
     "waktu": "16:20-18:00",
-    "peserta": "39",
+    "peserta": "40",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGB208",
@@ -2554,7 +2554,7 @@
     "ruang": "D.03.05",
     "hari": "Rabu",
     "waktu": "10:00-11:40",
-    "peserta": "58",
+    "peserta": "59",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGB210",
@@ -2573,7 +2573,7 @@
     "ruang": "D.03.01",
     "hari": "Kamis",
     "waktu": "16:20-18:00",
-    "peserta": "55",
+    "peserta": "57",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGB210",
@@ -2611,7 +2611,7 @@
     "ruang": "B.03.04",
     "hari": "Selasa",
     "waktu": "8:00-9:40",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGB212",
@@ -2649,7 +2649,7 @@
     "ruang": "D.03.01",
     "hari": "Senin",
     "waktu": "16:20-18:00",
-    "peserta": "40",
+    "peserta": "45",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP06",
@@ -2668,7 +2668,7 @@
     "ruang": "D.03.05",
     "hari": "Selasa",
     "waktu": "10:00-11:40",
-    "peserta": "45",
+    "peserta": "46",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGBP06",
@@ -2725,7 +2725,7 @@
     "ruang": "B. 03.09",
     "hari": "Kamis",
     "waktu": "8:00-9:40",
-    "peserta": "36",
+    "peserta": "35",
     "keterangan": "PertanianS1Agribisnis",
     "kode-peserta": {
       "data-kode": "AGB212",
@@ -2972,7 +2972,7 @@
     "ruang": "D. 01.03",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "11",
+    "peserta": "9",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK212",
@@ -3029,7 +3029,7 @@
     "ruang": "D.03.01",
     "hari": "Selasa",
     "waktu": "10:00-11:40",
-    "peserta": "45",
+    "peserta": "46",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK104",
@@ -3124,7 +3124,7 @@
     "ruang": "B.03.07",
     "hari": "Rabu",
     "waktu": "16:20-18:00",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK320",
@@ -3143,7 +3143,7 @@
     "ruang": "B.03.10",
     "hari": "Senin",
     "waktu": "16:20-18:00",
-    "peserta": "4",
+    "peserta": "2",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK320",
@@ -3181,7 +3181,7 @@
     "ruang": "B.03.06",
     "hari": "Kamis",
     "waktu": "10:00-11:40",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK318",
@@ -3295,7 +3295,7 @@
     "ruang": "D. 01.03",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "22",
+    "peserta": "24",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK212",
@@ -3352,7 +3352,7 @@
     "ruang": "B.03.07",
     "hari": "Kamis",
     "waktu": "16:20-18:00",
-    "peserta": "38",
+    "peserta": "40",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK316",
@@ -3466,7 +3466,7 @@
     "ruang": "B.03.11",
     "hari": "Jumat",
     "waktu": "10:00-11:40",
-    "peserta": "41",
+    "peserta": "40",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK310",
@@ -3504,7 +3504,7 @@
     "ruang": "D.03.06",
     "hari": "Senin",
     "waktu": "08:10-09:50",
-    "peserta": "16",
+    "peserta": "18",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK308",
@@ -3618,7 +3618,7 @@
     "ruang": "B.03.10",
     "hari": "Senin",
     "waktu": "8:10-9:50",
-    "peserta": "14",
+    "peserta": "15",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK214",
@@ -3637,7 +3637,7 @@
     "ruang": "B.03.11",
     "hari": "Selasa",
     "waktu": "8:00-9:40",
-    "peserta": "40",
+    "peserta": "39",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK214",
@@ -3770,7 +3770,7 @@
     "ruang": "B.03.06",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK220",
@@ -3827,7 +3827,7 @@
     "ruang": "Lab repro",
     "hari": "Kamis",
     "waktu": "10:00-11:40",
-    "peserta": "40",
+    "peserta": "41",
     "keterangan": "PertanianS1Peternakan",
     "kode-peserta": {
       "data-kode": "PTK222",
@@ -3922,7 +3922,7 @@
     "ruang": "B.03.13",
     "hari": "Rabu",
     "waktu": "8:00-9:40",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPI262",
@@ -3941,7 +3941,7 @@
     "ruang": "B.03.11",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "14",
+    "peserta": "12",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPI262",
@@ -4074,7 +4074,7 @@
     "ruang": "B.03.08",
     "hari": "Selasa",
     "waktu": "10:00-12:30",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPI202",
@@ -4131,7 +4131,7 @@
     "ruang": "D.03.01",
     "hari": "Selasa",
     "waktu": "16:20-18:00",
-    "peserta": "20",
+    "peserta": "21",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPI526",
@@ -4150,7 +4150,7 @@
     "ruang": "D.03.02",
     "hari": "Selasa",
     "waktu": "10:00-11:40",
-    "peserta": "11",
+    "peserta": "10",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPI524",
@@ -4169,7 +4169,7 @@
     "ruang": "B.03.02",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "21",
+    "peserta": "22",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPI520",
@@ -4340,7 +4340,7 @@
     "ruang": "B.03.06",
     "hari": "Rabu",
     "waktu": "10:00-12:30",
-    "peserta": "31",
+    "peserta": "36",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPI202",
@@ -4359,7 +4359,7 @@
     "ruang": "B.03.10",
     "hari": "Jumat",
     "waktu": "10:00-12:30",
-    "peserta": "23",
+    "peserta": "17",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPI202",
@@ -4397,7 +4397,7 @@
     "ruang": "Bapel KKN",
     "hari": "Sabtu",
     "waktu": "9:00-16:00",
-    "peserta": "16",
+    "peserta": "17",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "MKSP02",
@@ -4492,7 +4492,7 @@
     "ruang": "B.03.13",
     "hari": "Senin",
     "waktu": "16:20-18:00",
-    "peserta": "34",
+    "peserta": "37",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "PEN302",
@@ -4530,7 +4530,7 @@
     "ruang": "B.03.14",
     "hari": "Jumat",
     "waktu": "16:20-18:00",
-    "peserta": "25",
+    "peserta": "22",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "PEN302",
@@ -4872,7 +4872,7 @@
     "ruang": "Lab. THP",
     "hari": "Selasa",
     "waktu": "10:00-10:50",
-    "peserta": "31",
+    "peserta": "29",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPIP10",
@@ -4891,7 +4891,7 @@
     "ruang": "D.01.02",
     "hari": "Senin",
     "waktu": "8:10-9:50",
-    "peserta": "31",
+    "peserta": "35",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPIP15",
@@ -4910,7 +4910,7 @@
     "ruang": "B.03.13",
     "hari": "Jumat",
     "waktu": "14:00-14:50",
-    "peserta": "36",
+    "peserta": "33",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPIP11",
@@ -4929,7 +4929,7 @@
     "ruang": "D.03.03",
     "hari": "Jumat",
     "waktu": "16:20-18:00",
-    "peserta": "28",
+    "peserta": "27",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPIP11",
@@ -4948,7 +4948,7 @@
     "ruang": "Lab. THP",
     "hari": "Kamis",
     "waktu": "8:00-8:50",
-    "peserta": "35",
+    "peserta": "33",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPIP12",
@@ -4967,7 +4967,7 @@
     "ruang": "Lab. THP",
     "hari": "Senin",
     "waktu": "10:00-10:50",
-    "peserta": "34",
+    "peserta": "32",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPIP12",
@@ -5024,7 +5024,7 @@
     "ruang": "D.03.06",
     "hari": "Rabu",
     "waktu": "10:00-11:40",
-    "peserta": "32",
+    "peserta": "34",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPIP15",
@@ -5062,7 +5062,7 @@
     "ruang": "Prodi THP",
     "hari": "Sabtu",
     "waktu": "9:00-16:00",
-    "peserta": "75",
+    "peserta": "74",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPIP17",
@@ -5157,7 +5157,7 @@
     "ruang": "Lab. THP",
     "hari": "Rabu",
     "waktu": "10:00-11:50",
-    "peserta": "30",
+    "peserta": "28",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPIP10",
@@ -5214,7 +5214,7 @@
     "ruang": "D.01.03",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "25",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPIP09",
@@ -5271,7 +5271,7 @@
     "ruang": "B.03.12",
     "hari": "Jumat",
     "waktu": "10:00-11:40",
-    "peserta": "10",
+    "peserta": "9",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPI542",
@@ -5290,7 +5290,7 @@
     "ruang": "D.03.05",
     "hari": "Kamis",
     "waktu": "16:20-18:00",
-    "peserta": "10",
+    "peserta": "15",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPI540",
@@ -5309,7 +5309,7 @@
     "ruang": "D.01.01",
     "hari": "Kamis",
     "waktu": "8:00-9:40",
-    "peserta": "11",
+    "peserta": "14",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPI538",
@@ -5366,7 +5366,7 @@
     "ruang": "D.03.03",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "7",
+    "peserta": "3",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPI532",
@@ -5480,7 +5480,7 @@
     "ruang": "B.03.04",
     "hari": "Rabu",
     "waktu": "16:20-18:00",
-    "peserta": "44",
+    "peserta": "48",
     "keterangan": "PertanianS1Teknologi Hasil Pertanian",
     "kode-peserta": {
       "data-kode": "TPIP08",
@@ -5708,7 +5708,7 @@
     "ruang": "B.03.06",
     "hari": "Senin",
     "waktu": "16:20-18:00",
-    "peserta": "11",
+    "peserta": "12",
     "keterangan": "PertanianS1Teknik Pertanian",
     "kode-peserta": {
       "data-kode": "TPM214",
@@ -5746,7 +5746,7 @@
     "ruang": "Lab TP",
     "hari": "Rabu",
     "waktu": "8:00-8:50",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "PertanianS1Teknik Pertanian",
     "kode-peserta": {
       "data-kode": "TPM216",
@@ -5803,7 +5803,7 @@
     "ruang": "Lab. TP",
     "hari": "Selasa",
     "waktu": "16:20-17:10",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "PertanianS1Teknik Pertanian",
     "kode-peserta": {
       "data-kode": "TPM218",
@@ -5841,7 +5841,7 @@
     "ruang": "Lab. TP",
     "hari": "Rabu",
     "waktu": "14:00-14:50",
-    "peserta": "28",
+    "peserta": "29",
     "keterangan": "PertanianS1Teknik Pertanian",
     "kode-peserta": {
       "data-kode": "TPM220",
@@ -6012,7 +6012,7 @@
     "ruang": "B.03.08",
     "hari": "Jumat",
     "waktu": "8:00-9:40",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "PertanianS1Teknik Pertanian",
     "kode-peserta": {
       "data-kode": "TPM522",
@@ -6373,7 +6373,7 @@
     "ruang": "D.01.03",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "36",
+    "peserta": "35",
     "keterangan": "PertanianS1Teknik Pertanian",
     "kode-peserta": {
       "data-kode": "TPM212",
@@ -6848,7 +6848,7 @@
     "ruang": "B.03.01",
     "hari": "Senin",
     "waktu": "8:10-10:40",
-    "peserta": "9",
+    "peserta": "11",
     "keterangan": "PertanianS1Teknik Pertanian",
     "kode-peserta": {
       "data-kode": "TPM212",
@@ -6867,7 +6867,7 @@
     "ruang": "D.01.01",
     "hari": "Jumat",
     "waktu": "16:20-18:00",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "PertanianS1Teknik Pertanian",
     "kode-peserta": {
       "data-kode": "TPM206",
@@ -6962,7 +6962,7 @@
     "ruang": "D.01.02",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "33",
+    "peserta": "34",
     "keterangan": "PertanianS1Teknik Pertanian",
     "kode-peserta": {
       "data-kode": "TPM210",
@@ -7038,7 +7038,7 @@
     "ruang": "B.03.03",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "22",
+    "peserta": "23",
     "keterangan": "PertanianS1Teknik Pertanian",
     "kode-peserta": {
       "data-kode": "TPM204",
@@ -7076,7 +7076,7 @@
     "ruang": "B.03.01",
     "hari": "Kamis",
     "waktu": "8:00-10:30",
-    "peserta": "3",
+    "peserta": "4",
     "keterangan": "PertanianS1Teknik Pertanian",
     "kode-peserta": {
       "data-kode": "TPM208",
@@ -7418,7 +7418,7 @@
     "ruang": "B. 03.03",
     "hari": "Selasa",
     "waktu": "10:00-11:40",
-    "peserta": "22",
+    "peserta": "21",
     "keterangan": "PertanianS1Ilmu Tanah",
     "kode-peserta": {
       "data-kode": "SOL210",
@@ -7817,7 +7817,7 @@
     "ruang": "B. 03.10",
     "hari": "Selasa",
     "waktu": "10:00-11:40",
-    "peserta": "44",
+    "peserta": "46",
     "keterangan": "PertanianS1Ilmu Tanah",
     "kode-peserta": {
       "data-kode": "SOL516",
@@ -8121,7 +8121,7 @@
     "ruang": "D. 03.03",
     "hari": "Jumat",
     "waktu": "10:00-11:40",
-    "peserta": "28",
+    "peserta": "31",
     "keterangan": "PertanianS1Ilmu Tanah",
     "kode-peserta": {
       "data-kode": "SOL502",
@@ -8216,7 +8216,7 @@
     "ruang": "B.03.03",
     "hari": "Rabu",
     "waktu": "16:20-18:00",
-    "peserta": "17",
+    "peserta": "19",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN204",
@@ -8235,7 +8235,7 @@
     "ruang": "D.01.01",
     "hari": "Senin",
     "waktu": "16:20-18:00",
-    "peserta": "25",
+    "peserta": "23",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN204",
@@ -8558,7 +8558,7 @@
     "ruang": "B.03.03",
     "hari": "Jumat",
     "waktu": "8:00-9:40",
-    "peserta": "23",
+    "peserta": "22",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN108",
@@ -8615,7 +8615,7 @@
     "ruang": "Prodi Proteksi Tanam",
     "hari": "Sabtu",
     "waktu": "9:00-16:00",
-    "peserta": "54",
+    "peserta": "55",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTNPA1",
@@ -8634,7 +8634,7 @@
     "ruang": "D.03.04",
     "hari": "Jumat",
     "waktu": "8:00-9:40",
-    "peserta": "15",
+    "peserta": "14",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN534",
@@ -8653,7 +8653,7 @@
     "ruang": "D.03.04",
     "hari": "Jumat",
     "waktu": "16:20-18:00",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN536",
@@ -8691,7 +8691,7 @@
     "ruang": "B.03.02",
     "hari": "Kamis",
     "waktu": "10:00-11:40",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN540",
@@ -8710,7 +8710,7 @@
     "ruang": "D.01.01",
     "hari": "Selasa",
     "waktu": "16:20-18:00",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN542",
@@ -8748,7 +8748,7 @@
     "ruang": "B.03.12",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "25",
+    "peserta": "23",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN548",
@@ -8805,7 +8805,7 @@
     "ruang": "Prodi Proteksi Tanam",
     "hari": "Sabtu",
     "waktu": "9:00-16:00",
-    "peserta": "46",
+    "peserta": "47",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTNP04",
@@ -8824,7 +8824,7 @@
     "ruang": "B.03.12",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "20",
+    "peserta": "21",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN532",
@@ -8843,7 +8843,7 @@
     "ruang": "B.03.02",
     "hari": "Senin",
     "waktu": "16:20-18:00",
-    "peserta": "21",
+    "peserta": "20",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN530",
@@ -8862,7 +8862,7 @@
     "ruang": "B.03.02",
     "hari": "Selasa",
     "waktu": "10:00-11:40",
-    "peserta": "21",
+    "peserta": "19",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN514",
@@ -8957,7 +8957,7 @@
     "ruang": "B.03.03",
     "hari": "Rabu",
     "waktu": "8:00-9:40",
-    "peserta": "13",
+    "peserta": "12",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN522",
@@ -8976,7 +8976,7 @@
     "ruang": "B.03.11",
     "hari": "Rabu",
     "waktu": "10:00-11:40",
-    "peserta": "22",
+    "peserta": "23",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN524",
@@ -8995,7 +8995,7 @@
     "ruang": "B.03.13",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "PertanianS1Proteksi Tanaman",
     "kode-peserta": {
       "data-kode": "PTN526",
@@ -9280,7 +9280,7 @@
     "ruang": "Lab. Hut",
     "hari": "Senin",
     "waktu": "12:00-9:00",
-    "peserta": "34",
+    "peserta": "33",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR504",
@@ -9299,7 +9299,7 @@
     "ruang": "B.03.03",
     "hari": "Selasa",
     "waktu": "8:00-9:40",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR502",
@@ -9318,7 +9318,7 @@
     "ruang": "B. 03.02",
     "hari": "Jumat",
     "waktu": "14:00-15:50",
-    "peserta": "32",
+    "peserta": "31",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR502",
@@ -9907,7 +9907,7 @@
     "ruang": "D.03.04",
     "hari": "Rabu",
     "waktu": "10:00-11:40",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR542",
@@ -9926,7 +9926,7 @@
     "ruang": "Lab. Hut",
     "hari": "Senin",
     "waktu": "10:00-10:50",
-    "peserta": "18",
+    "peserta": "14",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR544",
@@ -9945,7 +9945,7 @@
     "ruang": "B. 03.09",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "13",
+    "peserta": "9",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR546",
@@ -9964,7 +9964,7 @@
     "ruang": "Lab. Hut",
     "hari": "Selasa",
     "waktu": "16:20-17:10",
-    "peserta": "11",
+    "peserta": "7",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR548",
@@ -10002,7 +10002,7 @@
     "ruang": "Lab. Hut",
     "hari": "Kamis",
     "waktu": "14:00-14:50",
-    "peserta": "15",
+    "peserta": "13",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR552",
@@ -10021,7 +10021,7 @@
     "ruang": "D. 03.05",
     "hari": "Jumat",
     "waktu": "10:00-11:40",
-    "peserta": "34",
+    "peserta": "32",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR554",
@@ -10078,7 +10078,7 @@
     "ruang": "Jurusan Kehutanan",
     "hari": "Sabtu",
     "waktu": "8:00-16:00",
-    "peserta": "63",
+    "peserta": "65",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FORP04",
@@ -10097,7 +10097,7 @@
     "ruang": "Jurusan Kehutanan",
     "hari": "Selasa",
     "waktu": "16:20-18:00",
-    "peserta": "28",
+    "peserta": "30",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FORP05",
@@ -10192,7 +10192,7 @@
     "ruang": "Jurusan Kehutanan",
     "hari": "Sabtu",
     "waktu": "8:00-16:50",
-    "peserta": "74",
+    "peserta": "75",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FORPA1",
@@ -10230,7 +10230,7 @@
     "ruang": "B. 03.08",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "8",
+    "peserta": "7",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR540",
@@ -10249,7 +10249,7 @@
     "ruang": "B.03.13",
     "hari": "Jumat",
     "waktu": "16:20-18:00",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR538",
@@ -10268,7 +10268,7 @@
     "ruang": "B. 03.05",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "12",
+    "peserta": "11",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR516",
@@ -10287,7 +10287,7 @@
     "ruang": "Lab. Hut",
     "hari": "Rabu",
     "waktu": "10:00-10:50",
-    "peserta": "17",
+    "peserta": "16",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR514",
@@ -10306,7 +10306,7 @@
     "ruang": "D. 03.01",
     "hari": "Kamis",
     "waktu": "10:00-11:40",
-    "peserta": "17",
+    "peserta": "16",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR512",
@@ -10325,7 +10325,7 @@
     "ruang": "Lab.Hut",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR510",
@@ -10344,7 +10344,7 @@
     "ruang": "D. 03.01",
     "hari": "Senin",
     "waktu": "10:00-11:40",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR508",
@@ -10363,7 +10363,7 @@
     "ruang": "D. 03.04",
     "hari": "Senin",
     "waktu": "8:10-9:50",
-    "peserta": "31",
+    "peserta": "29",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR506",
@@ -10401,7 +10401,7 @@
     "ruang": "Lab. Hut",
     "hari": "Kamis",
     "waktu": "8:00-8:50",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR504",
@@ -10420,7 +10420,7 @@
     "ruang": "Lab. Hut",
     "hari": "Rabu",
     "waktu": "16:20-17:10",
-    "peserta": "12",
+    "peserta": "11",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR518",
@@ -10439,7 +10439,7 @@
     "ruang": "D.03.01",
     "hari": "Jumat",
     "waktu": "8:00-9:40",
-    "peserta": "13",
+    "peserta": "12",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR520",
@@ -10458,7 +10458,7 @@
     "ruang": "D.03.04",
     "hari": "Rabu",
     "waktu": "16:20-18:00",
-    "peserta": "18",
+    "peserta": "17",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR534",
@@ -10572,7 +10572,7 @@
     "ruang": "Lab. Hut",
     "hari": "Kamis",
     "waktu": "10:00-10:50",
-    "peserta": "12",
+    "peserta": "11",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR522",
@@ -10591,7 +10591,7 @@
     "ruang": "B.03.08",
     "hari": "Rabu",
     "waktu": "8:00-8:50",
-    "peserta": "13",
+    "peserta": "11",
     "keterangan": "PertanianS1Kehutanan",
     "kode-peserta": {
       "data-kode": "FOR536",
@@ -11541,7 +11541,7 @@
     "ruang": "02",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "3",
+    "peserta": "1",
     "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
     "kode-peserta": {
       "data-kode": "FGL544",
@@ -11883,7 +11883,7 @@
     "ruang": "02",
     "hari": "Kamis",
     "waktu": "10:00-11:40",
-    "peserta": "5",
+    "peserta": "7",
     "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
     "kode-peserta": {
       "data-kode": "FGL502",
@@ -11902,7 +11902,7 @@
     "ruang": "03",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "8",
+    "peserta": "11",
     "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
     "kode-peserta": {
       "data-kode": "FGL504",
@@ -11921,7 +11921,7 @@
     "ruang": "03",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "6",
+    "peserta": "8",
     "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
     "kode-peserta": {
       "data-kode": "FGL506",
@@ -12149,7 +12149,7 @@
     "ruang": "03",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "3",
+    "peserta": "1",
     "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
     "kode-peserta": {
       "data-kode": "FGL532",
@@ -12168,7 +12168,7 @@
     "ruang": "03",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "2",
+    "peserta": "0",
     "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
     "kode-peserta": {
       "data-kode": "FGL534",

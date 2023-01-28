@@ -9,7 +9,88 @@
     "hari": "Jumat",
     "waktu": "8:00-10:30",
     "keterangan": "Kedokteran GigiS1Pendidikan Dokter Gigi",
-    "peserta": null
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "KGS216",
+        "kelas": "02",
+        "npm": "2113101010020",
+        "nama": "AL FURQAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "KGS216",
+        "kelas": "02",
+        "npm": "2113101010032",
+        "nama": "HILMA SYUKRYA ARIANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "KGS216",
+        "kelas": "02",
+        "npm": "2113101010035",
+        "nama": "ADELIA MUTIARA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "KGS216",
+        "kelas": "02",
+        "npm": "2113101010038",
+        "nama": "PUTRI NABILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "KGS216",
+        "kelas": "02",
+        "npm": "2113101010039",
+        "nama": "KHAIRUN NISA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "KGS216",
+        "kelas": "02",
+        "npm": "2113101010040",
+        "nama": "NUR FAKHIRAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "KGS216",
+        "kelas": "02",
+        "npm": "2113101010045",
+        "nama": "DIVA MAULANA. Z",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "KGS216",
+        "kelas": "02",
+        "npm": "2113101010046",
+        "nama": "INDAH MARISA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "KGS216",
+        "kelas": "02",
+        "npm": "2113101010048",
+        "nama": "CUT RENAYA AKIRA KESYA",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "KGS216",
+        "kelas": "02",
+        "npm": "2113101010073",
+        "nama": "DEWI AULIA PRATIWI",
+        "kelamin": "P"
+      }
+    ]
   },
   {
     "no": "2",

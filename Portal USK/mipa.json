@@ -1205,7 +1205,7 @@
     "ruang": "Jurusan Fisika",
     "hari": "Rabu",
     "waktu": "8:15-9:55",
-    "peserta": "29",
+    "peserta": "26",
     "keterangan": "MIPAS1Fisika",
     "kode-peserta": {
       "data-kode": "MPAP04",
@@ -1639,9 +1639,9 @@
     "nama": "SERVER DAN SISTEM JARINGAN KOMPUTER",
     "kelas": "A",
     "koordinator": "Dr. Rajibussalim, M.Sc, M.InfoTechNIP. 197208311998021001",
-    "ruang": "C.01.01",
+    "ruang": "Lab. Elin",
     "hari": "Kamis",
-    "waktu": "12:00-12:40",
+    "waktu": "10:00-10:50",
     "peserta": "5",
     "keterangan": "MIPAS1Fisika",
     "kode-peserta": {
@@ -1886,9 +1886,9 @@
     "nama": "FISIKA ZAT PADAT",
     "kelas": "A",
     "koordinator": "Dr. Ir. Ismail AB, M.ScNIP. 196301141989031003",
-    "ruang": "D.03.01",
+    "ruang": "B.01.01",
     "hari": "Rabu",
-    "waktu": "14:00-15:40",
+    "waktu": "08:15-09:55",
     "peserta": "33",
     "keterangan": "MIPAS1Fisika",
     "kode-peserta": {
@@ -3713,7 +3713,7 @@
     "ruang": "E.02.04",
     "hari": "Selasa",
     "waktu": "10:00-11:40",
-    "peserta": "38",
+    "peserta": "37",
     "keterangan": "MIPAS1Biologi",
     "kode-peserta": {
       "data-kode": "MBI228",
@@ -4568,7 +4568,7 @@
     "ruang": "E.02.03",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "MIPAS1Biologi",
     "kode-peserta": {
       "data-kode": "MBI110",

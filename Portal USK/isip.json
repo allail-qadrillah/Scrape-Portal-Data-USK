@@ -46,7 +46,7 @@
     "ruang": "Fisip 02.01",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSG118",
@@ -65,7 +65,7 @@
     "ruang": "Fisip 01.06",
     "hari": "Selasa",
     "waktu": "10:45-13:10",
-    "peserta": "43",
+    "peserta": "42",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSG118",
@@ -293,7 +293,7 @@
     "ruang": "RKU IV 14.02.012",
     "hari": "Kamis",
     "waktu": "10:45-13:10",
-    "peserta": "5",
+    "peserta": "4",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSG116",
@@ -312,7 +312,7 @@
     "ruang": "Fisip 02.01",
     "hari": "Selasa",
     "waktu": "10:45-13:10",
-    "peserta": "36",
+    "peserta": "35",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSG114",
@@ -445,7 +445,7 @@
     "ruang": "Fisip 03.01",
     "hari": "Jumat",
     "waktu": "10:45-13:15",
-    "peserta": "8",
+    "peserta": "9",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "MKSP02",
@@ -559,7 +559,7 @@
     "ruang": "FISIP 01.01",
     "hari": "Senin",
     "waktu": "8:00-10:30",
-    "peserta": "43",
+    "peserta": "42",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSG112",
@@ -597,7 +597,7 @@
     "ruang": "Fisip 01.01",
     "hari": "Kamis",
     "waktu": "10:45-13:10",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSG114",
@@ -649,16 +649,16 @@
     "no": "35",
     "kode": "SSGPA1",
     "nama": "SEMINAR PENYUSUNAN USULAN PROPOSAL (SPUP)",
-    "kelas": "01",
-    "koordinator": "Firdaus Mirza Nusuary, S.TP, M.A.NIP. 198610162019031009",
-    "ruang": "FISIP 01.01",
-    "hari": "Kamis",
-    "waktu": "14:00-16:30",
-    "peserta": "45",
+    "kelas": "02",
+    "koordinator": "Dr. Masrizal, S.Sos.I. MANIP. 198404152010121005",
+    "ruang": "FISIP 01.06",
+    "hari": "Senin",
+    "waktu": "10:45-13:10",
+    "peserta": "47",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGPA1",
-      "data-kelas": "01",
+      "data-kelas": "02",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010101"
@@ -692,7 +692,7 @@
     "ruang": "FisIp 03.01",
     "hari": "Rabu",
     "waktu": "8:00-10:30",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGP26",
@@ -730,7 +730,7 @@
     "ruang": "RKU IV 14.02.012",
     "hari": "Rabu",
     "waktu": "08:00-10:30",
-    "peserta": "32",
+    "peserta": "38",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGP29",
@@ -749,7 +749,7 @@
     "ruang": "Fisip 02.01",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "35",
+    "peserta": "36",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGP30",
@@ -787,7 +787,7 @@
     "ruang": "fisip 03.01",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "11",
+    "peserta": "5",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGP32",
@@ -806,7 +806,7 @@
     "ruang": "RKU IV 14.02.012",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "14",
+    "peserta": "15",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGP34",
@@ -825,7 +825,7 @@
     "ruang": "fisip 03.01",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "38",
+    "peserta": "40",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGP37",
@@ -863,7 +863,7 @@
     "ruang": "fisip 01.01",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "32",
+    "peserta": "31",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGPA2",
@@ -875,25 +875,6 @@
   },
   {
     "no": "47",
-    "kode": "SSGPA1",
-    "nama": "SEMINAR PENYUSUNAN USULAN PROPOSAL (SPUP)",
-    "kelas": "02",
-    "koordinator": "Dr. Masrizal, S.Sos.I. MANIP. 198404152010121005",
-    "ruang": "FISIP 01.06",
-    "hari": "Senin",
-    "waktu": "10:45-13:10",
-    "peserta": "47",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
-    "kode-peserta": {
-      "data-kode": "SSGPA1",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010101"
-    }
-  },
-  {
-    "no": "48",
     "kode": "SSGP38",
     "nama": "SOSIOLOGI MASYARAKAT GLOBAL",
     "kelas": "01",
@@ -901,7 +882,7 @@
     "ruang": "RKU IV 14.02.012",
     "hari": "Kamis",
     "waktu": "10:45-13:10",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGP38",
@@ -912,7 +893,7 @@
     }
   },
   {
-    "no": "49",
+    "no": "48",
     "kode": "SSGP39",
     "nama": "SOSIOLOGI PENDIDIKAN",
     "kelas": "01",
@@ -924,6 +905,25 @@
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGP39",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010101"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "SSGPA1",
+    "nama": "SEMINAR PENYUSUNAN USULAN PROPOSAL (SPUP)",
+    "kelas": "01",
+    "koordinator": "Firdaus Mirza Nusuary, S.TP, M.A.NIP. 198610162019031009",
+    "ruang": "FISIP 01.01",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "44",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
+    "kode-peserta": {
+      "data-kode": "SSGPA1",
       "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -958,7 +958,7 @@
     "ruang": "FISIP 01.01",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "44",
+    "peserta": "45",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGP23",
@@ -989,82 +989,6 @@
   },
   {
     "no": "53",
-    "kode": "SSG221",
-    "nama": "ANALISA DATA KUANTITATIF",
-    "kelas": "01",
-    "koordinator": "Nurul Fajri, S.Pd.,M.HanNIP. 199102262022032009",
-    "ruang": "RKU IV 14.02.012",
-    "hari": "Senin",
-    "waktu": "8:00-10:30",
-    "peserta": "6",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
-    "kode-peserta": {
-      "data-kode": "SSG221",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010101"
-    }
-  },
-  {
-    "no": "54",
-    "kode": "SSG222",
-    "nama": "SOSIOLOGI PERDAMAIAN",
-    "kelas": "01",
-    "koordinator": "Siti Ikramatoun, S.Sos., M.SiNIP. 199007012019032024",
-    "ruang": "FISIP 01.01",
-    "hari": "Selasa",
-    "waktu": "14:00-16:30",
-    "peserta": "38",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
-    "kode-peserta": {
-      "data-kode": "SSG222",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010101"
-    }
-  },
-  {
-    "no": "55",
-    "kode": "SSG222",
-    "nama": "SOSIOLOGI PERDAMAIAN",
-    "kelas": "02",
-    "koordinator": "Firdaus Mirza Nusuary, S.TP, M.A.NIP. 198610162019031009",
-    "ruang": "fisip 02.01",
-    "hari": "Kamis",
-    "waktu": "10:45-13:10",
-    "peserta": "18",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
-    "kode-peserta": {
-      "data-kode": "SSG222",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010101"
-    }
-  },
-  {
-    "no": "56",
-    "kode": "SSG222",
-    "nama": "SOSIOLOGI PERDAMAIAN",
-    "kelas": "03",
-    "koordinator": "Siti Ikramatoun, S.Sos., M.SiNIP. 199007012019032024",
-    "ruang": "FISIP 01.06",
-    "hari": "Senin",
-    "waktu": "8:00-10:30",
-    "peserta": "38",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
-    "kode-peserta": {
-      "data-kode": "SSG222",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010101"
-    }
-  },
-  {
-    "no": "57",
     "kode": "SSGP02",
     "nama": "SOSIOLOGI HUKUM",
     "kelas": "01",
@@ -1083,7 +1007,7 @@
     }
   },
   {
-    "no": "58",
+    "no": "54",
     "kode": "SSGP03",
     "nama": "FILSAFAT SOSIAL",
     "kelas": "01",
@@ -1102,7 +1026,64 @@
     }
   },
   {
-    "no": "59",
+    "no": "55",
+    "kode": "SSG222",
+    "nama": "SOSIOLOGI PERDAMAIAN",
+    "kelas": "03",
+    "koordinator": "Siti Ikramatoun, S.Sos., M.SiNIP. 199007012019032024",
+    "ruang": "FISIP 01.06",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "38",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
+    "kode-peserta": {
+      "data-kode": "SSG222",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010101"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "SSG222",
+    "nama": "SOSIOLOGI PERDAMAIAN",
+    "kelas": "02",
+    "koordinator": "Firdaus Mirza Nusuary, S.TP, M.A.NIP. 198610162019031009",
+    "ruang": "fisip 02.01",
+    "hari": "Kamis",
+    "waktu": "10:45-13:10",
+    "peserta": "15",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
+    "kode-peserta": {
+      "data-kode": "SSG222",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010101"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "SSG222",
+    "nama": "SOSIOLOGI PERDAMAIAN",
+    "kelas": "01",
+    "koordinator": "Siti Ikramatoun, S.Sos., M.SiNIP. 199007012019032024",
+    "ruang": "FISIP 01.01",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "41",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
+    "kode-peserta": {
+      "data-kode": "SSG222",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010101"
+    }
+  },
+  {
+    "no": "58",
     "kode": "SSGP04",
     "nama": "SOSIOLOGI ISLAM",
     "kelas": "01",
@@ -1121,6 +1102,25 @@
     }
   },
   {
+    "no": "59",
+    "kode": "SSG221",
+    "nama": "ANALISA DATA KUANTITATIF",
+    "kelas": "01",
+    "koordinator": "Nurul Fajri, S.Pd.,M.HanNIP. 199102262022032009",
+    "ruang": "RKU IV 14.02.012",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "6",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
+    "kode-peserta": {
+      "data-kode": "SSG221",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010101"
+    }
+  },
+  {
     "no": "60",
     "kode": "SSGP07",
     "nama": "SOSIOLOGI POLITIK",
@@ -1129,7 +1129,7 @@
     "ruang": "RKU IV 14.02.012",
     "hari": "Selasa",
     "waktu": "10:45-13:10",
-    "peserta": "44",
+    "peserta": "45",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGP07",
@@ -1141,25 +1141,6 @@
   },
   {
     "no": "61",
-    "kode": "SSGP15",
-    "nama": "KEBIJAKAN DAN PERENCANAAN SOSIAL",
-    "kelas": "01",
-    "koordinator": "Yuva Ayuning Anjar, S.Sos., M.A.NIP. 199301082019032020",
-    "ruang": "Fisip 03.01",
-    "hari": "Senin",
-    "waktu": "10:45-13:10",
-    "peserta": "26",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
-    "kode-peserta": {
-      "data-kode": "SSGP15",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010101"
-    }
-  },
-  {
-    "no": "62",
     "kode": "SSGP14",
     "nama": "ORGANISASI DAN INSTITUSI SOSIAL",
     "kelas": "01",
@@ -1178,18 +1159,37 @@
     }
   },
   {
-    "no": "63",
-    "kode": "SSGP21",
-    "nama": "GENDER DAN MASYARAKAT",
+    "no": "62",
+    "kode": "SSGP15",
+    "nama": "KEBIJAKAN DAN PERENCANAAN SOSIAL",
     "kelas": "01",
-    "koordinator": "Dr. Masrizal, S.Sos.I. MANIP. 198404152010121005",
-    "ruang": "Rku IV 14.02.012",
-    "hari": "Kamis",
-    "waktu": "14:00-16:30",
-    "peserta": "16",
+    "koordinator": "Yuva Ayuning Anjar, S.Sos., M.A.NIP. 199301082019032020",
+    "ruang": "Fisip 03.01",
+    "hari": "Senin",
+    "waktu": "10:45-13:10",
+    "peserta": "25",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
-      "data-kode": "SSGP21",
+      "data-kode": "SSGP15",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010101"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "SSGP17",
+    "nama": "MASYARAKAT URBAN DAN ANALISA SPASIAL",
+    "kelas": "01",
+    "koordinator": "Khairulyadi, S.Ag., MHScNIP. 197705302010121001",
+    "ruang": "fisip 03.01",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "41",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
+    "kode-peserta": {
+      "data-kode": "SSGP17",
       "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -1198,17 +1198,17 @@
   },
   {
     "no": "64",
-    "kode": "SSGP20",
-    "nama": "MEDIA DAN MASYARAKAT",
+    "kode": "SSGP18",
+    "nama": "BISNIS DAN INDUSTRI KREATIF",
     "kelas": "01",
-    "koordinator": "Firdaus Mirza Nusuary, S.TP, M.A.NIP. 198610162019031009",
-    "ruang": "FisIp 02.01",
+    "koordinator": "Bukhari, SE., MHScNIP. 197505242009121001",
+    "ruang": "Fisip 02.01",
     "hari": "Rabu",
-    "waktu": "10:45-13:10",
-    "peserta": "40",
+    "waktu": "8:00-10:30",
+    "peserta": "8",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
-      "data-kode": "SSGP20",
+      "data-kode": "SSGP18",
       "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -1224,7 +1224,7 @@
     "ruang": "RKU IV 14.02.012",
     "hari": "Rabu",
     "waktu": "10:45-13:10",
-    "peserta": "39",
+    "peserta": "40",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
       "data-kode": "SSGP19",
@@ -1236,17 +1236,17 @@
   },
   {
     "no": "66",
-    "kode": "SSGP17",
-    "nama": "MASYARAKAT URBAN DAN ANALISA SPASIAL",
+    "kode": "SSGP20",
+    "nama": "MEDIA DAN MASYARAKAT",
     "kelas": "01",
-    "koordinator": "Khairulyadi, S.Ag., MHScNIP. 197705302010121001",
-    "ruang": "fisip 03.01",
-    "hari": "Kamis",
-    "waktu": "8:00-10:30",
-    "peserta": "37",
+    "koordinator": "Firdaus Mirza Nusuary, S.TP, M.A.NIP. 198610162019031009",
+    "ruang": "FisIp 02.01",
+    "hari": "Rabu",
+    "waktu": "10:45-13:10",
+    "peserta": "41",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
-      "data-kode": "SSGP17",
+      "data-kode": "SSGP20",
       "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -1255,17 +1255,17 @@
   },
   {
     "no": "67",
-    "kode": "SSGP18",
-    "nama": "BISNIS DAN INDUSTRI KREATIF",
+    "kode": "SSGP21",
+    "nama": "GENDER DAN MASYARAKAT",
     "kelas": "01",
-    "koordinator": "Bukhari, SE., MHScNIP. 197505242009121001",
-    "ruang": "Fisip 02.01",
-    "hari": "Rabu",
-    "waktu": "8:00-10:30",
-    "peserta": "9",
+    "koordinator": "Dr. Masrizal, S.Sos.I. MANIP. 198404152010121005",
+    "ruang": "Rku IV 14.02.012",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "15",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Sosiologi",
     "kode-peserta": {
-      "data-kode": "SSGP18",
+      "data-kode": "SSGP21",
       "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -1274,74 +1274,17 @@
   },
   {
     "no": "68",
-    "kode": "KOM226",
-    "nama": "FOTOGRAFI",
-    "kelas": "04",
-    "koordinator": "Andri Suriansyah, S.E.,M.SiNIP. 000000000000202301",
-    "ruang": "Fisip 03.02",
-    "hari": "Jumat",
-    "waktu": "14:00-16:30",
-    "peserta": "18",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
-    "kode-peserta": {
-      "data-kode": "KOM226",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010201"
-    }
-  },
-  {
-    "no": "69",
-    "kode": "KOM226",
-    "nama": "FOTOGRAFI",
-    "kelas": "03",
-    "koordinator": "Heri Juanda, S.I.KomNIP. 000000000000920003",
-    "ruang": "Fisip 03.02",
+    "kode": "KOM308",
+    "nama": "MEDIA BARU",
+    "kelas": "02",
+    "koordinator": "Uswatun Nisa, M.A.NIP. 199107202022032012",
+    "ruang": "Fisip 02.02",
     "hari": "Senin",
-    "waktu": "10:30-13:00",
-    "peserta": "50",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
-    "kode-peserta": {
-      "data-kode": "KOM226",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010201"
-    }
-  },
-  {
-    "no": "70",
-    "kode": "KOM314",
-    "nama": "PERIKLANAN",
-    "kelas": "01",
-    "koordinator": "Deni Yanuar, S.IP., M.IKom.NIP. 198801262015041002",
-    "ruang": "Fisip 03.02",
-    "hari": "Rabu",
     "waktu": "14:00-15:40",
     "peserta": "45",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
-      "data-kode": "KOM314",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010201"
-    }
-  },
-  {
-    "no": "71",
-    "kode": "KOM226",
-    "nama": "FOTOGRAFI",
-    "kelas": "02",
-    "koordinator": "Heri Juanda, S.I.KomNIP. 000000000000920003",
-    "ruang": "Fisip 03.02",
-    "hari": "Senin",
-    "waktu": "8:00-10:30",
-    "peserta": "54",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
-    "kode-peserta": {
-      "data-kode": "KOM226",
+      "data-kode": "KOM308",
       "data-kelas": "02",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -1349,7 +1292,7 @@
     }
   },
   {
-    "no": "72",
+    "no": "69",
     "kode": "KOM308",
     "nama": "MEDIA BARU",
     "kelas": "01",
@@ -1368,26 +1311,26 @@
     }
   },
   {
-    "no": "73",
-    "kode": "KOM308",
-    "nama": "MEDIA BARU",
-    "kelas": "02",
-    "koordinator": "Uswatun Nisa, M.A.NIP. 199107202022032012",
-    "ruang": "Fisip 02.02",
-    "hari": "Senin",
-    "waktu": "14:00-15:40",
-    "peserta": "45",
+    "no": "70",
+    "kode": "KOM226",
+    "nama": "FOTOGRAFI",
+    "kelas": "04",
+    "koordinator": "Andri Suriansyah, S.E.,M.SiNIP. 000000000000202301",
+    "ruang": "Fisip 03.02",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "19",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
-      "data-kode": "KOM308",
-      "data-kelas": "02",
+      "data-kode": "KOM226",
+      "data-kelas": "04",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010201"
     }
   },
   {
-    "no": "74",
+    "no": "71",
     "kode": "KOM308",
     "nama": "MEDIA BARU",
     "kelas": "03",
@@ -1406,7 +1349,7 @@
     }
   },
   {
-    "no": "75",
+    "no": "72",
     "kode": "KOM310",
     "nama": "KOMUNIKASI KESEHATAN",
     "kelas": "01",
@@ -1414,7 +1357,7 @@
     "ruang": "Fisip 02.02",
     "hari": "Rabu",
     "waktu": "8:00-10:30",
-    "peserta": "41",
+    "peserta": "40",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM310",
@@ -1425,7 +1368,7 @@
     }
   },
   {
-    "no": "76",
+    "no": "73",
     "kode": "KOM310",
     "nama": "KOMUNIKASI KESEHATAN",
     "kelas": "02",
@@ -1433,7 +1376,7 @@
     "ruang": "Fisip 02.02",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "43",
+    "peserta": "44",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM310",
@@ -1444,7 +1387,26 @@
     }
   },
   {
-    "no": "77",
+    "no": "74",
+    "kode": "KOM226",
+    "nama": "FOTOGRAFI",
+    "kelas": "03",
+    "koordinator": "Heri Juanda, S.I.KomNIP. 000000000000920003",
+    "ruang": "Fisip 03.02",
+    "hari": "Senin",
+    "waktu": "10:30-13:00",
+    "peserta": "51",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM226",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "75",
     "kode": "KOM310",
     "nama": "KOMUNIKASI KESEHATAN",
     "kelas": "03",
@@ -1463,7 +1425,7 @@
     }
   },
   {
-    "no": "78",
+    "no": "76",
     "kode": "KOM312",
     "nama": "KOMUNIKASI RESIKO, KRISIS DAN REPUTASI",
     "kelas": "01",
@@ -1471,7 +1433,7 @@
     "ruang": "RKU V 15.02.003",
     "hari": "Senin",
     "waktu": "10:30-13:00",
-    "peserta": "47",
+    "peserta": "46",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM312",
@@ -1482,7 +1444,7 @@
     }
   },
   {
-    "no": "79",
+    "no": "77",
     "kode": "KOM312",
     "nama": "KOMUNIKASI RESIKO, KRISIS DAN REPUTASI",
     "kelas": "02",
@@ -1490,7 +1452,7 @@
     "ruang": "Fisip 03.02",
     "hari": "Kamis",
     "waktu": "10:30-13:00",
-    "peserta": "49",
+    "peserta": "50",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM312",
@@ -1501,7 +1463,7 @@
     }
   },
   {
-    "no": "80",
+    "no": "78",
     "kode": "KOM312",
     "nama": "KOMUNIKASI RESIKO, KRISIS DAN REPUTASI",
     "kelas": "03",
@@ -1509,11 +1471,49 @@
     "ruang": "Fisip 03.02",
     "hari": "Jumat",
     "waktu": "8:00-10:30",
-    "peserta": "42",
+    "peserta": "43",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM312",
       "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "KOM314",
+    "nama": "PERIKLANAN",
+    "kelas": "01",
+    "koordinator": "Deni Yanuar, S.IP., M.IKom.NIP. 198801262015041002",
+    "ruang": "Fisip 03.02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM314",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "KOM226",
+    "nama": "FOTOGRAFI",
+    "kelas": "02",
+    "koordinator": "Heri Juanda, S.I.KomNIP. 000000000000920003",
+    "ruang": "Fisip 03.02",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "54",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM226",
+      "data-kelas": "02",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010201"
@@ -1561,31 +1561,12 @@
     "no": "83",
     "kode": "KOM216",
     "nama": "METODOLOGI PENELITIAN KUANTITATIF",
-    "kelas": "01",
-    "koordinator": "Sari Rahmani, S.Sos., M.SiNIP. 199203062019032024",
-    "ruang": "Fisip 02.03",
-    "hari": "Rabu",
-    "waktu": "14:00-16:30",
-    "peserta": "50",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
-    "kode-peserta": {
-      "data-kode": "KOM216",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010201"
-    }
-  },
-  {
-    "no": "84",
-    "kode": "KOM216",
-    "nama": "METODOLOGI PENELITIAN KUANTITATIF",
     "kelas": "02",
     "koordinator": "Sari Rahmani, S.Sos., M.SiNIP. 199203062019032024",
     "ruang": "Fisip 02.02",
     "hari": "Selasa",
     "waktu": "8:00-10:30",
-    "peserta": "46",
+    "peserta": "45",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM216",
@@ -1596,7 +1577,7 @@
     }
   },
   {
-    "no": "85",
+    "no": "84",
     "kode": "KOM216",
     "nama": "METODOLOGI PENELITIAN KUANTITATIF",
     "kelas": "03",
@@ -1604,7 +1585,7 @@
     "ruang": "Fisip 03.02",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "49",
+    "peserta": "50",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM216",
@@ -1615,7 +1596,7 @@
     }
   },
   {
-    "no": "86",
+    "no": "85",
     "kode": "KOM218",
     "nama": "JURNALISME DAMAI",
     "kelas": "01",
@@ -1634,7 +1615,7 @@
     }
   },
   {
-    "no": "87",
+    "no": "86",
     "kode": "KOM218",
     "nama": "JURNALISME DAMAI",
     "kelas": "02",
@@ -1653,7 +1634,7 @@
     }
   },
   {
-    "no": "88",
+    "no": "87",
     "kode": "KOM218",
     "nama": "JURNALISME DAMAI",
     "kelas": "03",
@@ -1672,7 +1653,7 @@
     }
   },
   {
-    "no": "89",
+    "no": "88",
     "kode": "KOM220",
     "nama": "PRAKTEK PRODUKSI SIARAN RADIO",
     "kelas": "01",
@@ -1691,7 +1672,7 @@
     }
   },
   {
-    "no": "90",
+    "no": "89",
     "kode": "KOM220",
     "nama": "PRAKTEK PRODUKSI SIARAN RADIO",
     "kelas": "02",
@@ -1710,7 +1691,7 @@
     }
   },
   {
-    "no": "91",
+    "no": "90",
     "kode": "KOM220",
     "nama": "PRAKTEK PRODUKSI SIARAN RADIO",
     "kelas": "03",
@@ -1729,7 +1710,7 @@
     }
   },
   {
-    "no": "92",
+    "no": "91",
     "kode": "KOM220",
     "nama": "PRAKTEK PRODUKSI SIARAN RADIO",
     "kelas": "04",
@@ -1748,7 +1729,7 @@
     }
   },
   {
-    "no": "93",
+    "no": "92",
     "kode": "KOM222",
     "nama": "PSIKOLOGI KOMUNIKASI",
     "kelas": "01",
@@ -1767,7 +1748,7 @@
     }
   },
   {
-    "no": "94",
+    "no": "93",
     "kode": "KOM222",
     "nama": "PSIKOLOGI KOMUNIKASI",
     "kelas": "02",
@@ -1786,7 +1767,7 @@
     }
   },
   {
-    "no": "95",
+    "no": "94",
     "kode": "KOM222",
     "nama": "PSIKOLOGI KOMUNIKASI",
     "kelas": "03",
@@ -1805,7 +1786,7 @@
     }
   },
   {
-    "no": "96",
+    "no": "95",
     "kode": "KOM224",
     "nama": "KOMUNIKASI LINTAS BUDAYA",
     "kelas": "01",
@@ -1813,7 +1794,7 @@
     "ruang": "Fisip 02.04",
     "hari": "Selasa",
     "waktu": "10:30-13:00",
-    "peserta": "45",
+    "peserta": "44",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM224",
@@ -1824,7 +1805,7 @@
     }
   },
   {
-    "no": "97",
+    "no": "96",
     "kode": "KOM224",
     "nama": "KOMUNIKASI LINTAS BUDAYA",
     "kelas": "02",
@@ -1832,7 +1813,7 @@
     "ruang": "Fisip 02.03",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "40",
+    "peserta": "41",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM224",
@@ -1843,19 +1824,38 @@
     }
   },
   {
-    "no": "98",
-    "kode": "KOM118",
-    "nama": "MEDIA PENYIARAN",
-    "kelas": "04",
-    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
-    "ruang": "Fisip 02.05",
-    "hari": "Selasa",
-    "waktu": "16:30-18:10",
-    "peserta": "40",
+    "no": "97",
+    "kode": "KOM216",
+    "nama": "METODOLOGI PENELITIAN KUANTITATIF",
+    "kelas": "01",
+    "koordinator": "Sari Rahmani, S.Sos., M.SiNIP. 199203062019032024",
+    "ruang": "Fisip 02.03",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "50",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
-      "data-kode": "KOM118",
-      "data-kelas": "04",
+      "data-kode": "KOM216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "98",
+    "kode": "KOM314",
+    "nama": "PERIKLANAN",
+    "kelas": "02",
+    "koordinator": "Deni Yanuar, S.IP., M.IKom.NIP. 198801262015041002",
+    "ruang": "Fisip 02.03",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "42",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM314",
+      "data-kelas": "02",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010201"
@@ -1865,16 +1865,16 @@
     "no": "99",
     "kode": "KOM314",
     "nama": "PERIKLANAN",
-    "kelas": "02",
+    "kelas": "03",
     "koordinator": "Deni Yanuar, S.IP., M.IKom.NIP. 198801262015041002",
-    "ruang": "Fisip 02.03",
-    "hari": "Kamis",
+    "ruang": "Fisip 03.02",
+    "hari": "Rabu",
     "waktu": "8:00-9:40",
-    "peserta": "43",
+    "peserta": "48",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM314",
-      "data-kelas": "02",
+      "data-kelas": "03",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010201"
@@ -1946,7 +1946,7 @@
     "ruang": "Fisip 02.02",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "21",
+    "peserta": "22",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOMP26",
@@ -1965,7 +1965,7 @@
     "ruang": "Fisip 02.03",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOMP27",
@@ -2060,7 +2060,7 @@
     "ruang": "RKU V 15.02.003",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "17",
+    "peserta": "16",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOMP32",
@@ -2079,7 +2079,7 @@
     "ruang": "Fisip 02.03",
     "hari": "Rabu",
     "waktu": "8:00-9:40",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOMP33",
@@ -2117,7 +2117,7 @@
     "ruang": "Fisip 02.03",
     "hari": "Rabu",
     "waktu": "16:30-18:10",
-    "peserta": "13",
+    "peserta": "14",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOMP35",
@@ -2155,7 +2155,7 @@
     "ruang": "Fisip 02.02",
     "hari": "Rabu",
     "waktu": "16:30-18:10",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOMP21",
@@ -2167,44 +2167,6 @@
   },
   {
     "no": "115",
-    "kode": "KOMP20",
-    "nama": "SKRIPSI",
-    "kelas": "01",
-    "koordinator": "Rahmat Saleh, S.Sos., M.ComnNIP. 198009142010121001",
-    "ruang": "Prodi Ilmu Komunikas",
-    "hari": "Sabtu",
-    "waktu": "8:00-12:00",
-    "peserta": "171",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
-    "kode-peserta": {
-      "data-kode": "KOMP20",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010201"
-    }
-  },
-  {
-    "no": "116",
-    "kode": "KOM314",
-    "nama": "PERIKLANAN",
-    "kelas": "03",
-    "koordinator": "Deni Yanuar, S.IP., M.IKom.NIP. 198801262015041002",
-    "ruang": "Fisip 03.02",
-    "hari": "Rabu",
-    "waktu": "8:00-9:40",
-    "peserta": "48",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
-    "kode-peserta": {
-      "data-kode": "KOM314",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010201"
-    }
-  },
-  {
-    "no": "117",
     "kode": "KOM316",
     "nama": "ISU KOMUNIKASI GLOBAL KONTEMPORER",
     "kelas": "01",
@@ -2212,7 +2174,7 @@
     "ruang": "Fisip 02.03",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "45",
+    "peserta": "46",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM316",
@@ -2223,7 +2185,7 @@
     }
   },
   {
-    "no": "118",
+    "no": "116",
     "kode": "KOM316",
     "nama": "ISU KOMUNIKASI GLOBAL KONTEMPORER",
     "kelas": "02",
@@ -2242,7 +2204,7 @@
     }
   },
   {
-    "no": "119",
+    "no": "117",
     "kode": "KOM316",
     "nama": "ISU KOMUNIKASI GLOBAL KONTEMPORER",
     "kelas": "03",
@@ -2261,7 +2223,7 @@
     }
   },
   {
-    "no": "120",
+    "no": "118",
     "kode": "KOM320",
     "nama": "KOMUNIKASI DAN RESOLUSI KONFLIK",
     "kelas": "01",
@@ -2280,7 +2242,7 @@
     }
   },
   {
-    "no": "121",
+    "no": "119",
     "kode": "KOM320",
     "nama": "KOMUNIKASI DAN RESOLUSI KONFLIK",
     "kelas": "02",
@@ -2288,7 +2250,7 @@
     "ruang": "Fisip 02.02",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "10",
+    "peserta": "12",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM320",
@@ -2299,7 +2261,7 @@
     }
   },
   {
-    "no": "122",
+    "no": "120",
     "kode": "KOM320",
     "nama": "KOMUNIKASI DAN RESOLUSI KONFLIK",
     "kelas": "03",
@@ -2318,7 +2280,7 @@
     }
   },
   {
-    "no": "123",
+    "no": "121",
     "kode": "KOMP18",
     "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
     "kelas": "01",
@@ -2326,7 +2288,7 @@
     "ruang": "RKU IV 14.02.010",
     "hari": "Rabu",
     "waktu": "10:30-13:00",
-    "peserta": "46",
+    "peserta": "44",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOMP18",
@@ -2337,7 +2299,7 @@
     }
   },
   {
-    "no": "124",
+    "no": "122",
     "kode": "KOMP18",
     "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
     "kelas": "02",
@@ -2345,7 +2307,7 @@
     "ruang": "Fisip 02.02",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "34",
+    "peserta": "33",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOMP18",
@@ -2356,7 +2318,7 @@
     }
   },
   {
-    "no": "125",
+    "no": "123",
     "kode": "KOMP18",
     "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
     "kelas": "03",
@@ -2364,7 +2326,7 @@
     "ruang": "RKU V 15.02.003",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "43",
+    "peserta": "41",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOMP18",
@@ -2375,7 +2337,7 @@
     }
   },
   {
-    "no": "126",
+    "no": "124",
     "kode": "KOMP19",
     "nama": "MAGANG",
     "kelas": "01",
@@ -2394,7 +2356,7 @@
     }
   },
   {
-    "no": "127",
+    "no": "125",
     "kode": "KOMP19",
     "nama": "MAGANG",
     "kelas": "02",
@@ -2413,7 +2375,7 @@
     }
   },
   {
-    "no": "128",
+    "no": "126",
     "kode": "KOMP19",
     "nama": "MAGANG",
     "kelas": "03",
@@ -2432,7 +2394,26 @@
     }
   },
   {
-    "no": "129",
+    "no": "127",
+    "kode": "KOMP20",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Rahmat Saleh, S.Sos., M.ComnNIP. 198009142010121001",
+    "ruang": "Prodi Ilmu Komunikas",
+    "hari": "Sabtu",
+    "waktu": "8:00-12:00",
+    "peserta": "173",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP20",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "128",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "01",
@@ -2440,7 +2421,7 @@
     "ruang": "Lab Prodi Ilmu Komun",
     "hari": "Sabtu",
     "waktu": "14:00-16:00",
-    "peserta": "16",
+    "peserta": "15",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "MKSP02",
@@ -2451,19 +2432,38 @@
     }
   },
   {
+    "no": "129",
+    "kode": "KOM118",
+    "nama": "MEDIA PENYIARAN",
+    "kelas": "04",
+    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
+    "ruang": "Fisip 02.05",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "40",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM118",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
     "no": "130",
     "kode": "ISP102",
     "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
-    "kelas": "04",
+    "kelas": "06",
     "koordinator": "Novi Susilawati, S.I.Kom., M.Ikom.NIP. 198911162019032018",
-    "ruang": "Fisip 02.04",
-    "hari": "Senin",
-    "waktu": "14:00-15:40",
-    "peserta": "46",
+    "ruang": "Fisip 03.02",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "45",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "ISP102",
-      "data-kelas": "04",
+      "data-kelas": "06",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010201"
@@ -2478,7 +2478,7 @@
     "ruang": "RKU V 15.02.003",
     "hari": "Kamis",
     "waktu": "10:45-13:00",
-    "peserta": "56",
+    "peserta": "55",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM110",
@@ -2497,7 +2497,7 @@
     "ruang": "Fisip 02.04",
     "hari": "Senin",
     "waktu": "9:45-11:20",
-    "peserta": "59",
+    "peserta": "58",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM110",
@@ -2625,6 +2625,44 @@
     "no": "139",
     "kode": "ISP202",
     "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
+    "kelas": "06",
+    "koordinator": "Aryos Nivada, S.P., M.ANIP. 198307072017011101",
+    "ruang": "Fisip 02.02",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "43",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "ISP202",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "140",
+    "kode": "ISP202",
+    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
+    "kelas": "05",
+    "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
+    "ruang": "Fisip 02.04",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "38",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "ISP202",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "141",
+    "kode": "ISP202",
+    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
     "kelas": "04",
     "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
     "ruang": "RKU IV 14.02.010",
@@ -2641,57 +2679,19 @@
     }
   },
   {
-    "no": "140",
-    "kode": "ISP202",
-    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
-    "kelas": "06",
-    "koordinator": "Aryos Nivada, S.P., M.ANIP. 198307072017011101",
-    "ruang": "Fisip 02.02",
-    "hari": "Senin",
-    "waktu": "08:00-10:30",
-    "peserta": "44",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
-    "kode-peserta": {
-      "data-kode": "ISP202",
-      "data-kelas": "06",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010201"
-    }
-  },
-  {
-    "no": "141",
-    "kode": "ISP202",
-    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
-    "kelas": "05",
-    "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
-    "ruang": "Fisip 02.04",
-    "hari": "Jumat",
-    "waktu": "8:00-10:30",
-    "peserta": "37",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
-    "kode-peserta": {
-      "data-kode": "ISP202",
-      "data-kelas": "05",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010201"
-    }
-  },
-  {
     "no": "142",
     "kode": "ISP102",
     "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
-    "kelas": "06",
+    "kelas": "04",
     "koordinator": "Novi Susilawati, S.I.Kom., M.Ikom.NIP. 198911162019032018",
-    "ruang": "Fisip 03.02",
-    "hari": "Selasa",
-    "waktu": "10:45-12:25",
-    "peserta": "45",
+    "ruang": "Fisip 02.04",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "46",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "ISP102",
-      "data-kelas": "06",
+      "data-kelas": "04",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010201"
@@ -2725,7 +2725,7 @@
     "ruang": "Fisip 02.02",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "17",
+    "peserta": "20",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM110",
@@ -2763,7 +2763,7 @@
     "ruang": "Fisip 02.04",
     "hari": "Rabu",
     "waktu": "8:00-10:30",
-    "peserta": "46",
+    "peserta": "48",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM112",
@@ -2777,12 +2777,31 @@
     "no": "147",
     "kode": "KOM116",
     "nama": "KEBIJAKAN KOMUNIKASI",
+    "kelas": "04",
+    "koordinator": "Dr. Rahmawati, M.SiNIP. 196209022000122003",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "44",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM116",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "148",
+    "kode": "KOM116",
+    "nama": "KEBIJAKAN KOMUNIKASI",
     "kelas": "05",
     "koordinator": "Maini Sartika, M.ANIP. 198005012017012101",
     "ruang": "Fisip 02.02",
     "hari": "Kamis",
     "waktu": "10:30-13:00",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM116",
@@ -2793,38 +2812,19 @@
     }
   },
   {
-    "no": "148",
-    "kode": "KOM116",
-    "nama": "KEBIJAKAN KOMUNIKASI",
-    "kelas": "03",
-    "koordinator": "Uswatun Nisa, M.A.NIP. 199107202022032012",
-    "ruang": "RKU V 15.02.003",
-    "hari": "Rabu",
-    "waktu": "8:00-10:30",
-    "peserta": "49",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
-    "kode-peserta": {
-      "data-kode": "KOM116",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010201"
-    }
-  },
-  {
     "no": "149",
     "kode": "KOM118",
     "nama": "MEDIA PENYIARAN",
-    "kelas": "03",
-    "koordinator": "Maini Sartika, M.ANIP. 198005012017012101",
-    "ruang": "Fisip 03.02",
-    "hari": "Senin",
-    "waktu": "16:30-18:10",
-    "peserta": "27",
+    "kelas": "01",
+    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
+    "ruang": "Fisip 02.04",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM118",
-      "data-kelas": "03",
+      "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010201"
@@ -2853,16 +2853,16 @@
     "no": "151",
     "kode": "KOM118",
     "nama": "MEDIA PENYIARAN",
-    "kelas": "01",
-    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
-    "ruang": "Fisip 02.04",
-    "hari": "Kamis",
-    "waktu": "14:00-15:40",
-    "peserta": "38",
+    "kelas": "03",
+    "koordinator": "Maini Sartika, M.ANIP. 198005012017012101",
+    "ruang": "Fisip 03.02",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "25",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM118",
-      "data-kelas": "01",
+      "data-kelas": "03",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010201"
@@ -2896,7 +2896,7 @@
     "ruang": "Fisip 02.03",
     "hari": "Selasa",
     "waktu": "10:30-13:00",
-    "peserta": "49",
+    "peserta": "48",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM116",
@@ -2934,7 +2934,7 @@
     "ruang": "Fisip 02.03",
     "hari": "Senin",
     "waktu": "8:00-10:30",
-    "peserta": "23",
+    "peserta": "20",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM112",
@@ -2946,17 +2946,17 @@
   },
   {
     "no": "156",
-    "kode": "KOM116",
-    "nama": "KEBIJAKAN KOMUNIKASI",
+    "kode": "KOM112",
+    "nama": "TEORI KOMUNIKASI",
     "kelas": "04",
-    "koordinator": "Dr. Rahmawati, M.SiNIP. 196209022000122003",
-    "ruang": "RKU V 15.02.003",
-    "hari": "Senin",
-    "waktu": "08:00-10:30",
-    "peserta": "46",
+    "koordinator": "Nisa Ul Hikmah, S.Sos.I., M.SosNIP. 199211192021022101",
+    "ruang": "Fisip 02.04",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "47",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
-      "data-kode": "KOM116",
+      "data-kode": "KOM112",
       "data-kelas": "04",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -2965,18 +2965,18 @@
   },
   {
     "no": "157",
-    "kode": "KOM112",
-    "nama": "TEORI KOMUNIKASI",
-    "kelas": "04",
-    "koordinator": "Nisa Ul Hikmah, S.Sos.I., M.SosNIP. 199211192021022101",
-    "ruang": "Fisip 02.04",
+    "kode": "KOM116",
+    "nama": "KEBIJAKAN KOMUNIKASI",
+    "kelas": "03",
+    "koordinator": "Uswatun Nisa, M.A.NIP. 199107202022032012",
+    "ruang": "RKU V 15.02.003",
     "hari": "Rabu",
-    "waktu": "14:00-16:30",
-    "peserta": "46",
+    "waktu": "8:00-10:30",
+    "peserta": "51",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
-      "data-kode": "KOM112",
-      "data-kelas": "04",
+      "data-kode": "KOM116",
+      "data-kelas": "03",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010201"
@@ -2991,7 +2991,7 @@
     "ruang": "Fisip 02.04",
     "hari": "Kamis",
     "waktu": "10:30-13:00",
-    "peserta": "49",
+    "peserta": "50",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM114",
@@ -3029,7 +3029,7 @@
     "ruang": "RKU V 15.02.003",
     "hari": "Kamis",
     "waktu": "8:00-10:30",
-    "peserta": "52",
+    "peserta": "51",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
     "kode-peserta": {
       "data-kode": "KOM114",
@@ -3043,16 +3043,16 @@
     "no": "161",
     "kode": "PLT222",
     "nama": "POLITIK LINGKUNGAN",
-    "kelas": "03",
+    "kelas": "02",
     "koordinator": "Faradilla Fadlia, S.Sos., M.Arts.NIP. 198410012014042001",
-    "ruang": "FISIP 01.03",
-    "hari": "Rabu",
+    "ruang": "FISIP 03.03",
+    "hari": "Senin",
     "waktu": "16:35-18:15",
-    "peserta": "37",
+    "peserta": "35",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT222",
-      "data-kelas": "03",
+      "data-kelas": "02",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
@@ -3081,16 +3081,16 @@
     "no": "163",
     "kode": "PLT222",
     "nama": "POLITIK LINGKUNGAN",
-    "kelas": "02",
+    "kelas": "03",
     "koordinator": "Faradilla Fadlia, S.Sos., M.Arts.NIP. 198410012014042001",
-    "ruang": "FISIP 03.03",
-    "hari": "Senin",
+    "ruang": "FISIP 01.03",
+    "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "35",
+    "peserta": "37",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT222",
-      "data-kelas": "02",
+      "data-kelas": "03",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
@@ -3231,6 +3231,25 @@
   },
   {
     "no": "171",
+    "kode": "PLT226",
+    "nama": "POLITIK IDENTITAS",
+    "kelas": "04",
+    "koordinator": "Maghfira Faraidiany, M.I.PNIP. 199402262022032017",
+    "ruang": "FISIP 03.03",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT226",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "172",
     "kode": "PLT222",
     "nama": "POLITIK LINGKUNGAN",
     "kelas": "01",
@@ -3249,7 +3268,7 @@
     }
   },
   {
-    "no": "172",
+    "no": "173",
     "kode": "PLT220",
     "nama": "GEO POLITIK",
     "kelas": "04",
@@ -3268,140 +3287,7 @@
     }
   },
   {
-    "no": "173",
-    "kode": "PLT220",
-    "nama": "GEO POLITIK",
-    "kelas": "02",
-    "koordinator": "Faradilla Fadlia, S.Sos., M.Arts.NIP. 198410012014042001",
-    "ruang": "FISIP 03.04",
-    "hari": "Rabu",
-    "waktu": "14:00-16:30",
-    "peserta": "40",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT220",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
     "no": "174",
-    "kode": "PLT120",
-    "nama": "KOMUNIKASI POLITIK",
-    "kelas": "01",
-    "koordinator": "Ardiansyah, S.IP.,MANIP. 199013012016041101",
-    "ruang": "FISIP 02.07",
-    "hari": "Senin",
-    "waktu": "16:35-18:15",
-    "peserta": "40",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT120",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "175",
-    "kode": "PLT120",
-    "nama": "KOMUNIKASI POLITIK",
-    "kelas": "02",
-    "koordinator": "Annisah Putri, M.I.PNIP. 199208232022032009",
-    "ruang": "FISIP 02.06",
-    "hari": "Selasa",
-    "waktu": "16:35-18:15",
-    "peserta": "45",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT120",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "176",
-    "kode": "PLT120",
-    "nama": "KOMUNIKASI POLITIK",
-    "kelas": "04",
-    "koordinator": "Ardiansyah, S.IP.,MANIP. 199013012016041101",
-    "ruang": "FISIP 03.03",
-    "hari": "Selasa",
-    "waktu": "10:45-12:25",
-    "peserta": "40",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT120",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "177",
-    "kode": "PLT216",
-    "nama": "METODOLOGI KUALITATIF DAN KUANTITATIF",
-    "kelas": "01",
-    "koordinator": "Annisah Putri, M.I.PNIP. 199208232022032009",
-    "ruang": "RKU III 13.02.010",
-    "hari": "Kamis",
-    "waktu": "8:00-10:30",
-    "peserta": "28",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT216",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "178",
-    "kode": "PLT216",
-    "nama": "METODOLOGI KUALITATIF DAN KUANTITATIF",
-    "kelas": "02",
-    "koordinator": "Annisah Putri, M.I.PNIP. 199208232022032009",
-    "ruang": "FISIP 03.04",
-    "hari": "Senin",
-    "waktu": "14:00-16:30",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT216",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "179",
-    "kode": "PLT216",
-    "nama": "METODOLOGI KUALITATIF DAN KUANTITATIF",
-    "kelas": "03",
-    "koordinator": "Annisah Putri, M.I.PNIP. 199208232022032009",
-    "ruang": "RKU III 13.02.010",
-    "hari": "Rabu",
-    "waktu": "10:45-13:00",
-    "peserta": "40",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT216",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "180",
     "kode": "PLT120",
     "nama": "KOMUNIKASI POLITIK",
     "kelas": "03",
@@ -3420,7 +3306,83 @@
     }
   },
   {
-    "no": "181",
+    "no": "175",
+    "kode": "PLT120",
+    "nama": "KOMUNIKASI POLITIK",
+    "kelas": "04",
+    "koordinator": "Ardiansyah, S.IP.,MANIP. 199013012016041101",
+    "ruang": "FISIP 03.03",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "40",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT120",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "176",
+    "kode": "PLT216",
+    "nama": "METODOLOGI KUALITATIF DAN KUANTITATIF",
+    "kelas": "01",
+    "koordinator": "Annisah Putri, M.I.PNIP. 199208232022032009",
+    "ruang": "RKU III 13.02.010",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "28",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "177",
+    "kode": "PLT216",
+    "nama": "METODOLOGI KUALITATIF DAN KUANTITATIF",
+    "kelas": "02",
+    "koordinator": "Annisah Putri, M.I.PNIP. 199208232022032009",
+    "ruang": "FISIP 03.04",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT216",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "178",
+    "kode": "PLT216",
+    "nama": "METODOLOGI KUALITATIF DAN KUANTITATIF",
+    "kelas": "03",
+    "koordinator": "Annisah Putri, M.I.PNIP. 199208232022032009",
+    "ruang": "RKU III 13.02.010",
+    "hari": "Rabu",
+    "waktu": "10:45-13:00",
+    "peserta": "40",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT216",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "179",
     "kode": "PLT216",
     "nama": "METODOLOGI KUALITATIF DAN KUANTITATIF",
     "kelas": "04",
@@ -3439,7 +3401,7 @@
     }
   },
   {
-    "no": "182",
+    "no": "180",
     "kode": "PLT218",
     "nama": "TEORI POLITIK INTERNASIONAL",
     "kelas": "01",
@@ -3458,7 +3420,7 @@
     }
   },
   {
-    "no": "183",
+    "no": "181",
     "kode": "PLT218",
     "nama": "TEORI POLITIK INTERNASIONAL",
     "kelas": "02",
@@ -3477,7 +3439,7 @@
     }
   },
   {
-    "no": "184",
+    "no": "182",
     "kode": "PLT218",
     "nama": "TEORI POLITIK INTERNASIONAL",
     "kelas": "03",
@@ -3496,7 +3458,26 @@
     }
   },
   {
-    "no": "185",
+    "no": "183",
+    "kode": "PLT218",
+    "nama": "TEORI POLITIK INTERNASIONAL",
+    "kelas": "04",
+    "koordinator": "Annisah Putri, M.I.PNIP. 199208232022032009",
+    "ruang": "FISIP 03.04",
+    "hari": "Kamis",
+    "waktu": "10:45-13:00",
+    "peserta": "40",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT218",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "184",
     "kode": "PLT220",
     "nama": "GEO POLITIK",
     "kelas": "01",
@@ -3515,19 +3496,38 @@
     }
   },
   {
-    "no": "186",
-    "kode": "PLT118",
-    "nama": "PENGANTAR METODOLOGI SOSIAL",
-    "kelas": "04",
-    "koordinator": "Muliawati, S.IP., M.IPNIP. 199205242017012101",
-    "ruang": "FISIP 03.03",
-    "hari": "Selasa",
-    "waktu": "8:00-10:30",
-    "peserta": "50",
+    "no": "185",
+    "kode": "PLT220",
+    "nama": "GEO POLITIK",
+    "kelas": "02",
+    "koordinator": "Faradilla Fadlia, S.Sos., M.Arts.NIP. 198410012014042001",
+    "ruang": "FISIP 03.04",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "40",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
-      "data-kode": "PLT118",
-      "data-kelas": "04",
+      "data-kode": "PLT220",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "186",
+    "kode": "PLT220",
+    "nama": "GEO POLITIK",
+    "kelas": "03",
+    "koordinator": "Faradilla Fadlia, S.Sos., M.Arts.NIP. 198410012014042001",
+    "ruang": "FISIP 03.03",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "25",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT220",
+      "data-kelas": "03",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
@@ -3535,18 +3535,18 @@
   },
   {
     "no": "187",
-    "kode": "PLT226",
-    "nama": "POLITIK IDENTITAS",
-    "kelas": "04",
-    "koordinator": "Maghfira Faraidiany, M.I.PNIP. 199402262022032017",
-    "ruang": "FISIP 03.03",
-    "hari": "Rabu",
-    "waktu": "8:00-10:30",
-    "peserta": "35",
+    "kode": "PLT120",
+    "nama": "KOMUNIKASI POLITIK",
+    "kelas": "02",
+    "koordinator": "Annisah Putri, M.I.PNIP. 199208232022032009",
+    "ruang": "FISIP 02.06",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "45",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
-      "data-kode": "PLT226",
-      "data-kelas": "04",
+      "data-kode": "PLT120",
+      "data-kelas": "02",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
@@ -3573,25 +3573,6 @@
   },
   {
     "no": "189",
-    "kode": "PLT528",
-    "nama": "REPRESENTASI POLITIK DAN LEMBAGA INTERMEDIARY",
-    "kelas": "01",
-    "koordinator": "Aryos Nivada, S.P., M.ANIP. 198307072017011101",
-    "ruang": "FISIP 02.06",
-    "hari": "Rabu",
-    "waktu": "16:35-18:15",
-    "peserta": "20",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT528",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "190",
     "kode": "PLT530",
     "nama": "KEPEMIMPINAN POLITIK",
     "kelas": "01",
@@ -3610,7 +3591,7 @@
     }
   },
   {
-    "no": "191",
+    "no": "190",
     "kode": "PLT530",
     "nama": "KEPEMIMPINAN POLITIK",
     "kelas": "02",
@@ -3618,7 +3599,7 @@
     "ruang": "FISIP 01.03",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "30",
+    "peserta": "32",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT530",
@@ -3629,7 +3610,7 @@
     }
   },
   {
-    "no": "192",
+    "no": "191",
     "kode": "PLT538",
     "nama": "STRATEGI DAN MARKETING POLITIK",
     "kelas": "01",
@@ -3637,7 +3618,7 @@
     "ruang": "FISIP 03.04",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "25",
+    "peserta": "35",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT538",
@@ -3648,7 +3629,7 @@
     }
   },
   {
-    "no": "193",
+    "no": "192",
     "kode": "PLTPA1",
     "nama": "MAGANG",
     "kelas": "01",
@@ -3656,7 +3637,7 @@
     "ruang": "Prodi Ilmu Politik",
     "hari": "Jumat",
     "waktu": "8:00-10:30",
-    "peserta": "24",
+    "peserta": "23",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLTPA1",
@@ -3667,7 +3648,7 @@
     }
   },
   {
-    "no": "194",
+    "no": "193",
     "kode": "PLTPA1",
     "nama": "MAGANG",
     "kelas": "02",
@@ -3675,7 +3656,7 @@
     "ruang": "Prodi Ilmu Politik",
     "hari": "Jumat",
     "waktu": "8:00-10:30",
-    "peserta": "7",
+    "peserta": "8",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLTPA1",
@@ -3686,7 +3667,7 @@
     }
   },
   {
-    "no": "195",
+    "no": "194",
     "kode": "PLTPA2",
     "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
     "kelas": "01",
@@ -3705,7 +3686,7 @@
     }
   },
   {
-    "no": "196",
+    "no": "195",
     "kode": "PLTPA2",
     "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
     "kelas": "02",
@@ -3724,7 +3705,7 @@
     }
   },
   {
-    "no": "197",
+    "no": "196",
     "kode": "PLTPA2",
     "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
     "kelas": "03",
@@ -3743,7 +3724,7 @@
     }
   },
   {
-    "no": "198",
+    "no": "197",
     "kode": "PLTPA2",
     "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
     "kelas": "04",
@@ -3762,7 +3743,7 @@
     }
   },
   {
-    "no": "199",
+    "no": "198",
     "kode": "PLTPA3",
     "nama": "SKRIPSI",
     "kelas": "01",
@@ -3781,7 +3762,45 @@
     }
   },
   {
+    "no": "199",
+    "kode": "PLT228",
+    "nama": "EKONOMI POLITIK",
+    "kelas": "04",
+    "koordinator": "Iqbal Ahmady, S.IP., M.IPNIP. 199104292019031015",
+    "ruang": "FISIP 02.07",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT228",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
     "no": "200",
+    "kode": "PLT528",
+    "nama": "REPRESENTASI POLITIK DAN LEMBAGA INTERMEDIARY",
+    "kelas": "01",
+    "koordinator": "Aryos Nivada, S.P., M.ANIP. 198307072017011101",
+    "ruang": "FISIP 02.06",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "19",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT528",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "201",
     "kode": "PLT520",
     "nama": "PERILAKU POLITIK DAN BUDAYA POLITIK LOKAL",
     "kelas": "01",
@@ -3789,7 +3808,7 @@
     "ruang": "RKU III 13.02.010",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "45",
+    "peserta": "43",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT520",
@@ -3800,7 +3819,7 @@
     }
   },
   {
-    "no": "201",
+    "no": "202",
     "kode": "PLT518",
     "nama": "STUDI KAWASAN KONFLIK",
     "kelas": "01",
@@ -3808,7 +3827,7 @@
     "ruang": "FISIP 02.07",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "35",
+    "peserta": "36",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT518",
@@ -3819,7 +3838,7 @@
     }
   },
   {
-    "no": "202",
+    "no": "203",
     "kode": "PLT228",
     "nama": "EKONOMI POLITIK",
     "kelas": "02",
@@ -3838,7 +3857,7 @@
     }
   },
   {
-    "no": "203",
+    "no": "204",
     "kode": "PLT228",
     "nama": "EKONOMI POLITIK",
     "kelas": "03",
@@ -3857,7 +3876,7 @@
     }
   },
   {
-    "no": "204",
+    "no": "205",
     "kode": "PLT502",
     "nama": "PEMIKIRAN POLITIK INDONESIA",
     "kelas": "01",
@@ -3876,7 +3895,7 @@
     }
   },
   {
-    "no": "205",
+    "no": "206",
     "kode": "PLT502",
     "nama": "PEMIKIRAN POLITIK INDONESIA",
     "kelas": "02",
@@ -3884,7 +3903,7 @@
     "ruang": "FISIP 03.03",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "40",
+    "peserta": "43",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT502",
@@ -3895,7 +3914,7 @@
     }
   },
   {
-    "no": "206",
+    "no": "207",
     "kode": "PLT504",
     "nama": "STRATEGI DAN NEGOSIASI POLITIK",
     "kelas": "01",
@@ -3903,7 +3922,7 @@
     "ruang": "FISIP 02.06",
     "hari": "Senin",
     "waktu": "16:35-18:15",
-    "peserta": "43",
+    "peserta": "45",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT504",
@@ -3914,7 +3933,7 @@
     }
   },
   {
-    "no": "207",
+    "no": "208",
     "kode": "PLT506",
     "nama": "SOSIAL HARMONI",
     "kelas": "01",
@@ -3922,7 +3941,7 @@
     "ruang": "FISIP 02.07",
     "hari": "Jumat",
     "waktu": "8:00-9:40",
-    "peserta": "36",
+    "peserta": "34",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT506",
@@ -3933,7 +3952,7 @@
     }
   },
   {
-    "no": "208",
+    "no": "209",
     "kode": "PLT506",
     "nama": "SOSIAL HARMONI",
     "kelas": "02",
@@ -3952,7 +3971,7 @@
     }
   },
   {
-    "no": "209",
+    "no": "210",
     "kode": "PLT508",
     "nama": "BIROKRASI DAN POLITIK",
     "kelas": "01",
@@ -3960,7 +3979,7 @@
     "ruang": "FISIP 01.03",
     "hari": "Senin",
     "waktu": "16:35-18:15",
-    "peserta": "37",
+    "peserta": "38",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT508",
@@ -3971,7 +3990,7 @@
     }
   },
   {
-    "no": "210",
+    "no": "211",
     "kode": "PLT508",
     "nama": "BIROKRASI DAN POLITIK",
     "kelas": "02",
@@ -3979,7 +3998,7 @@
     "ruang": "FISIP 02.07",
     "hari": "Selasa",
     "waktu": "10:45-12:25",
-    "peserta": "37",
+    "peserta": "38",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT508",
@@ -3990,7 +4009,7 @@
     }
   },
   {
-    "no": "211",
+    "no": "212",
     "kode": "PLT510",
     "nama": "TEKNIK DAN PRAKTIK RESOLUSI KONFLIK",
     "kelas": "01",
@@ -4009,7 +4028,7 @@
     }
   },
   {
-    "no": "212",
+    "no": "213",
     "kode": "PLT510",
     "nama": "TEKNIK DAN PRAKTIK RESOLUSI KONFLIK",
     "kelas": "02",
@@ -4017,7 +4036,7 @@
     "ruang": "FISIP 03.03",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "33",
+    "peserta": "34",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT510",
@@ -4028,159 +4047,7 @@
     }
   },
   {
-    "no": "213",
-    "kode": "PLT228",
-    "nama": "EKONOMI POLITIK",
-    "kelas": "04",
-    "koordinator": "Iqbal Ahmady, S.IP., M.IPNIP. 199104292019031015",
-    "ruang": "FISIP 02.07",
-    "hari": "Selasa",
-    "waktu": "14:00-15:40",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT228",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
     "no": "214",
-    "kode": "PLT118",
-    "nama": "PENGANTAR METODOLOGI SOSIAL",
-    "kelas": "03",
-    "koordinator": "Khalisni, S.IP., MPANIP. 199205302021021101",
-    "ruang": "FISIP 03.03",
-    "hari": "Selasa",
-    "waktu": "14:00-16:30",
-    "peserta": "46",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT118",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "215",
-    "kode": "ISP202",
-    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
-    "kelas": "07",
-    "koordinator": "Siti Hardiyanti, S.IP., M.IPNIP. 199412032022072101",
-    "ruang": "FISIP 03.03",
-    "hari": "Kamis",
-    "waktu": "8:00-10:30",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "ISP202",
-      "data-kelas": "07",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "216",
-    "kode": "PLT110",
-    "nama": "PEMIKIRAN POLITIK ISLAM",
-    "kelas": "04",
-    "koordinator": "Siti Hardiyanti, S.IP., M.IPNIP. 199412032022072101",
-    "ruang": "FISIP 01.03",
-    "hari": "Kamis",
-    "waktu": "14:00-16:30",
-    "peserta": "43",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT110",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "217",
-    "kode": "PLT110",
-    "nama": "PEMIKIRAN POLITIK ISLAM",
-    "kelas": "03",
-    "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
-    "ruang": "FISIP 01.03",
-    "hari": "Senin",
-    "waktu": "14:00-16:30",
-    "peserta": "44",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT110",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "218",
-    "kode": "PLT110",
-    "nama": "PEMIKIRAN POLITIK ISLAM",
-    "kelas": "02",
-    "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
-    "ruang": "FISIP 03.04",
-    "hari": "Selasa",
-    "waktu": "10:45-13:00",
-    "peserta": "44",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT110",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "219",
-    "kode": "PLT110",
-    "nama": "PEMIKIRAN POLITIK ISLAM",
-    "kelas": "01",
-    "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
-    "ruang": "FISIP 02.07",
-    "hari": "Kamis",
-    "waktu": "8:00-10:30",
-    "peserta": "45",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT110",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "220",
-    "kode": "MKSP02",
-    "nama": "KULIAH KERJA NYATA",
-    "kelas": "01",
-    "koordinator": "Novita Sari, S.I.P., M.I.PNIP. 199111012019032028",
-    "ruang": "Prodi Ilmu Politik",
-    "hari": "Senin",
-    "waktu": "8:00-10:45",
-    "peserta": "14",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "MKSP02",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "221",
     "kode": "ISP102",
     "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
     "kelas": "08",
@@ -4199,45 +4066,26 @@
     }
   },
   {
-    "no": "222",
-    "kode": "PLT218",
-    "nama": "TEORI POLITIK INTERNASIONAL",
-    "kelas": "04",
-    "koordinator": "Annisah Putri, M.I.PNIP. 199208232022032009",
-    "ruang": "FISIP 03.04",
-    "hari": "Kamis",
-    "waktu": "10:45-13:00",
+    "no": "215",
+    "kode": "PLT120",
+    "nama": "KOMUNIKASI POLITIK",
+    "kelas": "01",
+    "koordinator": "Ardiansyah, S.IP.,MANIP. 199013012016041101",
+    "ruang": "FISIP 02.07",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
     "peserta": "40",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
-      "data-kode": "PLT218",
-      "data-kelas": "04",
+      "data-kode": "PLT120",
+      "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
     }
   },
   {
-    "no": "223",
-    "kode": "PLT220",
-    "nama": "GEO POLITIK",
-    "kelas": "03",
-    "koordinator": "Faradilla Fadlia, S.Sos., M.Arts.NIP. 198410012014042001",
-    "ruang": "FISIP 03.03",
-    "hari": "Kamis",
-    "waktu": "14:00-16:30",
-    "peserta": "25",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT220",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "224",
+    "no": "216",
     "kode": "ISP202",
     "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
     "kelas": "06",
@@ -4250,6 +4098,158 @@
     "kode-peserta": {
       "data-kode": "ISP202",
       "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "217",
+    "kode": "PLT112",
+    "nama": "SISTEM PERWAKILAN POLITIK",
+    "kelas": "01",
+    "koordinator": "Novita Sari, S.I.P., M.I.PNIP. 199111012019032028",
+    "ruang": "FISIP 03.04",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "47",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "218",
+    "kode": "PLT110",
+    "nama": "PEMIKIRAN POLITIK ISLAM",
+    "kelas": "04",
+    "koordinator": "Siti Hardiyanti, S.IP., M.IPNIP. 199412032022072101",
+    "ruang": "FISIP 01.03",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "43",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT110",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "219",
+    "kode": "PLT110",
+    "nama": "PEMIKIRAN POLITIK ISLAM",
+    "kelas": "03",
+    "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
+    "ruang": "FISIP 01.03",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "44",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "220",
+    "kode": "PLT110",
+    "nama": "PEMIKIRAN POLITIK ISLAM",
+    "kelas": "02",
+    "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
+    "ruang": "FISIP 03.04",
+    "hari": "Selasa",
+    "waktu": "10:45-13:00",
+    "peserta": "45",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "221",
+    "kode": "PLT110",
+    "nama": "PEMIKIRAN POLITIK ISLAM",
+    "kelas": "01",
+    "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
+    "ruang": "FISIP 02.07",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "44",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "222",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Novita Sari, S.I.P., M.I.PNIP. 199111012019032028",
+    "ruang": "Prodi Ilmu Politik",
+    "hari": "Senin",
+    "waktu": "8:00-10:45",
+    "peserta": "14",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "223",
+    "kode": "ISP102",
+    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
+    "kelas": "10",
+    "koordinator": "Khalisni, S.IP., MPANIP. 199205302021021101",
+    "ruang": "FISIP 02.07",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "ISP102",
+      "data-kelas": "10",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "224",
+    "kode": "ISP202",
+    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
+    "kelas": "07",
+    "koordinator": "Siti Hardiyanti, S.IP., M.IPNIP. 199412032022072101",
+    "ruang": "FISIP 03.03",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "ISP202",
+      "data-kelas": "07",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
@@ -4295,25 +4295,6 @@
   },
   {
     "no": "227",
-    "kode": "ISP102",
-    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
-    "kelas": "10",
-    "koordinator": "Khalisni, S.IP., MPANIP. 199205302021021101",
-    "ruang": "FISIP 02.07",
-    "hari": "Rabu",
-    "waktu": "16:35-18:15",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "ISP102",
-      "data-kelas": "10",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "228",
     "kode": "ISP202",
     "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
     "kelas": "09",
@@ -4332,7 +4313,7 @@
     }
   },
   {
-    "no": "229",
+    "no": "228",
     "kode": "ISP202",
     "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
     "kelas": "08",
@@ -4351,19 +4332,38 @@
     }
   },
   {
-    "no": "230",
+    "no": "229",
     "kode": "PLT112",
     "nama": "SISTEM PERWAKILAN POLITIK",
-    "kelas": "01",
-    "koordinator": "Novita Sari, S.I.P., M.I.PNIP. 199111012019032028",
-    "ruang": "FISIP 03.04",
-    "hari": "Selasa",
-    "waktu": "8:00-10:30",
-    "peserta": "47",
+    "kelas": "02",
+    "koordinator": "Iqbal Ahmady, S.IP., M.IPNIP. 199104292019031015",
+    "ruang": "FISIP 02.07",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "50",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
       "data-kode": "PLT112",
-      "data-kelas": "01",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "230",
+    "kode": "PLT112",
+    "nama": "SISTEM PERWAKILAN POLITIK",
+    "kelas": "03",
+    "koordinator": "Novita Sari, S.I.P., M.I.PNIP. 199111012019032028",
+    "ruang": "FISIP 02.06",
+    "hari": "Kamis",
+    "waktu": "10:45-13:00",
+    "peserta": "48",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT112",
+      "data-kelas": "03",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
@@ -4371,18 +4371,18 @@
   },
   {
     "no": "231",
-    "kode": "PLT114",
-    "nama": "POLITIK LOKAL DAN PILKADA",
-    "kelas": "05",
-    "koordinator": "Annisah Putri, M.I.PNIP. 199208232022032009",
-    "ruang": "RKU III 13.02.010",
+    "kode": "PLT112",
+    "nama": "SISTEM PERWAKILAN POLITIK",
+    "kelas": "04",
+    "koordinator": "Novita Sari, S.I.P., M.I.PNIP. 199111012019032028",
+    "ruang": "FISIP 02.07",
     "hari": "Rabu",
-    "waktu": "14:00-16:30",
-    "peserta": "35",
+    "waktu": "10:45-13:00",
+    "peserta": "50",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
-      "data-kode": "PLT114",
-      "data-kelas": "05",
+      "data-kode": "PLT112",
+      "data-kelas": "04",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
@@ -4390,6 +4390,101 @@
   },
   {
     "no": "232",
+    "kode": "PLT116",
+    "nama": "SEJARAH DAN SISTEM POLITIK INDONESIA",
+    "kelas": "04",
+    "koordinator": "Aminah, S.IP., M.IP.NIP. 199211142019032015",
+    "ruang": "FISIP 03.04",
+    "hari": "Senin",
+    "waktu": "10:45-13:00",
+    "peserta": "34",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT116",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "233",
+    "kode": "PLT118",
+    "nama": "PENGANTAR METODOLOGI SOSIAL",
+    "kelas": "01",
+    "koordinator": "Muliawati, S.IP., M.IPNIP. 199205242017012101",
+    "ruang": "FISIP 02.07",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "45",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT118",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "234",
+    "kode": "PLT118",
+    "nama": "PENGANTAR METODOLOGI SOSIAL",
+    "kelas": "02",
+    "koordinator": "Muliawati, S.IP., M.IPNIP. 199205242017012101",
+    "ruang": "FISIP 02.06",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "45",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT118",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "235",
+    "kode": "PLT116",
+    "nama": "SEJARAH DAN SISTEM POLITIK INDONESIA",
+    "kelas": "02",
+    "koordinator": "Aminah, S.IP., M.IP.NIP. 199211142019032015",
+    "ruang": "FISIP 03.03",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "29",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT116",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "236",
+    "kode": "PLT118",
+    "nama": "PENGANTAR METODOLOGI SOSIAL",
+    "kelas": "03",
+    "koordinator": "Khalisni, S.IP., MPANIP. 199205302021021101",
+    "ruang": "FISIP 03.03",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "46",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
+    "kode-peserta": {
+      "data-kode": "PLT118",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010301"
+    }
+  },
+  {
+    "no": "237",
     "kode": "PLT116",
     "nama": "SEJARAH DAN SISTEM POLITIK INDONESIA",
     "kelas": "01",
@@ -4408,113 +4503,18 @@
     }
   },
   {
-    "no": "233",
-    "kode": "PLT114",
-    "nama": "POLITIK LOKAL DAN PILKADA",
-    "kelas": "04",
-    "koordinator": "Aryos Nivada, S.P., M.ANIP. 198307072017011101",
-    "ruang": "FISIP 02.07",
-    "hari": "Rabu",
-    "waktu": "8:00-10:30",
-    "peserta": "40",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT114",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "234",
-    "kode": "PLT116",
-    "nama": "SEJARAH DAN SISTEM POLITIK INDONESIA",
-    "kelas": "02",
-    "koordinator": "Aminah, S.IP., M.IP.NIP. 199211142019032015",
-    "ruang": "FISIP 03.03",
-    "hari": "Senin",
-    "waktu": "8:00-10:30",
-    "peserta": "28",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT116",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "235",
-    "kode": "PLT114",
-    "nama": "POLITIK LOKAL DAN PILKADA",
-    "kelas": "03",
-    "koordinator": "Aryos Nivada, S.P., M.ANIP. 198307072017011101",
-    "ruang": "FISIP 02.06",
-    "hari": "Selasa",
-    "waktu": "10:45-13:00",
-    "peserta": "37",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT114",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "236",
-    "kode": "PLT116",
-    "nama": "SEJARAH DAN SISTEM POLITIK INDONESIA",
-    "kelas": "03",
-    "koordinator": "Aminah, S.IP., M.IP.NIP. 199211142019032015",
-    "ruang": "RKU III 13.02.010",
-    "hari": "Kamis",
-    "waktu": "10:45-13:00",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT116",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
-    "no": "237",
-    "kode": "PLT114",
-    "nama": "POLITIK LOKAL DAN PILKADA",
-    "kelas": "02",
-    "koordinator": "Fahmi,, S.IP, M.IPOLNIP. 000000000000930009",
-    "ruang": "FISIP 02.07",
-    "hari": "Kamis",
-    "waktu": "10:45-13:00",
-    "peserta": "44",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
-    "kode-peserta": {
-      "data-kode": "PLT114",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010301"
-    }
-  },
-  {
     "no": "238",
-    "kode": "PLT116",
-    "nama": "SEJARAH DAN SISTEM POLITIK INDONESIA",
+    "kode": "PLT118",
+    "nama": "PENGANTAR METODOLOGI SOSIAL",
     "kelas": "04",
-    "koordinator": "Aminah, S.IP., M.IP.NIP. 199211142019032015",
-    "ruang": "FISIP 03.04",
-    "hari": "Senin",
-    "waktu": "10:45-13:00",
-    "peserta": "35",
+    "koordinator": "Muliawati, S.IP., M.IPNIP. 199205242017012101",
+    "ruang": "FISIP 03.03",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "50",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
-      "data-kode": "PLT116",
+      "data-kode": "PLT118",
       "data-kelas": "04",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -4542,18 +4542,18 @@
   },
   {
     "no": "240",
-    "kode": "PLT118",
-    "nama": "PENGANTAR METODOLOGI SOSIAL",
-    "kelas": "01",
-    "koordinator": "Muliawati, S.IP., M.IPNIP. 199205242017012101",
+    "kode": "PLT114",
+    "nama": "POLITIK LOKAL DAN PILKADA",
+    "kelas": "02",
+    "koordinator": "Fahmi,, S.IP, M.IPOLNIP. 000000000000930009",
     "ruang": "FISIP 02.07",
-    "hari": "Senin",
-    "waktu": "14:00-16:30",
-    "peserta": "45",
+    "hari": "Kamis",
+    "waktu": "10:45-13:00",
+    "peserta": "44",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
-      "data-kode": "PLT118",
-      "data-kelas": "01",
+      "data-kode": "PLT114",
+      "data-kelas": "02",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
@@ -4561,18 +4561,18 @@
   },
   {
     "no": "241",
-    "kode": "PLT112",
-    "nama": "SISTEM PERWAKILAN POLITIK",
-    "kelas": "04",
-    "koordinator": "Novita Sari, S.I.P., M.I.PNIP. 199111012019032028",
-    "ruang": "FISIP 02.07",
-    "hari": "Rabu",
+    "kode": "PLT116",
+    "nama": "SEJARAH DAN SISTEM POLITIK INDONESIA",
+    "kelas": "03",
+    "koordinator": "Aminah, S.IP., M.IP.NIP. 199211142019032015",
+    "ruang": "RKU III 13.02.010",
+    "hari": "Kamis",
     "waktu": "10:45-13:00",
-    "peserta": "50",
+    "peserta": "35",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
-      "data-kode": "PLT112",
-      "data-kelas": "04",
+      "data-kode": "PLT116",
+      "data-kelas": "03",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
@@ -4580,18 +4580,18 @@
   },
   {
     "no": "242",
-    "kode": "PLT118",
-    "nama": "PENGANTAR METODOLOGI SOSIAL",
-    "kelas": "02",
-    "koordinator": "Muliawati, S.IP., M.IPNIP. 199205242017012101",
+    "kode": "PLT114",
+    "nama": "POLITIK LOKAL DAN PILKADA",
+    "kelas": "03",
+    "koordinator": "Aryos Nivada, S.P., M.ANIP. 198307072017011101",
     "ruang": "FISIP 02.06",
-    "hari": "Senin",
-    "waktu": "8:00-10:30",
-    "peserta": "45",
+    "hari": "Selasa",
+    "waktu": "10:45-13:00",
+    "peserta": "37",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
-      "data-kode": "PLT118",
-      "data-kelas": "02",
+      "data-kode": "PLT114",
+      "data-kelas": "03",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
@@ -4599,18 +4599,18 @@
   },
   {
     "no": "243",
-    "kode": "PLT112",
-    "nama": "SISTEM PERWAKILAN POLITIK",
-    "kelas": "03",
-    "koordinator": "Novita Sari, S.I.P., M.I.PNIP. 199111012019032028",
-    "ruang": "FISIP 02.06",
-    "hari": "Kamis",
-    "waktu": "10:45-13:00",
-    "peserta": "48",
+    "kode": "PLT114",
+    "nama": "POLITIK LOKAL DAN PILKADA",
+    "kelas": "04",
+    "koordinator": "Aryos Nivada, S.P., M.ANIP. 198307072017011101",
+    "ruang": "FISIP 02.07",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "40",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
-      "data-kode": "PLT112",
-      "data-kelas": "03",
+      "data-kode": "PLT114",
+      "data-kelas": "04",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
@@ -4618,18 +4618,18 @@
   },
   {
     "no": "244",
-    "kode": "PLT112",
-    "nama": "SISTEM PERWAKILAN POLITIK",
-    "kelas": "02",
-    "koordinator": "Iqbal Ahmady, S.IP., M.IPNIP. 199104292019031015",
-    "ruang": "FISIP 02.07",
-    "hari": "Kamis",
+    "kode": "PLT114",
+    "nama": "POLITIK LOKAL DAN PILKADA",
+    "kelas": "05",
+    "koordinator": "Annisah Putri, M.I.PNIP. 199208232022032009",
+    "ruang": "RKU III 13.02.010",
+    "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "50",
+    "peserta": "35",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Politik",
     "kode-peserta": {
-      "data-kode": "PLT112",
-      "data-kelas": "02",
+      "data-kode": "PLT114",
+      "data-kelas": "05",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010301"
@@ -4637,500 +4637,6 @@
   },
   {
     "no": "245",
-    "kode": "IPH216",
-    "nama": "HUKUM TATA PEMERINTAHAN",
-    "kelas": "03",
-    "koordinator": "Dr. Mahdi Syahbandir, S.H., M.Hum.NIP. 196402011990021004",
-    "ruang": "Fisip 01.04",
-    "hari": "Rabu",
-    "waktu": "8:00-10:30",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH216",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "246",
-    "kode": "IPH216",
-    "nama": "HUKUM TATA PEMERINTAHAN",
-    "kelas": "02",
-    "koordinator": "Prof. Dr. Adwani, S.H., M.HumNIP. 195912311989031017",
-    "ruang": "Fisip 01.04",
-    "hari": "Kamis",
-    "waktu": "10:45-13:15",
-    "peserta": "32",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH216",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "247",
-    "kode": "IPH312",
-    "nama": "SISTEM PEMERINTAHAN ISLAM",
-    "kelas": "01",
-    "koordinator": "Reza Fahlevi, S.IP., MPANIP. 198908282021021101",
-    "ruang": "FISIP 01.05",
-    "hari": "Rabu",
-    "waktu": "14:00-16:30",
-    "peserta": "32",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH312",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "248",
-    "kode": "IPH104",
-    "nama": "SOSIOLOGI PEMERINTAHAN",
-    "kelas": "02",
-    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
-    "ruang": "FISIP 03.05",
-    "hari": "Senin",
-    "waktu": "10:45-13:15",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH104",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "249",
-    "kode": "IPH222",
-    "nama": "BIROKRASI PEMERINTAHAN",
-    "kelas": "01",
-    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
-    "ruang": "Fisip. 01.05",
-    "hari": "Kamis",
-    "waktu": "14:00-16:30",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH222",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "250",
-    "kode": "IPH302",
-    "nama": "TATA KELOLA PEMERINTAHAN",
-    "kelas": "01",
-    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
-    "ruang": "Fisip. 01.04",
-    "hari": "Rabu",
-    "waktu": "14:00-16:30",
-    "peserta": "0",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH302",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "251",
-    "kode": "IPH218",
-    "nama": "TATA KELOLA SUMBER DAYA MANUSIA PEMERINTAHAN",
-    "kelas": "01",
-    "koordinator": "Dr. Dahlawi, M.SiNIP. 196201011985031019",
-    "ruang": "Fisip. 01.05",
-    "hari": "Senin",
-    "waktu": "8:00-10:30",
-    "peserta": "34",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH218",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "252",
-    "kode": "IPH222",
-    "nama": "BIROKRASI PEMERINTAHAN",
-    "kelas": "04",
-    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
-    "ruang": "Fisip. 03.05",
-    "hari": "Selasa",
-    "waktu": "08:00-10:30",
-    "peserta": "36",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH222",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "253",
-    "kode": "IPH222",
-    "nama": "BIROKRASI PEMERINTAHAN",
-    "kelas": "03",
-    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
-    "ruang": "Fisip. 03.05",
-    "hari": "Kamis",
-    "waktu": "10:45-13:15",
-    "peserta": "25",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH222",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "254",
-    "kode": "IPH222",
-    "nama": "BIROKRASI PEMERINTAHAN",
-    "kelas": "02",
-    "koordinator": "Wais Alqarni, S.IP., M.A.NIP. 199204262019031019",
-    "ruang": "Fisip. 01.04",
-    "hari": "Selasa",
-    "waktu": "10:45-13:15",
-    "peserta": "36",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH222",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "255",
-    "kode": "IPH220",
-    "nama": "PEMERINTAHAN DESA",
-    "kelas": "04",
-    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
-    "ruang": "Fisip. 01.04",
-    "hari": "Senin",
-    "waktu": "10:45-13:15",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH220",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "256",
-    "kode": "IPH220",
-    "nama": "PEMERINTAHAN DESA",
-    "kelas": "03",
-    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
-    "ruang": "Fisip. 01.05",
-    "hari": "Selasa",
-    "waktu": "10:45-13:15",
-    "peserta": "19",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH220",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "257",
-    "kode": "IPH220",
-    "nama": "PEMERINTAHAN DESA",
-    "kelas": "02",
-    "koordinator": "Wais Alqarni, S.IP., M.A.NIP. 199204262019031019",
-    "ruang": "Fisip. 02.05",
-    "hari": "Kamis",
-    "waktu": "10:45-13:15",
-    "peserta": "36",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH220",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "258",
-    "kode": "IPH220",
-    "nama": "PEMERINTAHAN DESA",
-    "kelas": "01",
-    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
-    "ruang": "Fisip. 02.05",
-    "hari": "Selasa",
-    "waktu": "8:00-10:30",
-    "peserta": "30",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH220",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "259",
-    "kode": "IPH218",
-    "nama": "TATA KELOLA SUMBER DAYA MANUSIA PEMERINTAHAN",
-    "kelas": "04",
-    "koordinator": "Dr. Dahlawi, M.SiNIP. 196201011985031019",
-    "ruang": "RKU IV 14.02.011",
-    "hari": "Kamis",
-    "waktu": "14:00-16:30",
-    "peserta": "28",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH218",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "260",
-    "kode": "IPH218",
-    "nama": "TATA KELOLA SUMBER DAYA MANUSIA PEMERINTAHAN",
-    "kelas": "03",
-    "koordinator": "Dr. Dahlawi, M.SiNIP. 196201011985031019",
-    "ruang": "Fisip. 01.05",
-    "hari": "Selasa",
-    "waktu": "14:00-16:30",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH218",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "261",
-    "kode": "IPH218",
-    "nama": "TATA KELOLA SUMBER DAYA MANUSIA PEMERINTAHAN",
-    "kelas": "02",
-    "koordinator": "Dr. Dahlawi, M.SiNIP. 196201011985031019",
-    "ruang": "Fisip. 01.05",
-    "hari": "Rabu",
-    "waktu": "8:00-10:30",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH218",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "262",
-    "kode": "IPH216",
-    "nama": "HUKUM TATA PEMERINTAHAN",
-    "kelas": "04",
-    "koordinator": "Zainal Abidin, S.H., M.SiNIP. 196712151994031004",
-    "ruang": "RKU III 13.02.011",
-    "hari": "Selasa",
-    "waktu": "10:45-13:15",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH216",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "263",
-    "kode": "IPH104",
-    "nama": "SOSIOLOGI PEMERINTAHAN",
-    "kelas": "03",
-    "koordinator": "Reza Fahlevi, S.IP., MPANIP. 198908282021021101",
-    "ruang": "FISIP 03.05",
-    "hari": "Kamis",
-    "waktu": "8:00-10:30",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH104",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "264",
-    "kode": "IPH110",
-    "nama": "KOMUNIKASI PEMERINTAHAN",
-    "kelas": "03",
-    "koordinator": "Alfi Rahman, M.Si., Ph.DNIP. 197712022018041101",
-    "ruang": "RKU III 13.02.011",
-    "hari": "Selasa",
-    "waktu": "8:00-10:30",
-    "peserta": "39",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH110",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "265",
-    "kode": "IPH110",
-    "nama": "KOMUNIKASI PEMERINTAHAN",
-    "kelas": "04",
-    "koordinator": "Alfi Rahman, M.Si., Ph.DNIP. 197712022018041101",
-    "ruang": "Fisip. 03.05",
-    "hari": "Rabu",
-    "waktu": "8:00-10:30",
-    "peserta": "40",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH110",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "266",
-    "kode": "IPH206",
-    "nama": "EKONOMI PEMERINTAHAN",
-    "kelas": "01",
-    "koordinator": "Dr. Bustami Usman, S.H., SAP., M.SiNIP. 195912311985011001",
-    "ruang": "Fisip. 02.05",
-    "hari": "Rabu",
-    "waktu": "14:00-16:30",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH206",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "267",
-    "kode": "IPH206",
-    "nama": "EKONOMI PEMERINTAHAN",
-    "kelas": "02",
-    "koordinator": "Dr. Bustami Usman, S.H., SAP., M.SiNIP. 195912311985011001",
-    "ruang": "RKU III 13.02.010",
-    "hari": "Selasa",
-    "waktu": "08:00-10:30",
-    "peserta": "25",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH206",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "268",
-    "kode": "IPH206",
-    "nama": "EKONOMI PEMERINTAHAN",
-    "kelas": "03",
-    "koordinator": "Dr. Bustami Usman, S.H., SAP., M.SiNIP. 195912311985011001",
-    "ruang": "Fisip. 01.05",
-    "hari": "Kamis",
-    "waktu": "8:00-10:30",
-    "peserta": "36",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH206",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "269",
-    "kode": "IPH207",
-    "nama": "ETIKA PEMERINTAHAN",
-    "kelas": "01",
-    "koordinator": "Afrijal, M.I.P.NIP. 199104182020121003",
-    "ruang": "RKU IV 14.02.011",
-    "hari": "Jumat",
-    "waktu": "14:00-16:30",
-    "peserta": "1",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH207",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "270",
-    "kode": "IPH208",
-    "nama": "PEMBANGUNAN PEMERINTAHAN",
-    "kelas": "01",
-    "koordinator": "Nofriadi, S.IP., M.IPNIP. 198911032017011101",
-    "ruang": "Fisip 01.04",
-    "hari": "Kamis",
-    "waktu": "8:00-10:30",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH208",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "271",
     "kode": "IPH208",
     "nama": "PEMBANGUNAN PEMERINTAHAN",
     "kelas": "02",
@@ -5149,7 +4655,7 @@
     }
   },
   {
-    "no": "272",
+    "no": "246",
     "kode": "IPH208",
     "nama": "PEMBANGUNAN PEMERINTAHAN",
     "kelas": "03",
@@ -5168,7 +4674,7 @@
     }
   },
   {
-    "no": "273",
+    "no": "247",
     "kode": "IPH208",
     "nama": "PEMBANGUNAN PEMERINTAHAN",
     "kelas": "04",
@@ -5187,7 +4693,7 @@
     }
   },
   {
-    "no": "274",
+    "no": "248",
     "kode": "IPH216",
     "nama": "HUKUM TATA PEMERINTAHAN",
     "kelas": "01",
@@ -5206,18 +4712,18 @@
     }
   },
   {
-    "no": "275",
-    "kode": "IPH110",
-    "nama": "KOMUNIKASI PEMERINTAHAN",
+    "no": "249",
+    "kode": "IPH216",
+    "nama": "HUKUM TATA PEMERINTAHAN",
     "kelas": "02",
-    "koordinator": "Alfi Rahman, M.Si., Ph.DNIP. 197712022018041101",
-    "ruang": "RKU IV 14.02.011",
+    "koordinator": "Prof. Dr. Adwani, S.H., M.HumNIP. 195912311989031017",
+    "ruang": "Fisip 01.04",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "39",
+    "peserta": "32",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
-      "data-kode": "IPH110",
+      "data-kode": "IPH216",
       "data-kelas": "02",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -5225,75 +4731,18 @@
     }
   },
   {
-    "no": "276",
-    "kode": "IPH104",
-    "nama": "SOSIOLOGI PEMERINTAHAN",
-    "kelas": "04",
-    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
-    "ruang": "FISIP 01.04",
-    "hari": "Rabu",
-    "waktu": "10:45-13:15",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH104",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "277",
-    "kode": "IPH106",
-    "nama": "PEMERINTAHAN NASIONAL",
-    "kelas": "01",
-    "koordinator": "Nurul Kamaly, M.A.PNIP. 199503262022032011",
-    "ruang": "RKU III 13.02.011",
-    "hari": "Senin",
-    "waktu": "8:00-10:30",
-    "peserta": "30",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH106",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "278",
-    "kode": "IPH106",
-    "nama": "PEMERINTAHAN NASIONAL",
-    "kelas": "02",
-    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
-    "ruang": "RKU III 13.02.011",
-    "hari": "Kamis",
-    "waktu": "8:00-10:30",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH106",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "279",
-    "kode": "IPH106",
-    "nama": "PEMERINTAHAN NASIONAL",
+    "no": "250",
+    "kode": "IPH222",
+    "nama": "BIROKRASI PEMERINTAHAN",
     "kelas": "03",
-    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
-    "ruang": "RKU III 13.02.011",
+    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
+    "ruang": "Fisip. 03.05",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "35",
+    "peserta": "25",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
-      "data-kode": "IPH106",
+      "data-kode": "IPH222",
       "data-kelas": "03",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -5301,18 +4750,18 @@
     }
   },
   {
-    "no": "280",
-    "kode": "IPH106",
-    "nama": "PEMERINTAHAN NASIONAL",
+    "no": "251",
+    "kode": "IPH216",
+    "nama": "HUKUM TATA PEMERINTAHAN",
     "kelas": "04",
-    "koordinator": "Nurul Kamaly, M.A.PNIP. 199503262022032011",
-    "ruang": "RKU III 13.02.010",
-    "hari": "Senin",
+    "koordinator": "Zainal Abidin, S.H., M.SiNIP. 196712151994031004",
+    "ruang": "RKU III 13.02.011",
+    "hari": "Selasa",
     "waktu": "10:45-13:15",
-    "peserta": "27",
+    "peserta": "35",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
-      "data-kode": "IPH106",
+      "data-kode": "IPH216",
       "data-kelas": "04",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -5320,7 +4769,273 @@
     }
   },
   {
-    "no": "281",
+    "no": "252",
+    "kode": "IPH218",
+    "nama": "TATA KELOLA SUMBER DAYA MANUSIA PEMERINTAHAN",
+    "kelas": "01",
+    "koordinator": "Dr. Dahlawi, M.SiNIP. 196201011985031019",
+    "ruang": "Fisip. 01.05",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "34",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH218",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "253",
+    "kode": "IPH302",
+    "nama": "TATA KELOLA PEMERINTAHAN",
+    "kelas": "02",
+    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
+    "ruang": "Fisip. 01.04",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "32",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "254",
+    "kode": "IPH222",
+    "nama": "BIROKRASI PEMERINTAHAN",
+    "kelas": "04",
+    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
+    "ruang": "Fisip. 03.05",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "36",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH222",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "255",
+    "kode": "IPH222",
+    "nama": "BIROKRASI PEMERINTAHAN",
+    "kelas": "02",
+    "koordinator": "Wais Alqarni, S.IP., M.A.NIP. 199204262019031019",
+    "ruang": "Fisip. 01.04",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "36",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH222",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "256",
+    "kode": "IPH222",
+    "nama": "BIROKRASI PEMERINTAHAN",
+    "kelas": "01",
+    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
+    "ruang": "Fisip. 01.05",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH222",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "257",
+    "kode": "IPH220",
+    "nama": "PEMERINTAHAN DESA",
+    "kelas": "04",
+    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
+    "ruang": "Fisip. 01.04",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH220",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "258",
+    "kode": "IPH220",
+    "nama": "PEMERINTAHAN DESA",
+    "kelas": "03",
+    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
+    "ruang": "Fisip. 01.05",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "19",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH220",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "259",
+    "kode": "IPH220",
+    "nama": "PEMERINTAHAN DESA",
+    "kelas": "02",
+    "koordinator": "Wais Alqarni, S.IP., M.A.NIP. 199204262019031019",
+    "ruang": "Fisip. 02.05",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "36",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH220",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "260",
+    "kode": "IPH220",
+    "nama": "PEMERINTAHAN DESA",
+    "kelas": "01",
+    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
+    "ruang": "Fisip. 02.05",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "30",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH220",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "261",
+    "kode": "IPH218",
+    "nama": "TATA KELOLA SUMBER DAYA MANUSIA PEMERINTAHAN",
+    "kelas": "04",
+    "koordinator": "Dr. Dahlawi, M.SiNIP. 196201011985031019",
+    "ruang": "RKU IV 14.02.011",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "28",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH218",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "262",
+    "kode": "IPH218",
+    "nama": "TATA KELOLA SUMBER DAYA MANUSIA PEMERINTAHAN",
+    "kelas": "03",
+    "koordinator": "Dr. Dahlawi, M.SiNIP. 196201011985031019",
+    "ruang": "Fisip. 01.05",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH218",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "263",
+    "kode": "IPH218",
+    "nama": "TATA KELOLA SUMBER DAYA MANUSIA PEMERINTAHAN",
+    "kelas": "02",
+    "koordinator": "Dr. Dahlawi, M.SiNIP. 196201011985031019",
+    "ruang": "Fisip. 01.05",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH218",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "264",
+    "kode": "IPH216",
+    "nama": "HUKUM TATA PEMERINTAHAN",
+    "kelas": "03",
+    "koordinator": "Dr. Mahdi Syahbandir, S.H., M.Hum.NIP. 196402011990021004",
+    "ruang": "Fisip 01.04",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH216",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "265",
+    "kode": "IPH208",
+    "nama": "PEMBANGUNAN PEMERINTAHAN",
+    "kelas": "01",
+    "koordinator": "Nofriadi, S.IP., M.IPNIP. 198911032017011101",
+    "ruang": "Fisip 01.04",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "266",
     "kode": "IPH108",
     "nama": "FILSAFAT PEMERINTAHAN",
     "kelas": "01",
@@ -5339,7 +5054,159 @@
     }
   },
   {
-    "no": "282",
+    "no": "267",
+    "kode": "IPH106",
+    "nama": "PEMERINTAHAN NASIONAL",
+    "kelas": "04",
+    "koordinator": "Nurul Kamaly, M.A.PNIP. 199503262022032011",
+    "ruang": "RKU III 13.02.010",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "27",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH106",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "268",
+    "kode": "IPH106",
+    "nama": "PEMERINTAHAN NASIONAL",
+    "kelas": "03",
+    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
+    "ruang": "RKU III 13.02.011",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH106",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "269",
+    "kode": "IPH106",
+    "nama": "PEMERINTAHAN NASIONAL",
+    "kelas": "02",
+    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
+    "ruang": "RKU III 13.02.011",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "34",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "270",
+    "kode": "IPH106",
+    "nama": "PEMERINTAHAN NASIONAL",
+    "kelas": "01",
+    "koordinator": "Nurul Kamaly, M.A.PNIP. 199503262022032011",
+    "ruang": "RKU III 13.02.011",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "30",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "271",
+    "kode": "IPH104",
+    "nama": "SOSIOLOGI PEMERINTAHAN",
+    "kelas": "04",
+    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
+    "ruang": "FISIP 01.04",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH104",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "272",
+    "kode": "IPH104",
+    "nama": "SOSIOLOGI PEMERINTAHAN",
+    "kelas": "03",
+    "koordinator": "Reza Fahlevi, S.IP., MPANIP. 198908282021021101",
+    "ruang": "FISIP 03.05",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH104",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "273",
+    "kode": "IPH104",
+    "nama": "SOSIOLOGI PEMERINTAHAN",
+    "kelas": "02",
+    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
+    "ruang": "FISIP 03.05",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "274",
+    "kode": "ISP202",
+    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
+    "kelas": "13",
+    "koordinator": "Suraiya, S.T., MTNIP. 196806031998022001",
+    "ruang": "RKU V. 15.02.003",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "39",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "ISP202",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "275",
     "kode": "IPH108",
     "nama": "FILSAFAT PEMERINTAHAN",
     "kelas": "02",
@@ -5358,7 +5225,7 @@
     }
   },
   {
-    "no": "283",
+    "no": "276",
     "kode": "IPH108",
     "nama": "FILSAFAT PEMERINTAHAN",
     "kelas": "03",
@@ -5377,45 +5244,7 @@
     }
   },
   {
-    "no": "284",
-    "kode": "IPH108",
-    "nama": "FILSAFAT PEMERINTAHAN",
-    "kelas": "04",
-    "koordinator": "Maimun, S.Pd., MANIP. 198104202010121003",
-    "ruang": "RKU IV 14.02.011",
-    "hari": "Selasa",
-    "waktu": "10:45-13:15",
-    "peserta": "44",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH108",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "285",
-    "kode": "IPH110",
-    "nama": "KOMUNIKASI PEMERINTAHAN",
-    "kelas": "01",
-    "koordinator": "Alfi Rahman, M.Si., Ph.DNIP. 197712022018041101",
-    "ruang": "Fisip 03.05",
-    "hari": "Senin",
-    "waktu": "14:00-16:30",
-    "peserta": "40",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH110",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "286",
+    "no": "277",
     "kode": "IPH206",
     "nama": "EKONOMI PEMERINTAHAN",
     "kelas": "04",
@@ -5434,19 +5263,190 @@
     }
   },
   {
-    "no": "287",
-    "kode": "ISP202",
-    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
-    "kelas": "12",
-    "koordinator": "Nurul Kamaly, M.A.PNIP. 199503262022032011",
-    "ruang": "RKU III 13.02.011",
-    "hari": "Rabu",
-    "waktu": "10:45-13:15",
-    "peserta": "33",
+    "no": "278",
+    "kode": "IPH206",
+    "nama": "EKONOMI PEMERINTAHAN",
+    "kelas": "03",
+    "koordinator": "Dr. Bustami Usman, S.H., SAP., M.SiNIP. 195912311985011001",
+    "ruang": "Fisip. 01.05",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "36",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
-      "data-kode": "ISP202",
-      "data-kelas": "12",
+      "data-kode": "IPH206",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "279",
+    "kode": "IPH206",
+    "nama": "EKONOMI PEMERINTAHAN",
+    "kelas": "02",
+    "koordinator": "Dr. Bustami Usman, S.H., SAP., M.SiNIP. 195912311985011001",
+    "ruang": "RKU III 13.02.010",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "24",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "280",
+    "kode": "IPH206",
+    "nama": "EKONOMI PEMERINTAHAN",
+    "kelas": "01",
+    "koordinator": "Dr. Bustami Usman, S.H., SAP., M.SiNIP. 195912311985011001",
+    "ruang": "Fisip. 02.05",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "36",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "281",
+    "kode": "IPH110",
+    "nama": "KOMUNIKASI PEMERINTAHAN",
+    "kelas": "04",
+    "koordinator": "Alfi Rahman, M.Si., Ph.DNIP. 197712022018041101",
+    "ruang": "Fisip. 03.05",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "40",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH110",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "282",
+    "kode": "IPH110",
+    "nama": "KOMUNIKASI PEMERINTAHAN",
+    "kelas": "03",
+    "koordinator": "Alfi Rahman, M.Si., Ph.DNIP. 197712022018041101",
+    "ruang": "RKU III 13.02.011",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "39",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "283",
+    "kode": "IPH110",
+    "nama": "KOMUNIKASI PEMERINTAHAN",
+    "kelas": "02",
+    "koordinator": "Alfi Rahman, M.Si., Ph.DNIP. 197712022018041101",
+    "ruang": "RKU IV 14.02.011",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "39",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "284",
+    "kode": "IPH110",
+    "nama": "KOMUNIKASI PEMERINTAHAN",
+    "kelas": "01",
+    "koordinator": "Alfi Rahman, M.Si., Ph.DNIP. 197712022018041101",
+    "ruang": "Fisip 03.05",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "40",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "285",
+    "kode": "IPH108",
+    "nama": "FILSAFAT PEMERINTAHAN",
+    "kelas": "04",
+    "koordinator": "Maimun, S.Pd., MANIP. 198104202010121003",
+    "ruang": "RKU IV 14.02.011",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "44",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH108",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "286",
+    "kode": "IPH310",
+    "nama": "PERBANDINGAN PEMERINTAHAN",
+    "kelas": "04",
+    "koordinator": "Saddam Rassanjani, S.IP.,M.Sc.NIP. 199011122019031017",
+    "ruang": "RKU III 13.02.011",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH310",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "287",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Wais Alqarni, S.IP., M.A.NIP. 199204262019031019",
+    "ruang": " RKU IV 14.02.011",
+    "hari": "Jumat",
+    "waktu": "16:30-18:15",
+    "peserta": "6",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010401"
@@ -5473,139 +5473,6 @@
   },
   {
     "no": "289",
-    "kode": "IPHP14",
-    "nama": "MONITORING DAN EVALUASI KINERJA PEMERINTAHAN",
-    "kelas": "01",
-    "koordinator": "Dr. Dahlawi, M.SiNIP. 196201011985031019",
-    "ruang": "RKU IV 14.02.011",
-    "hari": "Senin",
-    "waktu": "14:00-16:30",
-    "peserta": "32",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPHP14",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "290",
-    "kode": "IPHP13",
-    "nama": "OTSUS DAN DESENTRALISASI",
-    "kelas": "01",
-    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
-    "ruang": "Fisip. 01.04",
-    "hari": "Rabu",
-    "waktu": "16:30-18:15",
-    "peserta": "1",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPHP13",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "291",
-    "kode": "IPHP12",
-    "nama": "ISU-ISU POLITIK DAN PEMERINTAHAN",
-    "kelas": "01",
-    "koordinator": "Reza Fahlevi, S.IP., MPANIP. 198908282021021101",
-    "ruang": "RKU IV 14.02.011",
-    "hari": "Rabu",
-    "waktu": "10:45-13:15",
-    "peserta": "14",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPHP12",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "292",
-    "kode": "IPHP10",
-    "nama": "DINAMIKA POLITIK DAN PEMERINTAHAN LOKAL",
-    "kelas": "01",
-    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
-    "ruang": "RKU IV 14.02.011",
-    "hari": "Rabu",
-    "waktu": "14:00-16:30",
-    "peserta": "19",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPHP10",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "293",
-    "kode": "IPHP09",
-    "nama": "PSIKOLOGI SOSIAL",
-    "kelas": "01",
-    "koordinator": "Alfi Rahman, M.Si., Ph.DNIP. 197712022018041101",
-    "ruang": "Fisip.02.05",
-    "hari": "Kamis",
-    "waktu": "16:30-18:15",
-    "peserta": "0",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPHP09",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "294",
-    "kode": "IPHP01",
-    "nama": "MAGANG",
-    "kelas": "03",
-    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
-    "ruang": "RKU IV 14.02.011",
-    "hari": "Jumat",
-    "waktu": "8:00-10:30",
-    "peserta": "1",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPHP01",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "295",
-    "kode": "IPHP01",
-    "nama": "MAGANG",
-    "kelas": "02",
-    "koordinator": "Wais Alqarni, S.IP., M.A.NIP. 199204262019031019",
-    "ruang": "RKU III 13.02.011",
-    "hari": "Jumat",
-    "waktu": "14:00-16:30",
-    "peserta": "12",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPHP01",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "296",
     "kode": "IPHP16",
     "nama": "WEWENANG PEMERINTAH",
     "kelas": "01",
@@ -5624,7 +5491,7 @@
     }
   },
   {
-    "no": "297",
+    "no": "290",
     "kode": "IPHP17",
     "nama": "ILMU EKONOMI",
     "kelas": "01",
@@ -5643,7 +5510,7 @@
     }
   },
   {
-    "no": "298",
+    "no": "291",
     "kode": "IPHP26",
     "nama": "PERENCANAAN PEMBANGUNAN BERKELANJUTAN",
     "kelas": "01",
@@ -5651,7 +5518,7 @@
     "ruang": " RKU IV 14.02.011",
     "hari": "Rabu",
     "waktu": "8:00-10:30",
-    "peserta": "3",
+    "peserta": "0",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
       "data-kode": "IPHP26",
@@ -5662,140 +5529,7 @@
     }
   },
   {
-    "no": "299",
-    "kode": "ISP202",
-    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
-    "kelas": "11",
-    "koordinator": "Nurul Kamaly, M.A.PNIP. 199503262022032011",
-    "ruang": "RKU III 13.02.011",
-    "hari": "Senin",
-    "waktu": "14:00-16:30",
-    "peserta": "37",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "ISP202",
-      "data-kelas": "11",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "300",
-    "kode": "ISP202",
-    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
-    "kelas": "10",
-    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
-    "ruang": "Fisip 03.05",
-    "hari": "Selasa",
-    "waktu": "14:00-16:30",
-    "peserta": "38",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "ISP202",
-      "data-kelas": "10",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "301",
-    "kode": "ISP102",
-    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
-    "kelas": "13",
-    "koordinator": "Maimun, S.Pd., MANIP. 198104202010121003",
-    "ruang": "Fisip 01.04",
-    "hari": "Kamis",
-    "waktu": "16:30-18:15",
-    "peserta": "25",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "ISP102",
-      "data-kelas": "13",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "302",
-    "kode": "ISP102",
-    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
-    "kelas": "12",
-    "koordinator": "Nurul Kamaly, M.A.PNIP. 199503262022032011",
-    "ruang": "Fisip 01.05",
-    "hari": "Rabu",
-    "waktu": "16:30-18:15",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "ISP102",
-      "data-kelas": "12",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "303",
-    "kode": "ISP102",
-    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
-    "kelas": "11",
-    "koordinator": "Nurul Kamaly, M.A.PNIP. 199503262022032011",
-    "ruang": "Fisip 01.04",
-    "hari": "Selasa",
-    "waktu": "16:30-18:15",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "ISP102",
-      "data-kelas": "11",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "304",
-    "kode": "ISP102",
-    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
-    "kelas": "10",
-    "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
-    "ruang": "Fisip 03.05",
-    "hari": "Selasa",
-    "waktu": "16:30-18:15",
-    "peserta": "35",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "ISP102",
-      "data-kelas": "10",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "305",
-    "kode": "IPH104",
-    "nama": "SOSIOLOGI PEMERINTAHAN",
-    "kelas": "01",
-    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
-    "ruang": "FISIP 01.04",
-    "hari": "Senin",
-    "waktu": "8:00-10:30",
-    "peserta": "25",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH104",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "306",
+    "no": "292",
     "kode": "IPHPA1",
     "nama": "SKRIPSI",
     "kelas": "01",
@@ -5814,18 +5548,18 @@
     }
   },
   {
-    "no": "307",
-    "kode": "IPHP01",
-    "nama": "MAGANG",
+    "no": "293",
+    "kode": "IPH104",
+    "nama": "SOSIOLOGI PEMERINTAHAN",
     "kelas": "01",
-    "koordinator": "Afrijal, M.I.P.NIP. 199104182020121003",
-    "ruang": "RKU III 13.02.011",
-    "hari": "Jumat",
+    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
+    "ruang": "FISIP 01.04",
+    "hari": "Senin",
     "waktu": "8:00-10:30",
-    "peserta": "4",
+    "peserta": "25",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
-      "data-kode": "IPHP01",
+      "data-kode": "IPH104",
       "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -5833,7 +5567,121 @@
     }
   },
   {
-    "no": "308",
+    "no": "294",
+    "kode": "ISP102",
+    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
+    "kelas": "10",
+    "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
+    "ruang": "Fisip 03.05",
+    "hari": "Selasa",
+    "waktu": "16:30-18:15",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "ISP102",
+      "data-kelas": "10",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "295",
+    "kode": "ISP102",
+    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
+    "kelas": "11",
+    "koordinator": "Nurul Kamaly, M.A.PNIP. 199503262022032011",
+    "ruang": "Fisip 01.04",
+    "hari": "Selasa",
+    "waktu": "16:30-18:15",
+    "peserta": "35",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "ISP102",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "296",
+    "kode": "IPHP14",
+    "nama": "MONITORING DAN EVALUASI KINERJA PEMERINTAHAN",
+    "kelas": "01",
+    "koordinator": "Dr. Dahlawi, M.SiNIP. 196201011985031019",
+    "ruang": "RKU IV 14.02.011",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "29",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPHP14",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "297",
+    "kode": "IPHP13",
+    "nama": "OTSUS DAN DESENTRALISASI",
+    "kelas": "01",
+    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
+    "ruang": "Fisip. 01.04",
+    "hari": "Rabu",
+    "waktu": "16:30-18:15",
+    "peserta": "0",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPHP13",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "298",
+    "kode": "IPHP12",
+    "nama": "ISU-ISU POLITIK DAN PEMERINTAHAN",
+    "kelas": "01",
+    "koordinator": "Reza Fahlevi, S.IP., MPANIP. 198908282021021101",
+    "ruang": "RKU IV 14.02.011",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "14",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPHP12",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "299",
+    "kode": "IPH316",
+    "nama": "SISTEM KEPARTAIAN DAN PEMILU",
+    "kelas": "03",
+    "koordinator": "Nofriadi, S.IP., M.IPNIP. 198911032017011101",
+    "ruang": "Fisip.03.05",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "22",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH316",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "300",
     "kode": "IPH316",
     "nama": "SISTEM KEPARTAIAN DAN PEMILU",
     "kelas": "04",
@@ -5852,45 +5700,159 @@
     }
   },
   {
-    "no": "309",
+    "no": "301",
+    "kode": "IPHP01",
+    "nama": "MAGANG",
+    "kelas": "01",
+    "koordinator": "Afrijal, M.I.P.NIP. 199104182020121003",
+    "ruang": "RKU III 13.02.011",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "4",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPHP01",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "302",
+    "kode": "IPHP01",
+    "nama": "MAGANG",
+    "kelas": "02",
+    "koordinator": "Wais Alqarni, S.IP., M.A.NIP. 199204262019031019",
+    "ruang": "RKU III 13.02.011",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "12",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPHP01",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "303",
+    "kode": "IPHP01",
+    "nama": "MAGANG",
+    "kelas": "03",
+    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
+    "ruang": "RKU IV 14.02.011",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "1",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPHP01",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "304",
+    "kode": "IPHP09",
+    "nama": "PSIKOLOGI SOSIAL",
+    "kelas": "01",
+    "koordinator": "Alfi Rahman, M.Si., Ph.DNIP. 197712022018041101",
+    "ruang": "Fisip.02.05",
+    "hari": "Kamis",
+    "waktu": "16:30-18:15",
+    "peserta": "0",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPHP09",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "305",
+    "kode": "IPHP10",
+    "nama": "DINAMIKA POLITIK DAN PEMERINTAHAN LOKAL",
+    "kelas": "01",
+    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
+    "ruang": "RKU IV 14.02.011",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "19",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPHP10",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "306",
     "kode": "IPH316",
     "nama": "SISTEM KEPARTAIAN DAN PEMILU",
-    "kelas": "03",
-    "koordinator": "Nofriadi, S.IP., M.IPNIP. 198911032017011101",
+    "kelas": "02",
+    "koordinator": "Wais Alqarni, S.IP., M.A.NIP. 199204262019031019",
     "ruang": "Fisip.03.05",
-    "hari": "Selasa",
-    "waktu": "8:00-10:30",
-    "peserta": "21",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "38",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
       "data-kode": "IPH316",
-      "data-kelas": "03",
+      "data-kelas": "02",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010401"
     }
   },
   {
-    "no": "310",
-    "kode": "IPH312",
-    "nama": "SISTEM PEMERINTAHAN ISLAM",
-    "kelas": "03",
-    "koordinator": "Reza Fahlevi, S.IP., MPANIP. 198908282021021101",
-    "ruang": "FISIP 03.05",
-    "hari": "Kamis",
-    "waktu": "14:00-16:30",
-    "peserta": "15",
+    "no": "307",
+    "kode": "ISP102",
+    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
+    "kelas": "12",
+    "koordinator": "Nurul Kamaly, M.A.PNIP. 199503262022032011",
+    "ruang": "Fisip 01.05",
+    "hari": "Rabu",
+    "waktu": "16:30-18:15",
+    "peserta": "35",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
-      "data-kode": "IPH312",
-      "data-kelas": "03",
+      "data-kode": "ISP102",
+      "data-kelas": "12",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010401"
     }
   },
   {
-    "no": "311",
+    "no": "308",
+    "kode": "ISP102",
+    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
+    "kelas": "13",
+    "koordinator": "Maimun, S.Pd., MANIP. 198104202010121003",
+    "ruang": "Fisip 01.04",
+    "hari": "Kamis",
+    "waktu": "16:30-18:15",
+    "peserta": "25",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "ISP102",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "309",
     "kode": "IPH312",
     "nama": "SISTEM PEMERINTAHAN ISLAM",
     "kelas": "02",
@@ -5909,26 +5871,45 @@
     }
   },
   {
-    "no": "312",
-    "kode": "IPH310",
-    "nama": "PERBANDINGAN PEMERINTAHAN",
-    "kelas": "04",
-    "koordinator": "Saddam Rassanjani, S.IP.,M.Sc.NIP. 199011122019031017",
-    "ruang": "RKU III 13.02.011",
-    "hari": "Selasa",
+    "no": "310",
+    "kode": "IPH312",
+    "nama": "SISTEM PEMERINTAHAN ISLAM",
+    "kelas": "01",
+    "koordinator": "Reza Fahlevi, S.IP., MPANIP. 198908282021021101",
+    "ruang": "FISIP 01.05",
+    "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "35",
+    "peserta": "32",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
-      "data-kode": "IPH310",
-      "data-kelas": "04",
+      "data-kode": "IPH312",
+      "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010401"
     }
   },
   {
-    "no": "313",
+    "no": "311",
+    "kode": "ISP202",
+    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
+    "kelas": "12",
+    "koordinator": "Nurul Kamaly, M.A.PNIP. 199503262022032011",
+    "ruang": "RKU III 13.02.011",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "33",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "ISP202",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "312",
     "kode": "IPH310",
     "nama": "PERBANDINGAN PEMERINTAHAN",
     "kelas": "03",
@@ -5936,7 +5917,7 @@
     "ruang": "Fisip. 01.05",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
       "data-kode": "IPH310",
@@ -5947,7 +5928,7 @@
     }
   },
   {
-    "no": "314",
+    "no": "313",
     "kode": "IPH310",
     "nama": "PERBANDINGAN PEMERINTAHAN",
     "kelas": "02",
@@ -5966,7 +5947,7 @@
     }
   },
   {
-    "no": "315",
+    "no": "314",
     "kode": "IPH310",
     "nama": "PERBANDINGAN PEMERINTAHAN",
     "kelas": "01",
@@ -5985,7 +5966,7 @@
     }
   },
   {
-    "no": "316",
+    "no": "315",
     "kode": "IPH302",
     "nama": "TATA KELOLA PEMERINTAHAN",
     "kelas": "04",
@@ -6004,7 +5985,7 @@
     }
   },
   {
-    "no": "317",
+    "no": "316",
     "kode": "IPH302",
     "nama": "TATA KELOLA PEMERINTAHAN",
     "kelas": "03",
@@ -6012,10 +5993,29 @@
     "ruang": "Fisip. 02.05",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
       "data-kode": "IPH302",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "317",
+    "kode": "IPH312",
+    "nama": "SISTEM PEMERINTAHAN ISLAM",
+    "kelas": "03",
+    "koordinator": "Reza Fahlevi, S.IP., MPANIP. 198908282021021101",
+    "ruang": "FISIP 03.05",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "15",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH312",
       "data-kelas": "03",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -6062,18 +6062,18 @@
   },
   {
     "no": "320",
-    "kode": "IPH314",
-    "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
-    "kelas": "02",
-    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
-    "ruang": "RKU IV 14.02.011",
-    "hari": "Kamis",
-    "waktu": "8:00-10:30",
-    "peserta": "12",
+    "kode": "ISP202",
+    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
+    "kelas": "10",
+    "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
+    "ruang": "Fisip 03.05",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "38",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
-      "data-kode": "IPH314",
-      "data-kelas": "02",
+      "data-kode": "ISP202",
+      "data-kelas": "10",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010401"
@@ -6081,18 +6081,18 @@
   },
   {
     "no": "321",
-    "kode": "IPH316",
-    "nama": "SISTEM KEPARTAIAN DAN PEMILU",
-    "kelas": "02",
-    "koordinator": "Wais Alqarni, S.IP., M.A.NIP. 199204262019031019",
-    "ruang": "Fisip.03.05",
-    "hari": "Rabu",
-    "waktu": "10:45-13:15",
-    "peserta": "38",
+    "kode": "ISP202",
+    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
+    "kelas": "11",
+    "koordinator": "Nurul Kamaly, M.A.PNIP. 199503262022032011",
+    "ruang": "RKU III 13.02.011",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "37",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
-      "data-kode": "IPH316",
-      "data-kelas": "02",
+      "data-kode": "ISP202",
+      "data-kelas": "11",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010401"
@@ -6100,17 +6100,17 @@
   },
   {
     "no": "322",
-    "kode": "MKSP02",
-    "nama": "KULIAH KERJA NYATA",
+    "kode": "IPH316",
+    "nama": "SISTEM KEPARTAIAN DAN PEMILU",
     "kelas": "01",
-    "koordinator": "Wais Alqarni, S.IP., M.A.NIP. 199204262019031019",
-    "ruang": " RKU IV 14.02.011",
-    "hari": "Jumat",
-    "waktu": "16:30-18:15",
-    "peserta": "7",
+    "koordinator": "Nofriadi, S.IP., M.IPNIP. 198911032017011101",
+    "ruang": "Fisip.02.05",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "33",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
-      "data-kode": "MKSP02",
+      "data-kode": "IPH316",
       "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
@@ -6119,44 +6119,6 @@
   },
   {
     "no": "323",
-    "kode": "ISP202",
-    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
-    "kelas": "13",
-    "koordinator": "Suraiya, S.T., MTNIP. 196806031998022001",
-    "ruang": "RKU V. 15.02.003",
-    "hari": "Rabu",
-    "waktu": "14:00-16:30",
-    "peserta": "39",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "ISP202",
-      "data-kelas": "13",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "324",
-    "kode": "IPH316",
-    "nama": "SISTEM KEPARTAIAN DAN PEMILU",
-    "kelas": "01",
-    "koordinator": "Nofriadi, S.IP., M.IPNIP. 198911032017011101",
-    "ruang": "Fisip.02.05",
-    "hari": "Selasa",
-    "waktu": "10:45-13:15",
-    "peserta": "34",
-    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
-    "kode-peserta": {
-      "data-kode": "IPH316",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "1010401"
-    }
-  },
-  {
-    "no": "325",
     "kode": "IPH314",
     "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
     "kelas": "06",
@@ -6164,7 +6126,7 @@
     "ruang": "Fisip.01.05",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
       "data-kode": "IPH314",
@@ -6175,7 +6137,7 @@
     }
   },
   {
-    "no": "326",
+    "no": "324",
     "kode": "IPH314",
     "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
     "kelas": "05",
@@ -6194,7 +6156,7 @@
     }
   },
   {
-    "no": "327",
+    "no": "325",
     "kode": "IPH314",
     "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
     "kelas": "04",
@@ -6213,7 +6175,7 @@
     }
   },
   {
-    "no": "328",
+    "no": "326",
     "kode": "IPH314",
     "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
     "kelas": "03",
@@ -6221,7 +6183,7 @@
     "ruang": "Fisip.03.05",
     "hari": "Senin",
     "waktu": "8:00-10:30",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
       "data-kode": "IPH314",
@@ -6232,19 +6194,38 @@
     }
   },
   {
-    "no": "329",
+    "no": "327",
+    "kode": "IPH314",
+    "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
+    "kelas": "02",
+    "koordinator": "Helmi, S.IP.,M.IPNIP. 198804272017011101",
+    "ruang": "RKU IV 14.02.011",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "12",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
+    "kode-peserta": {
+      "data-kode": "IPH314",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010401"
+    }
+  },
+  {
+    "no": "328",
     "kode": "IPH302",
     "nama": "TATA KELOLA PEMERINTAHAN",
-    "kelas": "02",
+    "kelas": "01",
     "koordinator": "Mukhrijal, M.I.PNIP. 198810202022031002",
     "ruang": "Fisip. 01.04",
-    "hari": "Kamis",
+    "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "32",
+    "peserta": "0",
     "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Pemerintahan",
     "kode-peserta": {
       "data-kode": "IPH302",
-      "data-kelas": "02",
+      "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "1010401"
