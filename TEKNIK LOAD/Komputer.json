@@ -1,0 +1,1446 @@
+[
+  {
+    "no": "1",
+    "kode": "FTEP01",
+    "nama": "MBKM MAGANG/KERJASAMA RISET MANDIRI/WIRAUSAHA",
+    "kelas": "11",
+    "koordinator": "Dr. Kahlil, S.T., M.Eng.NIP. 198512022019031006",
+    "ruang": "RKTE -1",
+    "hari": "Jumat",
+    "waktu": "10:00-12:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "FTEP01",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "FTEP02",
+    "nama": "MBKM PROYEK KEMANUSIAAN/INDEPENDEN/DESA/KAMPUS MENGAJAR",
+    "kelas": "11",
+    "koordinator": "Dr. Kahlil, S.T., M.Eng.NIP. 198512022019031006",
+    "ruang": "RKTE-2",
+    "hari": "Jumat",
+    "waktu": "14:00-18:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "FTEP02",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "11",
+    "koordinator": "Dr. Kahlil, S.T., M.Eng.NIP. 198512022019031006",
+    "ruang": "Rkte2",
+    "hari": "Selasa",
+    "waktu": "08:00-10:00",
+    "peserta": "41",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "TIK102",
+    "nama": "KALKULUS II",
+    "kelas": "11",
+    "koordinator": "Ir. Muhammad Irhamsyah, ST., MT., IPMNIP. 197207182001121001",
+    "ruang": "A25-202",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "33",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK102",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "TIK102",
+    "nama": "KALKULUS II",
+    "kelas": "12",
+    "koordinator": "Ir.. Hubbul Walidainy, S.T., M.T., IPM., ASEAN EngNIP. 197308262000121001",
+    "ruang": "A25-202",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK102",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "TIK102",
+    "nama": "KALKULUS II",
+    "kelas": "13",
+    "koordinator": "Ir. Ernita Dewi Meutia, M.S.Tc.E. IPMNIP. 196809041992032001",
+    "ruang": "A25-202",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK102",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "TIK104",
+    "nama": "FISIKA II + LAB",
+    "kelas": "11",
+    "koordinator": "Ir. Yunidar, S.Si.,MTNIP. 197406292000032001",
+    "ruang": "RKTE -1",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK104",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "TIK104",
+    "nama": "FISIKA II + LAB",
+    "kelas": "12",
+    "koordinator": "Safrizal, S.T., M.T.NIP. 198212132018031001",
+    "ruang": "A25-202",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK104",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "TIK104",
+    "nama": "FISIKA II + LAB",
+    "kelas": "13",
+    "koordinator": "Al Bahri, S.ST., M.T.NIP. 199109102019031014",
+    "ruang": "A12-301 B",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK104",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "TIK106",
+    "nama": "MATEMATIKA DISKRIT",
+    "kelas": "11",
+    "koordinator": "Yudha Nurdin, ST.,MTNIP. 197910012010121002",
+    "ruang": "A25-202",
+    "hari": "Rabu",
+    "waktu": "8:00-10:40",
+    "peserta": "37",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK106",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "TIK106",
+    "nama": "MATEMATIKA DISKRIT",
+    "kelas": "12",
+    "koordinator": "Ir.. Maya Fitria, S.Kom., M.Sc., IPMNIP. 199005012019032020",
+    "ruang": "A12-301",
+    "hari": "Rabu",
+    "waktu": "8:00-10:40",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK106",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "TIK106",
+    "nama": "MATEMATIKA DISKRIT",
+    "kelas": "13",
+    "koordinator": "Nadhila Nurdin, S.Kom, M.ScNIP. 199512092022072101",
+    "ruang": "RKTE-3",
+    "hari": "Rabu",
+    "waktu": "8:00-10:40",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK106",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "TIK108",
+    "nama": "ALJABAR LINEAR DAN VARIABEL KOMPLEKS",
+    "kelas": "11",
+    "koordinator": "Dr. Kahlil, S.T., M.Eng.NIP. 198512022019031006",
+    "ruang": "RKTE-3",
+    "hari": "Selasa",
+    "waktu": "8:00-10:40",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK108",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "TIK108",
+    "nama": "ALJABAR LINEAR DAN VARIABEL KOMPLEKS",
+    "kelas": "12",
+    "koordinator": "Ir.. Maya Fitria, S.Kom., M.Sc., IPMNIP. 199005012019032020",
+    "ruang": "RKTE-2",
+    "hari": "Selasa",
+    "waktu": "8:00-10:40",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK108",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "TIK108",
+    "nama": "ALJABAR LINEAR DAN VARIABEL KOMPLEKS",
+    "kelas": "13",
+    "koordinator": "Safrizal, S.T., M.T.NIP. 198212132018031001",
+    "ruang": "RKTE-2",
+    "hari": "Selasa",
+    "waktu": "8:00-10:40",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK108",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "TIK110",
+    "nama": "PENGANTAR DESAIN DIGITAL",
+    "kelas": "11",
+    "koordinator": "Zulfikar, S.T., M.ScNIP. 197507202006041003",
+    "ruang": "A14-304",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "37",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK110",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "TIK110",
+    "nama": "PENGANTAR DESAIN DIGITAL",
+    "kelas": "12",
+    "koordinator": "Fardian, S.T., M.Sc.NIP. 197901022003121004",
+    "ruang": "A14-304",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK110",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "TIK110",
+    "nama": "PENGANTAR DESAIN DIGITAL",
+    "kelas": "13",
+    "koordinator": "Ir. Agus Adria, M.Sc.NIP. 196308131990021003",
+    "ruang": "A14-304",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK110",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "TIK112",
+    "nama": "PEMROGRAMAN II + LAB",
+    "kelas": "11",
+    "koordinator": "Ir. Rahmad Dawood, S.Kom, M.Sc., IPM., ASEAN Eng., APEC Er.NIP. 197203181995121001",
+    "ruang": "Lab Terapdu",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "32",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK112",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "TIK112",
+    "nama": "PEMROGRAMAN II + LAB",
+    "kelas": "12",
+    "koordinator": "Fardian, S.T., M.Sc.NIP. 197901022003121004",
+    "ruang": "Lab. Komputer",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:25",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK112",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "TIK112",
+    "nama": "PEMROGRAMAN II + LAB",
+    "kelas": "13",
+    "koordinator": "Ardiansyah, BSEE.,M.ScNIP. 197212261992011001",
+    "ruang": "Lab Terpadu",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK112",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "TIK202",
+    "nama": "ARTIFICIAL INTELLIGENCE",
+    "kelas": "11",
+    "koordinator": "Yudha Nurdin, ST.,MTNIP. 197910012010121002",
+    "ruang": "RKTE 1",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK202",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "TIK202",
+    "nama": "ARTIFICIAL INTELLIGENCE",
+    "kelas": "12",
+    "koordinator": "Dr. Maulisa Oktiana, S.T.NIP. 199010252020072101",
+    "ruang": "RKTE 1",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK202",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "TIK202",
+    "nama": "ARTIFICIAL INTELLIGENCE",
+    "kelas": "13",
+    "koordinator": "Dr. Khairun Saddami, S.T.NIP. 199103182022031008",
+    "ruang": "RKTE 1",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK202",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "TIK204",
+    "nama": "REKAYASA PERANGKAT LUNAK + LAB",
+    "kelas": "11",
+    "koordinator": "Sayed Muchallil, S.T., M. ScNIP. 198006162005011002",
+    "ruang": "A25-202",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK204",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "TIK204",
+    "nama": "REKAYASA PERANGKAT LUNAK + LAB",
+    "kelas": "12",
+    "koordinator": "Ir.. Maya Fitria, S.Kom., M.Sc., IPMNIP. 199005012019032020",
+    "ruang": "RB - 4A",
+    "hari": "Senin",
+    "waktu": "10:40-13:15",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK204",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "TIK204",
+    "nama": "REKAYASA PERANGKAT LUNAK + LAB",
+    "kelas": "13",
+    "koordinator": "Masduki Khamdan Muchamad, S.Kom., M.Sc.NIP. 199404082019031009",
+    "ruang": "A34-201",
+    "hari": "Senin",
+    "waktu": "10:40-13:15",
+    "peserta": "23",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK204",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "TIK206",
+    "nama": "DESAIN DATABASE",
+    "kelas": "11",
+    "koordinator": "Ardiansyah, BSEE.,M.ScNIP. 197212261992011001",
+    "ruang": "RKTE 1",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "19",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK206",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "TIK206",
+    "nama": "DESAIN DATABASE",
+    "kelas": "12",
+    "koordinator": "Nadhila Nurdin, S.Kom, M.ScNIP. 199512092022072101",
+    "ruang": "RKTE 1",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK206",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "TIK206",
+    "nama": "DESAIN DATABASE",
+    "kelas": "13",
+    "koordinator": "Yudha Nurdin, ST.,MTNIP. 197910012010121002",
+    "ruang": "RKTE 1",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK206",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "TIK208",
+    "nama": "SISTEM OPERASI",
+    "kelas": "11",
+    "koordinator": "Dr. Ir.. Ramzi Adriman, S.T, M. ScNIP. 197901302005011001",
+    "ruang": "RKTE 3",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK208",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "TIK208",
+    "nama": "SISTEM OPERASI",
+    "kelas": "12",
+    "koordinator": "Ir. Afdhal, S.T., M.Sc.NIP. 197907062005011001",
+    "ruang": "RKTE 3",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "34",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK208",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "TIK208",
+    "nama": "SISTEM OPERASI",
+    "kelas": "13",
+    "koordinator": "Akhyar, S.T., M.EngNIP. 198709082019031007",
+    "ruang": "RKTE 3",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "19",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK208",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "TIK210",
+    "nama": "JARINGAN KOMPUTER + LAB",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Teuku Yuliar Arif, S.T, M.KomNIP. 197307031999031003",
+    "ruang": "A34-202",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK210",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "TIK210",
+    "nama": "JARINGAN KOMPUTER + LAB",
+    "kelas": "12",
+    "koordinator": "Dr. Ir. Syahrial, M.Eng., IPMNIP. 196401121992031003",
+    "ruang": "RKTE -1",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK210",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "TIK210",
+    "nama": "JARINGAN KOMPUTER + LAB",
+    "kelas": "13",
+    "koordinator": "Ir. Afdhal, S.T., M.Sc.NIP. 197907062005011001",
+    "ruang": "RKTE -2",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK210",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "TIK212",
+    "nama": "RANGKAIAN ELEKTRONIKA + LAB",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Tarmizi, ST., M.Sc., IPM., ASEAN EngNIP. 197202011999031002",
+    "ruang": "RKTE -1",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK212",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "TIK212",
+    "nama": "RANGKAIAN ELEKTRONIKA + LAB",
+    "kelas": "12",
+    "koordinator": "Alfisyahrin, ST, MTNIP. 197007301999031002",
+    "ruang": "RKTE -2",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK212",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "TIK212",
+    "nama": "RANGKAIAN ELEKTRONIKA + LAB",
+    "kelas": "13",
+    "koordinator": "Ir. Syukriyadin, S.T., M.T., IPMNIP. 197108201999031004",
+    "ruang": "RKTE -2",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK212",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "TIK301",
+    "nama": "TATA TULIS ILMIAH",
+    "kelas": "11",
+    "koordinator": "Safrizal, S.T., M.T.NIP. 198212132018031001",
+    "ruang": "A12-301",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK301",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "TIK302",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Nasaruddin, S.T.,M.Eng., IPUNIP. 197404021999031003",
+    "ruang": "RKTE-2",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK302",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "TIK302",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "12",
+    "koordinator": "Dr. Maulisa Oktiana, S.T.NIP. 199010252020072101",
+    "ruang": "RKTE-1",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "32",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK302",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "TIK304",
+    "nama": "ETIKA DAN PROFESIONALISME",
+    "kelas": "11",
+    "koordinator": "Ir. Ahmadiar, S.T., M.Sc.NIP. 198006252008121001",
+    "ruang": "A25-202",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK304",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "TIK304",
+    "nama": "ETIKA DAN PROFESIONALISME",
+    "kelas": "12",
+    "koordinator": "Ir. Ahmadiar, S.T., M.Sc.NIP. 198006252008121001",
+    "ruang": "Rkte2",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK304",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "TIK305",
+    "nama": "KOMPUTASI TERDISTRIBUSI + LAB",
+    "kelas": "11",
+    "koordinator": "Masduki Khamdan Muchamad, S.Kom., M.Sc.NIP. 199404082019031009",
+    "ruang": "A25-202",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK305",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "TIK305",
+    "nama": "KOMPUTASI TERDISTRIBUSI + LAB",
+    "kelas": "12",
+    "koordinator": "Masduki Khamdan Muchamad, S.Kom., M.Sc.NIP. 199404082019031009",
+    "ruang": "A25-202",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK305",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "TIK307",
+    "nama": "PENGOLAHAN CITRA DIGITAL + LAB",
+    "kelas": "11",
+    "koordinator": "Dr. Maulisa Oktiana, S.T.NIP. 199010252020072101",
+    "ruang": "RKTE 3",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK307",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "TIK311",
+    "nama": "MACHINE LEARNING",
+    "kelas": "11",
+    "koordinator": "Dr. Khairun Saddami, S.T.NIP. 199103182022031008",
+    "ruang": "RKTE 3",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "16",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK311",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "TIK502",
+    "nama": "KAPITA SELEKTA: SISTEM EMBEDDED I",
+    "kelas": "11",
+    "koordinator": "Ir.. Maya Fitria, S.Kom., M.Sc., IPMNIP. 199005012019032020",
+    "ruang": "RKTE-2",
+    "hari": "Selasa",
+    "waktu": "08:10-10:30",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK502",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "TIK502",
+    "nama": "KAPITA SELEKTA: SISTEM EMBEDDED I",
+    "kelas": "12",
+    "koordinator": "Ir.. Maya Fitria, S.Kom., M.Sc., IPMNIP. 199005012019032020",
+    "ruang": "RKTE -1",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK502",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "TIK504",
+    "nama": "PERANCANGAN INTERNET OF THINGS + LAB",
+    "kelas": "11",
+    "koordinator": "Ir. Rahmad Dawood, S.Kom, M.Sc., IPM., ASEAN Eng., APEC Er.NIP. 197203181995121001",
+    "ruang": "Lab Terpadu",
+    "hari": "Sabtu",
+    "waktu": "14:00-16:30",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK504",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "TIK504",
+    "nama": "PERANCANGAN INTERNET OF THINGS + LAB",
+    "kelas": "12",
+    "koordinator": "Ir. Rahmad Dawood, S.Kom, M.Sc., IPM., ASEAN Eng., APEC Er.NIP. 197203181995121001",
+    "ruang": "Lab Terpadu",
+    "hari": "Sabtu",
+    "waktu": "14:00-16:30",
+    "peserta": "4",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK504",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "TIK506",
+    "nama": "SENSOR DAN TRANSDUSER",
+    "kelas": "11",
+    "koordinator": "Ir. Yunidar, S.Si.,MTNIP. 197406292000032001",
+    "ruang": "RKTE-2",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "16",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK506",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "TIK506",
+    "nama": "SENSOR DAN TRANSDUSER",
+    "kelas": "12",
+    "koordinator": "Ir. Yunidar, S.Si.,MTNIP. 197406292000032001",
+    "ruang": "RKTE -1",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK506",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "TIK508",
+    "nama": "MIKROPROSESOR DAN TEKNIK ANTARMUKA",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Yuwaldi Away, M.ScNIP. 196412061990021001",
+    "ruang": "RKTE-2",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "4",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK508",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "TIK512",
+    "nama": "PERANCANGAN INFRASTRUKTUR JARINGAN + LAB",
+    "kelas": "11",
+    "koordinator": "Ir. Afdhal, S.T., M.Sc.NIP. 197907062005011001",
+    "ruang": "A14-301",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK512",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "TIK512",
+    "nama": "PERANCANGAN INFRASTRUKTUR JARINGAN + LAB",
+    "kelas": "12",
+    "koordinator": "Ir. Afdhal, S.T., M.Sc.NIP. 197907062005011001",
+    "ruang": "A14-301",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK512",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "TIK514",
+    "nama": "KOMPUTASI BERKINERJA TINGGI + LAB",
+    "kelas": "11",
+    "koordinator": "Ir. Masduki Khamdan Muchamad, S.Kom., M.Sc.NIP. 199404082019031009",
+    "ruang": "RKTE -1",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "18",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK514",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "TIK516",
+    "nama": "PEMROGRAMAN DAN SIMULASI JARINGAN",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Teuku Yuliar Arif, S.T, M.KomNIP. 197307031999031003",
+    "ruang": "RKTE-1",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK516",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "TIK520",
+    "nama": "KOMPUTASI MULTIMEDIA + LAB",
+    "kelas": "12",
+    "koordinator": "Prof. Dr.Ir. Fitri Arnia, S.T., M.Eng.Sc., IPUNIP. 197311121999032001",
+    "ruang": "A25-202",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "34",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK520",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "TIK522",
+    "nama": "VISI KOMPUTER",
+    "kelas": "11",
+    "koordinator": "Dr. Kahlil, S.T., M.Eng.NIP. 198512022019031006",
+    "ruang": "A14-304",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "40",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK522",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "TIK522",
+    "nama": "VISI KOMPUTER",
+    "kelas": "12",
+    "koordinator": "Dr. Kahlil, S.T., M.Eng.NIP. 198512022019031006",
+    "ruang": "RKTE -1",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "7",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK522",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "TIK524",
+    "nama": "GRAFIKA KOMPUTER",
+    "kelas": "11",
+    "koordinator": "Dr. Khairun Saddami, S.T.NIP. 199103182022031008",
+    "ruang": "A12-302",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK524",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "TIK524",
+    "nama": "GRAFIKA KOMPUTER",
+    "kelas": "12",
+    "koordinator": "Dr. Khairun Saddami, S.T.NIP. 199103182022031008",
+    "ruang": "A12-302",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "7",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK524",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "TIK526",
+    "nama": "DEEP LEARNING",
+    "kelas": "11",
+    "koordinator": "Dr. Khairun Saddami, S.T.NIP. 199103182022031008",
+    "ruang": "A12-301",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "33",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK526",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "TIK526",
+    "nama": "DEEP LEARNING",
+    "kelas": "12",
+    "koordinator": "Dr. Ir. Roslidar, ST., M.Sc., IPMNIP. 197807192002122002",
+    "ruang": "RKTE -1",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK526",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "TIK528",
+    "nama": "QUANTUM COMPUTING",
+    "kelas": "11",
+    "koordinator": "Ardiansyah, BSEE.,M.ScNIP. 197212261992011001",
+    "ruang": "RKTE-2",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "34",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK528",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "TIK530",
+    "nama": "E-SPORT",
+    "kelas": "11",
+    "koordinator": "Fardian, S.T., M.Sc.NIP. 197901022003121004",
+    "ruang": "A25-202",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "36",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK530",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "TIK532",
+    "nama": "EXPERT SYSTEM",
+    "kelas": "11",
+    "koordinator": "Nadhila Nurdin, S.Kom, M.ScNIP. 199512092022072101",
+    "ruang": "A25-202",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK532",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "TIK532",
+    "nama": "EXPERT SYSTEM",
+    "kelas": "12",
+    "koordinator": "Nadhila Nurdin, S.Kom, M.ScNIP. 199512092022072101",
+    "ruang": "A25-202",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "7",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIK532",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "TIKP01",
+    "nama": "HARDWARE-SOFTWARE CO-DESIGN + LAB",
+    "kelas": "11",
+    "koordinator": "Ir. Rahmad Dawood, S.Kom, M.Sc., IPM., ASEAN Eng., APEC Er.NIP. 197203181995121001",
+    "ruang": "RKTE-1",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "32",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIKP01",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "TIKP01",
+    "nama": "HARDWARE-SOFTWARE CO-DESIGN + LAB",
+    "kelas": "12",
+    "koordinator": "Masduki Khamdan Muchamad, S.Kom., M.Sc.NIP. 199404082019031009",
+    "ruang": "Lab terpadu",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIKP01",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "TIKP01",
+    "nama": "HARDWARE-SOFTWARE CO-DESIGN + LAB",
+    "kelas": "13",
+    "koordinator": "Masduki Khamdan Muchamad, S.Kom., M.Sc.NIP. 199404082019031009",
+    "ruang": "Lab Terpadu",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "18",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIKP01",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "TIKP02",
+    "nama": "KERJA PRAKTIK",
+    "kelas": "11",
+    "koordinator": "Dr. Kahlil, S.T., M.Eng.NIP. 198512022019031006",
+    "ruang": "RKTE-2",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "44",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIKP02",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "TIKPA1",
+    "nama": "TUGAS AKHIR I",
+    "kelas": "11",
+    "koordinator": "Dr. Kahlil, S.T., M.Eng.NIP. 198512022019031006",
+    "ruang": "A12-301",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "70",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIKPA1",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "TIKPA2",
+    "nama": "TUGAS AKHIR II",
+    "kelas": "11",
+    "koordinator": "Dr. Kahlil, S.T., M.Eng.NIP. 198512022019031006",
+    "ruang": "A25-202",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "77",
+    "keterangan": "TeknikS1Teknik Komputer",
+    "kode-peserta": {
+      "data-kode": "TIKPA2",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0411101"
+    }
+  }
+]

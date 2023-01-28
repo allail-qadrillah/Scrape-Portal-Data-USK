@@ -1,27 +1,41 @@
 import os
 import threading
-from config import URUTAN_FAKULTAS
+from config import URUTAN_FAKULTAS, JURUSAN_TEKNIK
 
 from ScrapePortalUSK import PortalUSK
 
-class MiningMKFakultas(PortalUSK):
+class MiningPortalUSK(PortalUSK):
 
-  def __init__(self, pathLoad, pathSave, urutanFakultas):
+  def __init__(self, pathLoad, pathSave, urutanCode):
     super().__init__()
     self.pathLoad = pathLoad
     self.pathSave = pathSave
-    self.urutanFakultas = urutanFakultas
+    self.urutanCode = urutanCode
 
 
-  def getAllMataKuliah(self):
+  def getAllMataKuliahFakultas(self):
     """
     mendapatkan semua matakuliah dari tiap fakultas  
     """
-    for fakultas, code in self.urutanFakultas.items():
+    for fakultas, code in self.urutanCode.items():
       mataKuliah =self.getMataKuliah(
           semester="20223",
           jenjang='1',
           fakultas=code
+      )
+
+      self.writeJson(f"{self.pathLoad}/{fakultas}.json", mataKuliah)
+  
+  def getAllMataKuliahProdi(self, codeFakultas):
+    """
+    mendapatkan semua matakuliah dari tiap fakultas  
+    """
+    for fakultas, code in self.urutanCode.items():
+      mataKuliah =self.getMataKuliah(
+          semester="20223",
+          jenjang='1',
+          fakultas= codeFakultas,
+          prodi=code
       )
 
       self.writeJson(f"{self.pathLoad}/{fakultas}.json", mataKuliah)
@@ -65,7 +79,6 @@ class MiningMKFakultas(PortalUSK):
       
   def getAllPesertaThread(self):
 
-    self.getAllMataKuliah()
     print("========== THREADING START ==========")
     threads = []
     for fakultas in os.listdir(self.pathLoad):
@@ -86,10 +99,11 @@ URUTAN_FAKULTAS = {
     # 'kip': '06',
     'teknik': '04'
 }
-scrape = MiningMKFakultas(
-  "./TEST LOADs",
-  "./TEST SAVEs",
-  URUTAN_FAKULTAS
+scrape = MiningPortalUSK(
+  "./TEKNIK LOAD",
+  "./TEKNIK SAVE",
+  JURUSAN_TEKNIK
 )
 
+scrape.getAllMataKuliahProdi(codeFakultas='04')
 scrape.getAllPesertaThread()

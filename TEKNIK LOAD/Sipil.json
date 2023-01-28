@@ -1,0 +1,6462 @@
+[
+  {
+    "no": "1",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "11",
+    "koordinator": "Ir. Muhammad Jamil, M.TNIP. 196501301991021001",
+    "ruang": "A25-203",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "12",
+    "koordinator": "Alfa Taras Bulba, ST, M.ScNIP. 198208092008121002",
+    "ruang": "A12-301",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "13",
+    "koordinator": "Mahmuddin, S.T., M.T.NIP. 196912051997021001",
+    "ruang": "JTS",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "26",
+    "koordinator": "Ir. Purwandy Hasibuan, S.T., M.Eng., IPMNIP. 198210182006041001",
+    "ruang": "JTS",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "26",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "27",
+    "koordinator": "Dr. Muhammad Fauzi, S.T.,M.T.NIP. 197006271999031005",
+    "ruang": "Jts",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "27",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "29",
+    "koordinator": "Ir. Buraida, M.M., MTNIP. 196809211999032002",
+    "ruang": "Jts",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "34",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "29",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "30",
+    "koordinator": "Dr. Yusria Darma, ST, M.Eng.ScNIP. 197301301999031002",
+    "ruang": "JTS",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "18",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "30",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "11",
+    "koordinator": "Dr. Yusria Darma, ST, M.Eng.ScNIP. 197301301999031002",
+    "ruang": "JTS",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "PTS102",
+    "nama": "MATEMATIKA II",
+    "kelas": "11",
+    "koordinator": "Ir. Maimun Rizalihadi, M.Sc.EngNIP. 196405301990021001",
+    "ruang": "A12-302",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS102",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "PTS102",
+    "nama": "MATEMATIKA II",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Azmeri, S.T, M.T.NIP. 197308201998032001",
+    "ruang": "A12-301",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS102",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "PTS102",
+    "nama": "MATEMATIKA II",
+    "kelas": "13",
+    "koordinator": "Febriyanti Maulina, S.T., MT.NIP. 197802242008122002",
+    "ruang": "A23-203",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS102",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "PTS102",
+    "nama": "MATEMATIKA II",
+    "kelas": "14",
+    "koordinator": "Nina Shaskia, S.T., M. Sc.NIP. 198903152015042002",
+    "ruang": "RK MTS IV",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "21",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS102",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "PTS102",
+    "nama": "MATEMATIKA II",
+    "kelas": "15",
+    "koordinator": "Dr. Muhammad Fauzi, S.T.,M.T.NIP. 197006271999031005",
+    "ruang": "A25-203",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS102",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "PTS102",
+    "nama": "MATEMATIKA II",
+    "kelas": "16",
+    "koordinator": "Yus Yudhyantoro, S.T.M.TNIP. 197202032000121001",
+    "ruang": "A25-205",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS102",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "PTS102",
+    "nama": "MATEMATIKA II",
+    "kelas": "17",
+    "koordinator": "Nora Abdullah, S.T., M.Eng.ScNIP. 197307101998022003",
+    "ruang": "D3-Z",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "21",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS102",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "PTS102",
+    "nama": "MATEMATIKA II",
+    "kelas": "18",
+    "koordinator": "Dr. Yusria Darma, ST, M.Eng.ScNIP. 197301301999031002",
+    "ruang": "RK MTS III",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS102",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Abdullah, M.ScNIP. 196403211989031002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "12",
+    "koordinator": "Dr. Ir. Mochammad Afifuddin, M.EngNIP. 196409071989031003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "13",
+    "koordinator": "Dr. Eng. M. Arief Rahman Panjaitan, S.T., M.T.NIP. 198511112012121003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "14",
+    "koordinator": "Ir. Huzaim, M.T.NIP. 196603201992031003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "15",
+    "koordinator": "Ir. M. Zardan, M.T.NIP. 195911161987031003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "16",
+    "koordinator": "Dr. Ir. Muttaqin, M.T.NIP. 196606151990091001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "17",
+    "koordinator": "Ir. Rudiansyah Putra, ST, M. Si., IPMNIP. 197509232002121004",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "18",
+    "koordinator": "Surya Bermansyah, S.T., M.TNIP. 197210022000031002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "19",
+    "koordinator": "Dr. Ir. Taufiq S., M.Eng., IPUNIP. 196309221990021001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "19",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "20",
+    "koordinator": "Dr. Yulia Hayati, ST.M.EngNIP. 197107091997022002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "20",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "21",
+    "koordinator": "Dr. Teuku Budi Aulia, S.T.Dipl,IngNIP. 196705291994031001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "21",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "22",
+    "koordinator": "Ir. Purwandy Hasibuan, S.T., M.Eng., IPMNIP. 198210182006041001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "22",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "23",
+    "koordinator": "Nora Abdullah, S.T., M.Eng.ScNIP. 197307101998022003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "23",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "24",
+    "koordinator": "Dr. Yunita Idris, ST. M.Eng.StructureNIP. 198006082009122002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "11",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "24",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "25",
+    "koordinator": "Mahlil, S.T., M.T.NIP. 198711062018011101",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "25",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "26",
+    "koordinator": "Said Amir Azan, ST, M. Eng.Sc.NIP. 197305221998021002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "26",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "27",
+    "koordinator": "Zahra Amalia, S.T., M.Eng.NIP. 199203122019032023",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "27",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "28",
+    "koordinator": "Cut Nella Asyifa, M.T.NIP. 199607042022032023",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "8",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "28",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "PTS106",
+    "nama": "PRAKTIKUM BAHAN BANGUNAN",
+    "kelas": "29",
+    "koordinator": "Rijalul Fikri, S.T., M.Sc., Ph.DNIP. 198601122022031001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS106",
+      "data-kelas": "29",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "PTS108",
+    "nama": "MEKANIKA TANAH I",
+    "kelas": "11",
+    "koordinator": "Dr. Munira Sungkar, S.T., M.T.NIP. 197606062000122001",
+    "ruang": "A23-203",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS108",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "PTS108",
+    "nama": "MEKANIKA TANAH I",
+    "kelas": "12",
+    "koordinator": "Devi Sundary, S.T., M.T.NIP. 197302271999032002",
+    "ruang": "A23-203",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS108",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "PTS108",
+    "nama": "MEKANIKA TANAH I",
+    "kelas": "13",
+    "koordinator": "Hendra Gunawan, S.T.,M.TNIP. 197712112005011005",
+    "ruang": "A25-203",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS108",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "PTS108",
+    "nama": "MEKANIKA TANAH I",
+    "kelas": "14",
+    "koordinator": "Dr. Halida Yunita, S.T., M.T.NIP. 197806132002122002",
+    "ruang": "A12-301",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS108",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "PTS108",
+    "nama": "MEKANIKA TANAH I",
+    "kelas": "15",
+    "koordinator": "Ir. Banta Chairullah M, M.Ing., IPUNIP. 196008151986031004",
+    "ruang": "D3-Z",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS108",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "PTS110",
+    "nama": "MEKANIKA BAHAN",
+    "kelas": "11",
+    "koordinator": "Ir. Rudiansyah Putra, ST, M. Si., IPMNIP. 197509232002121004",
+    "ruang": "A21-203",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS110",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "PTS110",
+    "nama": "MEKANIKA BAHAN",
+    "kelas": "12",
+    "koordinator": "Nora Abdullah, S.T., M.Eng.ScNIP. 197307101998022003",
+    "ruang": "A25-203",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS110",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "PTS110",
+    "nama": "MEKANIKA BAHAN",
+    "kelas": "13",
+    "koordinator": "Surya Bermansyah, S.T., M.TNIP. 197210022000031002",
+    "ruang": "RK TDMRC",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS110",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "PTS110",
+    "nama": "MEKANIKA BAHAN",
+    "kelas": "14",
+    "koordinator": "Ir. Purwandy Hasibuan, S.T., M.Eng., IPMNIP. 198210182006041001",
+    "ruang": "D3-Y",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS110",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "PTS110",
+    "nama": "MEKANIKA BAHAN",
+    "kelas": "15",
+    "koordinator": "Rijalul Fikri, S.T., M.Sc., Ph.DNIP. 198601122022031001",
+    "ruang": "RK MTS IV",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS110",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "PTS112",
+    "nama": "ANALISIS STRUKTUR II",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Muttaqin, M.T.NIP. 196606151990091001",
+    "ruang": "JTS",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS112",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "PTS112",
+    "nama": "ANALISIS STRUKTUR II",
+    "kelas": "12",
+    "koordinator": "Dr. Ir. Abdullah, M.ScNIP. 196403211989031002",
+    "ruang": "A25-203",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS112",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "PTS112",
+    "nama": "ANALISIS STRUKTUR II",
+    "kelas": "13",
+    "koordinator": "Surya Bermansyah, S.T., M.TNIP. 197210022000031002",
+    "ruang": "A23-203",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS112",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "PTS112",
+    "nama": "ANALISIS STRUKTUR II",
+    "kelas": "14",
+    "koordinator": "Dr. Yulia Hayati, ST.M.EngNIP. 197107091997022002",
+    "ruang": "RK MTS IV",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS112",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "PTS112",
+    "nama": "ANALISIS STRUKTUR II",
+    "kelas": "16",
+    "koordinator": "Ir. Huzaim, M.T.NIP. 196603201992031003",
+    "ruang": "A1-303",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS112",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "PTS114",
+    "nama": "REKAYASA LALU LINTAS",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Sofyan, M.Sc.Eng., IPUNIP. 195905121987021001",
+    "ruang": "A25-203",
+    "hari": "Rabu",
+    "waktu": "9:50-11:30",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS114",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "PTS114",
+    "nama": "REKAYASA LALU LINTAS",
+    "kelas": "12",
+    "koordinator": "Dr. Noer Fadhly, ST., MTNIP. 197507312002121002",
+    "ruang": "A21-203",
+    "hari": "Rabu",
+    "waktu": "9:50-11:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS114",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "PTS114",
+    "nama": "REKAYASA LALU LINTAS",
+    "kelas": "13",
+    "koordinator": "Dr. Yusria Darma, ST, M.Eng.ScNIP. 197301301999031002",
+    "ruang": "A23-203",
+    "hari": "Rabu",
+    "waktu": "9:50-11:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS114",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "PTS114",
+    "nama": "REKAYASA LALU LINTAS",
+    "kelas": "14",
+    "koordinator": "Prof. Dr. Eng. Ir. Sugiarto, S.T., M. Eng., IPMNIP. 198104102006041003",
+    "ruang": "A12-301",
+    "hari": "Rabu",
+    "waktu": "9:50-11:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS114",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "PTS114",
+    "nama": "REKAYASA LALU LINTAS",
+    "kelas": "15",
+    "koordinator": "Fitrika Mita Suryani, S.T., M.T.NIP. 196812211998022001",
+    "ruang": "A12-302",
+    "hari": "Rabu",
+    "waktu": "9:50-11:30",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS114",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "PTS114",
+    "nama": "REKAYASA LALU LINTAS",
+    "kelas": "16",
+    "koordinator": "Ir. Lulusi, S.T., M.ScNIP. 197301291999032001",
+    "ruang": "A25-201",
+    "hari": "Rabu",
+    "waktu": "9:50-11:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS114",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "PTS116",
+    "nama": "TEKNOLOGI BAHAN",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Abdullah, M.ScNIP. 196403211989031002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS116",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "PTS116",
+    "nama": "TEKNOLOGI BAHAN",
+    "kelas": "13",
+    "koordinator": "Dr. Ir. Taufiq S., M.Eng., IPUNIP. 196309221990021001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS116",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "PTS116",
+    "nama": "TEKNOLOGI BAHAN",
+    "kelas": "14",
+    "koordinator": "Dr. Yulia Hayati, ST.M.EngNIP. 197107091997022002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS116",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "PTS116",
+    "nama": "TEKNOLOGI BAHAN",
+    "kelas": "15",
+    "koordinator": "Surya Bermansyah, S.T., M.TNIP. 197210022000031002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS116",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "PTS116",
+    "nama": "TEKNOLOGI BAHAN",
+    "kelas": "16",
+    "koordinator": "Ir. M. Zardan, M.T.NIP. 195911161987031003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS116",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "PTS202",
+    "nama": "HIDRAULIKA",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Syamsidik, S.T., M.Sc.NIP. 197502251999031001",
+    "ruang": "A23-203",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS202",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "PTS202",
+    "nama": "HIDRAULIKA",
+    "kelas": "12",
+    "koordinator": "Ir. Maimun Rizalihadi, M.Sc.EngNIP. 196405301990021001",
+    "ruang": "A25-203",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS202",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "PTS202",
+    "nama": "HIDRAULIKA",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Azmeri, S.T, M.T.NIP. 197308201998032001",
+    "ruang": "A21-203",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS202",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "PTS202",
+    "nama": "HIDRAULIKA",
+    "kelas": "14",
+    "koordinator": "Dr. Ir. Eldina Fatimah, M.Sc.EngNIP. 196408281989032002",
+    "ruang": "A12-301",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS202",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "PTS202",
+    "nama": "HIDRAULIKA",
+    "kelas": "15",
+    "koordinator": "Dr. Cut Dwi Refika, S.T.,M. EngNIP. 197907022006042001",
+    "ruang": "RK MTS III",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS202",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "PTS202",
+    "nama": "HIDRAULIKA",
+    "kelas": "16",
+    "koordinator": "Amir Fauzi, ST.M.ScNIP. 197808282003121001",
+    "ruang": "A12-303",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS202",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "PTS204",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "11",
+    "koordinator": "Ir. Maimun Rizalihadi, M.Sc.EngNIP. 196405301990021001",
+    "ruang": "lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS204",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "PTS204",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "12",
+    "koordinator": "Ir. Dirwan, S.UNIP. 195203091977101001",
+    "ruang": "Lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS204",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "PTS204",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Azmeri, S.T, M.T.NIP. 197308201998032001",
+    "ruang": "Lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "11",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS204",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "PTS204",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "14",
+    "koordinator": "Amir Fauzi, ST.M.ScNIP. 197808282003121001",
+    "ruang": "Lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS204",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "PTS204",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "15",
+    "koordinator": "Ziana, S.T., M.TNIP. 197503182000122001",
+    "ruang": "Lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS204",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "PTS204",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "16",
+    "koordinator": "Nina Shaskia, S.T., M. Sc.NIP. 198903152015042002",
+    "ruang": "Lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS204",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "PTS204",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "17",
+    "koordinator": "Dr. Ir. Eldina Fatimah, M.Sc.EngNIP. 196408281989032002",
+    "ruang": "Lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS204",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "PTS204",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "18",
+    "koordinator": "Dr. Ella Meilianda, ST.MTNIP. 197505302000122001",
+    "ruang": "Lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "12",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS204",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "PTS204",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "19",
+    "koordinator": "Dr. Cut Dwi Refika, S.T.,M. EngNIP. 197907022006042001",
+    "ruang": "Lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS204",
+      "data-kelas": "19",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "PTS204",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "20",
+    "koordinator": "Dr. Muhammad Fauzi, S.T.,M.T.NIP. 197006271999031005",
+    "ruang": "Lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS204",
+      "data-kelas": "20",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "PTS204",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "21",
+    "koordinator": "Ahmad Reza Kasury, S.T., M.T.NIP. 197810262009121002",
+    "ruang": "Lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS204",
+      "data-kelas": "21",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "PTS204",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "22",
+    "koordinator": "Prof. Dr. Syamsidik, S.T., M.Sc.NIP. 197502251999031001",
+    "ruang": "Lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS204",
+      "data-kelas": "22",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "PTS206",
+    "nama": "HIDROLOGI",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Azmeri, S.T, M.T.NIP. 197308201998032001",
+    "ruang": "LAB HIDRO",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS206",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "PTS206",
+    "nama": "HIDROLOGI",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Ir. Alfiansyah Yulianur BCNIP. 196307251991021001",
+    "ruang": "A25-203",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS206",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "PTS206",
+    "nama": "HIDROLOGI",
+    "kelas": "13",
+    "koordinator": "Ir. Maimun Rizalihadi, M.Sc.EngNIP. 196405301990021001",
+    "ruang": "A23-203",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS206",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "PTS206",
+    "nama": "HIDROLOGI",
+    "kelas": "14",
+    "koordinator": "Dr. Muhammad Fauzi, S.T.,M.T.NIP. 197006271999031005",
+    "ruang": "A12-301",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS206",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "PTS206",
+    "nama": "HIDROLOGI",
+    "kelas": "15",
+    "koordinator": "Amir Fauzi, ST.M.ScNIP. 197808282003121001",
+    "ruang": "A12-3012",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS206",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "PTS206",
+    "nama": "HIDROLOGI",
+    "kelas": "16",
+    "koordinator": "Nina Shaskia, S.T., M. Sc.NIP. 198903152015042002",
+    "ruang": "RB 3A",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS206",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "PTS208",
+    "nama": "STRUKTUR BETON II",
+    "kelas": "11",
+    "koordinator": "Dr. Teuku Budi Aulia, S.T.Dipl,IngNIP. 196705291994031001",
+    "ruang": "A21-203",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS208",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "PTS208",
+    "nama": "STRUKTUR BETON II",
+    "kelas": "12",
+    "koordinator": "Ir. Huzaim, M.T.NIP. 196603201992031003",
+    "ruang": "A25-203",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS208",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "PTS208",
+    "nama": "STRUKTUR BETON II",
+    "kelas": "13",
+    "koordinator": "Dr. Ir. Abdullah, M.ScNIP. 196403211989031002",
+    "ruang": "A23-203",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS208",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "PTS208",
+    "nama": "STRUKTUR BETON II",
+    "kelas": "14",
+    "koordinator": "Dr. Ir. Taufiq S., M.Eng., IPUNIP. 196309221990021001",
+    "ruang": "A12-301",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "19",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS208",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "PTS208",
+    "nama": "STRUKTUR BETON II",
+    "kelas": "15",
+    "koordinator": "Dr. Yunita Idris, ST. M.Eng.StructureNIP. 198006082009122002",
+    "ruang": "A12-302",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS208",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "91",
+    "kode": "PTS208",
+    "nama": "STRUKTUR BETON II",
+    "kelas": "16",
+    "koordinator": "Dr. Yulia Hayati, ST.M.EngNIP. 197107091997022002",
+    "ruang": "A12-302",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS208",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "92",
+    "kode": "PTS210",
+    "nama": "ANALISIS STRUKTUR IV",
+    "kelas": "11",
+    "koordinator": "Dr. Teuku Budi Aulia, S.T.Dipl,IngNIP. 196705291994031001",
+    "ruang": "A25-203",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS210",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "93",
+    "kode": "PTS210",
+    "nama": "ANALISIS STRUKTUR IV",
+    "kelas": "12",
+    "koordinator": "Dr. Ir. Mochammad Afifuddin, M.EngNIP. 196409071989031003",
+    "ruang": "A25-203",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS210",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "94",
+    "kode": "PTS210",
+    "nama": "ANALISIS STRUKTUR IV",
+    "kelas": "13",
+    "koordinator": "Dr. Yunita Idris, ST. M.Eng.StructureNIP. 198006082009122002",
+    "ruang": "A21-203",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS210",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "95",
+    "kode": "PTS210",
+    "nama": "ANALISIS STRUKTUR IV",
+    "kelas": "14",
+    "koordinator": "Ir. Huzaim, M.T.NIP. 196603201992031003",
+    "ruang": "RK TDMRC",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS210",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "96",
+    "kode": "PTS210",
+    "nama": "ANALISIS STRUKTUR IV",
+    "kelas": "15",
+    "koordinator": "Rijalul Fikri, S.T., M.Sc., Ph.DNIP. 198601122022031001",
+    "ruang": "A12-302",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS210",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "97",
+    "kode": "PTS210",
+    "nama": "ANALISIS STRUKTUR IV",
+    "kelas": "16",
+    "koordinator": "Ir. Purwandy Hasibuan, S.T., M.Eng., IPMNIP. 198210182006041001",
+    "ruang": "A25-203",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS210",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "98",
+    "kode": "PTS212",
+    "nama": "STRUKTUR BAJA II",
+    "kelas": "11",
+    "koordinator": "Ir. Rudiansyah Putra, ST, M. Si., IPMNIP. 197509232002121004",
+    "ruang": "A21-203",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS212",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "99",
+    "kode": "PTS212",
+    "nama": "STRUKTUR BAJA II",
+    "kelas": "12",
+    "koordinator": "Dr. Ir. Mochammad Afifuddin, M.EngNIP. 196409071989031003",
+    "ruang": "D3-Y",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS212",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "100",
+    "kode": "PTS212",
+    "nama": "STRUKTUR BAJA II",
+    "kelas": "13",
+    "koordinator": "Ir. Purwandy Hasibuan, S.T., M.Eng., IPMNIP. 198210182006041001",
+    "ruang": "A23-203",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS212",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "101",
+    "kode": "PTS212",
+    "nama": "STRUKTUR BAJA II",
+    "kelas": "14",
+    "koordinator": "Ir. M. Zardan, M.T.NIP. 195911161987031003",
+    "ruang": "RB-4A",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS212",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "102",
+    "kode": "PTS212",
+    "nama": "STRUKTUR BAJA II",
+    "kelas": "15",
+    "koordinator": "Surya Bermansyah, S.T., M.TNIP. 197210022000031002",
+    "ruang": "RK MTS III",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS212",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "103",
+    "kode": "PTS212",
+    "nama": "STRUKTUR BAJA II",
+    "kelas": "16",
+    "koordinator": "Dr. Ir. Muttaqin, M.T.NIP. 196606151990091001",
+    "ruang": "RK MTS III",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS212",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "104",
+    "kode": "PTS216",
+    "nama": "DESAIN PONDASI I",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Munirwansyah, M.ScNIP. 195905251985031003",
+    "ruang": "D3-Z",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS216",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "105",
+    "kode": "PTS216",
+    "nama": "DESAIN PONDASI I",
+    "kelas": "12",
+    "koordinator": "Ir. Banta Chairullah M, M.Ing., IPUNIP. 196008151986031004",
+    "ruang": "A34-201",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS216",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "106",
+    "kode": "PTS216",
+    "nama": "DESAIN PONDASI I",
+    "kelas": "13",
+    "koordinator": "Devi Sundary, S.T., M.T.NIP. 197302271999032002",
+    "ruang": "A14-301",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS216",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "107",
+    "kode": "PTS216",
+    "nama": "DESAIN PONDASI I",
+    "kelas": "14",
+    "koordinator": "Yus Yudhyantoro, S.T.M.TNIP. 197202032000121001",
+    "ruang": "A25-202",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "36",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS216",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "108",
+    "kode": "PTS216",
+    "nama": "DESAIN PONDASI I",
+    "kelas": "15",
+    "koordinator": "Dr. Halida Yunita, S.T., M.T.NIP. 197806132002122002",
+    "ruang": "Jts",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS216",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "109",
+    "kode": "PTS218",
+    "nama": "MANAJEMEN PROYEK",
+    "kelas": "11",
+    "koordinator": "Nurisra, S.T., M.TNIP. 197010011997022001",
+    "ruang": "A12-302",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS218",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "110",
+    "kode": "PTS218",
+    "nama": "MANAJEMEN PROYEK",
+    "kelas": "12",
+    "koordinator": "Ir. Buraida, M.M., MTNIP. 196809211999032002",
+    "ruang": "RK MTS IV",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS218",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "111",
+    "kode": "PTS218",
+    "nama": "MANAJEMEN PROYEK",
+    "kelas": "13",
+    "koordinator": "Dr. Mubarak, S.T., M.T.NIP. 197505062000121001",
+    "ruang": "A12-301",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS218",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "112",
+    "kode": "PTS218",
+    "nama": "MANAJEMEN PROYEK",
+    "kelas": "14",
+    "koordinator": "Dr. Cut Zukhrina Oktaviani, S.T., MT.NIP. 197310102008122001",
+    "ruang": "A23-203",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS218",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "113",
+    "kode": "PTS218",
+    "nama": "MANAJEMEN PROYEK",
+    "kelas": "15",
+    "koordinator": "Mahmuddin, S.T., M.T.NIP. 196912051997021001",
+    "ruang": "A25-203",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS218",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "114",
+    "kode": "PTS218",
+    "nama": "MANAJEMEN PROYEK",
+    "kelas": "16",
+    "koordinator": "Ir. Ibnu Abbas, M.ScNIP. 196203281989031002",
+    "ruang": "A21-203",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS218",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "115",
+    "kode": "PTS220",
+    "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
+    "kelas": "11",
+    "koordinator": "Ir. Buraida, M.M., MTNIP. 196809211999032002",
+    "ruang": "RK MTS III",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS220",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "116",
+    "kode": "PTS220",
+    "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
+    "kelas": "12",
+    "koordinator": "Ir. Muhammad Jamil, M.TNIP. 196501301991021001",
+    "ruang": "A12-302",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS220",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "117",
+    "kode": "PTS220",
+    "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
+    "kelas": "13",
+    "koordinator": "Mahmuddin, S.T., M.T.NIP. 196912051997021001",
+    "ruang": "A14-303",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS220",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "118",
+    "kode": "PTS220",
+    "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
+    "kelas": "14",
+    "koordinator": "Alfa Taras Bulba, ST, M.ScNIP. 198208092008121002",
+    "ruang": "D3-W",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS220",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "119",
+    "kode": "PTS220",
+    "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
+    "kelas": "15",
+    "koordinator": "Dr. Mubarak, S.T., M.T.NIP. 197505062000121001",
+    "ruang": "A12-301",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS220",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "120",
+    "kode": "PTS220",
+    "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
+    "kelas": "16",
+    "koordinator": "Febriyanti Maulina, S.T., MT.NIP. 197802242008122002",
+    "ruang": "RK MTS IV",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS220",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "121",
+    "kode": "PTS220",
+    "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
+    "kelas": "17",
+    "koordinator": "Nurisra, S.T., M.TNIP. 197010011997022001",
+    "ruang": "D3-Z",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS220",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "122",
+    "kode": "PTS224",
+    "nama": "DINAMIKA STRUKTUR DAN TEKNIK GEMPA",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Mochammad Afifuddin, M.EngNIP. 196409071989031003",
+    "ruang": "RK MTS I",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "18",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS224",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "123",
+    "kode": "PTS224",
+    "nama": "DINAMIKA STRUKTUR DAN TEKNIK GEMPA",
+    "kelas": "12",
+    "koordinator": "Dr. Ir. Abdullah, M.ScNIP. 196403211989031002",
+    "ruang": "A25-203",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS224",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "124",
+    "kode": "PTS224",
+    "nama": "DINAMIKA STRUKTUR DAN TEKNIK GEMPA",
+    "kelas": "13",
+    "koordinator": "Dr. Ir. Muttaqin, M.T.NIP. 196606151990091001",
+    "ruang": "A23-203",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS224",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "125",
+    "kode": "PTS224",
+    "nama": "DINAMIKA STRUKTUR DAN TEKNIK GEMPA",
+    "kelas": "14",
+    "koordinator": "Dr. Yunita Idris, ST. M.Eng.StructureNIP. 198006082009122002",
+    "ruang": "A12-301",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS224",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "126",
+    "kode": "PTS224",
+    "nama": "DINAMIKA STRUKTUR DAN TEKNIK GEMPA",
+    "kelas": "15",
+    "koordinator": "Rijalul Fikri, S.T., M.Sc., Ph.DNIP. 198601122022031001",
+    "ruang": "A12-301",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS224",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "127",
+    "kode": "PTS224",
+    "nama": "DINAMIKA STRUKTUR DAN TEKNIK GEMPA",
+    "kelas": "16",
+    "koordinator": "Ir. Rudiansyah Putra, ST, M. Si., IPMNIP. 197509232002121004",
+    "ruang": "A12-301",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS224",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "128",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "11",
+    "koordinator": "Febriyanti Maulina, S.T., MT.NIP. 197802242008122002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "129",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "12",
+    "koordinator": "Dr. Cut Zukhrina Oktaviani, S.T., MT.NIP. 197310102008122001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "11",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "130",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "13",
+    "koordinator": "Dr. Mubarak, S.T., M.T.NIP. 197505062000121001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "12",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "131",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "14",
+    "koordinator": "Dr. Ir. Saiful Husin, M.T.NIP. 195501011987021001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "13",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "132",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "15",
+    "koordinator": "Ir. Ibnu Abbas, M.ScNIP. 196203281989031002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "133",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "16",
+    "koordinator": "Ir. Muhammad Jamil, M.TNIP. 196501301991021001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "8",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "134",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "17",
+    "koordinator": "Ir. Buraida, M.M., MTNIP. 196809211999032002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "135",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "18",
+    "koordinator": "Nurul Malahayati, ST., M.ScNIP. 196911301998022001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "136",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "19",
+    "koordinator": "Mahmuddin, S.T., M.T.NIP. 196912051997021001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "19",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "137",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "20",
+    "koordinator": "Nurisra, S.T., M.TNIP. 197010011997022001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "20",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "138",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "21",
+    "koordinator": "Dr. Fachrurrazi, S.T., MTNIP. 197005062000121001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "21",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "139",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "22",
+    "koordinator": "Dr. Ir. Anita Rauzana, S.T., MT.NIP. 198006202008122004",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "22",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "140",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "23",
+    "koordinator": "Alfa Taras Bulba, ST, M.ScNIP. 198208092008121002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "23",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "141",
+    "kode": "PTS302",
+    "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
+    "kelas": "24",
+    "koordinator": "Khairunnisa Putritami Saiful, S.T.,M.ScNIP. 199402092020062101",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS302",
+      "data-kelas": "24",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "142",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "11",
+    "koordinator": "Dr. Cut Zukhrina Oktaviani, S.T., MT.NIP. 197310102008122001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "143",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "12",
+    "koordinator": "Febriyanti Maulina, S.T., MT.NIP. 197802242008122002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "144",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "13",
+    "koordinator": "Dr. Mubarak, S.T., M.T.NIP. 197505062000121001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "145",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "14",
+    "koordinator": "Dr. Ir. Saiful Husin, M.T.NIP. 195501011987021001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "146",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "15",
+    "koordinator": "Ir. Ibnu Abbas, M.ScNIP. 196203281989031002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "147",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "16",
+    "koordinator": "Ir. Muhammad Jamil, M.TNIP. 196501301991021001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "148",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "17",
+    "koordinator": "Ir. Buraida, M.M., MTNIP. 196809211999032002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "149",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "18",
+    "koordinator": "Nurul Malahayati, ST., M.ScNIP. 196911301998022001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "150",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "19",
+    "koordinator": "Mahmuddin, S.T., M.T.NIP. 196912051997021001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "19",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "151",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "20",
+    "koordinator": "Nurisra, S.T., M.TNIP. 197010011997022001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "20",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "152",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "21",
+    "koordinator": "Dr. Fachrurrazi, S.T., MTNIP. 197005062000121001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "21",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "153",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "22",
+    "koordinator": "Dr. Ir. Anita Rauzana, S.T., MT.NIP. 198006202008122004",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "22",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "154",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "23",
+    "koordinator": "Alfa Taras Bulba, ST, M.ScNIP. 198208092008121002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "23",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "155",
+    "kode": "PTS304",
+    "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
+    "kelas": "24",
+    "koordinator": "Khairunnisa Putritami Saiful, S.T.,M.ScNIP. 199402092020062101",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "7",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS304",
+      "data-kelas": "24",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "156",
+    "kode": "PTS306",
+    "nama": "REKAYASA JALAN REL",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Sofyan, M.Sc.Eng., IPUNIP. 195905121987021001",
+    "ruang": "RK MTS III",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS306",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "157",
+    "kode": "PTS306",
+    "nama": "REKAYASA JALAN REL",
+    "kelas": "12",
+    "koordinator": "Ir. Lulusi, S.T., M.ScNIP. 197301291999032001",
+    "ruang": "A23-203",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "33",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS306",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "158",
+    "kode": "PTS306",
+    "nama": "REKAYASA JALAN REL",
+    "kelas": "13",
+    "koordinator": "Dr. Yusria Darma, ST, M.Eng.ScNIP. 197301301999031002",
+    "ruang": "A21-203",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS306",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "159",
+    "kode": "PTS306",
+    "nama": "REKAYASA JALAN REL",
+    "kelas": "14",
+    "koordinator": "Dr. Noer Fadhly, ST., MTNIP. 197507312002121002",
+    "ruang": "A25-203",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS306",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "160",
+    "kode": "PTS306",
+    "nama": "REKAYASA JALAN REL",
+    "kelas": "15",
+    "koordinator": "Dr. Ir. Renni Angraini, ST., M.EngNIP. 197109231997022001",
+    "ruang": "A12-302",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS306",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "161",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Sofyan, M.Sc.Eng., IPUNIP. 195905121987021001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "162",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Eng. Ir. Sugiarto, S.T., M. Eng., IPMNIP. 198104102006041003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "163",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "13",
+    "koordinator": "Dr. Ir. M. Isya, M.T.NIP. 196204111989031002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "4",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "164",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "14",
+    "koordinator": "Dr. Ir. Renni Angraini, ST., M.EngNIP. 197109231997022001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "165",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "15",
+    "koordinator": "Dr. Yusria Darma, ST, M.Eng.ScNIP. 197301301999031002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "4",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "166",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "16",
+    "koordinator": "Dr. Noer Fadhly, ST., MTNIP. 197507312002121002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "167",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "17",
+    "koordinator": "Fitrika Mita Suryani, S.T., M.T.NIP. 196812211998022001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "168",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "18",
+    "koordinator": "Ir. Lulusi, S.T., M.ScNIP. 197301291999032001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "169",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "19",
+    "koordinator": "Cut Mutiawati, S.T., MTNIP. 197605262006042003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "19",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "170",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "20",
+    "koordinator": "Ruhdi Faisal, ST., MTNIP. 198908142015041003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "20",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "171",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "21",
+    "koordinator": "Alfi Salmannur, S.T., M.T.NIP. 198712042019031013",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "21",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "172",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "22",
+    "koordinator": "Juliana Fisaini, S.T., M.T.NIP. 199007172019032021",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "22",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "173",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "23",
+    "koordinator": "Luthfi Chaliqi Taufiq, M.T.NIP. 199310092022031010",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "23",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "174",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "24",
+    "koordinator": "Fadhlullah Apriandy, S.T., M.Adv.EngNIP. 199504022020011101",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "24",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "175",
+    "kode": "PTS307",
+    "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
+    "kelas": "25",
+    "koordinator": "Aqlima Putri, S.T., M.T.NIP. 199406202022072101",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS307",
+      "data-kelas": "25",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "176",
+    "kode": "PTS308",
+    "nama": "REKAYASA PANTAI DAN PELABUHAN",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Eldina Fatimah, M.Sc.EngNIP. 196408281989032002",
+    "ruang": "A25-203",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS308",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "177",
+    "kode": "PTS308",
+    "nama": "REKAYASA PANTAI DAN PELABUHAN",
+    "kelas": "12",
+    "koordinator": "Dr. Ella Meilianda, ST.MTNIP. 197505302000122001",
+    "ruang": "A23-203",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS308",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "178",
+    "kode": "PTS308",
+    "nama": "REKAYASA PANTAI DAN PELABUHAN",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Syamsidik, S.T., M.Sc.NIP. 197502251999031001",
+    "ruang": "RK MTS IV",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS308",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "179",
+    "kode": "PTS308",
+    "nama": "REKAYASA PANTAI DAN PELABUHAN",
+    "kelas": "14",
+    "koordinator": "Prof. Dr. Ir. Alfiansyah Yulianur BCNIP. 196307251991021001",
+    "ruang": "D3-Y",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS308",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "180",
+    "kode": "PTS310",
+    "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
+    "kelas": "11",
+    "koordinator": "Ir. Maimun Rizalihadi, M.Sc.EngNIP. 196405301990021001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS310",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "181",
+    "kode": "PTS310",
+    "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
+    "kelas": "12",
+    "koordinator": "Ir. Dirwan, S.UNIP. 195203091977101001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "8",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS310",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "182",
+    "kode": "PTS310",
+    "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Azmeri, S.T, M.T.NIP. 197308201998032001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS310",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "183",
+    "kode": "PTS310",
+    "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
+    "kelas": "14",
+    "koordinator": "Ziana, S.T., M.TNIP. 197503182000122001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS310",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "184",
+    "kode": "PTS310",
+    "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
+    "kelas": "15",
+    "koordinator": "Amir Fauzi, ST.M.ScNIP. 197808282003121001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS310",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "185",
+    "kode": "PTS310",
+    "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
+    "kelas": "16",
+    "koordinator": "Nina Shaskia, S.T., M. Sc.NIP. 198903152015042002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS310",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "186",
+    "kode": "PTS310",
+    "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
+    "kelas": "17",
+    "koordinator": "Dr. Cut Dwi Refika, S.T.,M. EngNIP. 197907022006042001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "16",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS310",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "187",
+    "kode": "PTS310",
+    "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
+    "kelas": "18",
+    "koordinator": "Dr. Ir. Eldina Fatimah, M.Sc.EngNIP. 196408281989032002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS310",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "188",
+    "kode": "PTS310",
+    "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
+    "kelas": "19",
+    "koordinator": "Prof. Dr. Ir. Alfiansyah Yulianur BCNIP. 196307251991021001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS310",
+      "data-kelas": "19",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "189",
+    "kode": "PTS310",
+    "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
+    "kelas": "20",
+    "koordinator": "Dr. Muhammad Fauzi, S.T.,M.T.NIP. 197006271999031005",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "16",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS310",
+      "data-kelas": "20",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "190",
+    "kode": "PTS310",
+    "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
+    "kelas": "21",
+    "koordinator": "Ahmad Reza Kasury, S.T., M.T.NIP. 197810262009121002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS310",
+      "data-kelas": "21",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "191",
+    "kode": "PTS310",
+    "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
+    "kelas": "22",
+    "koordinator": "Prof. Dr. Syamsidik, S.T., M.Sc.NIP. 197502251999031001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS310",
+      "data-kelas": "22",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "192",
+    "kode": "PTS312",
+    "nama": "DESAIN PONDASI II",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Munirwansyah, M.ScNIP. 195905251985031003",
+    "ruang": "D3-Y",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS312",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "193",
+    "kode": "PTS312",
+    "nama": "DESAIN PONDASI II",
+    "kelas": "12",
+    "koordinator": "Ir. Banta Chairullah M, M.Ing., IPUNIP. 196008151986031004",
+    "ruang": "D3-W",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS312",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "194",
+    "kode": "PTS312",
+    "nama": "DESAIN PONDASI II",
+    "kelas": "13",
+    "koordinator": "Devi Sundary, S.T., M.T.NIP. 197302271999032002",
+    "ruang": "D3-X",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS312",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "195",
+    "kode": "PTS312",
+    "nama": "DESAIN PONDASI II",
+    "kelas": "14",
+    "koordinator": "Yus Yudhyantoro, S.T.M.TNIP. 197202032000121001",
+    "ruang": "D3-Z",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS312",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "196",
+    "kode": "PTS313",
+    "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Munirwansyah, M.ScNIP. 195905251985031003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS313",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "197",
+    "kode": "PTS313",
+    "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
+    "kelas": "12",
+    "koordinator": "Ir. Banta Chairullah M, M.Ing., IPUNIP. 196008151986031004",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS313",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "198",
+    "kode": "PTS313",
+    "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
+    "kelas": "13",
+    "koordinator": "Yus Yudhyantoro, S.T.M.TNIP. 197202032000121001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS313",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "199",
+    "kode": "PTS313",
+    "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
+    "kelas": "14",
+    "koordinator": "Hendra Gunawan, S.T.,M.TNIP. 197712112005011005",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS313",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "200",
+    "kode": "PTS313",
+    "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
+    "kelas": "15",
+    "koordinator": "Devi Sundary, S.T., M.T.NIP. 197302271999032002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS313",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "201",
+    "kode": "PTS313",
+    "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
+    "kelas": "16",
+    "koordinator": "Dr. Munira Sungkar, S.T., M.T.NIP. 197606062000122001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "6",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS313",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "202",
+    "kode": "PTS313",
+    "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
+    "kelas": "17",
+    "koordinator": "Dr. Halida Yunita, S.T., M.T.NIP. 197806132002122002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS313",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "203",
+    "kode": "PTS313",
+    "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
+    "kelas": "18",
+    "koordinator": "Nafisah Al-Huda, S.T., MT.NIP. 197901102008122001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS313",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "204",
+    "kode": "PTS315",
+    "nama": "METODE NUMERIK",
+    "kelas": "11",
+    "koordinator": "Dr. Teuku Budi Aulia, S.T.Dipl,IngNIP. 196705291994031001",
+    "ruang": "JTS",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS315",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "205",
+    "kode": "PTS316",
+    "nama": "STRUKTUR BETON PRATEGANG",
+    "kelas": "11",
+    "koordinator": "Dr. Teuku Budi Aulia, S.T.Dipl,IngNIP. 196705291994031001",
+    "ruang": "A12-302",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "38",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS316",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "206",
+    "kode": "PTS318",
+    "nama": "REKAYASA JEMBATAN BAJA",
+    "kelas": "11",
+    "koordinator": "Dr. Eng. M. Arief Rahman Panjaitan, S.T., M.T.NIP. 198511112012121003",
+    "ruang": "jts",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "34",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS318",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "207",
+    "kode": "PTS320",
+    "nama": "PENYELIDIKAN TANAH LAPANGAN",
+    "kelas": "11",
+    "koordinator": "Ir. Banta Chairullah M, M.Ing., IPUNIP. 196008151986031004",
+    "ruang": "D3-Z",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS320",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "208",
+    "kode": "PTS322",
+    "nama": "AIR TANAH DAN REMBESAN",
+    "kelas": "11",
+    "koordinator": "Devi Sundary, S.T., M.T.NIP. 197302271999032002",
+    "ruang": "A21-203",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS322",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "209",
+    "kode": "PTS324",
+    "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK II",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Munirwansyah, M.ScNIP. 195905251985031003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS324",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "210",
+    "kode": "PTS326",
+    "nama": "BANGUNAN TENAGA AIR",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Azmeri, S.T, M.T.NIP. 197308201998032001",
+    "ruang": "RK MTS I",
+    "hari": "Selasa",
+    "waktu": "9:50-11:30",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS326",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "211",
+    "kode": "PTS328",
+    "nama": "HIDRAULIKA KOMPUTASI",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Syamsidik, S.T., M.Sc.NIP. 197502251999031001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS328",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "212",
+    "kode": "PTS330",
+    "nama": "PENGEMBANGAN SUMBER DAYA AIR",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Alfiansyah Yulianur BCNIP. 196307251991021001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:40",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS330",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "213",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Sofyan, M.Sc.Eng., IPUNIP. 195905121987021001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "214",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Eng. Ir. Sugiarto, S.T., M. Eng., IPMNIP. 198104102006041003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "215",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "13",
+    "koordinator": "Dr. Ir. Renni Angraini, ST., M.EngNIP. 197109231997022001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "216",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "14",
+    "koordinator": "Dr. Yusria Darma, ST, M.Eng.ScNIP. 197301301999031002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "217",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "15",
+    "koordinator": "Dr. Noer Fadhly, ST., MTNIP. 197507312002121002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "218",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "16",
+    "koordinator": "Fitrika Mita Suryani, S.T., M.T.NIP. 196812211998022001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "219",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "17",
+    "koordinator": "Ir. Lulusi, S.T., M.ScNIP. 197301291999032001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "220",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "18",
+    "koordinator": "Cut Mutiawati, S.T., MTNIP. 197605262006042003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "221",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "19",
+    "koordinator": "Ruhdi Faisal, ST., MTNIP. 198908142015041003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "19",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "222",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "20",
+    "koordinator": "Alfi Salmannur, S.T., M.T.NIP. 198712042019031013",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "20",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "223",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "21",
+    "koordinator": "Juliana Fisaini, S.T., M.T.NIP. 199007172019032021",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "21",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "224",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "22",
+    "koordinator": "Luthfi Chaliqi Taufiq, M.T.NIP. 199310092022031010",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "22",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "225",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "23",
+    "koordinator": "Fadhlullah Apriandy, S.T., M.Adv.EngNIP. 199504022020011101",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "23",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "226",
+    "kode": "PTS332",
+    "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
+    "kelas": "24",
+    "koordinator": "Aqlima Putri, S.T., M.T.NIP. 199406202022072101",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS332",
+      "data-kelas": "24",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "227",
+    "kode": "PTS334",
+    "nama": "REKAYASA PRASARANA ANTAR MODA",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Sofyan, M.Sc.Eng., IPUNIP. 195905121987021001",
+    "ruang": "A23-205",
+    "hari": "Selasa",
+    "waktu": "9:50-11:30",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS334",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "228",
+    "kode": "PTS334",
+    "nama": "REKAYASA PRASARANA ANTAR MODA",
+    "kelas": "12",
+    "koordinator": "Dr. Yusria Darma, ST, M.Eng.ScNIP. 197301301999031002",
+    "ruang": "LAB. TRANSPORTASI",
+    "hari": "Selasa",
+    "waktu": "9:50-11:30",
+    "peserta": "23",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS334",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "229",
+    "kode": "PTS338",
+    "nama": "ASPEK HUKUM DAN ADM PROYEK KONSTRUKSI",
+    "kelas": "11",
+    "koordinator": "Ir. Buraida, M.M., MTNIP. 196809211999032002",
+    "ruang": "A12-301",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS338",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "230",
+    "kode": "PTS340",
+    "nama": "EKONOMI REKAYASA",
+    "kelas": "11",
+    "koordinator": "Nurisra, S.T., M.TNIP. 197010011997022001",
+    "ruang": "RK MTS I",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS340",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "231",
+    "kode": "PTS340",
+    "nama": "EKONOMI REKAYASA",
+    "kelas": "12",
+    "koordinator": "Mahmuddin, S.T., M.T.NIP. 196912051997021001",
+    "ruang": "A25-201",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS340",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "232",
+    "kode": "PTS340",
+    "nama": "EKONOMI REKAYASA",
+    "kelas": "13",
+    "koordinator": "Febriyanti Maulina, S.T., MT.NIP. 197802242008122002",
+    "ruang": "A25-202",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS340",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "233",
+    "kode": "PTS342",
+    "nama": "SIM PROYEK KONSTRUKSI",
+    "kelas": "11",
+    "koordinator": "Dr. Fachrurrazi, S.T., MTNIP. 197005062000121001",
+    "ruang": "A25-202",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS342",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "234",
+    "kode": "PTS342",
+    "nama": "SIM PROYEK KONSTRUKSI",
+    "kelas": "12",
+    "koordinator": "Febriyanti Maulina, S.T., MT.NIP. 197802242008122002",
+    "ruang": "A23-205",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS342",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "235",
+    "kode": "PTS404",
+    "nama": "MEKANIKA KONTINUM",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Mochammad Afifuddin, M.EngNIP. 196409071989031003",
+    "ruang": "D3-V",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "34",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS404",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "236",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Abdullah, M.ScNIP. 196403211989031002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "237",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "12",
+    "koordinator": "Dr. Ir. Mochammad Afifuddin, M.EngNIP. 196409071989031003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "238",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "13",
+    "koordinator": "Dr. Eng. M. Arief Rahman Panjaitan, S.T., M.T.NIP. 198511112012121003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "239",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "14",
+    "koordinator": "Ir. Huzaim, M.T.NIP. 196603201992031003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "240",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "15",
+    "koordinator": "Ir. M. Zardan, M.T.NIP. 195911161987031003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "241",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "16",
+    "koordinator": "Dr. Ir. Muttaqin, M.T.NIP. 196606151990091001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "242",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "17",
+    "koordinator": "Ir. Rudiansyah Putra, ST, M. Si., IPMNIP. 197509232002121004",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "243",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "18",
+    "koordinator": "Surya Bermansyah, S.T., M.TNIP. 197210022000031002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "244",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "19",
+    "koordinator": "Dr. Ir. Taufiq S., M.Eng., IPUNIP. 196309221990021001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "19",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "245",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "20",
+    "koordinator": "Dr. Yulia Hayati, ST.M.EngNIP. 197107091997022002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "20",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "246",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "21",
+    "koordinator": "Dr. Teuku Budi Aulia, S.T.Dipl,IngNIP. 196705291994031001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "21",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "247",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "22",
+    "koordinator": "Ir. Purwandy Hasibuan, S.T., M.Eng., IPMNIP. 198210182006041001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "22",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "248",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "23",
+    "koordinator": "Nora Abdullah, S.T., M.Eng.ScNIP. 197307101998022003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "23",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "249",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "24",
+    "koordinator": "Dr. Yunita Idris, ST. M.Eng.StructureNIP. 198006082009122002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "24",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "250",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "25",
+    "koordinator": "Mahlil, S.T., M.T.NIP. 198711062018011101",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "25",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "251",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "26",
+    "koordinator": "Said Amir Azan, ST, M. Eng.Sc.NIP. 197305221998021002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "26",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "252",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "27",
+    "koordinator": "Zahra Amalia, S.T., M.Eng.NIP. 199203122019032023",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "27",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "253",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "28",
+    "koordinator": "Cut Nella Asyifa, M.T.NIP. 199607042022032023",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "28",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "254",
+    "kode": "PTS405",
+    "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
+    "kelas": "29",
+    "koordinator": "Rijalul Fikri, S.T., M.Sc., Ph.DNIP. 198601122022031001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS405",
+      "data-kelas": "29",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "255",
+    "kode": "PTS406",
+    "nama": "METODE ELEMEN HINGGA",
+    "kelas": "11",
+    "koordinator": "Dr. Eng. M. Arief Rahman Panjaitan, S.T., M.T.NIP. 198511112012121003",
+    "ruang": "A12-302",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS406",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "256",
+    "kode": "PTS408",
+    "nama": "KOMPUTASI GEOTEKNIK",
+    "kelas": "11",
+    "koordinator": "Dr. Munira Sungkar, S.T., M.T.NIP. 197606062000122001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:45",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS408",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "257",
+    "kode": "PTS409",
+    "nama": "KONSTRUKSI BANGUNAN GEDUNG",
+    "kelas": "11",
+    "koordinator": "Surya Bermansyah, S.T., M.TNIP. 197210022000031002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS409",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "258",
+    "kode": "PTS409",
+    "nama": "KONSTRUKSI BANGUNAN GEDUNG",
+    "kelas": "12",
+    "koordinator": "Ir. Purwandy Hasibuan, S.T., M.Eng., IPMNIP. 198210182006041001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "8",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS409",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "259",
+    "kode": "PTS410",
+    "nama": "REKAYASA PONDASI MESIN",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Munirwansyah, M.ScNIP. 195905251985031003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS410",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "260",
+    "kode": "PTS411",
+    "nama": "PERANCANGAN PANTAI DAN PELABUHAN",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Eldina Fatimah, M.Sc.EngNIP. 196408281989032002",
+    "ruang": "Lab",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS411",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "261",
+    "kode": "PTS412",
+    "nama": "PENGANTAR DINAMIKA TANAH",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Munirwansyah, M.ScNIP. 195905251985031003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS412",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "262",
+    "kode": "PTS414",
+    "nama": "MEKANIKA BATUAN",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Munirwansyah, M.ScNIP. 195905251985031003",
+    "ruang": "JTS",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS414",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "263",
+    "kode": "PTS416",
+    "nama": "TOPIK KHUSUS GEOTEKNIK",
+    "kelas": "11",
+    "koordinator": "Devi Sundary, S.T., M.T.NIP. 197302271999032002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS416",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "264",
+    "kode": "PTS418",
+    "nama": "REKAYASA SISTEM AIR BERSIH",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Azmeri, S.T, M.T.NIP. 197308201998032001",
+    "ruang": "RK MTS I",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS418",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "265",
+    "kode": "PTS420",
+    "nama": "LOGISTIK DAN ANGKUTAN BARANG",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Eng. Ir. Sugiarto, S.T., M. Eng., IPMNIP. 198104102006041003",
+    "ruang": "RK MTS I",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS420",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "266",
+    "kode": "PTS420",
+    "nama": "LOGISTIK DAN ANGKUTAN BARANG",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Ir. Sofyan, M.Sc.Eng., IPUNIP. 195905121987021001",
+    "ruang": "RK MTS I",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS420",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "267",
+    "kode": "PTS421",
+    "nama": "PLATE & SHELL",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Muttaqin, M.T.NIP. 196606151990091001",
+    "ruang": "D3-V",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS421",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "268",
+    "kode": "PTS421",
+    "nama": "PLATE & SHELL",
+    "kelas": "12",
+    "koordinator": "Dr. Teuku Budi Aulia, S.T.Dipl,IngNIP. 196705291994031001",
+    "ruang": "jts",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS421",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "269",
+    "kode": "PTS422",
+    "nama": "KESELAMATAN TRANSPORTASI DAN LINGKUNGAN",
+    "kelas": "11",
+    "koordinator": "Ir. Lulusi, S.T., M.ScNIP. 197301291999032001",
+    "ruang": "D3-X",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS422",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "270",
+    "kode": "PTS422",
+    "nama": "KESELAMATAN TRANSPORTASI DAN LINGKUNGAN",
+    "kelas": "12",
+    "koordinator": "Dr. Noer Fadhly, ST., MTNIP. 197507312002121002",
+    "ruang": "A12-302",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS422",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "271",
+    "kode": "PTS424",
+    "nama": "TOPIK KHUSUS MRK",
+    "kelas": "11",
+    "koordinator": "Febriyanti Maulina, S.T., MT.NIP. 197802242008122002",
+    "ruang": "A23-203",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "18",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS424",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "272",
+    "kode": "PTSP01",
+    "nama": "KERJA PRAKTEK",
+    "kelas": "11",
+    "koordinator": "Said Amir Azan, ST, M. Eng.Sc.NIP. 197305221998021002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "42",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSP01",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "273",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "11",
+    "koordinator": "Prof. Dr.Ir. Azmeri, S.T, M.T.NIP. 197308201998032001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "274",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Ir. Alfiansyah Yulianur BCNIP. 196307251991021001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "275",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Munirwansyah, M.ScNIP. 195905251985031003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "276",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "14",
+    "koordinator": "Dr. Ir. Saiful Husin, M.T.NIP. 195501011987021001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "277",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "15",
+    "koordinator": "Prof. Dr. Ir. Sofyan, M.Sc.Eng., IPUNIP. 195905121987021001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "278",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "16",
+    "koordinator": "Dr. Ir. Anita Rauzana, S.T., MT.NIP. 198006202008122004",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "279",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "17",
+    "koordinator": "Dr. Ir. Mubarak, S.T., M.T.NIP. 197505062000121001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "280",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "18",
+    "koordinator": "Dr. Ir. Muhammad Fauzi, S.T.,M.T.NIP. 197006271999031005",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "281",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "19",
+    "koordinator": "Dr. Ir. Renni Angraini, ST., M.EngNIP. 197109231997022001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "19",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "282",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "20",
+    "koordinator": "Dr. Ir. Abdullah, M.ScNIP. 196403211989031002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "20",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "283",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "21",
+    "koordinator": "Dr. Ir. Mochammad Afifuddin, M.EngNIP. 196409071989031003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "21",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "284",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "22",
+    "koordinator": "Dr. Ir. M. Isya, M.T.NIP. 196204111989031002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "22",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "285",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "23",
+    "koordinator": "Dr. Ir. Taufiq S., M.Eng., IPUNIP. 196309221990021001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "23",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "286",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "24",
+    "koordinator": "Prof. Dr. Eng. Ir. Sugiarto, S.T., M. Eng., IPMNIP. 198104102006041003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "24",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "287",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "25",
+    "koordinator": "Prof. Dr. Syamsidik, S.T., M.Sc.NIP. 197502251999031001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "25",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "288",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "26",
+    "koordinator": "Ir. Buraida, M.M., MTNIP. 196809211999032002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "26",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "289",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "27",
+    "koordinator": "Ir. Maimun Rizalihadi, M.Sc.EngNIP. 196405301990021001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "27",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "290",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "28",
+    "koordinator": "Ir. Muhammad Jamil, M.TNIP. 196501301991021001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "28",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "291",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "29",
+    "koordinator": "Nurul Malahayati, ST., M.ScNIP. 196911301998022001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "29",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "292",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "30",
+    "koordinator": "Cut Mutiawati, S.T., MTNIP. 197605262006042003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "30",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "293",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "31",
+    "koordinator": "Devi Sundary, S.T., M.T.NIP. 197302271999032002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "31",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "294",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "32",
+    "koordinator": "Dr. Cut Zukhrina Oktaviani, S.T., MT.NIP. 197310102008122001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "32",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "295",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "33",
+    "koordinator": "Dr. Ella Meilianda, ST.MTNIP. 197505302000122001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "33",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "296",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "34",
+    "koordinator": "Dr. Fachrurrazi, S.T., MTNIP. 197005062000121001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "34",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "297",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "35",
+    "koordinator": "Dr. Halida Yunita, S.T., M.T.NIP. 197806132002122002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "35",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "298",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "36",
+    "koordinator": "Dr. Munira Sungkar, S.T., M.T.NIP. 197606062000122001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "36",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "299",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "37",
+    "koordinator": "Dr. Ir. Muttaqin, M.T.NIP. 196606151990091001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "37",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "300",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "38",
+    "koordinator": "Dr. Noer Fadhly, ST., MTNIP. 197507312002121002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "38",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "301",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "39",
+    "koordinator": "Dr. Teuku Budi Aulia, S.T.Dipl,IngNIP. 196705291994031001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "39",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "302",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "40",
+    "koordinator": "Dr. Yulia Hayati, ST.M.EngNIP. 197107091997022002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "40",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "303",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "41",
+    "koordinator": "Dr. Yusria Darma, ST, M.Eng.ScNIP. 197301301999031002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "41",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "304",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "42",
+    "koordinator": "Dr. Ir. Eldina Fatimah, M.Sc.EngNIP. 196408281989032002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "42",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "305",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "43",
+    "koordinator": "Fitrika Mita Suryani, S.T., M.T.NIP. 196812211998022001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "43",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "306",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "44",
+    "koordinator": "Hendra Gunawan, S.T.,M.TNIP. 197712112005011005",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "44",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "307",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "45",
+    "koordinator": "Ir. Banta Chairullah M, M.Ing., IPUNIP. 196008151986031004",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "45",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "308",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "46",
+    "koordinator": "Ir. Huzaim, M.T.NIP. 196603201992031003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "46",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "309",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "47",
+    "koordinator": "Ir. Ibnu Abbas, M.ScNIP. 196203281989031002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "47",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "310",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "48",
+    "koordinator": "Ir. Lulusi, S.T., M.ScNIP. 197301291999032001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "48",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "311",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "49",
+    "koordinator": "Ir. M. Zardan, M.T.NIP. 195911161987031003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "49",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "312",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "50",
+    "koordinator": "Ir. Purwandy Hasibuan, S.T., M.Eng., IPMNIP. 198210182006041001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "50",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "313",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "52",
+    "koordinator": "Mahmuddin, S.T., M.T.NIP. 196912051997021001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "52",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "314",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "53",
+    "koordinator": "Nafisah Al-Huda, S.T., MT.NIP. 197901102008122001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "53",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "315",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "54",
+    "koordinator": "Nora Abdullah, S.T., M.Eng.ScNIP. 197307101998022003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "54",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "316",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "55",
+    "koordinator": "Nurisra, S.T., M.TNIP. 197010011997022001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "55",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "317",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "57",
+    "koordinator": "Ruhdi Faisal, ST., MTNIP. 198908142015041003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "57",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "318",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "58",
+    "koordinator": "Surya Bermansyah, S.T., M.TNIP. 197210022000031002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "58",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "319",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "59",
+    "koordinator": "Ir.. Ziana, S.T., M.TNIP. 197503182000122001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "59",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "320",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "60",
+    "koordinator": "Ahmad Reza Kasury, S.T., M.T.NIP. 197810262009121002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "60",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "321",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "61",
+    "koordinator": "Amir Fauzi, ST.M.ScNIP. 197808282003121001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "61",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "322",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "62",
+    "koordinator": "Alfa Taras Bulba, ST, M.ScNIP. 198208092008121002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "62",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "323",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "63",
+    "koordinator": "Dr. Cut Dwi Refika, S.T.,M. EngNIP. 197907022006042001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "63",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "324",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "64",
+    "koordinator": "Dr. Eng. M. Arief Rahman Panjaitan, S.T., M.T.NIP. 198511112012121003",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "64",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "325",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "65",
+    "koordinator": "Dr. Yunita Idris, ST. M.Eng.StructureNIP. 198006082009122002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "65",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "326",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "66",
+    "koordinator": "Febriyanti Maulina, S.T., MT.NIP. 197802242008122002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "66",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "327",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "67",
+    "koordinator": "Ir. Rudiansyah Putra, ST, M. Si., IPMNIP. 197509232002121004",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "67",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "328",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "68",
+    "koordinator": "Said Amir Azan, ST, M. Eng.Sc.NIP. 197305221998021002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "68",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "329",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "69",
+    "koordinator": "Khairul Iqbal, S.T., M.TNIP. 198403042010121004",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "69",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "330",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "70",
+    "koordinator": "Yus Yudhyantoro, S.T.M.TNIP. 197202032000121001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "70",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "331",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "71",
+    "koordinator": "Alfi Salmannur, S.T., M.T.NIP. 198712042019031013",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "71",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "332",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "72",
+    "koordinator": "Juliana Fisaini, S.T., M.T.NIP. 199007172019032021",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "72",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "333",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "73",
+    "koordinator": "Nina Shaskia, S.T., M. Sc.NIP. 198903152015042002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "73",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "334",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "74",
+    "koordinator": "Zahra Amalia, S.T., M.Eng.NIP. 199203122019032023",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "74",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "335",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "75",
+    "koordinator": "Fadhlullah Apriandy, S.T., M.Adv.EngNIP. 199504022020011101",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "75",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "336",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "76",
+    "koordinator": "Khairunnisa Putritami Saiful, S.T.,M.ScNIP. 199402092020062101",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "76",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "337",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "78",
+    "koordinator": "Luthfi Chaliqi Taufiq, M.T.NIP. 199310092022031010",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "78",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "338",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "79",
+    "koordinator": "Mahlil, S.T., M.T.NIP. 198711062018011101",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "79",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "339",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "80",
+    "koordinator": "Cut Nella Asyifa, M.T.NIP. 199607042022032023",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "80",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "340",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "81",
+    "koordinator": "Rijalul Fikri, S.T., M.Sc., Ph.DNIP. 198601122022031001",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "81",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  }
+]

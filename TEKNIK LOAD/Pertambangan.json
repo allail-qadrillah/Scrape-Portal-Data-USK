@@ -1,0 +1,1351 @@
+[
+  {
+    "no": "1",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "19",
+    "koordinator": "Moehammad Ediyan Raza Karmel, B.Sc(Huns), M.Si.NIP. 198902262019031006",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "19",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "20",
+    "koordinator": "Nurul Kamal, ST., M.ScNIP. 196903232014011101",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "20",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "21",
+    "koordinator": "Mulkal, ST., M.ScNIP. 198010162012121003",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "21",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "11",
+    "koordinator": "NIP. tim",
+    "ruang": "jurusan",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "TPB102",
+    "nama": "KALKULUS II",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Adisalamun, M.T.NIP. 196705271993031003",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "08:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB102",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "TPB102",
+    "nama": "KALKULUS II",
+    "kelas": "12",
+    "koordinator": "Mirna Rahmah Lubis, ST., MSNIP. 197710012003122001",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "08:00-11:30",
+    "peserta": "23",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB102",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "TPB102",
+    "nama": "KALKULUS II",
+    "kelas": "13",
+    "koordinator": "Muchlis, S.Si., M.ScNIP. 197912182009121001",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB102",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "TPB110",
+    "nama": "FISIKA DASAR II",
+    "kelas": "11",
+    "koordinator": "Dr. Rini Safitri, S.Si., M.Si.NIP. 197004251995122001",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB110",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "TPB110",
+    "nama": "FISIKA DASAR II",
+    "kelas": "12",
+    "koordinator": "Nurul Aflah, ST., M.ScNIP. 198308162012122002",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB110",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "TPB110",
+    "nama": "FISIKA DASAR II",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Abrar Muslim, S.T., M.Eng.NIP. 197205251999031002",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "16",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB110",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "TPB112",
+    "nama": "KIMIA DASAR II",
+    "kelas": "11",
+    "koordinator": "Ir. Pocut Nurul Alam, M.T.NIP. 196608221997022002",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "17",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB112",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "TPB112",
+    "nama": "KIMIA DASAR II",
+    "kelas": "12",
+    "koordinator": "Nurul Aflah, ST., M.ScNIP. 198308162012122002",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB112",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "TPB112",
+    "nama": "KIMIA DASAR II",
+    "kelas": "13",
+    "koordinator": "Mirna Rahmah Lubis, ST., MSNIP. 197710012003122001",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB112",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "TPB114",
+    "nama": "KRISTALOGRAFI DAN MINERALOGI",
+    "kelas": "11",
+    "koordinator": "Dr. Husni, ST, M.Sc., M. EngNIP. 197410282006041002",
+    "ruang": "jurusan",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB114",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "TPB114",
+    "nama": "KRISTALOGRAFI DAN MINERALOGI",
+    "kelas": "12",
+    "koordinator": "Fahri Adrian, B.Sc., M.ScNIP. 199004292016011101",
+    "ruang": "jurusan",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB114",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "TPB114",
+    "nama": "KRISTALOGRAFI DAN MINERALOGI",
+    "kelas": "13",
+    "koordinator": "Izzan Nur Aslam, S.T., M.EngNIP. 199008232020121015",
+    "ruang": "jurusan",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "18",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB114",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "TPB202",
+    "nama": "SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "11",
+    "koordinator": "Haqul Baramsyah, S.T., M.Eng.Sc.NIP. 198411282015041002",
+    "ruang": "jurusan",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB202",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "TPB202",
+    "nama": "SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "12",
+    "koordinator": "Mulkal, ST., M.ScNIP. 198010162012121003",
+    "ruang": "jurusan",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB202",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "TPB202",
+    "nama": "SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "13",
+    "koordinator": "Deea Rizki Oziana, S.T., M.Eng.NIP. 199506302022072101",
+    "ruang": "jurusan",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB202",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "TPB204",
+    "nama": "TEKTONOFISIK",
+    "kelas": "11",
+    "koordinator": "Muchlis, S.Si., M.ScNIP. 197912182009121001",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "16:35-18:00",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB204",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "TPB204",
+    "nama": "TEKTONOFISIK",
+    "kelas": "12",
+    "koordinator": "Dewi Sartika, ST., M.EngNIP. 198906072018011101",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB204",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "TPB204",
+    "nama": "TEKTONOFISIK",
+    "kelas": "13",
+    "koordinator": "Haqul Baramsyah, S.T., M.Eng.Sc.NIP. 198411282015041002",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "16:35-18:00",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB204",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "TPB208",
+    "nama": "METODE NUMERIK",
+    "kelas": "11",
+    "koordinator": "Moehammad Ediyan Raza Karmel, B.Sc(Huns), M.Si.NIP. 198902262019031006",
+    "ruang": "jurusan",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB208",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "TPB208",
+    "nama": "METODE NUMERIK",
+    "kelas": "12",
+    "koordinator": "Lia Mairiza, S.T.MTNIP. 197405232000032001",
+    "ruang": "jurusan",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB208",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "TPB208",
+    "nama": "METODE NUMERIK",
+    "kelas": "13",
+    "koordinator": "Mulkal, ST., M.ScNIP. 198010162012121003",
+    "ruang": "jurusan",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB208",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "TPB210",
+    "nama": "MEKANIKA BATUAN",
+    "kelas": "11",
+    "koordinator": "Nafisah Al-Huda, S.T., MT.NIP. 197901102008122001",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "08:00-10:30",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB210",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "TPB210",
+    "nama": "MEKANIKA BATUAN",
+    "kelas": "12",
+    "koordinator": "Hendra Harisman, S.T., M.Eng.ScNIP. 198311102018031001",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "08:00-10:30",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB210",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "TPB210",
+    "nama": "MEKANIKA BATUAN",
+    "kelas": "13",
+    "koordinator": "Ir.. Amsir, S.Si., M.ScNIP. 198806162022031004",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB210",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "TPB218",
+    "nama": "PENGGERAK MULA",
+    "kelas": "11",
+    "koordinator": "Nurul Kamal, ST., M.ScNIP. 196903232014011101",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "16:35-18:00",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB218",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "TPB218",
+    "nama": "PENGGERAK MULA",
+    "kelas": "12",
+    "koordinator": "Ir. Darwin, M.TNIP. 195612131991021001",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "16:35-18:00",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB218",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "TPB218",
+    "nama": "PENGGERAK MULA",
+    "kelas": "13",
+    "koordinator": "Dr. Teuku Andika Rama Putra, S.T.,M.ScNIP. 197209251999031002",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "16:35-18:00",
+    "peserta": "23",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB218",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "TPB220",
+    "nama": "PENYALIRAN TAMBANG",
+    "kelas": "11",
+    "koordinator": "Ir. Febi Mutia, S.T., M.Sc.NIP. 198702042019032011",
+    "ruang": "jurusan",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB220",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "TPB220",
+    "nama": "PENYALIRAN TAMBANG",
+    "kelas": "12",
+    "koordinator": "Haqul Baramsyah, S.T., M.Eng.Sc.NIP. 198411282015041002",
+    "ruang": "jurusan",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB220",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "TPB220",
+    "nama": "PENYALIRAN TAMBANG",
+    "kelas": "13",
+    "koordinator": "Ali Sastromijoyo, S.T., M.TNIP. 197501062021011101",
+    "ruang": "jurusan",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB220",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "TPB222",
+    "nama": "TAMBANG BAWAH TANAH",
+    "kelas": "11",
+    "koordinator": "Dr. Teuku Andika Rama Putra, S.T.,M.ScNIP. 197209251999031002",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB222",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "TPB222",
+    "nama": "TAMBANG BAWAH TANAH",
+    "kelas": "12",
+    "koordinator": "Ir. T. Zulfikar, M.TNIP. 195809122017011101",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB222",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "TPB222",
+    "nama": "TAMBANG BAWAH TANAH",
+    "kelas": "13",
+    "koordinator": "Ir. Febi Mutia, S.T., M.Sc.NIP. 198702042019032011",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "4",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB222",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "TPB224",
+    "nama": "GENESA BAHAN GALIAN",
+    "kelas": "11",
+    "koordinator": "Nurul Aflah, ST., M.ScNIP. 198308162012122002",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "16:30-18:00",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB224",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "TPB224",
+    "nama": "GENESA BAHAN GALIAN",
+    "kelas": "12",
+    "koordinator": "Yoessi Oktarini, S.T., M.T.NIP. 198910102019032024",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "16:30-18:00",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB224",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "TPB224",
+    "nama": "GENESA BAHAN GALIAN",
+    "kelas": "13",
+    "koordinator": "Muchlis, S.Si., M.ScNIP. 197912182009121001",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "16:30-18:00",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB224",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "TPB314",
+    "nama": "MANAJEMEN TAMBANG",
+    "kelas": "11",
+    "koordinator": "Nurul Kamal, ST., M.ScNIP. 196903232014011101",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB314",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "TPB314",
+    "nama": "MANAJEMEN TAMBANG",
+    "kelas": "12",
+    "koordinator": "Ir. T. Zulfikar, M.TNIP. 195809122017011101",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "8",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB314",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "TPB314",
+    "nama": "MANAJEMEN TAMBANG",
+    "kelas": "13",
+    "koordinator": "Deea Rizki Oziana, S.T., M.Eng.NIP. 199506302022072101",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB314",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "TPB316",
+    "nama": "K3 DAN KESELAMATAN PERTAMBANGAN",
+    "kelas": "11",
+    "koordinator": "Nurul Kamal, ST., M.ScNIP. 196903232014011101",
+    "ruang": "jurusan",
+    "hari": "Jumat",
+    "waktu": "16:35-18:00",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB316",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "TPB316",
+    "nama": "K3 DAN KESELAMATAN PERTAMBANGAN",
+    "kelas": "12",
+    "koordinator": "Yoessi Oktarini, S.T., M.T.NIP. 198910102019032024",
+    "ruang": "jurusan",
+    "hari": "Jumat",
+    "waktu": "16:35-18:00",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB316",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "TPB316",
+    "nama": "K3 DAN KESELAMATAN PERTAMBANGAN",
+    "kelas": "13",
+    "koordinator": "Izzan Nur Aslam, S.T., M.EngNIP. 199008232020121015",
+    "ruang": "jurusan",
+    "hari": "Jumat",
+    "waktu": "16:35-18:00",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB316",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "TPB318",
+    "nama": "KULIAH LAPANGAN",
+    "kelas": "11",
+    "koordinator": "Ir. Pocut Nurul Alam, M.T.NIP. 196608221997022002",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "71",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB318",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "TPB415",
+    "nama": "PERENCANAAN TAMBANG BAWAH TANAH",
+    "kelas": "11",
+    "koordinator": "Dr. Husni, ST, M.Sc., M. EngNIP. 197410282006041002",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB415",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "TPB510",
+    "nama": "TEKNOLOGI BATUBARA",
+    "kelas": "11",
+    "koordinator": "Hendra Harisman, S.T., M.Eng.ScNIP. 198311102018031001",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "11:35-13:15",
+    "peserta": "40",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB510",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "TPB512",
+    "nama": "COAL BED METHANE (CBM)",
+    "kelas": "11",
+    "koordinator": "Hendra Harisman, S.T., M.Eng.ScNIP. 198311102018031001",
+    "ruang": "jurusan",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB512",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "TPB514",
+    "nama": "PERENCANAAN PABRIK PENGOLAHAN MINERAL",
+    "kelas": "11",
+    "koordinator": "Izzan Nur Aslam, S.T., M.EngNIP. 199008232020121015",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB514",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "TPB516",
+    "nama": "KOROSI DALAM INDUSTRI PERTAMBANGAN",
+    "kelas": "11",
+    "koordinator": "Ir. Pocut Nurul Alam, M.T.NIP. 196608221997022002",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB516",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "TPB518",
+    "nama": "EVALUASI FORMASI",
+    "kelas": "11",
+    "koordinator": "Muchlis, S.Si., M.ScNIP. 197912182009121001",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB518",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "TPB522",
+    "nama": "GEOTHERMAL",
+    "kelas": "11",
+    "koordinator": "Nurul Aflah, ST., M.ScNIP. 198308162012122002",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB522",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "TPB524",
+    "nama": "TEKNIK PRODUKSI MIGAS",
+    "kelas": "11",
+    "koordinator": "Nurul Aflah, ST., M.ScNIP. 198308162012122002",
+    "ruang": "jurusan",
+    "hari": "Jumat",
+    "waktu": "10:45-12:45",
+    "peserta": "39",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB524",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "TPB526",
+    "nama": "ANALISIS DAMPAK LINGKUNGAN",
+    "kelas": "11",
+    "koordinator": "Dr. Teuku Andika Rama Putra, S.T.,M.ScNIP. 197209251999031002",
+    "ruang": "jurusan",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "40",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB526",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "TPB528",
+    "nama": "REKLAMASI DAN PASCA TAMBANG",
+    "kelas": "11",
+    "koordinator": "Yoessi Oktarini, S.T., M.T.NIP. 198910102019032024",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "16:35-18:00",
+    "peserta": "40",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB528",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "TPB530",
+    "nama": "KEBIJAKAN PERTAMBANGAN",
+    "kelas": "11",
+    "koordinator": "Hendra Harisman, S.T., M.Eng.ScNIP. 198311102018031001",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "6",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB530",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "TPB532",
+    "nama": "STRATEGI BISNIS PERTAMBANGAN",
+    "kelas": "11",
+    "koordinator": "Ali Sastromijoyo, S.T., M.T.NIP. 197501062022011101",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "7",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB532",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "TPB534",
+    "nama": "MANAJEMEN PROYEK",
+    "kelas": "11",
+    "koordinator": "Yoessi Oktarini, S.T., M.T.NIP. 198910102019032024",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "14:00-16:40",
+    "peserta": "32",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB534",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "TPB536",
+    "nama": "TEKNIK KOMUNIKASI",
+    "kelas": "11",
+    "koordinator": "Ir. Pocut Nurul Alam, M.T.NIP. 196608221997022002",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "16:35-18:00",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB536",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "TPB538",
+    "nama": "PIROMETALURGI",
+    "kelas": "11",
+    "koordinator": "Izzan Nur Aslam, S.T., M.EngNIP. 199008232020121015",
+    "ruang": "jurusan",
+    "hari": "Jumat",
+    "waktu": "10:45-13:15",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB538",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "TPB540",
+    "nama": "HIDROGEOLOGI TAMBANG",
+    "kelas": "11",
+    "koordinator": "Haqul Baramsyah, S.T., M.Eng.Sc.NIP. 198411282015041002",
+    "ruang": "jurusan",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB540",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "TPB542",
+    "nama": "TEKNIK PEMBORAN EKSPLORASI",
+    "kelas": "11",
+    "koordinator": "Haqul Baramsyah, S.T., M.Eng.Sc.NIP. 198411282015041002",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "16:35-18:00",
+    "peserta": "6",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB542",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "TPB544",
+    "nama": "SISTEM KEBUMIAN",
+    "kelas": "11",
+    "koordinator": "Moehammad Ediyan Raza Karmel, B.Sc(Huns), M.Si.NIP. 198902262019031006",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "16:35-18:00",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB544",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "TPB546",
+    "nama": "FOTOGRAMETRI",
+    "kelas": "11",
+    "koordinator": "Haqul Baramsyah, S.T., M.Eng.Sc.NIP. 198411282015041002",
+    "ruang": "jurusan",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "16",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB546",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "TPB548",
+    "nama": "MANAJEMEN KONFLIK",
+    "kelas": "11",
+    "koordinator": "Ir. T. Zulfikar, M.TNIP. 195809122017011101",
+    "ruang": "jurusan",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "11",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB548",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "TPB550",
+    "nama": "HIDROMETALURGI",
+    "kelas": "11",
+    "koordinator": "Dr. Husni, ST, M.Sc., M. EngNIP. 197410282006041002",
+    "ruang": "jurusan",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPB550",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "TPBP02",
+    "nama": "KERJA PRAKTEK",
+    "kelas": "11",
+    "koordinator": "Yoessi Oktarini, S.T., M.T.NIP. 198910102019032024",
+    "ruang": "jurusan",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPBP02",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "TPBP04",
+    "nama": "SEMINAR",
+    "kelas": "11",
+    "koordinator": "Izzan Nur Aslam, S.T., M.EngNIP. 199008232020121015",
+    "ruang": "jurusan",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "87",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPBP04",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "TPBPA2",
+    "nama": "TUGAS AKHIR",
+    "kelas": "11",
+    "koordinator": "Moehammad Ediyan Raza Karmel, B.Sc(Huns), M.Si.NIP. 198902262019031006",
+    "ruang": "jurusan",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "62",
+    "keterangan": "TeknikS1Teknik Pertambangan",
+    "kode-peserta": {
+      "data-kode": "TPBPA2",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410801"
+    }
+  }
+]
