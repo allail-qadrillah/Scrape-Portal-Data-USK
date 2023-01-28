@@ -24,7 +24,7 @@ class PortalUSK:
       return wrapper
 
     @timer
-    def getPesertaKelas(self, semester, jenjang, pembatasan, kode, kelas, peserta = 1, delay = 1, notResponse = 5) -> 'list':
+    def getPesertaKelas(self, semester, jenjang, pembatasan, kode, kelas, peserta = 1, delay = 1, notResponse = 10) -> 'list':
       """
       Mendapatkan daftar peserta kelas dan mengembalikan dalam Dictionary.
       Jika list tidak ditemukan kemungkinan dikarenakan server memberikan data kosong, maka program akan terus meminta hingga server memberikan data. 
@@ -40,7 +40,7 @@ class PortalUSK:
       @param peserta: peserta yang ada didalam kelas, default = 1
       jika pesertanya tidak 0 maka lakukan scrapping
       @param delay: waktu tunggu request ke server jika tidak meresponse. default 1 seconds
-      @param notResponse: jika Portal USK tidak response sebanyak notResponse maka skip kelasnya. default = 5
+      @param notResponse: jika Portal USK tidak response sebanyak notResponse maka skip kelasnya. default = 10
       """
       requests.packages.urllib3.disable_warnings()
       try:

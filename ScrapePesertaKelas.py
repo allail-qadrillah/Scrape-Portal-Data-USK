@@ -27,40 +27,44 @@ class MiningMKFakultas(PortalUSK):
       self.writeJson(f"{self.pathLoad}/{fakultas}.json", mataKuliah)
 
   def getAllPesertaKelas(self, pathFakultas, delay=5):
-    """
-    mendapatkan semua peserta kelas dari tiap fakultas
-    @params pathFakultas: nama file json yang berisi daftar matakuliah dari tiap fakultas
-    """
-    courses = self.loadJson(f"{self.pathLoad}/{pathFakultas}")
-    pesertaMK = []
-    for course in courses:
-      listPeserta = self.getPesertaKelas(
-          semester=course['kode-peserta']['data-semester'],
-          jenjang=course['kode-peserta']['data-jenjang'],
-          pembatasan=course['kode-peserta']['data-pembatasan'],
-          kode=course['kode-peserta']['data-kode'],
-          kelas=course['kode-peserta']['data-kelas'],
-          peserta=course['peserta'],
-          delay=delay
-      )
-      pesertaMK.append({
-          "no": course['no'],
-          "kode": course['kode'],
-          "nama kelas": course['nama'],
-          "kelas": course['kelas'],
-          "koordinator": course['koordinator'],
-          "ruang": course['ruang'],
-          "hari": course['hari'],
-          "waktu": course['waktu'],
-          "keterangan": course['keterangan'],
-          "peserta": listPeserta
-      })
+      """
+      mendapatkan semua peserta kelas dari tiap fakultas
+      @params pathFakultas: nama file json yang berisi daftar matakuliah dari tiap fakultas
+      """
+      courses = self.loadJson(f"{self.pathLoad}/{pathFakultas}")
+      for course in courses:
+          peserta = {
+              "no": course['no'],
+              "kode": course['kode'],
+              "nama kelas": course['nama'],
+              "kelas": course['kelas'],
+              "koordinator": course['koordinator'],
+              "ruang": course['ruang'],
+              "hari": course['hari'],
+              "waktu": course['waktu'],
+              "keterangan": course['keterangan'],
+              "peserta": self.getPesertaKelas(
+                  semester=course['kode-peserta']['data-semester'],
+                  jenjang=course['kode-peserta']['data-jenjang'],
+                  pembatasan=course['kode-peserta']['data-pembatasan'],
+                  kode=course['kode-peserta']['data-kode'],
+                  kelas=course['kode-peserta']['data-kelas'],
+                  peserta=course['peserta'],
+                  delay=delay
+              )}
 
-    self.writeJson(
-        f"{self.pathSave}/{pathFakultas}", pesertaMK)
-
+          # cek apakah file sudah ada atau belum
+          if os.path.exists(f"{self.pathSave}/{pathFakultas}"):
+              # jika sudah, tambahkan data ke dalam file
+              data = self.loadJson(f"{self.pathSave}/{pathFakultas}")
+              data.append(peserta)
+              self.writeJson(f"{self.pathSave}/{pathFakultas}", data)
+          else:
+              # jika belum, buat file baru dan tulis data pertama
+              self.writeJson(f"{self.pathSave}/{pathFakultas}", [peserta])
+      
   def getAllPesertaThread(self):
-  
+
     self.getAllMataKuliah()
     print("========== THREADING START ==========")
     threads = []
@@ -79,12 +83,12 @@ class MiningMKFakultas(PortalUSK):
 
 
 URUTAN_FAKULTAS = {
-    'kip': '06',
-    'teknik': '04',
+    # 'kip': '06',
+    'teknik': '04'
 }
 scrape = MiningMKFakultas(
-  "./TEST LOAD",
-  "./TEST SAVE",
+  "./TEST LOADs",
+  "./TEST SAVEs",
   URUTAN_FAKULTAS
 )
 
