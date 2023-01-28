@@ -13,5 +13,5 @@ api = MiningMKFakultas(
 
 
 if __name__ == "__main__":
-  api.getAllMataKuliah()
+
   api.getAllPesertaThread()
