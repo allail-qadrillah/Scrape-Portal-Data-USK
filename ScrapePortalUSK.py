@@ -177,14 +177,47 @@ class PortalUSK:
                   "koordinator": courses["koordinator"],
                   "ruang": courses["ruang"],
                   "hari": courses["hari"],
-                  "waktu": courses["waktu"]
+                  "waktu": courses["waktu"],
+                  "peserta" : {
+                    "no": peserta["no"],
+                    "kode": peserta["kode"],
+                    "kelas": peserta["kelas"],
+                    "npm": peserta["npm"],
+                    "nama": peserta["nama"],
+                    "kelamin": peserta["kelamin"],
+                  }
               })
       return course
 
-    def findCoursesFromDir(self, path, namePerson):
+    def findCoursesFromDir(self, path, namePerson, iterateFolder = False):
+      """
+      mencari matakuliah mahasiswa yang diambil dari folder tertentu dan mengembalikannya dalam list
+      
+      @param path (string) : lokasi folder yang akan dicari 
+      @param namePerson (string) : nama mahasiswa yang akan dicari
+      @param iterateFolder (boolean) : apakah folder akan di looping?
+      JIKA True, maka akan mencari setiap file.json yang ada di dalam folder didalamnya (semua file.json berada didalam foldernya lagi)
+      JIKA False, maka akan mencari setiap file.json aja (semua file.json berada dialam path yang ditentukan)
+      """
       course = []
-      for folder in os.listdir(path):
-        for file in ( os.listdir(path + '/' + folder) ):
-          data = self.loadJson( path + '/' + folder + '/' + file )
-          course.append( self.findCourses(namePerson, data) )
+      if iterateFolder:
+        for folder in os.listdir(path):
+          for file in ( os.listdir(path + '/' + folder) ):
+            data = self.loadJson( path + '/' + folder + '/' + file )
+            course.append( self.findCourses(namePerson, data) )
+        return course
+      
+      for files in os.listdir(path):
+        data = self.loadJson(path + '/' + files)
+        course.append(self.findCourses(namePerson, data))
+      return course
+
+    def findCoursesFromDirV2(self, path, namePerson):
+      """
+      mencari matakuliah mahasiswa yang diambil dari folder tertentu dan mengembalikannya dalam list
+      """
+      course = []
+      for files in os.listdir(path):
+        data = self.loadJson( path + '/' + files )
+        course.append( self.findCourses(namePerson, data) )
       return course

@@ -103,11 +103,11 @@ if __name__ == "__main__":
   # data = api.loadJson(
   #     './Database/teknik/TeknikS1Teknik Elektro.json')
   # print(api.findCoursesV2('NURYA MUFTIANA KHAIRANI', data))
-  # print (
-  #     api.findCoursesFromDir('./Database', 'M.AL-LAIL QADRILLAH'))
+  print (
+      api.findCoursesFromDir('./Fakultas', 'ANANDA MUNAWWARAH Z'))
   # getAllMataKuliah('./Portal Data USK', URUTAN_FAKULTAS)
   # getAllPeserta('./Portal Data USK', './Database')
-  getAllPesertaThread('./Portal Data USK', './Fakultas')
+  # getAllPesertaThread('./Portal Data USK', './Fakultas')
   # print(
   #     api.getPesertaKelas(
   #         semester= "20223",
