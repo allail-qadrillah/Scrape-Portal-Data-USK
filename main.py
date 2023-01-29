@@ -1,21 +1,17 @@
 import threading
-# from ScrapePesertaKelas import MiningMKFakultas
+from ScrapePesertaKelas import MiningPortalUSK
 from ScrapePortalUSK import PortalUSK
 from timer import Timer
 import json
 import os
 from config import URUTAN_FAKULTAS
 
-# api = MiningMKFakultas(
-#     "./TEST LOAD",
-#     "./TEST SAVE",
-#     URUTAN_FAKULTAS
-# )
-
 
 if __name__ == "__main__":
+  app = PortalUSK()
+  print(app.findCoursesFromDir(
+    './DATABASE',
+    'YOAN RIFQI CANDRA'
+  ))
 
-  APP = PortalUSK()
 
-  print(APP.findCoursesFromDir("./TEKNIK SAVE", 
-  "IGO ICHSAN PRATAMA"))

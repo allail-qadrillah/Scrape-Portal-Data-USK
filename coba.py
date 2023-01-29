@@ -73,7 +73,14 @@ web = {
 # threads = []
 # for key in web:
 #     print(key)
+def find_number(n):
+    i = 1
+    digits = len(str(i))
+    while digits < n:
+        i += 1
+        digits += len(str(i))
+    return int(str(i)[n-digits-1])
 
-a = [1, 2, 3, 4, 5]
-print(a.slice(2, 4))
 
+
+print(find_number(1111))

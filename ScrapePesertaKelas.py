@@ -1,6 +1,6 @@
 import os
 import threading
-from config import URUTAN_FAKULTAS, JURUSAN_TEKNIK
+from config import URUTAN_FAKULTAS, JURUSAN_TEKNIK, JURUSAN_KIP
 
 from ScrapePortalUSK import PortalUSK
 
@@ -76,7 +76,21 @@ class MiningPortalUSK(PortalUSK):
           else:
               # jika belum, buat file baru dan tulis data pertama
               self.writeJson(f"{self.pathSave}/{pathFakultas}", [peserta])
-      
+  
+  def mergeFromDirToJson(self, namaFile, pathSave):
+    """
+    menggabungkan semua file json yang ada didalam directory kedalam satu file json  
+    """
+    for pathJson in os.listdir(self.pathSave):
+
+      for peserta in self.loadJson(self.pathSave + '/' + pathJson):
+        if os.path.exists(pathSave + '/' + namaFile):
+          load = self.loadJson(pathSave + '/' + namaFile)
+          load.append(peserta)
+          self.writeJson(pathSave + '/' + namaFile, load)
+        else:
+          self.writeJson(pathSave + '/' + namaFile, [peserta])
+
   def getAllPesertaThread(self):
 
     print("========== THREADING START ==========")
@@ -94,16 +108,40 @@ class MiningPortalUSK(PortalUSK):
       t.join()
     print(f"========== THREADING {t} COMPLETE ==========")
 
+def MiningAllPesertaUSK():
+  pathCourses = './COURSES USK S1'
+  pathPeserta = './PESERTA COURSES USK S1'
 
-URUTAN_FAKULTAS = {
-    # 'kip': '06',
-    'teknik': '04'
-}
-scrape = MiningPortalUSK(
-  "./TEKNIK LOAD",
-  "./TEKNIK SAVE",
-  JURUSAN_TEKNIK
-)
+  allPesertaKelas = MiningPortalUSK(
+                      pathCourses,
+                      pathPeserta,
+                      URUTAN_FAKULTAS
+                    )
+  allPesertaKelas.getAllPesertaThread()
+  """
+  untuk fakultas TEKNIK dan KIP dilakukan scapping secara terpisah
+  karena datanya terlalu besar
+  """
+  teknik = MiningPortalUSK(
+      "./TEKNIK LOAD",
+      "./TEKNIK SAVE",
+      URUTAN_FAKULTAS
+  )
 
-scrape.getAllMataKuliahProdi(codeFakultas='04')
-scrape.getAllPesertaThread()
+  teknik.mergeFromDirToJson('teknik.json', './DATABASE')
+
+  # copy datanya kedalam pathPeserta
+
+
+# URUTAN_FAKULTAS = {
+#     'kip': '06',
+#     # 'teknik': '04'
+# }
+# scrape = MiningPortalUSK(
+#   "./KIP LOAD",
+#   "./KIP SAVE",
+#   JURUSAN_KIP
+# )
+
+# scrape.getAllMataKuliahProdi(codeFakultas='06')
+# scrape.getAllPesertaThread()

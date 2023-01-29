@@ -132,14 +132,6 @@ class PortalUSK:
       except Exception as e:
         print(e)
 
-
-
-
-
-
-
-
-
     def findCourses(self, namePerson, data):
       """
       mengembalikan list matakuliah yang diambil seseorang
@@ -155,7 +147,7 @@ class PortalUSK:
                   "no": courses["no"],
                   "kode": courses["kode"],
                   "nama kelas": courses["nama kelas"],
-                  "kelas": str(int(courses['kelas'])),
+                  "kelas": str((courses['kelas'])),
                   "koordinator": courses["koordinator"],
                   "ruang": courses["ruang"],
                   "hari": courses["hari"],
@@ -189,10 +181,17 @@ class PortalUSK:
             course.append( self.findCourses(namePerson, data) )
         return course
       
-      for files in os.listdir(path):
-        data = self.loadJson(path + '/' + files)
-        course.append(self.findCourses(namePerson, data))
-      return course
+      else:
+        for files in os.listdir(path):
+          if files.endswith('.json'):
+            data = self.loadJson(path + '/' + files)
+            course.append(self.findCourses(namePerson, data))
+          else:
+            for file in os.listdir(path + '/' + files):
+              data = self.loadJson(path + '/' + files + '/' + file)
+              course.append(self.findCourses(namePerson, data))
+
+      return [i for i in course if i != []]
 
 
 
