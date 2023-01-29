@@ -191,7 +191,7 @@ class PortalUSK:
               data = self.loadJson(path + '/' + files + '/' + file)
               course.append(self.findCourses(namePerson, data))
 
-      return [i for i in course if i != []]
+      return [i for i in course if i != []][0]
 
 
 
