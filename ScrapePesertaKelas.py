@@ -108,27 +108,9 @@ class MiningPortalUSK(PortalUSK):
       t.join()
     print(f"========== THREADING {t} COMPLETE ==========")
 
-def MiningAllPesertaUSK():
-  pathCourses = './COURSES USK S1'
-  pathPeserta = './PESERTA COURSES USK S1'
+  
 
-  allPesertaKelas = MiningPortalUSK(
-                      pathCourses,
-                      pathPeserta,
-                      URUTAN_FAKULTAS
-                    )
-  allPesertaKelas.getAllPesertaThread()
-  """
-  untuk fakultas TEKNIK dan KIP dilakukan scapping secara terpisah
-  karena datanya terlalu besar
-  """
-  teknik = MiningPortalUSK(
-      "./TEKNIK LOAD",
-      "./TEKNIK SAVE",
-      URUTAN_FAKULTAS
-  )
 
-  teknik.mergeFromDirToJson('teknik.json', './DATABASE')
 
   # copy datanya kedalam pathPeserta
 

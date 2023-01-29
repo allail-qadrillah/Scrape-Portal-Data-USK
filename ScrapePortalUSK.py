@@ -5,6 +5,8 @@ import re
 import time
 import xlrd
 import json
+import shutil
+
 
 
 class PortalUSK:
@@ -191,7 +193,7 @@ class PortalUSK:
               data = self.loadJson(path + '/' + files + '/' + file)
               course.append(self.findCourses(namePerson, data))
 
-      return [i for i in course if i != []][0]
+      return [i for i in course if i != []]
 
 
 
@@ -228,3 +230,21 @@ class PortalUSK:
       worksheet= workbook.sheet_by_index(sheet)
 
       return [worksheet.row_values(i) for i in range(1, worksheet.nrows)]
+    
+    def moveFolder(self, source, destination):
+      return shutil.move(source, destination)
+
+    def createFolder(self, path):
+      return os.makedirs(path, exist_ok=True)
+    
+    def changeFileToFolder(self, path, formatFile):
+      """
+      memindahkan file menjadi kedalam folder
+      @params path: lokasi file
+      @params formatFile: format file yang akan diubah ke folder 
+      """
+      for file in os.listdir(path):
+        if file.endswith(formatFile):
+          pathMove = os.path.splitext(path + '/' + file)[0] + '/' + file
+          self.createFolder(pathMove)
+          self.moveFolder(path + '/' + file, pathMove)
