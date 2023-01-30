@@ -1,6 +1,5 @@
 import os
 import threading
-from config import URUTAN_FAKULTAS, JURUSAN_TEKNIK, JURUSAN_KIP
 
 from ScrapePortalUSK import PortalUSK
 

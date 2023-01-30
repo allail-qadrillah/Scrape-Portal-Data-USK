@@ -1,124 +1,47 @@
+import logging
+from fastapi import FastAPI
+import uvicorn
 import multiprocessing
 from ScrapePesertaKelas import MiningPortalUSK
 from ScrapePortalUSK import PortalUSK
 from timer import Timer
 import json
 import os
-from config import URUTAN_FAKULTAS, JURUSAN_TEKNIK, JURUSAN_KIP
+from config import *
 import threading
 
-@Timer
-def MiningAllPesertaUSKS1():
-  pathCourses = './COURSES USK S1'
-  pathPeserta = './PESERTA COURSES USK S1'
-  pathTeknikMK      = './Teknik MK'
-  pathTeknikPeserta = './Teknik Peserta'
-  pathKIPMK      = './KIP MK'
-  pathKIPPeserta = './KIP Peserta'
 
-  allPesertaKelas = MiningPortalUSK(
-      pathLoad    = pathCourses,
-      pathSave    = pathPeserta,
-      urutanCode  = URUTAN_FAKULTAS
-  )
-  """
-  untuk fakultas TEKNIK dan KIP dilakukan scapping secara terpisah
-  karena datanya terlalu besar
-  """
-  teknik = MiningPortalUSK(
-      pathLoad   = pathTeknikMK,
-      pathSave   = pathTeknikPeserta,
-      urutanCode = JURUSAN_TEKNIK,
-  )
-  
-  kip = MiningPortalUSK(
-      pathLoad   = pathKIPMK,
-      pathSave   = pathKIPPeserta,
-      urutanCode = JURUSAN_KIP,
-  )
-
-  allPesertaKelas.getAllMataKuliahFakultas()
-  teknik.getAllMataKuliahProdi('04')
-  kip.getAllMataKuliahProdi('06')
-
-  mpAllPesertaKelas = multiprocessing.Process(
-    target= allPesertaKelas.getAllPesertaThread
-  )
-  mpTeknik = multiprocessing.Process(
-    target= teknik.getAllPesertaThread
-  )
-  mpKIP = multiprocessing.Process(
-    target= kip.getAllPesertaThread
-  )
-
-  mpAllPesertaKelas.start()
-  mpTeknik.start()
-  mpKIP.start()
-
-  # masukkan file json kedalam folder dengan nama yang sama
-  allPesertaKelas.changeFileToFolder(pathPeserta, '.json')
-
-  # pindakan folder TEKNIK dan KIP ke path seperti yang lainnya
-  teknik.moveFolder(pathTeknikPeserta, pathCourses)
-  kip.moveFolder(pathTeknikPeserta, pathCourses)
-  
-  mpAllPesertaKelas.join()
-  mpTeknik.join()
-  mpKIP.join()
-  
 @Timer
 def MiningAllPesertaUSKS1V2():
   pathCourses = './COURSES USK S1'
   pathPeserta = './PESERTA COURSES USK S1'
-  pathTeknikMK      = './Teknik MK'
-  pathTeknikPeserta = './Teknik Peserta'
-  pathKIPMK      = './KIP MK'
-  pathKIPPeserta = './KIP Peserta'
 
-  allPesertaKelas = MiningPortalUSK(
-      pathLoad    = pathCourses,
-      pathSave    = pathPeserta,
-      urutanCode  = URUTAN_FAKULTAS
+  # FT = MiningPortalUSK(
+  #     pathLoad= pathCourses + '/FT',
+  #     pathSave= pathPeserta + 'Teknik',
+  #     urutanCode= JURUSAN_FT,
+  # )
+  # FT.getAllMataKuliahProdi(URUTAN_FAKULTAS['Teknik'])
+  # FT.getAllPesertaThread()
+  # FT.moveFolder(pathCourses + '/FT', pathPeserta + 'Teknik')
+
+  FK = MiningPortalUSK(
+      pathLoad=pathCourses + '/FK',
+      pathSave=pathPeserta + 'Kedokteran',
+      urutanCode=JURUSAN_FT,
   )
-  """
-  untuk fakultas TEKNIK dan KIP dilakukan scapping secara terpisah
-  karena datanya terlalu besar
-  """
-  teknik = MiningPortalUSK(
-      pathLoad   = pathTeknikMK,
-      pathSave   = pathTeknikPeserta,
-      urutanCode = JURUSAN_TEKNIK,
-  )
-  
-  kip = MiningPortalUSK(
-      pathLoad   = pathKIPMK,
-      pathSave   = pathKIPPeserta,
-      urutanCode = JURUSAN_KIP,
-  )
+  FK.getAllMataKuliahProdi(URUTAN_FAKULTAS['Kedokteran'])
+  FK.getAllPesertaThread()
+  FK.moveFolder(pathCourses + '/FK', pathPeserta + 'Kedokteran')
 
-  # allPesertaKelas.getAllMataKuliahFakultas()
-  # teknik.getAllMataKuliahProdi('04')
-  # kip.getAllMataKuliahProdi('06')
-
-  # allPesertaKelas.getAllPesertaThread()
-  # teknik.getAllPesertaThread()
-  # kip.getAllPesertaThread()
-
-  # masukkan file json kedalam folder dengan nama yang sama
-  # allPesertaKelas.changeFileToFolder(pathPeserta, '.json')
-
-  # pindakan folder TEKNIK dan KIP ke path seperti yang lainnya
-  # teknik.moveFolder(pathTeknikPeserta, pathCourses)
-  kip.moveFolder(pathKIPPeserta, pathCourses)
-
-import uvicorn
-from fastapi import FastAPI
 
 app = FastAPI()
-  
+
+
 @app.get('/')
 def alwaysOnReplit():
   return "online"
+
 
 @app.get('/scrape')
 def scrapping():
@@ -126,7 +49,7 @@ def scrapping():
   thread.start()
   return "mining"
 
-import logging
+
 if __name__ == "__main__":
 
  # MiningAllPesertaUSKS1()
