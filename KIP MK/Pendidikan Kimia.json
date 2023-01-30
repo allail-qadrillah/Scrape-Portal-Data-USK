@@ -1,0 +1,1446 @@
+[
+  {
+    "no": "1",
+    "kode": "EDC102",
+    "nama": "KIMIA DASAR II",
+    "kelas": "01",
+    "koordinator": "Dr. Sri Winarni, S.Pd., M.Pd.NIP. 197910162008122003",
+    "ruang": "2.09A",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "EDC102",
+    "nama": "KIMIA DASAR II",
+    "kelas": "02",
+    "koordinator": "Dr. Sri Winarni, S.Pd., M.Pd.NIP. 197910162008122003",
+    "ruang": "3.06",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "EDC102",
+    "nama": "KIMIA DASAR II",
+    "kelas": "03",
+    "koordinator": "Dr. Sri Winarni, S.Pd., M.Pd.NIP. 197910162008122003",
+    "ruang": "3.06",
+    "hari": "Sabtu",
+    "waktu": "9:50-11:30",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "EDC104",
+    "nama": "KIMIA LARUTAN",
+    "kelas": "01",
+    "koordinator": "Drs. Rusman, M.SiNIP. 196509061993031006",
+    "ruang": "2.09A",
+    "hari": "Kamis",
+    "waktu": "11:30-13:10",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "EDC104",
+    "nama": "KIMIA LARUTAN",
+    "kelas": "02",
+    "koordinator": "Drs. Rusman, M.SiNIP. 196509061993031006",
+    "ruang": "Ruang Sidang Pendidi",
+    "hari": "Jumat",
+    "waktu": "9:50-11:30",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "EDC104",
+    "nama": "KIMIA LARUTAN",
+    "kelas": "03",
+    "koordinator": "Drs. Rusman, M.SiNIP. 196509061993031006",
+    "ruang": "3.11",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC104",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "EDC106",
+    "nama": "ICT DALAM PEMBELAJARAN KIMIA",
+    "kelas": "01",
+    "koordinator": "Dr. Ibnu Khaldun, M.SiNIP. 196610101991021003",
+    "ruang": "Labkom FKIP",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "EDC106",
+    "nama": "ICT DALAM PEMBELAJARAN KIMIA",
+    "kelas": "02",
+    "koordinator": "Dr. Ibnu Khaldun, M.SiNIP. 196610101991021003",
+    "ruang": "Labkom FKIP",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "EDC106",
+    "nama": "ICT DALAM PEMBELAJARAN KIMIA",
+    "kelas": "03",
+    "koordinator": "Dr. Ibnu Khaldun, M.SiNIP. 196610101991021003",
+    "ruang": "Labkom FKIP",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC106",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "EDC108",
+    "nama": "PRAKTIKUM KIMIA DASAR",
+    "kelas": "01",
+    "koordinator": "Drs. Syahrial, M.SiNIP. 196712281993031003",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Sabtu",
+    "waktu": "14:00-16:30",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "EDC108",
+    "nama": "PRAKTIKUM KIMIA DASAR",
+    "kelas": "02",
+    "koordinator": "Drs. Syahrial, M.SiNIP. 196712281993031003",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "EDC108",
+    "nama": "PRAKTIKUM KIMIA DASAR",
+    "kelas": "03",
+    "koordinator": "Drs. Syahrial, M.SiNIP. 196712281993031003",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC108",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "EDC110",
+    "nama": "PRAKTIKUM KIMIA LARUTAN",
+    "kelas": "01",
+    "koordinator": "Drs. Rusman, M.SiNIP. 196509061993031006",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "EDC110",
+    "nama": "PRAKTIKUM KIMIA LARUTAN",
+    "kelas": "02",
+    "koordinator": "Drs. Rusman, M.SiNIP. 196509061993031006",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Kamis",
+    "waktu": "11:30-13:10",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "EDC110",
+    "nama": "PRAKTIKUM KIMIA LARUTAN",
+    "kelas": "03",
+    "koordinator": "Drs. Rusman, M.SiNIP. 196509061993031006",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "EDC112",
+    "nama": "KAJIAN BUKU AJAR KIMIA KELAS XI",
+    "kelas": "01",
+    "koordinator": "Dra. Latifah Hanum, M.Si.NIP. 196801011994032002",
+    "ruang": "2.09A",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "EDC112",
+    "nama": "KAJIAN BUKU AJAR KIMIA KELAS XI",
+    "kelas": "02",
+    "koordinator": "Dr. Sri Winarni, S.Pd., M.Pd.NIP. 197910162008122003",
+    "ruang": "3.06",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "EDC112",
+    "nama": "KAJIAN BUKU AJAR KIMIA KELAS XI",
+    "kelas": "03",
+    "koordinator": "Dra. Latifah Hanum, M.Si.NIP. 196801011994032002",
+    "ruang": "3.06",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC112",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "EDC202",
+    "nama": "KINETIKA KIMIA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. M. Hasan, M.Si.NIP. 196812311993031018",
+    "ruang": "2.09A",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "EDC202",
+    "nama": "KINETIKA KIMIA",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. M. Hasan, M.Si.NIP. 196812311993031018",
+    "ruang": "2.09A",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "EDC202",
+    "nama": "KINETIKA KIMIA",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. M. Hasan, M.Si.NIP. 196812311993031018",
+    "ruang": "2.09A",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "EDC204",
+    "nama": "KIMIA ORGANIK POLIFUNGSIONAL",
+    "kelas": "01",
+    "koordinator": "Dra. Erlidawati, M.SiNIP. 196508281991032003",
+    "ruang": "3.06",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "EDC204",
+    "nama": "KIMIA ORGANIK POLIFUNGSIONAL",
+    "kelas": "02",
+    "koordinator": "Dra. Erlidawati, M.SiNIP. 196508281991032003",
+    "ruang": "Ruang Sidang Pendidi",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "EDC204",
+    "nama": "KIMIA ORGANIK POLIFUNGSIONAL",
+    "kelas": "03",
+    "koordinator": "Dra. Erlidawati, M.SiNIP. 196508281991032003",
+    "ruang": "Ruang Sidang Pendidi",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "EDC206",
+    "nama": "EVALUASI PENGAJARAN KIMIA",
+    "kelas": "01",
+    "koordinator": "Habibati, S.Pd, M.Sc.NIP. 198111022005012003",
+    "ruang": "3.06",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "EDC206",
+    "nama": "EVALUASI PENGAJARAN KIMIA",
+    "kelas": "02",
+    "koordinator": "Habibati, S.Pd, M.Sc.NIP. 198111022005012003",
+    "ruang": "3.11",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "EDC206",
+    "nama": "EVALUASI PENGAJARAN KIMIA",
+    "kelas": "03",
+    "koordinator": "Habibati, S.Pd, M.Sc.NIP. 198111022005012003",
+    "ruang": "2.09A",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC206",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "EDC208",
+    "nama": "UNSUR DAN SENYAWA GOLONGAN UTAMA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Adlim, M.ScNIP. 196512041990031004",
+    "ruang": "3.06",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "EDC208",
+    "nama": "UNSUR DAN SENYAWA GOLONGAN UTAMA",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Adlim, M.ScNIP. 196512041990031004",
+    "ruang": "2.09A",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC208",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "EDC208",
+    "nama": "UNSUR DAN SENYAWA GOLONGAN UTAMA",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Adlim, M.ScNIP. 196512041990031004",
+    "ruang": "3.06",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC208",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "EDC210",
+    "nama": "KIMIA ANALISA KUANTITATIF",
+    "kelas": "01",
+    "koordinator": "Drs. Zulfadli, M.SiNIP. 196605021992031003",
+    "ruang": "2.09A",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC210",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "EDC210",
+    "nama": "KIMIA ANALISA KUANTITATIF",
+    "kelas": "02",
+    "koordinator": "Drs. Zulfadli, M.SiNIP. 196605021992031003",
+    "ruang": "3.06",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC210",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "EDC210",
+    "nama": "KIMIA ANALISA KUANTITATIF",
+    "kelas": "03",
+    "koordinator": "Drs. Zulfadli, M.SiNIP. 196605021992031003",
+    "ruang": "3.06",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC210",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "EDC212",
+    "nama": "PERENCANAAN PENGAJARAN KIMIA",
+    "kelas": "01",
+    "koordinator": "Dra. Latifah Hanum, M.Si.NIP. 196801011994032002",
+    "ruang": "3.06",
+    "hari": "Sabtu",
+    "waktu": "14:00-16:30",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "EDC212",
+    "nama": "PERENCANAAN PENGAJARAN KIMIA",
+    "kelas": "02",
+    "koordinator": "Dra. Latifah Hanum, M.Si.NIP. 196801011994032002",
+    "ruang": "3.11",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "EDC212",
+    "nama": "PERENCANAAN PENGAJARAN KIMIA",
+    "kelas": "03",
+    "koordinator": "Dra. Latifah Hanum, M.Si.NIP. 196801011994032002",
+    "ruang": "2.09A",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC212",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "EDC214",
+    "nama": "PRAKTIKUM KIMIA FISIK",
+    "kelas": "01",
+    "koordinator": "Drs. Rusman, M.SiNIP. 196509061993031006",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC214",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "EDC214",
+    "nama": "PRAKTIKUM KIMIA FISIK",
+    "kelas": "02",
+    "koordinator": "Drs. Rusman, M.SiNIP. 196509061993031006",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC214",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "EDC214",
+    "nama": "PRAKTIKUM KIMIA FISIK",
+    "kelas": "03",
+    "koordinator": "Drs. Rusman, M.SiNIP. 196509061993031006",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC214",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "EDC302",
+    "nama": "KIMIA ANALISA INSTRUMEN",
+    "kelas": "01",
+    "koordinator": "Drs. M. Nasir, M.SiNIP. 196402011990031002",
+    "ruang": "2.09A",
+    "hari": "Senin",
+    "waktu": "16:30-18:15",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "EDC302",
+    "nama": "KIMIA ANALISA INSTRUMEN",
+    "kelas": "02",
+    "koordinator": "Drs. M. Nasir, M.SiNIP. 196402011990031002",
+    "ruang": "3.06",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "EDC302",
+    "nama": "KIMIA ANALISA INSTRUMEN",
+    "kelas": "03",
+    "koordinator": "Drs. M. Nasir, M.SiNIP. 196402011990031002",
+    "ruang": "2.09A",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC302",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "EDC304",
+    "nama": "PRAKTIKUM KIMIA ANORGANIK",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Adlim, M.ScNIP. 196512041990031004",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC304",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "EDC304",
+    "nama": "PRAKTIKUM KIMIA ANORGANIK",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Adlim, M.ScNIP. 196512041990031004",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC304",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "EDC304",
+    "nama": "PRAKTIKUM KIMIA ANORGANIK",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Adlim, M.ScNIP. 196512041990031004",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC304",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "EDC306",
+    "nama": "PENGELOLAAN LABORATORIUM",
+    "kelas": "01",
+    "koordinator": "Drs. Zulfadli, M.SiNIP. 196605021992031003",
+    "ruang": "Ruang Sidang Pendidi",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC306",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "EDC306",
+    "nama": "PENGELOLAAN LABORATORIUM",
+    "kelas": "02",
+    "koordinator": "Drs. Zulfadli, M.SiNIP. 196605021992031003",
+    "ruang": "Ruang Sidang Pendidi",
+    "hari": "Selasa",
+    "waktu": "9:50-11:30",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC306",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "EDC306",
+    "nama": "PENGELOLAAN LABORATORIUM",
+    "kelas": "03",
+    "koordinator": "Drs. Zulfadli, M.SiNIP. 196605021992031003",
+    "ruang": "3.06",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC306",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "EDC308",
+    "nama": "SPEKTROSKOPI MOLEKUL",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. M. Hasan, M.Si.NIP. 196812311993031018",
+    "ruang": "3.11",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC308",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "EDC308",
+    "nama": "SPEKTROSKOPI MOLEKUL",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. M. Hasan, M.Si.NIP. 196812311993031018",
+    "ruang": "Ruang Sidang Pendidi",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC308",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "EDC308",
+    "nama": "SPEKTROSKOPI MOLEKUL",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. M. Hasan, M.Si.NIP. 196812311993031018",
+    "ruang": "3.06",
+    "hari": "Kamis",
+    "waktu": "11:30-13:10",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC308",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "EDC310",
+    "nama": "PRAKTIKUM KIMIA ANALITIK",
+    "kelas": "01",
+    "koordinator": "Drs. M. Nasir, M.SiNIP. 196402011990031002",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC310",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "EDC310",
+    "nama": "PRAKTIKUM KIMIA ANALITIK",
+    "kelas": "02",
+    "koordinator": "Drs. M. Nasir, M.SiNIP. 196402011990031002",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC310",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "EDC310",
+    "nama": "PRAKTIKUM KIMIA ANALITIK",
+    "kelas": "03",
+    "koordinator": "Drs. M. Nasir, M.SiNIP. 196402011990031002",
+    "ruang": "Lab. Pend. Kimia I",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC310",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "EDC312",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "01",
+    "koordinator": "Drs. M. Nasir, M.SiNIP. 196402011990031002",
+    "ruang": "2.09A",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC312",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "EDC312",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "02",
+    "koordinator": "Drs. M. Nasir, M.SiNIP. 196402011990031002",
+    "ruang": "2.09A",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC312",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "EDC312",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "03",
+    "koordinator": "Drs. M. Nasir, M.SiNIP. 196402011990031002",
+    "ruang": "2.09A",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC312",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "EDC502",
+    "nama": "ELEKTROKIMIA",
+    "kelas": "01",
+    "koordinator": "Dr. Ibnu Khaldun, M.SiNIP. 196610101991021003",
+    "ruang": "3.06",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "1",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC502",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "EDC508",
+    "nama": "BIOTEKNOLOGI",
+    "kelas": "01",
+    "koordinator": "Dra. Erlidawati, M.SiNIP. 196508281991032003",
+    "ruang": "3.11",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "15",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC508",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "EDC510",
+    "nama": "KIMIA PERMUKAAN DAN PADATAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. M. Hasan, M.Si.NIP. 196812311993031018",
+    "ruang": "3.11",
+    "hari": "Jumat",
+    "waktu": "09:50-11:30",
+    "peserta": "1",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC510",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "EDC512",
+    "nama": "KIMIA KITOSAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Adlim, M.ScNIP. 196512041990031004",
+    "ruang": "3.06",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC512",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "EDC514",
+    "nama": "KIMIA ORGANIK BAHAN ALAM",
+    "kelas": "01",
+    "koordinator": "Drs. Syahrial, M.SiNIP. 196712281993031003",
+    "ruang": "2.09A",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDC514",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "EDCP10",
+    "nama": "KIMIA LINGKUNGAN",
+    "kelas": "01",
+    "koordinator": "Dr. Abdul Gani, M.SiNIP. 196612051991031003",
+    "ruang": "3.11",
+    "hari": "Sabtu",
+    "waktu": "11:30-13:10",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDCP10",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Dra. Sulastri, M.SiNIP. 196808111992032001",
+    "ruang": "2.09A",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Dra. Sulastri, M.SiNIP. 196808111992032001",
+    "ruang": "3.06",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Dra. Sulastri, M.SiNIP. 196808111992032001",
+    "ruang": "3.11",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "01",
+    "koordinator": "Dr. Dra. Sulastri, M.SiNIP. 196808111992032001",
+    "ruang": "2.09A",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "02",
+    "koordinator": "Dr. Dra. Sulastri, M.SiNIP. 196808111992032001",
+    "ruang": "3.11",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "03",
+    "koordinator": "Dr. Dra. Sulastri, M.SiNIP. 196808111992032001",
+    "ruang": "2.09A",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Drs. Syahrial, M.SiNIP. 196712281993031003",
+    "ruang": "3.11",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "11",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Drs. Syahrial, M.SiNIP. 196712281993031003",
+    "ruang": "2.09A",
+    "hari": "Kamis",
+    "waktu": "9:50-11:30",
+    "peserta": "18",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Drs. Syahrial, M.SiNIP. 196712281993031003",
+    "ruang": "2.09A",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "01",
+    "koordinator": "Drs. Syahrial, M.SiNIP. 196712281993031003",
+    "ruang": "Lapangan",
+    "hari": "Senin",
+    "waktu": "8:00-18:00",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "EDUP09",
+    "nama": "PLP II",
+    "kelas": "01",
+    "koordinator": "Drs. Syahrial, M.SiNIP. 196712281993031003",
+    "ruang": "Lapangan",
+    "hari": "Senin",
+    "waktu": "8:00-18:00",
+    "peserta": "1",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDUP09",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "EDUPA1",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Drs. Syahrial, M.SiNIP. 196712281993031003",
+    "ruang": "Lapangan",
+    "hari": "Senin",
+    "waktu": "8:00-18:00",
+    "peserta": "108",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "EDUPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Drs. Syahrial, M.SiNIP. 196712281993031003",
+    "ruang": "Lapangan",
+    "hari": "Senin",
+    "waktu": "8:00-18:00",
+    "peserta": "2",
+    "keterangan": "KIPS1Pendidikan Kimia",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610304"
+    }
+  }
+]

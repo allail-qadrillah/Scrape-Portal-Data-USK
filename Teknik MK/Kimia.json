@@ -1,0 +1,1351 @@
+[
+  {
+    "no": "1",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Sri Aprilia, M.TNIP. 196704121993032001",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "TEK102",
+    "nama": "MATEMATIKA II",
+    "kelas": "11",
+    "koordinator": "Zuhra, ST., M.ScNIP. 197403181999032001",
+    "ruang": "A21-202",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK102",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "TEK102",
+    "nama": "MATEMATIKA II",
+    "kelas": "12",
+    "koordinator": "Hisbullah, S.T., M.Eng.ScNIP. 197007131997021002",
+    "ruang": "A21-202",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK102",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "TEK102",
+    "nama": "MATEMATIKA II",
+    "kelas": "13",
+    "koordinator": "Mirna Rahmah Lubis, ST., MSNIP. 197710012003122001",
+    "ruang": "RKTK",
+    "hari": "Senin",
+    "waktu": "14:00-11:05",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK102",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "TEK104",
+    "nama": "KIMIA ANALISIS II",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Cut Meurah Rosnelly, M.TNIP. 196801091994032003",
+    "ruang": "A21-201",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK104",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "TEK104",
+    "nama": "KIMIA ANALISIS II",
+    "kelas": "12",
+    "koordinator": "Dr. Umi Fathanah, S.T., M.T.NIP. 197404032000122001",
+    "ruang": "A21-202",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK104",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "TEK104",
+    "nama": "KIMIA ANALISIS II",
+    "kelas": "13",
+    "koordinator": "Ir. Pocut Nurul Alam, M.T.NIP. 196608221997022002",
+    "ruang": "RB 4A",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK104",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "TEK106",
+    "nama": "PRAKTIKUM ANALISIS BAHAN",
+    "kelas": "11",
+    "koordinator": "Zuhra, ST., M.ScNIP. 197403181999032001",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "88",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK106",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "TEK108",
+    "nama": "KIMIA ORGANIK II",
+    "kelas": "11",
+    "koordinator": "Dr. Umi Fathanah, S.T., M.T.NIP. 197404032000122001",
+    "ruang": "A21-201",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK108",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "TEK108",
+    "nama": "KIMIA ORGANIK II",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Ir. Sri Mulyati, ST, MTNIP. 197302272000122001",
+    "ruang": "A21-202",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK108",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "TEK108",
+    "nama": "KIMIA ORGANIK II",
+    "kelas": "13",
+    "koordinator": "Suraiya, S.T., MTNIP. 196806031998022001",
+    "ruang": "RKTK",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK108",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "TEK110",
+    "nama": "KIMIA FISIKA",
+    "kelas": "11",
+    "koordinator": "Lia Mairiza, S.T.MTNIP. 197405232000032001",
+    "ruang": "A25-201",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK110",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "TEK110",
+    "nama": "KIMIA FISIKA",
+    "kelas": "12",
+    "koordinator": "Dr. Fachrul Razi, ST., M.TNIP. 197610182006041003",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK110",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "TEK110",
+    "nama": "KIMIA FISIKA",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. M. Faisal, ST., M.EngNIP. 197309061998021001",
+    "ruang": "RKTK",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "33",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK110",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "TEK112",
+    "nama": "PENGANTAR TEKNIK KIMIA",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Syaubari, M.ScNIP. 196508041992031002",
+    "ruang": "A21-201",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK112",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "TEK112",
+    "nama": "PENGANTAR TEKNIK KIMIA",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Ir. Medyan Riza, M.EngNIP. 195901151985031003",
+    "ruang": "A21-202",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK112",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "TEK112",
+    "nama": "PENGANTAR TEKNIK KIMIA",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Yunardi, MA.ScNIP. 196009151988101001",
+    "ruang": "RKTK",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "33",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK112",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "TEK114",
+    "nama": "PENGETAHUAN BAHAN KONSTRUKSI TEKNIK KIMIA",
+    "kelas": "11",
+    "koordinator": "Ir. Mukhlishien, M.Eng.ScNIP. 196208021992031003",
+    "ruang": "A21-201",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK114",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "TEK114",
+    "nama": "PENGETAHUAN BAHAN KONSTRUKSI TEKNIK KIMIA",
+    "kelas": "12",
+    "koordinator": "Sofyana, S.T., M.T.NIP. 197106261998022001",
+    "ruang": "A21-202",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK114",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "TEK114",
+    "nama": "PENGETAHUAN BAHAN KONSTRUKSI TEKNIK KIMIA",
+    "kelas": "13",
+    "koordinator": "Dr. Ir. Asri Gani, M.EngNIP. 196603121998021001",
+    "ruang": "RKTK",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK114",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "TEK202",
+    "nama": "PROSES INDUSTRI KIMIA II",
+    "kelas": "11",
+    "koordinator": "Ir. Pocut Nurul Alam, M.T.NIP. 196608221997022002",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK202",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "TEK202",
+    "nama": "PROSES INDUSTRI KIMIA II",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Ir. Husni Husin, M.T.NIP. 196506011994122001",
+    "ruang": "A21-201",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK202",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "TEK202",
+    "nama": "PROSES INDUSTRI KIMIA II",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Syahiddin DS, M.T.NIP. 195512051987021001",
+    "ruang": "A25-201",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "21",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK202",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "TEK203",
+    "nama": "MATEMATIKA III",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Suhendrayatna, M.EngNIP. 196701011993031004",
+    "ruang": "A21-201",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK203",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "TEK204",
+    "nama": "OPERASI TEKNIK KIMIA II",
+    "kelas": "11",
+    "koordinator": "Lia Mairiza, S.T.MTNIP. 197405232000032001",
+    "ruang": "D3-Z",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK204",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "TEK204",
+    "nama": "OPERASI TEKNIK KIMIA II",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Ir. Syahiddin DS, M.T.NIP. 195512051987021001",
+    "ruang": "JTK",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "21",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK204",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "TEK204",
+    "nama": "OPERASI TEKNIK KIMIA II",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Suhendrayatna, M.EngNIP. 196701011993031004",
+    "ruang": "A21-201",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK204",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "TEK206",
+    "nama": "TERMODINAMIKA TEKNIK KIMIA I",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Syahiddin DS, M.T.NIP. 195512051987021001",
+    "ruang": "RKTK",
+    "hari": "Senin",
+    "waktu": "08:00-10:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK206",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "TEK206",
+    "nama": "TERMODINAMIKA TEKNIK KIMIA I",
+    "kelas": "12",
+    "koordinator": "Dr. Farid Mulana, S.T., M.EngNIP. 197202081997021001",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Selasa",
+    "waktu": "08:00-10:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK206",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "TEK206",
+    "nama": "TERMODINAMIKA TEKNIK KIMIA I",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Mahidin, S.T., M.T.NIP. 197004031995121001",
+    "ruang": "RKTK",
+    "hari": "Rabu",
+    "waktu": "08:00-10:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK206",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "TEK208",
+    "nama": "KINETIKA DAN KATALISA",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. H. Komala PontasNIP. 195805261987021001",
+    "ruang": "A23-205",
+    "hari": "Senin",
+    "waktu": "10:45-13:45",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK208",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "TEK208",
+    "nama": "KINETIKA DAN KATALISA",
+    "kelas": "12",
+    "koordinator": "Dr. Ir. Yanna Syamsuddin, M.ScNIP. 196901131998022001",
+    "ruang": "D3-X",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK208",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "TEK208",
+    "nama": "KINETIKA DAN KATALISA",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Husni Husin, M.T.NIP. 196506011994122001",
+    "ruang": "A23-205",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK208",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "TEK210",
+    "nama": "MATEMATIKA TEKNIK KIMIA",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Darmadi, M.T.NIP. 196603231993031003",
+    "ruang": "A21-201",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK210",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "TEK210",
+    "nama": "MATEMATIKA TEKNIK KIMIA",
+    "kelas": "12",
+    "koordinator": "Dr. Fauzi, ST, MT.NIP. 197008111998031003",
+    "ruang": "A21-202",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK210",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "TEK210",
+    "nama": "MATEMATIKA TEKNIK KIMIA",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Muhammad Dani Supardan, ST., MTNIP. 197207102000031002",
+    "ruang": "A23-204",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "34",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK210",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "TEK212",
+    "nama": "PRAKTIKUM TEKNIK KIMIA I",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Adisalamun, M.T.NIP. 196705271993031003",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Selasa",
+    "waktu": "10:30-12:00",
+    "peserta": "75",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK212",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "TEK214",
+    "nama": "OPERASI TEKNIK KIMIA III",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Suhendrayatna, M.EngNIP. 196701011993031004",
+    "ruang": "A21-201",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK214",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "TEK214",
+    "nama": "OPERASI TEKNIK KIMIA III",
+    "kelas": "12",
+    "koordinator": "Dr. Mukramah, S.T.NIP. 199206102020011101",
+    "ruang": "A21-202",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "17",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK214",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "TEK214",
+    "nama": "OPERASI TEKNIK KIMIA III",
+    "kelas": "13",
+    "koordinator": "Dr. Ir. Jakfar, M.SiNIP. 195905091991031002",
+    "ruang": "JTK",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK214",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "TEK302",
+    "nama": "KEWIRAUSAHAAN DAN PROFESIONALISME",
+    "kelas": "11",
+    "koordinator": "Dr. Syaifullah, ST, M.EngNIP. 197105151999031001",
+    "ruang": "A21-203",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "32",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK302",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "TEK302",
+    "nama": "KEWIRAUSAHAAN DAN PROFESIONALISME",
+    "kelas": "12",
+    "koordinator": "Ir. Anwar Thaib, M.ScNIP. 195904181988111001",
+    "ruang": "JTK",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK302",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "TEK302",
+    "nama": "KEWIRAUSAHAAN DAN PROFESIONALISME",
+    "kelas": "13",
+    "koordinator": "Suraiya, S.T., MTNIP. 196806031998022001",
+    "ruang": "JTK",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK302",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "TEK304",
+    "nama": "TEKNOLOGI BUANGAN INDUSTRI",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Nasrul, ST, MTNIP. 197210202000121001",
+    "ruang": "A21-201",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK304",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "TEK304",
+    "nama": "TEKNOLOGI BUANGAN INDUSTRI",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Ir. Izarul Machdar, M.EngNIP. 196509201992031003",
+    "ruang": "A21-202",
+    "hari": "Rabu",
+    "waktu": "08:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK304",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "TEK304",
+    "nama": "TEKNOLOGI BUANGAN INDUSTRI",
+    "kelas": "13",
+    "koordinator": "Sofyana, S.T., M.T.NIP. 197106261998022001",
+    "ruang": "RKTK",
+    "hari": "Rabu",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK304",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "TEK306",
+    "nama": "EKONOMI TEKNIK",
+    "kelas": "11",
+    "koordinator": "Ir. Anwar Thaib, M.ScNIP. 195904181988111001",
+    "ruang": "A21-201",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK306",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "TEK306",
+    "nama": "EKONOMI TEKNIK",
+    "kelas": "12",
+    "koordinator": "Dr. Fachrul Razi, ST., M.TNIP. 197610182006041003",
+    "ruang": "RKTK",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK306",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "TEK306",
+    "nama": "EKONOMI TEKNIK",
+    "kelas": "13",
+    "koordinator": "Wahyu Rinaldi, ST, M. ScNIP. 198101062006041001",
+    "ruang": "A21-202",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK306",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "TEK308",
+    "nama": "DINAMIKA DAN PENGENDALIAN PROSES",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Abrar Muslim, S.T., M.Eng.NIP. 197205251999031002",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK308",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "TEK308",
+    "nama": "DINAMIKA DAN PENGENDALIAN PROSES",
+    "kelas": "12",
+    "koordinator": "Hisbullah, S.T., M.Eng.ScNIP. 197007131997021002",
+    "ruang": "A12-303",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK308",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "TEK308",
+    "nama": "DINAMIKA DAN PENGENDALIAN PROSES",
+    "kelas": "13",
+    "koordinator": "Dr. Azwar, ST, M.Eng.ScNIP. 197005211998021001",
+    "ruang": "A25-203",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK308",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "TEK310",
+    "nama": "SINTESIS PROSES",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Izarul Machdar, M.EngNIP. 196509201992031003",
+    "ruang": "A14-303",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "21",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK310",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "TEK310",
+    "nama": "SINTESIS PROSES",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Ir. Sri Mulyati, ST, MTNIP. 197302272000122001",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK310",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "TEK310",
+    "nama": "SINTESIS PROSES",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Mariana, M.SiNIP. 196707151993032003",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK310",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "TEK312",
+    "nama": "MENGGAMBAR TEKNIK",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Suhendrayatna, M.EngNIP. 196701011993031004",
+    "ruang": " A21-202",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK312",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "TEK312",
+    "nama": "MENGGAMBAR TEKNIK",
+    "kelas": "12",
+    "koordinator": "Wahyu Rinaldi, ST, M. ScNIP. 198101062006041001",
+    "ruang": "A21-201",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK312",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "TEK312",
+    "nama": "MENGGAMBAR TEKNIK",
+    "kelas": "13",
+    "koordinator": "Dr. Ir. Asri Gani, M.EngNIP. 196603121998021001",
+    "ruang": "RKTK",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK312",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "TEK314",
+    "nama": "METODOLOGI PENELITIAN+SEMINAR PROPOSAL",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Sri Aprilia, M.TNIP. 196704121993032001",
+    "ruang": "D3-W",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK314",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "TEK314",
+    "nama": "METODOLOGI PENELITIAN+SEMINAR PROPOSAL",
+    "kelas": "12",
+    "koordinator": "Dr. Hesti Meilina, ST., M.SiNIP. 197605052003122001",
+    "ruang": "RKGB1",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK314",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "TEK314",
+    "nama": "METODOLOGI PENELITIAN+SEMINAR PROPOSAL",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Muhammad Dani Supardan, ST., MTNIP. 197207102000031002",
+    "ruang": "RKGB2",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK314",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "TEK316",
+    "nama": "REKAYASA BIOPROSES",
+    "kelas": "11",
+    "koordinator": "Dr. Nasrullah, ST, MTNIP. 196805071997021001",
+    "ruang": "A23-205",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "43",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK316",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "TEK318",
+    "nama": "TEKNOLOGI PENGOLAHAN LIMBAH CAIR DOMESTIK",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Izarul Machdar, M.EngNIP. 196509201992031003",
+    "ruang": "A23-205",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK318",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "TEK320",
+    "nama": "TEKNOLOGI FERMENTASI",
+    "kelas": "11",
+    "koordinator": "Ir. Anwar Thaib, M.ScNIP. 195904181988111001",
+    "ruang": "RKTK",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "18",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK320",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "TEK322",
+    "nama": "PENGENALAN PROSES AEROBIK DAN ANAEROBIK",
+    "kelas": "11",
+    "koordinator": "Dr. Umi Fathanah, S.T., M.T.NIP. 197404032000122001",
+    "ruang": "A23-205",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK322",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "TEK324",
+    "nama": "PENGENDALIAN PENCEMARAN UDARA",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Asri Gani, M.EngNIP. 196603121998021001",
+    "ruang": "A23-205",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK324",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "TEK326",
+    "nama": "PENGOLAHAN LIMBAH PADAT",
+    "kelas": "11",
+    "koordinator": "Dr.Ir. Edi Munawar, S.T., M.EngNIP. 196912101998021001",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "7",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEK326",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "TEKP02",
+    "nama": "UJIAN KOMPREHENSIF",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Izarul Machdar, M.EngNIP. 196509201992031003",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "43",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEKP02",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "TEKP04",
+    "nama": "KERJA PRAKTEK",
+    "kelas": "11",
+    "koordinator": "Zuhra, ST., M.ScNIP. 197403181999032001",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Rabu",
+    "waktu": "10:00-12:30",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEKP04",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "TEKPA1",
+    "nama": "PENELITIAN",
+    "kelas": "11",
+    "koordinator": "Sofyana, S.T., M.T.NIP. 197106261998022001",
+    "ruang": "RKTK",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "39",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEKPA1",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "TEKPA2",
+    "nama": "TUGAS AKHIR (PRARANCANGAN PABRIK)",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Yanna Syamsuddin, M.ScNIP. 196901131998022001",
+    "ruang": "Jurusan T.Kimia",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "88",
+    "keterangan": "TeknikS1Teknik Kimia",
+    "kode-peserta": {
+      "data-kode": "TEKPA2",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410301"
+    }
+  }
+]

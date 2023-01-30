@@ -25,6 +25,10 @@ class PortalUSK:
         return result
       return wrapper
 
+    def write_txt_file(self, file_name, text):
+         with open(file_name, 'a') as f:
+            f.write(text + '\n')
+
     @timer
     def getPesertaKelas(self, semester, jenjang, pembatasan, kode, kelas, peserta = 1, delay = 1, notResponse = 10) -> 'list':
       """
@@ -67,7 +71,7 @@ class PortalUSK:
                 print("--------------- Skip Kelas --------------- ")
                 break
               time.sleep(delay)
-
+        self.write_txt_file('log kip.txt', f"Scrapping Student Course {kelas} kode {kode}")
         return [
             {
                 "no": listStudent[i],

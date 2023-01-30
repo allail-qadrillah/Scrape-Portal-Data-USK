@@ -1,0 +1,1712 @@
+[
+  {
+    "no": "1",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "16",
+    "koordinator": "Sarika Zuhri, S.T., M.T.NIP. 198908142019032019",
+    "ruang": "PRODI TI",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "40",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "17",
+    "koordinator": "Sarika Zuhri, S.T., M.T.NIP. 198908142019032019",
+    "ruang": "PRODI TI",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "40",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "FTT302",
+    "nama": "TECHNOPRENEURSHIP",
+    "kelas": "18",
+    "koordinator": "Friesca Erwan, S.T., MProjMgtNIP. 198405172019011101",
+    "ruang": "RB - 2A",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "40",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "FTT302",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "11",
+    "koordinator": "Ir. Ilyas, M.T.NIP. 196302061991021001",
+    "ruang": "PRODI",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "73",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "TIU102",
+    "nama": "KALKULUS II",
+    "kelas": "11",
+    "koordinator": "T. Murdani Saputra, S.Pd., M.SiNIP. 199008212019031007",
+    "ruang": "RB - 2A",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "34",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU102",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "TIU102",
+    "nama": "KALKULUS II",
+    "kelas": "12",
+    "koordinator": "T. Murdani Saputra, S.Pd., M.SiNIP. 199008212019031007",
+    "ruang": "PRODI TI",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU102",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "TIU102",
+    "nama": "KALKULUS II",
+    "kelas": "13",
+    "koordinator": "Muhammad Ikhwan, M.SiNIP. 199110152022031007",
+    "ruang": "RB- 2A",
+    "hari": "Rabu",
+    "waktu": "16:30-19:00",
+    "peserta": "33",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU102",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "TIU104",
+    "nama": "FISIKA DASAR II + PRAKTIKUM",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Adi Rahwanto, M.Eng.ScNIP. 196008091987031003",
+    "ruang": "PRODI TI",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU104",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "TIU104",
+    "nama": "FISIKA DASAR II + PRAKTIKUM",
+    "kelas": "12",
+    "koordinator": "Zulfalina, S.Si., M.SiNIP. 197507072002122001",
+    "ruang": "PRODI TI",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU104",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "TIU104",
+    "nama": "FISIKA DASAR II + PRAKTIKUM",
+    "kelas": "13",
+    "koordinator": "Evi Yufita, S.Si., M.SiNIP. 197509202000122001",
+    "ruang": "PRODI TI",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU104",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "TIU106",
+    "nama": "STATISTIK INDUSTRI I",
+    "kelas": "11",
+    "koordinator": "Sarika Zuhri, S.T., M.T.NIP. 198908142019032019",
+    "ruang": "PRODI TI",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU106",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "TIU106",
+    "nama": "STATISTIK INDUSTRI I",
+    "kelas": "12",
+    "koordinator": "Friesca Erwan, S.T., MProjMgtNIP. 198405172019011101",
+    "ruang": "PRODI TI",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU106",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "TIU106",
+    "nama": "STATISTIK INDUSTRI I",
+    "kelas": "13",
+    "koordinator": "Nur Izzaty, S.T.,M.Sc.EngNIP. 198408072019032011",
+    "ruang": "RB - 1 A",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU106",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "TIU108",
+    "nama": "MEKANIKA TEKNIK",
+    "kelas": "11",
+    "koordinator": "Dr. Irwansyah, ST, M.EngNIP. 197609182002121004",
+    "ruang": "PRODI TI",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU108",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "TIU108",
+    "nama": "MEKANIKA TEKNIK",
+    "kelas": "12",
+    "koordinator": "Awal Aflizal Zubir, S.T., M.ScNIP. 199104092021021101",
+    "ruang": "RB - 3B",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU108",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "TIU108",
+    "nama": "MEKANIKA TEKNIK",
+    "kelas": "13",
+    "koordinator": "Amir Zaki Mubarak, S.T, M. ScNIP. 197910122006041002",
+    "ruang": "PRODI TI",
+    "hari": "Selasa",
+    "waktu": "10:45-13:00",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU108",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "TIU110",
+    "nama": "MATRIKS DAN RUANG VEKTOR",
+    "kelas": "11",
+    "koordinator": "Vera Halfiani, S.Si., M.MatNIP. 198910062019032014",
+    "ruang": "D3 - Z",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU110",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "TIU110",
+    "nama": "MATRIKS DAN RUANG VEKTOR",
+    "kelas": "12",
+    "koordinator": "Vera Halfiani, S.Si., M.MatNIP. 198910062019032014",
+    "ruang": "PRODI TI",
+    "hari": "Senin",
+    "waktu": "16:30-19:00",
+    "peserta": "36",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU110",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "TIU110",
+    "nama": "MATRIKS DAN RUANG VEKTOR",
+    "kelas": "13",
+    "koordinator": "Vera Halfiani, S.Si., M.MatNIP. 198910062019032014",
+    "ruang": "RK GB 1",
+    "hari": "Jumat",
+    "waktu": "10:00-12:30",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU110",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "TIU202",
+    "nama": "PEMROGRAMAN  + PRAKTIKUM",
+    "kelas": "11",
+    "koordinator": "Sayed Muchallil, S.T., M. ScNIP. 198006162005011002",
+    "ruang": "RB 2A",
+    "hari": "Sabtu",
+    "waktu": "14:00-16:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU202",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "TIU202",
+    "nama": "PEMROGRAMAN  + PRAKTIKUM",
+    "kelas": "12",
+    "koordinator": "Sayed Muchallil, S.T., M. ScNIP. 198006162005011002",
+    "ruang": "RK GB 1",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU202",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "TIU202",
+    "nama": "PEMROGRAMAN  + PRAKTIKUM",
+    "kelas": "13",
+    "koordinator": "Yudha Nurdin, ST.,MTNIP. 197910012010121002",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU202",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "TIU204",
+    "nama": "PENELITIAN OPERASIONAL I",
+    "kelas": "11",
+    "koordinator": "Sri Rahmawati, S.T., M.TNIP. 199401092019032012",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU204",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "TIU204",
+    "nama": "PENELITIAN OPERASIONAL I",
+    "kelas": "12",
+    "koordinator": "Raihan Dara Lufika, S.T., M.ScNIP. 199412282020122004",
+    "ruang": "RB - 6A",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU204",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "TIU204",
+    "nama": "PENELITIAN OPERASIONAL I",
+    "kelas": "13",
+    "koordinator": "Riski Arifin, M.T.NIP. 199505272022031011",
+    "ruang": "PRODI TI",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU204",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "TIU206",
+    "nama": "PEMODELAN SISTEM",
+    "kelas": "11",
+    "koordinator": "Sri Rahmawati, S.T., M.TNIP. 199401092019032012",
+    "ruang": "PRODI TI",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU206",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "TIU206",
+    "nama": "PEMODELAN SISTEM",
+    "kelas": "12",
+    "koordinator": "Raihan Dara Lufika, S.T., M.ScNIP. 199412282020122004",
+    "ruang": "PRODI TI",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU206",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "TIU206",
+    "nama": "PEMODELAN SISTEM",
+    "kelas": "13",
+    "koordinator": "Riski Arifin, M.T.NIP. 199505272022031011",
+    "ruang": "PRODI TI",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU206",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "TIU208",
+    "nama": "ELEKTRONIKA INDUSTRI",
+    "kelas": "11",
+    "koordinator": "Ir. Syahriza, M.EngNIP. 196708081994031005",
+    "ruang": "PRODI TI",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU208",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "TIU208",
+    "nama": "ELEKTRONIKA INDUSTRI",
+    "kelas": "12",
+    "koordinator": "Awal Aflizal Zubir, S.T., M.ScNIP. 199104092021021101",
+    "ruang": "PRODI TI",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU208",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "TIU208",
+    "nama": "ELEKTRONIKA INDUSTRI",
+    "kelas": "13",
+    "koordinator": "Awal Aflizal Zubir, S.T., M.ScNIP. 199104092021021101",
+    "ruang": "RB - 2A",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU208",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "TIU210",
+    "nama": "PERANCANGAN SISTEM KERJA",
+    "kelas": "11",
+    "koordinator": "Sri Rahmawati, S.T., M.TNIP. 199401092019032012",
+    "ruang": "PRODI TI",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU210",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "TIU210",
+    "nama": "PERANCANGAN SISTEM KERJA",
+    "kelas": "12",
+    "koordinator": "Dr. Ir. Iskandar, ST.M.Eng.Sc., IPM., ASEAN EngNIP. 197303041998021002",
+    "ruang": "RK GB 2",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU210",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "TIU210",
+    "nama": "PERANCANGAN SISTEM KERJA",
+    "kelas": "13",
+    "koordinator": "Friesca Erwan, S.T., MProjMgtNIP. 198405172019011101",
+    "ruang": "PRODI TI",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU210",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "TIU212",
+    "nama": "ANALISIS DAN ESTIMASI BIAYA",
+    "kelas": "11",
+    "koordinator": "Didi Asmadi, S.T.P., M.T., IPM.NIP. 198405132019031006",
+    "ruang": "PRODI TI",
+    "hari": "Rabu",
+    "waktu": "10:30-12:25",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU212",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "TIU212",
+    "nama": "ANALISIS DAN ESTIMASI BIAYA",
+    "kelas": "12",
+    "koordinator": "Sri Rahmawati, S.T., M.TNIP. 199401092019032012",
+    "ruang": "RB - 2A",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU212",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "TIU212",
+    "nama": "ANALISIS DAN ESTIMASI BIAYA",
+    "kelas": "13",
+    "koordinator": "Didi Asmadi, S.T.P., M.T., IPM.NIP. 198405132019031006",
+    "ruang": "RK GB 1",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU212",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "TIU214",
+    "nama": "PSIKOLOGI INDUSTRI",
+    "kelas": "11",
+    "koordinator": "Sri Rahmawati, S.T., M.TNIP. 199401092019032012",
+    "ruang": "RB - 2A",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU214",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "TIU214",
+    "nama": "PSIKOLOGI INDUSTRI",
+    "kelas": "12",
+    "koordinator": "Didi Asmadi, S.T.P., M.T., IPM.NIP. 198405132019031006",
+    "ruang": "PRODI TI",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU214",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "TIU214",
+    "nama": "PSIKOLOGI INDUSTRI",
+    "kelas": "13",
+    "koordinator": "Didi Asmadi, S.T.P., M.T., IPM.NIP. 198405132019031006",
+    "ruang": "RB - 2A",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "23",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU214",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "TIU216",
+    "nama": "KESELAMATAN DAN KESEHATAN KERJA",
+    "kelas": "11",
+    "koordinator": "Suhendrianto, ST, M. Sc.NIP. 197712092006041001",
+    "ruang": "PRODI TI",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU216",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "TIU216",
+    "nama": "KESELAMATAN DAN KESEHATAN KERJA",
+    "kelas": "12",
+    "koordinator": "Suhendrianto, ST, M. Sc.NIP. 197712092006041001",
+    "ruang": "RB - 6A",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU216",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "TIU216",
+    "nama": "KESELAMATAN DAN KESEHATAN KERJA",
+    "kelas": "13",
+    "koordinator": "Suhendrianto, ST, M. Sc.NIP. 197712092006041001",
+    "ruang": "PRODI TI",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU216",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "TIU302",
+    "nama": "MANAJEMEN PROYEK",
+    "kelas": "11",
+    "koordinator": "Awal Aflizal Zubir, S.T., M.ScNIP. 199104092021021101",
+    "ruang": "PRODI TI",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "33",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU302",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "TIU302",
+    "nama": "MANAJEMEN PROYEK",
+    "kelas": "12",
+    "koordinator": "Friesca Erwan, S.T., MProjMgtNIP. 198405172019011101",
+    "ruang": "PRODI TI",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "32",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU302",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "TIU302",
+    "nama": "MANAJEMEN PROYEK",
+    "kelas": "13",
+    "koordinator": "Dr. Hasan Yudie Sastra, DEANIP. 195703302022051101",
+    "ruang": "RB - 1A",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU302",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "TIU304",
+    "nama": "SISTEM PRODUKSI",
+    "kelas": "11",
+    "koordinator": "Raihan Dara Lufika, S.T., M.ScNIP. 199412282020122004",
+    "ruang": "PRODI TI",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU304",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "TIU304",
+    "nama": "SISTEM PRODUKSI",
+    "kelas": "12",
+    "koordinator": "Riski Arifin, M.T.NIP. 199505272022031011",
+    "ruang": "PRODI TI",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU304",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "TIU304",
+    "nama": "SISTEM PRODUKSI",
+    "kelas": "13",
+    "koordinator": "Riski Arifin, M.T.NIP. 199505272022031011",
+    "ruang": "RB - 5A",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU304",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "TIU306",
+    "nama": "PRAKTIKUM TERINTEGRASI",
+    "kelas": "11",
+    "koordinator": "Raihan Dara Lufika, S.T., M.ScNIP. 199412282020122004",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "10:00-12:30",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU306",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "TIU306",
+    "nama": "PRAKTIKUM TERINTEGRASI",
+    "kelas": "12",
+    "koordinator": "Riski Arifin, M.T.NIP. 199505272022031011",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "10:00-12:30",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU306",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "TIU306",
+    "nama": "PRAKTIKUM TERINTEGRASI",
+    "kelas": "13",
+    "koordinator": "Friesca Erwan, S.T., MProjMgtNIP. 198405172019011101",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "10:00-12:30",
+    "peserta": "33",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU306",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "TIU308",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "11",
+    "koordinator": "Sarika Zuhri, S.T., M.T.NIP. 198908142019032019",
+    "ruang": "PRODI TI",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU308",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "TIU308",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "12",
+    "koordinator": "Nur Izzaty, S.T.,M.Sc.EngNIP. 198408072019032011",
+    "ruang": "PRODI TI",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU308",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "TIU308",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "13",
+    "koordinator": "Friesca Erwan, S.T., MProjMgtNIP. 198405172019011101",
+    "ruang": "RB - 6A",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "33",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU308",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "TIU310",
+    "nama": "PENGENDALIAN DAN PENJAMINAN MUTU",
+    "kelas": "11",
+    "koordinator": "Ir. Ilyas, M.T.NIP. 196302061991021001",
+    "ruang": "D3 - W",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "40",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU310",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "TIU310",
+    "nama": "PENGENDALIAN DAN PENJAMINAN MUTU",
+    "kelas": "12",
+    "koordinator": "Ir. Ilyas, M.T.NIP. 196302061991021001",
+    "ruang": "PRODI TI",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "37",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU310",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "TIU310",
+    "nama": "PENGENDALIAN DAN PENJAMINAN MUTU",
+    "kelas": "13",
+    "koordinator": "Sarika Zuhri, S.T., M.T.NIP. 198908142019032019",
+    "ruang": "RK GB 2",
+    "hari": "Jumat",
+    "waktu": "10:00-12:30",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU310",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "TIU312",
+    "nama": "ANALISIS DAN PERANCANGAN SISTEM INFORMASI + PRAKTIKUM",
+    "kelas": "11",
+    "koordinator": "Sri Rahmawati, S.T., M.TNIP. 199401092019032012",
+    "ruang": "RK GB 1",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "29",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU312",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "TIU312",
+    "nama": "ANALISIS DAN PERANCANGAN SISTEM INFORMASI + PRAKTIKUM",
+    "kelas": "12",
+    "koordinator": "Nur Izzaty, S.T.,M.Sc.EngNIP. 198408072019032011",
+    "ruang": "D3 - W",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "35",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU312",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "TIU312",
+    "nama": "ANALISIS DAN PERANCANGAN SISTEM INFORMASI + PRAKTIKUM",
+    "kelas": "13",
+    "koordinator": "Sri Rahmawati, S.T., M.TNIP. 199401092019032012",
+    "ruang": "RK GB 1",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "31",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU312",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "TIU314",
+    "nama": "MANAJEMEN RANTAI PASOK",
+    "kelas": "11",
+    "koordinator": "Raihan Dara Lufika, S.T., M.ScNIP. 199412282020122004",
+    "ruang": "A12 - 301 B",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "37",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU314",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "TIU314",
+    "nama": "MANAJEMEN RANTAI PASOK",
+    "kelas": "12",
+    "koordinator": "Raihan Dara Lufika, S.T., M.ScNIP. 199412282020122004",
+    "ruang": "RB - 4A",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "37",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU314",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "TIU314",
+    "nama": "MANAJEMEN RANTAI PASOK",
+    "kelas": "13",
+    "koordinator": "Raihan Dara Lufika, S.T., M.ScNIP. 199412282020122004",
+    "ruang": "RK GB 1",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIU314",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "TIUP01",
+    "nama": "KERJA PRAKTEK",
+    "kelas": "11",
+    "koordinator": "Sarika Zuhri, S.T., M.T.NIP. 198908142019032019",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP01",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "TIUP10",
+    "nama": "ERGONOMI UNTUK PERANCANGAN",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Iskandar, ST.M.Eng.Sc., IPM., ASEAN EngNIP. 197303041998021002",
+    "ruang": "A23-204",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "7",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP10",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "TIUP11",
+    "nama": "DESIGN FOR MANUFACTURE, ASSEMBLY & ENVIRONMENT",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Mohd. Iqbal, M.T.NIP. 196706081994031003",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP11",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "TIUP12",
+    "nama": "REKAYASA CONCURRENT",
+    "kelas": "11",
+    "koordinator": "Edy Fradinata, ST., M.T., Ph.D. IPMNIP. 196911182017091101",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP12",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "TIUP13",
+    "nama": "MANUFAKTUR RAMPING",
+    "kelas": "11",
+    "koordinator": "Ir. Ilyas, M.T.NIP. 196302061991021001",
+    "ruang": "RB 1 A",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "4",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP13",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "TIUP14",
+    "nama": "SISTEM MANUFAKTUR TERINTEGRASI KOMPUTER",
+    "kelas": "11",
+    "koordinator": "Ir. Syahriza, M.EngNIP. 196708081994031005",
+    "ruang": "PRODI TI",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "7",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP14",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "TIUP15",
+    "nama": "MANUFAKTUR BERKELANJUTAN",
+    "kelas": "11",
+    "koordinator": "Suhendrianto, ST, M. Sc.NIP. 197712092006041001",
+    "ruang": "RB - 2A",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP15",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "TIUP16",
+    "nama": "MANAJEMEN TEKNOLOGI DAN INOVASI",
+    "kelas": "11",
+    "koordinator": "Suhendrianto, ST, M. Sc.NIP. 197712092006041001",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "6",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP16",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "TIUP17",
+    "nama": "TEKNIK KEANDALAN DAN PERAWATAN",
+    "kelas": "11",
+    "koordinator": "Awal Aflizal Zubir, S.T., M.ScNIP. 199104092021021101",
+    "ruang": "PRODI TI",
+    "hari": "Senin",
+    "waktu": "16:30-19:00",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP17",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "TIUP18",
+    "nama": "PEMASARAN INDUSTRI",
+    "kelas": "11",
+    "koordinator": "Dr. Hasan Yudie Sastra, DEANIP. 195703302022051101",
+    "ruang": "A12 - 302",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP18",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "TIUP19",
+    "nama": "PENINGKATAN KUALITAS",
+    "kelas": "11",
+    "koordinator": "Sarika Zuhri, S.T., M.T.NIP. 198908142019032019",
+    "ruang": "PRODI TI",
+    "hari": "Rabu",
+    "waktu": "08:00-10:30",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP19",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "TIUP20",
+    "nama": "SISTEM DAN KEBIJAKAN INDUSTRI",
+    "kelas": "11",
+    "koordinator": "Ir. Ilyas, M.T.NIP. 196302061991021001",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "37",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP20",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "TIUP21",
+    "nama": "STRATEGI KOMPETITIF",
+    "kelas": "11",
+    "koordinator": "Dr. Hasan Yudie Sastra, DEANIP. 195703302022051101",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "4",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP21",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "TIUP22",
+    "nama": "PENGAMBILAN KEPUTUSAN MULTI KRITERIA",
+    "kelas": "11",
+    "koordinator": "Didi Asmadi, S.T.P., M.T., IPM.NIP. 198405132019031006",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP22",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "TIUP23",
+    "nama": "SISTEM INVENTORI",
+    "kelas": "11",
+    "koordinator": "Raihan Dara Lufika, S.T., M.ScNIP. 199412282020122004",
+    "ruang": "PRODI TI",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "13",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP23",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "TIUP24",
+    "nama": "METAHEURISTIK",
+    "kelas": "11",
+    "koordinator": "Edy Fradinata, ST., M.T., Ph.D. IPMNIP. 196911182017091101",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP24",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "TIUP25",
+    "nama": "MANAJEMEN KINERJA",
+    "kelas": "11",
+    "koordinator": "Didi Asmadi, S.T.P., M.T., IPM.NIP. 198405132019031006",
+    "ruang": "PRODI TI",
+    "hari": "Selasa",
+    "waktu": "16:35-19:00",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP25",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "TIUP26",
+    "nama": "DESIGN OF EXPERIMENT",
+    "kelas": "11",
+    "koordinator": "Sarika Zuhri, S.T., M.T.NIP. 198908142019032019",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP26",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "TIUP27",
+    "nama": "REKAYASA PRODUKTIVITAS",
+    "kelas": "11",
+    "koordinator": "Edy Fradinata, ST., M.T., Ph.D. IPMNIP. 196911182017091101",
+    "ruang": "PRODI TI",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "12",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP27",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "TIUP29",
+    "nama": "REKAYASA PROSES BISNIS",
+    "kelas": "11",
+    "koordinator": "Sri Rahmawati, S.T., M.TNIP. 199401092019032012",
+    "ruang": "PRODI TI",
+    "hari": "Rabu",
+    "waktu": "16:30-19:00",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP29",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "TIUP31",
+    "nama": "SISTEM DINAMIK",
+    "kelas": "11",
+    "koordinator": "Ir. Ilyas, M.T.NIP. 196302061991021001",
+    "ruang": "PRODI TI",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP31",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "TIUP33",
+    "nama": "ENTERPRISE RESOURCE PLANNING SYSTEM",
+    "kelas": "11",
+    "koordinator": "Nur Izzaty, S.T.,M.Sc.EngNIP. 198408072019032011",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP33",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "TIUP35",
+    "nama": "DATA ANALITIK",
+    "kelas": "11",
+    "koordinator": "Riski Arifin, M.T.NIP. 199505272022031011",
+    "ruang": "PRODI TI",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "7",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP35",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "TIUP37",
+    "nama": "PERANCANGAN E-BISNIS",
+    "kelas": "11",
+    "koordinator": "Sri Rahmawati, S.T., M.TNIP. 199401092019032012",
+    "ruang": "RB - 2A",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "4",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUP37",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "TIUPA1",
+    "nama": "PROPOSAL TUGAS AKHIR",
+    "kelas": "11",
+    "koordinator": "Riski Arifin, M.T.NIP. 199505272022031011",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "08:00-09:00",
+    "peserta": "82",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUPA1",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "TIUPA2",
+    "nama": "TUGAS AKHIR",
+    "kelas": "11",
+    "koordinator": "Riski Arifin, M.T.NIP. 199505272022031011",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "109",
+    "keterangan": "TeknikS1Teknik Industri",
+    "kode-peserta": {
+      "data-kode": "TIUPA2",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410601"
+    }
+  }
+]
