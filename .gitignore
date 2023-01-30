@@ -1,2 +1,10 @@
 __pycache__
 .vscode
+
+.breakpoints
+.replit
+poetry.lock
+pyproject.toml
+replit.nix
+
+__pycache__
