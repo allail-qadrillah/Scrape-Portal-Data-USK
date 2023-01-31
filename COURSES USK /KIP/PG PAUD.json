@@ -1,0 +1,1541 @@
+[
+  {
+    "no": "1",
+    "kode": "ECE102",
+    "nama": "PSIKOLOGI PERKEMBANGAN AUD",
+    "kelas": "01",
+    "koordinator": "Dina Amalia, S.Psi., M.Sc.NIP. 198907292017032101",
+    "ruang": "2.03A",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "ECE102",
+    "nama": "PSIKOLOGI PERKEMBANGAN AUD",
+    "kelas": "02",
+    "koordinator": "Dina Amalia, S.Psi., M.Sc.NIP. 198907292017032101",
+    "ruang": "2.03A",
+    "hari": "Kamis",
+    "waktu": "10:40-13:10",
+    "peserta": "28",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "ECE102",
+    "nama": "PSIKOLOGI PERKEMBANGAN AUD",
+    "kelas": "03",
+    "koordinator": "Dina Amalia, S.Psi., M.Sc.NIP. 198907292017032101",
+    "ruang": "1.04",
+    "hari": "Sabtu",
+    "waktu": "10:40-13:10",
+    "peserta": "23",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "ECE104",
+    "nama": "MATEMATIKA UNTUK AUD",
+    "kelas": "01",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "2.03A",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "ECE104",
+    "nama": "MATEMATIKA UNTUK AUD",
+    "kelas": "02",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "2.03A",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "28",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "ECE104",
+    "nama": "MATEMATIKA UNTUK AUD",
+    "kelas": "03",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "2.03A",
+    "hari": "Kamis",
+    "waktu": "16:20-18:10",
+    "peserta": "25",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE104",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "ECE106",
+    "nama": "PENGEMBANGAN KEMAMPUAN BAHASA AUD",
+    "kelas": "01",
+    "koordinator": "Siti Naila Fauzia, S.Pd.,M.Pd.NIP. 198910302019032012",
+    "ruang": "2.03A",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "31",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "ECE106",
+    "nama": "PENGEMBANGAN KEMAMPUAN BAHASA AUD",
+    "kelas": "02",
+    "koordinator": "Siti Naila Fauzia, S.Pd.,M.Pd.NIP. 198910302019032012",
+    "ruang": "2.03A",
+    "hari": "Senin",
+    "waktu": "10:40-13:10",
+    "peserta": "33",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "ECE106",
+    "nama": "PENGEMBANGAN KEMAMPUAN BAHASA AUD",
+    "kelas": "03",
+    "koordinator": "Siti Naila Fauzia, S.Pd.,M.Pd.NIP. 198910302019032012",
+    "ruang": "1.04",
+    "hari": "Sabtu",
+    "waktu": "10:40-13:10",
+    "peserta": "27",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE106",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "ECE108",
+    "nama": "PENDIDIKAN KARAKTER",
+    "kelas": "01",
+    "koordinator": "Rahmi, S.Pd.I., M.Ed.NIP. 198111192017032101",
+    "ruang": "2.3A",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "ECE108",
+    "nama": "PENDIDIKAN KARAKTER",
+    "kelas": "02",
+    "koordinator": "Rahmi, S.Pd.I., M.Ed.NIP. 198111192017032101",
+    "ruang": "2.3A",
+    "hari": "Selasa",
+    "waktu": "14:00-17:10",
+    "peserta": "28",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "ECE108",
+    "nama": "PENDIDIKAN KARAKTER",
+    "kelas": "03",
+    "koordinator": "Rahmi, S.Pd.I., M.Ed.NIP. 198111192017032101",
+    "ruang": "2.03A",
+    "hari": "Rabu",
+    "waktu": "10:40-13:10",
+    "peserta": "28",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE108",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "ECE202",
+    "nama": "PERENCANAAN PEMBELAJARAN PAUD",
+    "kelas": "01",
+    "koordinator": "Dr. Dra. Israwati, M.SiNIP. 195908261987032002",
+    "ruang": "1.04",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "27",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "ECE202",
+    "nama": "PERENCANAAN PEMBELAJARAN PAUD",
+    "kelas": "02",
+    "koordinator": "Dr. Dra. Israwati, M.SiNIP. 195908261987032002",
+    "ruang": "1.04",
+    "hari": "Senin",
+    "waktu": "10:40-13:10",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "ECE202",
+    "nama": "PERENCANAAN PEMBELAJARAN PAUD",
+    "kelas": "03",
+    "koordinator": "Dr. Dra. Israwati, M.SiNIP. 195908261987032002",
+    "ruang": "2.03A",
+    "hari": "Rabu",
+    "waktu": "14:00-17:10",
+    "peserta": "27",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "ECE202",
+    "nama": "PERENCANAAN PEMBELAJARAN PAUD",
+    "kelas": "04",
+    "koordinator": "Dr. Dra. Israwati, M.SiNIP. 195908261987032002",
+    "ruang": "LAB PAUD",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "21",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE202",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "ECE202",
+    "nama": "PERENCANAAN PEMBELAJARAN PAUD",
+    "kelas": "05",
+    "koordinator": "Dr. Dra. Israwati, M.SiNIP. 195908261987032002",
+    "ruang": "LAB PAUD",
+    "hari": "Senin",
+    "waktu": "10:40-13:10",
+    "peserta": "25",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE202",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "ECE202",
+    "nama": "PERENCANAAN PEMBELAJARAN PAUD",
+    "kelas": "06",
+    "koordinator": "Dr. Dra. Israwati, M.SiNIP. 195908261987032002",
+    "ruang": "2.06A",
+    "hari": "Rabu",
+    "waktu": "10:40-13:10",
+    "peserta": "30",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE202",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "ECE204",
+    "nama": "SENI MENDIDIK AUD",
+    "kelas": "01",
+    "koordinator": "Rosmiati, S.Pd.I., M.Ed.NIP. 198211022016012101",
+    "ruang": "2.03A",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "ECE204",
+    "nama": "SENI MENDIDIK AUD",
+    "kelas": "02",
+    "koordinator": "Rosmiati, S.Pd.I., M.Ed.NIP. 198211022016012101",
+    "ruang": "2.03A",
+    "hari": "Sabtu",
+    "waktu": "10:40-13:10",
+    "peserta": "24",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "ECE204",
+    "nama": "SENI MENDIDIK AUD",
+    "kelas": "03",
+    "koordinator": "Rosmiati, S.Pd.I., M.Ed.NIP. 198211022016012101",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "27",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "ECE206",
+    "nama": "PEMBELAJARAN TARI",
+    "kelas": "01",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "1.04",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "ECE206",
+    "nama": "PEMBELAJARAN TARI",
+    "kelas": "02",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "1.04",
+    "hari": "Kamis",
+    "waktu": "10:40-13:10",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "ECE206",
+    "nama": "PEMBELAJARAN TARI",
+    "kelas": "03",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE206",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "ECE206",
+    "nama": "PEMBELAJARAN TARI",
+    "kelas": "04",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "LAB PAUD",
+    "hari": "Kamis",
+    "waktu": "10:40-13:10",
+    "peserta": "27",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE206",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "ECE206",
+    "nama": "PEMBELAJARAN TARI",
+    "kelas": "05",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "LAB PAUD",
+    "hari": "Rabu",
+    "waktu": "08:40-10:30",
+    "peserta": "30",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE206",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "ECE206",
+    "nama": "PEMBELAJARAN TARI",
+    "kelas": "06",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "LAB PAUD",
+    "hari": "Selasa",
+    "waktu": "08:40-10:30",
+    "peserta": "22",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE206",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "ECE208",
+    "nama": "STATISTIKA",
+    "kelas": "01",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "1.04",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "ECE208",
+    "nama": "STATISTIKA",
+    "kelas": "02",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "1.04",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "27",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE208",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "ECE208",
+    "nama": "STATISTIKA",
+    "kelas": "03",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "2.03A",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE208",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "ECE210",
+    "nama": "METODE PENELITIAN KUALITATIF",
+    "kelas": "01",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "1.04",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE210",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "ECE210",
+    "nama": "METODE PENELITIAN KUALITATIF",
+    "kelas": "02",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "1.04",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "30",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE210",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "ECE210",
+    "nama": "METODE PENELITIAN KUALITATIF",
+    "kelas": "03",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "1.04",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "30",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE210",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "ECE212",
+    "nama": "PERMAINAN  AUD",
+    "kelas": "01",
+    "koordinator": "Siti Naila Fauzia, S.Pd.,M.Pd.NIP. 198910302019032012",
+    "ruang": "2.3A",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "ECE212",
+    "nama": "PERMAINAN  AUD",
+    "kelas": "02",
+    "koordinator": "Siti Naila Fauzia, S.Pd.,M.Pd.NIP. 198910302019032012",
+    "ruang": "2.3A",
+    "hari": "Selasa",
+    "waktu": "10:40-13:10",
+    "peserta": "28",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "ECE212",
+    "nama": "PERMAINAN  AUD",
+    "kelas": "03",
+    "koordinator": "Siti Naila Fauzia, S.Pd.,M.Pd.NIP. 198910302019032012",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Jumat",
+    "waktu": "14:00-17:10",
+    "peserta": "27",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE212",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "ECE214",
+    "nama": "PENGEMBANGAN MEDIA PEMBELAJARAN ANAK USIA DINI",
+    "kelas": "01",
+    "koordinator": "Sitti Muliya Rizka, S.Pd, M.Ed.NIP. 198907192019032022",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE214",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "ECE214",
+    "nama": "PENGEMBANGAN MEDIA PEMBELAJARAN ANAK USIA DINI",
+    "kelas": "02",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Rabu",
+    "waktu": "10:40-13:10",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE214",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "ECE214",
+    "nama": "PENGEMBANGAN MEDIA PEMBELAJARAN ANAK USIA DINI",
+    "kelas": "03",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Senin",
+    "waktu": "12:00-12:00",
+    "peserta": "27",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE214",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "ECE214",
+    "nama": "PENGEMBANGAN MEDIA PEMBELAJARAN ANAK USIA DINI",
+    "kelas": "04",
+    "koordinator": "Sitti Muliya Rizka, S.Pd, M.Ed.NIP. 198907192019032022",
+    "ruang": "2.06A",
+    "hari": "Rabu",
+    "waktu": "08:00-10:30",
+    "peserta": "23",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE214",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "ECE214",
+    "nama": "PENGEMBANGAN MEDIA PEMBELAJARAN ANAK USIA DINI",
+    "kelas": "05",
+    "koordinator": "Sitti Muliya Rizka, S.Pd, M.Ed.NIP. 198907192019032022",
+    "ruang": "LAB PAUD",
+    "hari": "Kamis",
+    "waktu": "14:40-17:10",
+    "peserta": "30",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE214",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "ECE214",
+    "nama": "PENGEMBANGAN MEDIA PEMBELAJARAN ANAK USIA DINI",
+    "kelas": "06",
+    "koordinator": "Sitti Muliya Rizka, S.Pd, M.Ed.NIP. 198907192019032022",
+    "ruang": "LAB PAUD",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "22",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE214",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "ECE304",
+    "nama": "PENGEMBANGAN PROGRAM KERJA PAUD",
+    "kelas": "01",
+    "koordinator": "Rahmatun Nessa, S.Pd., M.Ed.NIP. 199511072020032101",
+    "ruang": "2.03A",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE304",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "ECE304",
+    "nama": "PENGEMBANGAN PROGRAM KERJA PAUD",
+    "kelas": "02",
+    "koordinator": "Rahmatun Nessa, S.Pd., M.Ed.NIP. 199511072020032101",
+    "ruang": "2.03A",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "24",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE304",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "ECE304",
+    "nama": "PENGEMBANGAN PROGRAM KERJA PAUD",
+    "kelas": "03",
+    "koordinator": "Mutmainnah, S.Pd., M.Pd.NIP. 199412302021022101",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE304",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "ECE304",
+    "nama": "PENGEMBANGAN PROGRAM KERJA PAUD",
+    "kelas": "04",
+    "koordinator": "Rahmatun Nessa, S.Pd., M.Ed.NIP. 199511072020032101",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE304",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "ECE306",
+    "nama": "PENELITIAN TINDAKAN KELAS",
+    "kelas": "01",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "1.04",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "23",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE306",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "ECE306",
+    "nama": "PENELITIAN TINDAKAN KELAS",
+    "kelas": "02",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "1.04",
+    "hari": "Selasa",
+    "waktu": "10:40-13:10",
+    "peserta": "26",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE306",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "ECE306",
+    "nama": "PENELITIAN TINDAKAN KELAS",
+    "kelas": "03",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "1.04",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "25",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE306",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "ECE306",
+    "nama": "PENELITIAN TINDAKAN KELAS",
+    "kelas": "04",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Senin",
+    "waktu": "14:00-17:10",
+    "peserta": "18",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE306",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "ECE308",
+    "nama": "TATA RIAS DAN BUSANA ANAK",
+    "kelas": "01",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "1.04",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "27",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE308",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "ECE308",
+    "nama": "TATA RIAS DAN BUSANA ANAK",
+    "kelas": "02",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "1.04",
+    "hari": "Rabu",
+    "waktu": "10:40-13:10",
+    "peserta": "30",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE308",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "ECE308",
+    "nama": "TATA RIAS DAN BUSANA ANAK",
+    "kelas": "03",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "1.04",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "26",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE308",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "ECE308",
+    "nama": "TATA RIAS DAN BUSANA ANAK",
+    "kelas": "04",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "25",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE308",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "ECE308",
+    "nama": "TATA RIAS DAN BUSANA ANAK",
+    "kelas": "05",
+    "koordinator": "Taat Kurnita Yeniningsih, S.Pd, M.PdNIP. 197101201998032001",
+    "ruang": "LAB PAUD",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "31",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE308",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "ECE405",
+    "nama": "PENDIDIKAN DALAM KELUARGA DAN MASYARAKAT",
+    "kelas": "01",
+    "koordinator": "Siti Naila Fauzia, S.Pd.,M.Pd.NIP. 198910302019032012",
+    "ruang": "LAB. PAUD",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:30",
+    "peserta": "0",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE405",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "ECE405",
+    "nama": "PENDIDIKAN DALAM KELUARGA DAN MASYARAKAT",
+    "kelas": "02",
+    "koordinator": "Siti Naila Fauzia, S.Pd.,M.Pd.NIP. 198910302019032012",
+    "ruang": "LAB. PAUD",
+    "hari": "Sabtu",
+    "waktu": "10:40-13:10",
+    "peserta": "2",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE405",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "ECE502",
+    "nama": "PENGASUHAN AUD",
+    "kelas": "01",
+    "koordinator": "Siti Naila Fauzia, S.Pd.,M.Pd.NIP. 198910302019032012",
+    "ruang": "2.03A",
+    "hari": "Jumat",
+    "waktu": "10:40-12:20",
+    "peserta": "27",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE502",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "ECE504",
+    "nama": "PERTOLONGAN PERTAMA PADA KECELAKAAN (P3K)",
+    "kelas": "01",
+    "koordinator": "Rosmiati, S.Pd.I., M.Ed.NIP. 198211022016012101",
+    "ruang": "LAB. PAUD",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "16",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE504",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "ECE506",
+    "nama": "KEWIRAUSAHAAN",
+    "kelas": "01",
+    "koordinator": "Mutmainnah, S.Pd., M.Pd.NIP. 199412302021022101",
+    "ruang": "LAB. PAUD",
+    "hari": "Jumat",
+    "waktu": "10:40-12:20",
+    "peserta": "16",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE506",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "ECE508",
+    "nama": "KETERLIBATAN ORANGTUA DI PAUD",
+    "kelas": "01",
+    "koordinator": "Rahmi, S.Pd.I., M.Ed.NIP. 198111192017032101",
+    "ruang": "LAB. PAUD",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE508",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "ECE510",
+    "nama": "PEMBELAJARAN FIQIH UNTUK AUD",
+    "kelas": "01",
+    "koordinator": "Rahmi, S.Pd.I., M.Ed.NIP. 198111192017032101",
+    "ruang": "LAB. PAUD",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "22",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE510",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "ECE512",
+    "nama": "PEMBELAJARAN BAHASA DAERAH",
+    "kelas": "01",
+    "koordinator": "Rahmi, S.Pd.I., M.Ed.NIP. 198111192017032101",
+    "ruang": "LAB PAUD",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECE512",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "ECEP02",
+    "nama": "SEMINAR PAUD",
+    "kelas": "01",
+    "koordinator": "Dr. Drs. Bahrun, M.PdNIP. 195908241987021001",
+    "ruang": "RKU LT II 14. 02. 00",
+    "hari": "Selasa",
+    "waktu": "14:00-15:30",
+    "peserta": "23",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECEP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "ECEP02",
+    "nama": "SEMINAR PAUD",
+    "kelas": "02",
+    "koordinator": "Dr. Drs. Bahrun, M.PdNIP. 195908241987021001",
+    "ruang": "RKU LT II 14. 02. 00",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "23",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECEP02",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "ECEP02",
+    "nama": "SEMINAR PAUD",
+    "kelas": "03",
+    "koordinator": "Dr. Drs. Bahrun, M.PdNIP. 195908241987021001",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "22",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECEP02",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "ECEP02",
+    "nama": "SEMINAR PAUD",
+    "kelas": "04",
+    "koordinator": "Dr. Drs. Bahrun, M.PdNIP. 195908241987021001",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Kamis",
+    "waktu": "09:40-11:30",
+    "peserta": "19",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "ECEP02",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Drs. Bahrun, M.PdNIP. 195908241987021001",
+    "ruang": "1.04",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Drs. Bahrun, M.PdNIP. 195908241987021001",
+    "ruang": "1.04",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "26",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Drs. Bahrun, M.PdNIP. 195908241987021001",
+    "ruang": "1.04",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "01",
+    "koordinator": "Dr. Dra. Israwati, M.SiNIP. 195908261987032002",
+    "ruang": "2.03A",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "02",
+    "koordinator": "Dr. Dra. Israwati, M.SiNIP. 195908261987032002",
+    "ruang": "2.03A",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "28",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "03",
+    "koordinator": "Dr. Dra. Israwati, M.SiNIP. 195908261987032002",
+    "ruang": "1.04",
+    "hari": "Kamis",
+    "waktu": "10:40-12:20",
+    "peserta": "25",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Khairuddin, M.PdNIP. 195903111985031002",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Khairuddin, M.PdNIP. 195903111985031002",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "25",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Dra. Israwati, M.SiNIP. 195908261987032002",
+    "ruang": "RKU 14. 02. 007",
+    "hari": "Jumat",
+    "waktu": "10:40-12:10",
+    "peserta": "20",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "EDU302",
+    "nama": "PENGAJARAN MIKRO",
+    "kelas": "01",
+    "koordinator": "Rahmi, S.Pd.I., M.Ed.NIP. 198111192017032101",
+    "ruang": "MTL",
+    "hari": "Senin",
+    "waktu": "14:00-17:10",
+    "peserta": "5",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDU302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "01",
+    "koordinator": "Dra. Erni Maidiyah, M.PdNIP. 196405071989032001",
+    "ruang": "LAPANGAN",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "3",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "EDUP09",
+    "nama": "PLP II",
+    "kelas": "01",
+    "koordinator": "Dra. Erni Maidiyah, M.PdNIP. 196405071989032001",
+    "ruang": "LAPANGAN",
+    "hari": "Sabtu",
+    "waktu": "9:40-11:30",
+    "peserta": "3",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDUP09",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "EDUPA1",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "LAPANGAN",
+    "hari": "Sabtu",
+    "waktu": "14:00-16:00",
+    "peserta": "119",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "EDUPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "LAPANGAN",
+    "hari": "Sabtu",
+    "waktu": "11:30-13:09",
+    "peserta": "6",
+    "keterangan": "KIPS1PG PAUD",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610421"
+    }
+  }
+]

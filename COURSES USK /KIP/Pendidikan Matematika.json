@@ -1,0 +1,2206 @@
+[
+  {
+    "no": "1",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "G. Baru 3:02",
+    "hari": "Selasa",
+    "waktu": "14:00-16:00",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "15:01:005",
+    "hari": "Selasa",
+    "waktu": "16:30-18:00",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "2:04A",
+    "hari": "Jumat",
+    "waktu": "11:30-12:40",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "04",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "3:02",
+    "hari": "Senin",
+    "waktu": "11:30-13:10",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "01",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "LAB MAT",
+    "hari": "Selasa",
+    "waktu": "14:40-15:40",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "02",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "LAB MAT",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "03",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "3:10",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "04",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "3:02",
+    "hari": "Rabu",
+    "waktu": "16:20-16:00",
+    "peserta": "8",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "3:02",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "15:03:004",
+    "hari": "Selasa",
+    "waktu": "16:00-18:00",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Dra. Suryawati, M.PdNIP. 196307171987032001",
+    "ruang": "3:10",
+    "hari": "Jumat",
+    "waktu": "10:30-12:10",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "04",
+    "koordinator": "Dra. Suryawati, M.PdNIP. 196307171987032001",
+    "ruang": "2:04A",
+    "hari": "Sabtu",
+    "waktu": "09:40-11:30",
+    "peserta": "7",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "EDU302",
+    "nama": "PENGAJARAN MIKRO",
+    "kelas": "01",
+    "koordinator": "Dr. Drs. Anwar, M.Pd.NIP. 196603221991021001",
+    "ruang": "MIKRO",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "5",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "EDU302",
+    "nama": "PENGAJARAN MIKRO",
+    "kelas": "02",
+    "koordinator": "Dr. Drs. Anwar, M.Pd.NIP. 196603221991021001",
+    "ruang": "MIKRO",
+    "hari": "Rabu",
+    "waktu": "10:30-13:10",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDU302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "01",
+    "koordinator": "Dra. Erni Maidiyah, M.PdNIP. 196405071989032001",
+    "ruang": "MIKRO",
+    "hari": "Sabtu",
+    "waktu": "10:30-13:10",
+    "peserta": "3",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "EDUP09",
+    "nama": "PLP II",
+    "kelas": "01",
+    "koordinator": "Dra. Suryawati, M.PdNIP. 196307171987032001",
+    "ruang": "MIKRO",
+    "hari": "Senin",
+    "waktu": "12:00-12:00",
+    "peserta": "2",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDUP09",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "EDUP09",
+    "nama": "PLP II",
+    "kelas": "03",
+    "koordinator": "Dra. Suryawati, M.PdNIP. 196307171987032001",
+    "ruang": "MIKRO",
+    "hari": "Selasa",
+    "waktu": "13:00-14:00",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDUP09",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "EDUPA1",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Dr. M. Ikhsan, M.PdNIP. 196407221989031002",
+    "ruang": "PRODI",
+    "hari": "Kamis",
+    "waktu": "13:00-14:00",
+    "peserta": "142",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "EDUPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Dra. Suryawati, M.PdNIP. 196307171987032001",
+    "ruang": "LAPANGAN",
+    "hari": "Sabtu",
+    "waktu": "13:00-14:00",
+    "peserta": "3",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "PMA106",
+    "nama": "KALKULUS INTEGRAL",
+    "kelas": "01",
+    "koordinator": "Dr. Usman, S.Pd., M.Pd.NIP. 197412312001121003",
+    "ruang": "3:02",
+    "hari": "Selasa",
+    "waktu": "8:00-10:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "PMA106",
+    "nama": "KALKULUS INTEGRAL",
+    "kelas": "02",
+    "koordinator": "Dr. Usman, S.Pd., M.Pd.NIP. 197412312001121003",
+    "ruang": "3:10",
+    "hari": "Rabu",
+    "waktu": "14:00-17:10",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "PMA106",
+    "nama": "KALKULUS INTEGRAL",
+    "kelas": "03",
+    "koordinator": "Dr. Usman, S.Pd., M.Pd.NIP. 197412312001121003",
+    "ruang": "2:04A",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA106",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "PMA106",
+    "nama": "KALKULUS INTEGRAL",
+    "kelas": "04",
+    "koordinator": "Dr. Usman, S.Pd., M.Pd.NIP. 197412312001121003",
+    "ruang": "2:04A",
+    "hari": "Kamis",
+    "waktu": "14:00-17:10",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA106",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "PMA108",
+    "nama": "TEORI HIMPUNAN",
+    "kelas": "01",
+    "koordinator": "Dra. Bintang Zaura, M.PdNIP. 196311091991032001",
+    "ruang": "3:10",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "PMA108",
+    "nama": "TEORI HIMPUNAN",
+    "kelas": "02",
+    "koordinator": "Dra. Bintang Zaura, M.PdNIP. 196311091991032001",
+    "ruang": "3:02",
+    "hari": "Selasa",
+    "waktu": "11:30-12:10",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "PMA108",
+    "nama": "TEORI HIMPUNAN",
+    "kelas": "03",
+    "koordinator": "Dra. Bintang Zaura, M.PdNIP. 196311091991032001",
+    "ruang": "2:04A",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "14",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA108",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "PMA108",
+    "nama": "TEORI HIMPUNAN",
+    "kelas": "04",
+    "koordinator": "Dra. Bintang Zaura, M.PdNIP. 196311091991032001",
+    "ruang": "2:04A",
+    "hari": "Sabtu",
+    "waktu": "09:40-11:30",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA108",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "PMA110",
+    "nama": "FILSAFAT DAN SEJARAH MATEMATIKA",
+    "kelas": "01",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "3:02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:30",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "PMA110",
+    "nama": "FILSAFAT DAN SEJARAH MATEMATIKA",
+    "kelas": "02",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "3:10",
+    "hari": "Jumat",
+    "waktu": "16:30-18:00",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "PMA110",
+    "nama": "FILSAFAT DAN SEJARAH MATEMATIKA",
+    "kelas": "03",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "Lab Mat",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "18",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "PMA110",
+    "nama": "FILSAFAT DAN SEJARAH MATEMATIKA",
+    "kelas": "04",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "Lab Mat",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA110",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "PMA112",
+    "nama": "PENGANTAR APLIKASI KOMPUTER",
+    "kelas": "01",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "LAB 2:07",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "PMA112",
+    "nama": "PENGANTAR APLIKASI KOMPUTER",
+    "kelas": "02",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "LAB 2:09",
+    "hari": "Sabtu",
+    "waktu": "09:40-11:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "PMA112",
+    "nama": "PENGANTAR APLIKASI KOMPUTER",
+    "kelas": "03",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "3:10",
+    "hari": "Jumat",
+    "waktu": "16:30-16:00",
+    "peserta": "12",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA112",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "PMA112",
+    "nama": "PENGANTAR APLIKASI KOMPUTER",
+    "kelas": "04",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "LAB 2:08",
+    "hari": "Sabtu",
+    "waktu": "11:30-13:10",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA112",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "PMA114",
+    "nama": "GEOMETRI ANALITIK",
+    "kelas": "01",
+    "koordinator": "Dr. M. Ikhsan, M.PdNIP. 196407221989031002",
+    "ruang": "3:02",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA114",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "PMA114",
+    "nama": "GEOMETRI ANALITIK",
+    "kelas": "02",
+    "koordinator": "Dr. M. Ikhsan, M.PdNIP. 196407221989031002",
+    "ruang": "3:02",
+    "hari": "Senin",
+    "waktu": "10:40-13:10",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA114",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "PMA114",
+    "nama": "GEOMETRI ANALITIK",
+    "kelas": "03",
+    "koordinator": "Dr. M. Ikhsan, M.PdNIP. 196407221989031002",
+    "ruang": "2:04A",
+    "hari": "Rabu",
+    "waktu": "08:00-10:30",
+    "peserta": "9",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA114",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "PMA114",
+    "nama": "GEOMETRI ANALITIK",
+    "kelas": "04",
+    "koordinator": "Dr. M. Ikhsan, M.PdNIP. 196407221989031002",
+    "ruang": "2:04A",
+    "hari": "Rabu",
+    "waktu": "10:40-13:10",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA114",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "PMA116",
+    "nama": "KAJIAN MATEMATIKA SMP",
+    "kelas": "01",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "3:02",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA116",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "PMA116",
+    "nama": "KAJIAN MATEMATIKA SMP",
+    "kelas": "02",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "2:04A",
+    "hari": "Jumat",
+    "waktu": "09:40-10:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA116",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "PMA116",
+    "nama": "KAJIAN MATEMATIKA SMP",
+    "kelas": "03",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "3:10",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "15",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA116",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "PMA116",
+    "nama": "KAJIAN MATEMATIKA SMP",
+    "kelas": "04",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "3:10",
+    "hari": "Jumat",
+    "waktu": "08:30-09:40",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA116",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "PMA208",
+    "nama": "PERSAMAAN DIFERENSIAL",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Rahmah Johar, S.Pd., M.Pd.NIP. 197011171998032002",
+    "ruang": "2:04A",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "PMA208",
+    "nama": "PERSAMAAN DIFERENSIAL",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Rahmah Johar, S.Pd., M.Pd.NIP. 197011171998032002",
+    "ruang": "2:04A",
+    "hari": "Selasa",
+    "waktu": "14:00-17:10",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA208",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "PMA208",
+    "nama": "PERSAMAAN DIFERENSIAL",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Rahmah Johar, S.Pd., M.Pd.NIP. 197011171998032002",
+    "ruang": "3:10",
+    "hari": "Rabu",
+    "waktu": "08:30-13:10",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA208",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "PMA208",
+    "nama": "PERSAMAAN DIFERENSIAL",
+    "kelas": "04",
+    "koordinator": "Prof. Dr. Rahmah Johar, S.Pd., M.Pd.NIP. 197011171998032002",
+    "ruang": "15:03:004",
+    "hari": "Kamis",
+    "waktu": "14:00-17:10",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA208",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "PMA208",
+    "nama": "PERSAMAAN DIFERENSIAL",
+    "kelas": "05",
+    "koordinator": "Prof. Dr. Rahmah Johar, S.Pd., M.Pd.NIP. 197011171998032002",
+    "ruang": "Prodi",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA208",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "PMA212",
+    "nama": "TEORI PELUANG",
+    "kelas": "01",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "3:02",
+    "hari": "Senin",
+    "waktu": "14:00-15:45",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "PMA212",
+    "nama": "TEORI PELUANG",
+    "kelas": "02",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "2:04A",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "PMA212",
+    "nama": "TEORI PELUANG",
+    "kelas": "03",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "3:10",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA212",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "PMA212",
+    "nama": "TEORI PELUANG",
+    "kelas": "04",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "3:10",
+    "hari": "Selasa",
+    "waktu": "09:45-11:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA212",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "PMA212",
+    "nama": "TEORI PELUANG",
+    "kelas": "05",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "Prodi",
+    "hari": "Senin",
+    "waktu": "18:00-19:00",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA212",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "PMA212",
+    "nama": "TEORI PELUANG",
+    "kelas": "06",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "prodi",
+    "hari": "Jumat",
+    "waktu": "12:00-14:00",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA212",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "PMA214",
+    "nama": "GEOMETRI TRANSFORMASI",
+    "kelas": "01",
+    "koordinator": "Dr. M. Ikhsan, M.PdNIP. 196407221989031002",
+    "ruang": "2:04A",
+    "hari": "Selasa",
+    "waktu": "10:30-13:10",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA214",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "PMA214",
+    "nama": "GEOMETRI TRANSFORMASI",
+    "kelas": "02",
+    "koordinator": "Dr. M. Ikhsan, M.PdNIP. 196407221989031002",
+    "ruang": "15:03:004",
+    "hari": "Rabu",
+    "waktu": "08:00-10:30",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA214",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "PMA214",
+    "nama": "GEOMETRI TRANSFORMASI",
+    "kelas": "03",
+    "koordinator": "Dr. M. Ikhsan, M.PdNIP. 196407221989031002",
+    "ruang": "3:02",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA214",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "PMA214",
+    "nama": "GEOMETRI TRANSFORMASI",
+    "kelas": "04",
+    "koordinator": "Dr. M. Ikhsan, M.PdNIP. 196407221989031002",
+    "ruang": "2:04A",
+    "hari": "Jumat",
+    "waktu": "14:00-17:10",
+    "peserta": "18",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA214",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "PMA216",
+    "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
+    "kelas": "01",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "LAB MAT",
+    "hari": "Rabu",
+    "waktu": "14:30-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "PMA216",
+    "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
+    "kelas": "02",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "LAB MAT",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA216",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "PMA216",
+    "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
+    "kelas": "03",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "LAB MAT",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA216",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "PMA216",
+    "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
+    "kelas": "04",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "LAB MAT",
+    "hari": "Senin",
+    "waktu": "09:40-11:30",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA216",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "PMA216",
+    "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
+    "kelas": "05",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "prodi",
+    "hari": "Senin",
+    "waktu": "12:00-14:00",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA216",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "PMA216",
+    "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
+    "kelas": "06",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "Prodi",
+    "hari": "Jumat",
+    "waktu": "12:00-14:00",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA216",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "PMA218",
+    "nama": "ANALISIS VEKTOR",
+    "kelas": "01",
+    "koordinator": "Suhartati, S.Pd., M.PdNIP. 197410211999032001",
+    "ruang": "3:02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA218",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "PMA218",
+    "nama": "ANALISIS VEKTOR",
+    "kelas": "02",
+    "koordinator": "Suhartati, S.Pd., M.PdNIP. 197410211999032001",
+    "ruang": "3:10",
+    "hari": "Kamis",
+    "waktu": "16:00-18:00",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA218",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "PMA218",
+    "nama": "ANALISIS VEKTOR",
+    "kelas": "03",
+    "koordinator": "Suhartati, S.Pd., M.PdNIP. 197410211999032001",
+    "ruang": "3:10",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA218",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "PMA218",
+    "nama": "ANALISIS VEKTOR",
+    "kelas": "04",
+    "koordinator": "Suhartati, S.Pd., M.PdNIP. 197410211999032001",
+    "ruang": "2:04A",
+    "hari": "Sabtu",
+    "waktu": "09:40-11:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA218",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "PMA218",
+    "nama": "ANALISIS VEKTOR",
+    "kelas": "05",
+    "koordinator": "Suhartati, S.Pd., M.PdNIP. 197410211999032001",
+    "ruang": "PRODI",
+    "hari": "Jumat",
+    "waktu": "12:00-12:00",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA218",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "PMA218",
+    "nama": "ANALISIS VEKTOR",
+    "kelas": "06",
+    "koordinator": "Suhartati, S.Pd., M.PdNIP. 197410211999032001",
+    "ruang": "propdi",
+    "hari": "Jumat",
+    "waktu": "12:00-14:00",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA218",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "PMA220",
+    "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
+    "kelas": "01",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "15:03:004",
+    "hari": "Senin",
+    "waktu": "10:30-13:10",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA220",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "PMA220",
+    "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
+    "kelas": "02",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "15:03:004",
+    "hari": "Kamis",
+    "waktu": "10:30-13:10",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA220",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "PMA220",
+    "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
+    "kelas": "03",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "15:03:004",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA220",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "PMA220",
+    "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
+    "kelas": "04",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "15:03:004",
+    "hari": "Selasa",
+    "waktu": "14:30-17:10",
+    "peserta": "9",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA220",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "PMA220",
+    "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
+    "kelas": "05",
+    "koordinator": "Drs. R.M. Bambang S, M.PdNIP. 195911091986031001",
+    "ruang": "Prodi",
+    "hari": "Senin",
+    "waktu": "18:00-19:00",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA220",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "PMA222",
+    "nama": "ALJABAR LINIER",
+    "kelas": "01",
+    "koordinator": "Suhartati, S.Pd., M.PdNIP. 197410211999032001",
+    "ruang": "2:04A",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA222",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "PMA222",
+    "nama": "ALJABAR LINIER",
+    "kelas": "02",
+    "koordinator": "Suhartati, S.Pd., M.PdNIP. 197410211999032001",
+    "ruang": "2:04A",
+    "hari": "Senin",
+    "waktu": "10:30-13:10",
+    "peserta": "15",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA222",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "PMA222",
+    "nama": "ALJABAR LINIER",
+    "kelas": "03",
+    "koordinator": "Dra. Erni Maidiyah, M.PdNIP. 196405071989032001",
+    "ruang": "3:02",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA222",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "PMA222",
+    "nama": "ALJABAR LINIER",
+    "kelas": "04",
+    "koordinator": "Dra. Erni Maidiyah, M.PdNIP. 196405071989032001",
+    "ruang": "15:03:004",
+    "hari": "Kamis",
+    "waktu": "10:30-13:10",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMA222",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "PMAP01",
+    "nama": "SEMINAR PENDIDIKAN MATEMATIKA",
+    "kelas": "01",
+    "koordinator": "Dra. Suryawati, M.PdNIP. 196307171987032001",
+    "ruang": "LAB MAT",
+    "hari": "Selasa",
+    "waktu": "09:40-11:30",
+    "peserta": "13",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP01",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "PMAP01",
+    "nama": "SEMINAR PENDIDIKAN MATEMATIKA",
+    "kelas": "02",
+    "koordinator": "Dra. Suryawati, M.PdNIP. 196307171987032001",
+    "ruang": "LABMAT",
+    "hari": "Rabu",
+    "waktu": "11:30-13:10",
+    "peserta": "15",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP01",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "PMAP02",
+    "nama": "ANALISIS REAL LANJUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Usman, S.Pd., M.Pd.NIP. 197412312001121003",
+    "ruang": "15:03:004",
+    "hari": "Rabu",
+    "waktu": "10:40-12:10",
+    "peserta": "10",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "PMAP02",
+    "nama": "ANALISIS REAL LANJUTAN",
+    "kelas": "02",
+    "koordinator": "Dr. Usman, S.Pd., M.Pd.NIP. 197412312001121003",
+    "ruang": "3:10",
+    "hari": "Jumat",
+    "waktu": "11:00-12:30",
+    "peserta": "2",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP02",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "PMAP04",
+    "nama": "TEORI GRAPH",
+    "kelas": "01",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "3:10",
+    "hari": "Senin",
+    "waktu": "09:40-11:30",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP04",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "PMAP04",
+    "nama": "TEORI GRAPH",
+    "kelas": "02",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "3:10",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP04",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "PMAP04",
+    "nama": "TEORI GRAPH",
+    "kelas": "03",
+    "koordinator": "Dra. Yuhasriati, M.PdNIP. 196612311991022001",
+    "ruang": "PRODO",
+    "hari": "Jumat",
+    "waktu": "12:30-14:30",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP04",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "PMAP06",
+    "nama": "WORKSHOP PENULISAN ARTIKEL & POSTER",
+    "kelas": "01",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "LAB MAT",
+    "hari": "Senin",
+    "waktu": "11:30-13:10",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP06",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "PMAP06",
+    "nama": "WORKSHOP PENULISAN ARTIKEL & POSTER",
+    "kelas": "02",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "LAB MAT",
+    "hari": "Selasa",
+    "waktu": "09:40-11:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP06",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "PMAP06",
+    "nama": "WORKSHOP PENULISAN ARTIKEL & POSTER",
+    "kelas": "03",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "3:10",
+    "hari": "Senin",
+    "waktu": "17:10-18:30",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP06",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "PMAP08",
+    "nama": "PENGEMBANGAN KEWIRAUSAHAAN PENDIDIK",
+    "kelas": "01",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "LAB MAT",
+    "hari": "Senin",
+    "waktu": "14:30-15:40",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP08",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "91",
+    "kode": "PMAP08",
+    "nama": "PENGEMBANGAN KEWIRAUSAHAAN PENDIDIK",
+    "kelas": "02",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "LABKOM 2:07",
+    "hari": "Selasa",
+    "waktu": "16:40-18:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP08",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "92",
+    "kode": "PMAP08",
+    "nama": "PENGEMBANGAN KEWIRAUSAHAAN PENDIDIK",
+    "kelas": "03",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "2:04A",
+    "hari": "Sabtu",
+    "waktu": "12:00-14:30",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP08",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "93",
+    "kode": "PMAP10",
+    "nama": "GEOMETRI MELUKIS",
+    "kelas": "01",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "LAB MAT",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP10",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "94",
+    "kode": "PMAP10",
+    "nama": "GEOMETRI MELUKIS",
+    "kelas": "02",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "LAB MAT",
+    "hari": "Jumat",
+    "waktu": "16:00-18:40",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP10",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "95",
+    "kode": "PMAP10",
+    "nama": "GEOMETRI MELUKIS",
+    "kelas": "03",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "LAB",
+    "hari": "Jumat",
+    "waktu": "12:30-14:30",
+    "peserta": "1",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP10",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "96",
+    "kode": "PMAP12",
+    "nama": "SISTEM-SISTEM GEOMETRI",
+    "kelas": "01",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "LAB MAT",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "12",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP12",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "97",
+    "kode": "PMAP12",
+    "nama": "SISTEM-SISTEM GEOMETRI",
+    "kelas": "02",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "LAB MAT",
+    "hari": "Sabtu",
+    "waktu": "11:30-13:30",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP12",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "98",
+    "kode": "PMAP12",
+    "nama": "SISTEM-SISTEM GEOMETRI",
+    "kelas": "03",
+    "koordinator": "Dra. Tuti Zubaidah, M.PdNIP. 196805271994032001",
+    "ruang": "LAB",
+    "hari": "Jumat",
+    "waktu": "12:30-14:30",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP12",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "99",
+    "kode": "PMAP14",
+    "nama": "PENDIDIKAN KARAKTER",
+    "kelas": "01",
+    "koordinator": "Dra. Suryawati, M.PdNIP. 196307171987032001",
+    "ruang": "LAB MAT",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP14",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "100",
+    "kode": "PMAP14",
+    "nama": "PENDIDIKAN KARAKTER",
+    "kelas": "02",
+    "koordinator": "Dra. Suryawati, M.PdNIP. 196307171987032001",
+    "ruang": "LAB KOM 20:07",
+    "hari": "Selasa",
+    "waktu": "14:30-15:04",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP14",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "101",
+    "kode": "PMAP14",
+    "nama": "PENDIDIKAN KARAKTER",
+    "kelas": "03",
+    "koordinator": "Dra. Suryawati, M.PdNIP. 196307171987032001",
+    "ruang": "PROD",
+    "hari": "Jumat",
+    "waktu": "12:30-14:30",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP14",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "102",
+    "kode": "PMAP16",
+    "nama": "KOMPUTASI STATISTIK",
+    "kelas": "01",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "LABKOM 2:07",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP16",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "103",
+    "kode": "PMAP16",
+    "nama": "KOMPUTASI STATISTIK",
+    "kelas": "02",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "labkom 20:07",
+    "hari": "Rabu",
+    "waktu": "16:30-18:04",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP16",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "104",
+    "kode": "PMAP16",
+    "nama": "KOMPUTASI STATISTIK",
+    "kelas": "03",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "LABKOM",
+    "hari": "Jumat",
+    "waktu": "12:30-14:30",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP16",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "105",
+    "kode": "PMAP18",
+    "nama": "PEMROGRAMAN MATLAB",
+    "kelas": "01",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "LAB KOM 20:07",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP18",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "106",
+    "kode": "PMAP18",
+    "nama": "PEMROGRAMAN MATLAB",
+    "kelas": "02",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "LABKOM 20:07",
+    "hari": "Selasa",
+    "waktu": "09:40-11:30",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP18",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "107",
+    "kode": "PMAP18",
+    "nama": "PEMROGRAMAN MATLAB",
+    "kelas": "03",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "LABKOM",
+    "hari": "Jumat",
+    "waktu": "12:30-14:30",
+    "peserta": "11",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP18",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "108",
+    "kode": "PMAP20",
+    "nama": "PENDEKATAN MATEMATIKA REALISTIK DENGAN KONTEKS LOKAL",
+    "kelas": "01",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "15:03:004",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP20",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "109",
+    "kode": "PMAP20",
+    "nama": "PENDEKATAN MATEMATIKA REALISTIK DENGAN KONTEKS LOKAL",
+    "kelas": "02",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "15:03:004",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP20",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "110",
+    "kode": "PMAP20",
+    "nama": "PENDEKATAN MATEMATIKA REALISTIK DENGAN KONTEKS LOKAL",
+    "kelas": "03",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "PRODI",
+    "hari": "Jumat",
+    "waktu": "12:30-14:30",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP20",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "111",
+    "kode": "PMAP22",
+    "nama": "MIXED-METHOD DESIGN",
+    "kelas": "01",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "LAB MAT",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP22",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "112",
+    "kode": "PMAP22",
+    "nama": "MIXED-METHOD DESIGN",
+    "kelas": "02",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "3:10",
+    "hari": "Sabtu",
+    "waktu": "14:30-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP22",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "113",
+    "kode": "PMAP22",
+    "nama": "MIXED-METHOD DESIGN",
+    "kelas": "03",
+    "koordinator": "Dr. Cut Morina Zubainur, S.Pd, M.PdNIP. 197208182002122001",
+    "ruang": "PRODI",
+    "hari": "Jumat",
+    "waktu": "12:30-14:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP22",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "114",
+    "kode": "PMAP24",
+    "nama": "MATEMATIKA EKONOMI",
+    "kelas": "01",
+    "koordinator": "Dr. Elizar, S.Pd., M.Ed (MT).NIP. 198511192019032011",
+    "ruang": "3:10",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP24",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "115",
+    "kode": "PMAP24",
+    "nama": "MATEMATIKA EKONOMI",
+    "kelas": "02",
+    "koordinator": "Dr. Elizar, S.Pd., M.Ed (MT).NIP. 198511192019032011",
+    "ruang": "LABMAT",
+    "hari": "Jumat",
+    "waktu": "09:40-11:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP24",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "116",
+    "kode": "PMAP24",
+    "nama": "MATEMATIKA EKONOMI",
+    "kelas": "03",
+    "koordinator": "Dr. Elizar, S.Pd., M.Ed (MT).NIP. 198511192019032011",
+    "ruang": "LAB",
+    "hari": "Jumat",
+    "waktu": "14:30-15:40",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP24",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  }
+]

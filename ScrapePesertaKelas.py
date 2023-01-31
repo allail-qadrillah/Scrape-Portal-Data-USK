@@ -45,7 +45,9 @@ class MiningPortalUSK(PortalUSK):
       @params pathFakultas: nama file json yang berisi daftar matakuliah dari tiap fakultas
       """
       courses = self.loadJson(f"{self.pathLoad}/{pathFakultas}")
-      for course in courses:
+      lenCoureses = len(courses)
+      for i, course in enumerate(courses):
+          print(f"---------- { round((i/lenCoureses)*100) }% ------------")
           peserta = {
               "no": course['no'],
               "kode": course['kode'],

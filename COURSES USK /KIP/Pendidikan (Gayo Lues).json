@@ -1,0 +1,743 @@
+[
+  {
+    "no": "1",
+    "kode": "BEE502",
+    "nama": "BIOLOGI PERKEMBANGAN TUMBUHAN",
+    "kelas": "03",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "B 01",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "13",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEE502",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "BEE510",
+    "nama": "MIKOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Samingan, M.Si.NIP. 196412011990031001",
+    "ruang": "B 01",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "11",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEE510",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "BEE512",
+    "nama": "EVOLUSI",
+    "kelas": "02",
+    "koordinator": "Dr. Khairil, M.SiNIP. 195806291986031002",
+    "ruang": "B 01",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "1",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEE512",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "BEEP03",
+    "nama": "KAPITA SELEKTA PENDIDIKAN BIOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Safrida, S.Pd, M.Si., AIFO.NIP. 198008052005012003",
+    "ruang": "B 01",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "9",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEEP03",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "BEEP04",
+    "nama": "BERPIKIR KREATIF",
+    "kelas": "02",
+    "koordinator": "Dr. Andi Ulfa Tenri Pada, S.Pd. M.Pd.NIP. 198304212008122003",
+    "ruang": "B 01",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEEP04",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "BEEP05",
+    "nama": "STEM BIOLOGI",
+    "kelas": "03",
+    "koordinator": "Dr. Wiwit Artika, S.Si., M.Ed.NIP. 198206102009122006",
+    "ruang": "C 01",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "5",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEEP05",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "BEG106",
+    "nama": "BIOLOGI SEL",
+    "kelas": "01",
+    "koordinator": "Dra. Asiah, M.PNIP. 196704031991022001",
+    "ruang": "A 01",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "6",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "BEG112",
+    "nama": "ZOOLOGI INVERTEBRATA",
+    "kelas": "01",
+    "koordinator": "Yaumil Istiqlal M.Nur, S.Pd.I., M.Pd.NIP. 199108182019031015",
+    "ruang": "A 01",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "BEG114",
+    "nama": "PRAKTIKUM ZOOLOGI INVERTEBRATA",
+    "kelas": "01",
+    "koordinator": "Ikhsan, M.Pd.NIP. 198812172020121001",
+    "ruang": "A 01",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG114",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "BEG116",
+    "nama": "BIOKIMIA",
+    "kelas": "01",
+    "koordinator": "Dr. Hafnati Rahmatan, M.SiNIP. 196808231993032004",
+    "ruang": "A 01",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "6",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG116",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "BEG118",
+    "nama": "PRAKTIKUM BIOKIMIA",
+    "kelas": "01",
+    "koordinator": "Ikhsan, M.Pd.NIP. 198812172020121001",
+    "ruang": "A 01",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "6",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG118",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "BEG120",
+    "nama": "MORFOLOGI TUMBUHAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "A 01",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "6",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG120",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "BEG122",
+    "nama": "PRAKTIKUM MORFOLOGI TUMBUHAN",
+    "kelas": "01",
+    "koordinator": "Ikhsan, M.Pd.NIP. 198812172020121001",
+    "ruang": "A 01",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "6",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG122",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "BEG124",
+    "nama": "TEKNOLOGI PEMBELAJARAN BIOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Ismul Huda, M.SiNIP. 196810281994031004",
+    "ruang": "A 01",
+    "hari": "Rabu",
+    "waktu": "09:50-11:30",
+    "peserta": "6",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG124",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "BEG212",
+    "nama": "BOTANI TUMBUHAN TINGGI",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "B 01",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "6",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "BEG214",
+    "nama": "PRAKTIKUM BOTANI TUMBUHAN TINGGI",
+    "kelas": "02",
+    "koordinator": "Ikhsan, M.Pd.NIP. 198812172020121001",
+    "ruang": "B 01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "7",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG214",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "BEG216",
+    "nama": "STRUKTUR HEWAN",
+    "kelas": "02",
+    "koordinator": "Devi Syafrianti, S.Pd., M.SiNIP. 198212072006042001",
+    "ruang": "B 01",
+    "hari": "Sabtu",
+    "waktu": "14:00-14:40",
+    "peserta": "7",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG216",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "BEG218",
+    "nama": "PRAKTIKUM STRUKTUR HEWAN",
+    "kelas": "02",
+    "koordinator": "Ikhsan, M.Pd.NIP. 198812172020121001",
+    "ruang": "B 01",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "7",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG218",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "BEG220",
+    "nama": "MIKROBIOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Samingan, M.Si.NIP. 196412011990031001",
+    "ruang": "B 01",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "9",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG220",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "BEG222",
+    "nama": "PRAKTIKUM MIKROBIOLOGI",
+    "kelas": "02",
+    "koordinator": "Ikhsan, M.Pd.NIP. 198812172020121001",
+    "ruang": "B 01",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "9",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG222",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "BEG224",
+    "nama": "GIZI DAN KESEHATAN",
+    "kelas": "02",
+    "koordinator": "Dr. Safrida, S.Pd, M.Si., AIFO.NIP. 198008052005012003",
+    "ruang": "B 01",
+    "hari": "Rabu",
+    "waktu": "09:50-11:30",
+    "peserta": "7",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG224",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "BEG226",
+    "nama": "EVALUASI PEMBELAJARAN BIOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "B 01",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "7",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG226",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "BEG228",
+    "nama": "INOVASI DAN MEDIA PEMBELAJARAN",
+    "kelas": "02",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "B 01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG228",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "BEG310",
+    "nama": "EKOLOGI HEWAN",
+    "kelas": "03",
+    "koordinator": "Dr. Abdullah, S.Pd, M.SiNIP. 197402051999031004",
+    "ruang": "C 01",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG310",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "BEG312",
+    "nama": "PRAKTIKUM EKOLOGI HEWAN",
+    "kelas": "03",
+    "koordinator": "Ikhsan, M.Pd.NIP. 198812172020121001",
+    "ruang": "C 01",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG312",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "BEG314",
+    "nama": "EKOLOGI TUMBUHAN",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "C 01",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG314",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "BEG316",
+    "nama": "PRAKTIKUM EKOLOGI TUMBUHAN",
+    "kelas": "03",
+    "koordinator": "Ikhsan, M.Pd.NIP. 198812172020121001",
+    "ruang": "C 01",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG316",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "BEG318",
+    "nama": "GENETIKA",
+    "kelas": "03",
+    "koordinator": "Dr. Khairil, M.SiNIP. 195806291986031002",
+    "ruang": "C 01",
+    "hari": "Rabu",
+    "waktu": "09:50-11:30",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG318",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "BEG320",
+    "nama": "PRAKTIKUM GENETIKA",
+    "kelas": "03",
+    "koordinator": "Rabiyatul Adawiyah, S.Pd., M.PdNIP. 199005152020022101",
+    "ruang": "C 01",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG320",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "BEG322",
+    "nama": "PARASITOLOGI",
+    "kelas": "03",
+    "koordinator": "Iswadi, S.Pd., M. SiNIP. 197803282006041024",
+    "ruang": "C 01",
+    "hari": "Sabtu",
+    "waktu": "09:50-11:30",
+    "peserta": "14",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG322",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "BEG324",
+    "nama": "SEMINAR PENDIDIKAN BIOLOGI",
+    "kelas": "03",
+    "koordinator": "Dra. Asiah, M.PNIP. 196704031991022001",
+    "ruang": "C 01",
+    "hari": "Senin",
+    "waktu": "11:30-13:10",
+    "peserta": "14",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "BEG324",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "EDU101",
+    "nama": "LANDASAN PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Ikhsan, M.Pd.NIP. 198812172020121001",
+    "ruang": "A 01",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "7",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "EDU101",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "EDU201",
+    "nama": "PSIKOLOGI PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "B 01",
+    "hari": "Jumat",
+    "waktu": "09:50-11:30",
+    "peserta": "7",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "EDU201",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "EDU301",
+    "nama": "PROFESI PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Cut Nurmaliah, M.PdNIP. 196103171986032001",
+    "ruang": "B 01",
+    "hari": "Sabtu",
+    "waktu": "09:50-11:30",
+    "peserta": "7",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "EDU301",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "EDU302",
+    "nama": "PENGAJARAN MIKRO",
+    "kelas": "03",
+    "koordinator": "Ikhsan, M.Pd.NIP. 198812172020121001",
+    "ruang": "C 01",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "EDU302",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "02",
+    "koordinator": "Ikhsan, M.Pd.NIP. 198812172020121001",
+    "ruang": "Sekolah",
+    "hari": "Senin",
+    "waktu": "08:00-13:00",
+    "peserta": "10",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "EDUP09",
+    "nama": "PLP II",
+    "kelas": "03",
+    "koordinator": "Ikhsan, M.Pd.NIP. 198812172020121001",
+    "ruang": "C 01",
+    "hari": "Jumat",
+    "waktu": "11:30-13:10",
+    "peserta": "8",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "EDUP09",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "EDUPA1",
+    "nama": "SKRIPSI",
+    "kelas": "03",
+    "koordinator": "Iswadi, S.Pd., M. SiNIP. 197803282006041024",
+    "ruang": "C 01",
+    "hari": "Rabu",
+    "waktu": "11:30-13:10",
+    "peserta": "15",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "EDUPA1",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "03",
+    "koordinator": "Iswadi, S.Pd., M. SiNIP. 197803282006041024",
+    "ruang": "C 01",
+    "hari": "Sabtu",
+    "waktu": "16:00-18:00",
+    "peserta": "2",
+    "keterangan": "KIPS1Pendidikan Biologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0615001"
+    }
+  }
+]

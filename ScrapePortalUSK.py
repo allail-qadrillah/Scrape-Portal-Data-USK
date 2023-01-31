@@ -7,12 +7,10 @@ import xlrd
 import json
 import shutil
 
-
-
 class PortalUSK:
     def __init__(self):
       self.baseURL = "https://data.unsyiah.ac.id/public/pengajar_prodi"
-    
+
     def timer(func):
       """
       Decorator untuk mendapatkan lama waktu eksekusi kode dengan format dua angka dibelakang koma  
@@ -52,7 +50,7 @@ class PortalUSK:
       try:
         listStudent = None
         countNotResponse = 0
-        print(f'Scrapping Student Course {kelas} kode {kode} | ', end="")
+        print(f'Scrap {pembatasan} {kelas} kode {kode} | ', end="")
         if int(peserta) != 0:
           while not listStudent:
             response = requests.post(self.baseURL + '/detail', verify=False, 
@@ -71,7 +69,7 @@ class PortalUSK:
                 print("--------------- Skip Kelas --------------- ")
                 break
               time.sleep(delay)
-        self.write_txt_file('log kip.txt', f"Scrapping Student Course {kelas} kode {kode}")
+        self.write_txt_file('log.txt', f"Scrapping Student Course {kelas} kode {kode}")
         return [
             {
                 "no": listStudent[i],
