@@ -4,8 +4,8 @@ from config import *
 
 @Timer
 def MiningAllPesertaUSKS1():
-  pathCourses = './COURSES USK '
-  pathPeserta = './PESERTA USK '
+  pathCourses = './COURSES USK'
+  pathPeserta = './PESERTA USK'
   # TEKNIK
   # FT = MiningPortalUSK(
   #     pathLoad= pathCourses + '/FT',
