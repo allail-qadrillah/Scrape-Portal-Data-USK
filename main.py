@@ -12,15 +12,26 @@ from mining import MiningAllPesertaUSKS1
 
 
 app = FastAPI()
+USK = PortalUSK()
 
+@app.get('/getcourses')
+async def getCourses( name: str,
+                      fakultas: str = '',
+                      jurusan: str=''):
+
+    return USK.findCoursesFromDir(
+        path        ='./PESERTA USK',
+        namePerson  = name,
+        nameFakultas= fakultas,
+        nameProdi   = jurusan
+    )
 
 @app.get('/')
-def alwaysOnReplit():
+async def alwaysOnReplit():
   return "online"
 
-
 @app.get('/scrape')
-def scrapping():
+async def scrapping():
   thread = threading.Thread(target=MiningAllPesertaUSKS1)
   thread.start()
   return "mining"
@@ -28,4 +39,4 @@ def scrapping():
 
 if __name__ == "__main__":
 
-  uvicorn.run(app, host="0.0.0.0", port=8000)
+  uvicorn.run(app,  port=8000)

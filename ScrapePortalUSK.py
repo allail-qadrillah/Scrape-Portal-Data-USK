@@ -146,7 +146,7 @@ class PortalUSK:
       for courses in data:
         if courses['peserta'] != None:
           for peserta in courses["peserta"]:
-            if peserta["nama"] == namePerson:
+            if peserta["nama"] == namePerson.upper():
               course.append({
                   "no": courses["no"],
                   "kode": courses["kode"],
