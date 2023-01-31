@@ -15,10 +15,8 @@ if __name__ == "__main__":
 
     peserta = app.findCoursesFromDir(
         './PESERTA USK',
-        "FATHURRAHMAN"
+        "FATHURRAHMAN",
+        nameFakultas="Pertanian"
     )
 
-    # print(peserta)
-    # print(peserta)
-    # print(peserta)
-    # print(peserta)
+    print(peserta)

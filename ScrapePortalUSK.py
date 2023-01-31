@@ -167,37 +167,39 @@ class PortalUSK:
               })
       return course
 
-    def findCoursesFromDir(self, path, namePerson, iterateFolder = False):
+    def findCoursesFromDir(self, path, namePerson, 
+      nameFakultas = '',
+      nameProdi     = ''):
       """
       mencari matakuliah mahasiswa yang diambil dari folder tertentu dan mengembalikannya dalam list
       
       @param path (string) : lokasi folder yang akan dicari 
       @param namePerson (string) : nama mahasiswa yang akan dicari
       @param iterateFolder (boolean) : apakah folder akan di looping?
-      JIKA True, maka akan mencari setiap file.json yang ada di dalam folder didalamnya (semua file.json berada didalam foldernya lagi)
-      JIKA False, maka akan mencari setiap file.json aja (semua file.json berada dialam path yang ditentukan)
       """
       course = []
-      if iterateFolder:
-        for folder in os.listdir(path):
-          for file in ( os.listdir(path + '/' + folder) ):
-            data = self.loadJson( path + '/' + folder + '/' + file )
-            course.append( self.findCourses(namePerson, data) )
-        return course
       
-      else:
-        for files in os.listdir(path):
-          if files.endswith('.json'):
-            data = self.loadJson(path + '/' + files)
-            course.append(self.findCourses(namePerson, data))
-          else:
-            for file in os.listdir(path + '/' + files):
-              data = self.loadJson(path + '/' + files + '/' + file)
-              course.append(self.findCourses(namePerson, data))
+
+      for files in os.listdir(path):
+        # jika mencari dengan nama fakultas
+        if nameFakultas != '':
+          if nameFakultas == self.getFileName(files):
+            print(nameFakultas)
+        # if files.endswith('.json'):
+        #   data = self.loadJson(path + '/' + files)
+        #   course.append(self.findCourses(namePerson, data))
+        # else:
+        #   for file in os.listdir(path + '/' + files):
+        #     data = self.loadJson(path + '/' + files + '/' + file)
+        #     course.append(self.findCourses(namePerson, data))
 
       return [i for i in course if i != []]
 
-
+    def getFileName(self, file):  
+      """
+      mengenbalikan nama file tanpa format filenya
+      """
+      return os.path.splitext(file)[0]
 
     def writeJson(self, path, data, createIfNotExist=True):
       """
