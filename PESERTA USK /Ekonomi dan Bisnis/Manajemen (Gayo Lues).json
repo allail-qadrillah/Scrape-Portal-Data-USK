@@ -1,0 +1,4542 @@
+[
+  {
+    "no": "1",
+    "kode": "FEB102",
+    "nama kelas": "PENGANTAR MAKROEKONOMI",
+    "kelas": "1",
+    "koordinator": "Dr. Abd. Jamal, S.E., M.SiNIP. 196612312000031003",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2001150010018",
+        "nama": "HARTADIAN RIFKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2001150010025",
+        "nama": "ZUBAIDAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010001",
+        "nama": "ELKA YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010002",
+        "nama": "DINDA PUSPITA SARI HUTAHEAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010004",
+        "nama": "PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010005",
+        "nama": "HIJRAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010006",
+        "nama": "SUSILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010008",
+        "nama": "RISMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010009",
+        "nama": "CUT SISKA PEMA NURI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010010",
+        "nama": "HERI SUFRIJAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010011",
+        "nama": "RISZKY DAMAI SAMOSIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010012",
+        "nama": "MUHAMMAD DWI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010013",
+        "nama": "KIBARDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010014",
+        "nama": "FREDIKA AFRIANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010015",
+        "nama": "FARISI",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010016",
+        "nama": "ANSARULLAH WERY",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010017",
+        "nama": "SHERLY",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FEB102",
+        "kelas": "1",
+        "npm": "2201150010021",
+        "nama": "TIARA DESYA FITRI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "2",
+    "kode": "FEB104",
+    "nama kelas": "MANAJEMEN",
+    "kelas": "1",
+    "koordinator": "Murkhana, SE, MBANIP. 196509221990021001",
+    "ruang": "1",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "1801150010066",
+        "nama": "FAISAL ANWAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010001",
+        "nama": "ELKA YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010002",
+        "nama": "DINDA PUSPITA SARI HUTAHEAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010004",
+        "nama": "PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010005",
+        "nama": "HIJRAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010006",
+        "nama": "SUSILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010008",
+        "nama": "RISMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010009",
+        "nama": "CUT SISKA PEMA NURI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010010",
+        "nama": "HERI SUFRIJAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010011",
+        "nama": "RISZKY DAMAI SAMOSIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010012",
+        "nama": "MUHAMMAD DWI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010013",
+        "nama": "KIBARDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010014",
+        "nama": "FREDIKA AFRIANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010015",
+        "nama": "FARISI",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010016",
+        "nama": "ANSARULLAH WERY",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010017",
+        "nama": "SHERLY",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FEB104",
+        "kelas": "1",
+        "npm": "2201150010021",
+        "nama": "TIARA DESYA FITRI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "3",
+    "kode": "FEB106",
+    "nama kelas": "EKONOMI ISLAM I",
+    "kelas": "1",
+    "koordinator": "Dr. Ridwan Nurdin, SE., MANIP. 197006092005011003",
+    "ruang": "1",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010001",
+        "nama": "ELKA YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010002",
+        "nama": "DINDA PUSPITA SARI HUTAHEAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010004",
+        "nama": "PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010005",
+        "nama": "HIJRAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010006",
+        "nama": "SUSILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010008",
+        "nama": "RISMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010009",
+        "nama": "CUT SISKA PEMA NURI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010010",
+        "nama": "HERI SUFRIJAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010011",
+        "nama": "RISZKY DAMAI SAMOSIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010012",
+        "nama": "MUHAMMAD DWI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010013",
+        "nama": "KIBARDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010014",
+        "nama": "FREDIKA AFRIANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010015",
+        "nama": "FARISI",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010016",
+        "nama": "ANSARULLAH WERY",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010017",
+        "nama": "SHERLY",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FEB106",
+        "kelas": "1",
+        "npm": "2201150010021",
+        "nama": "TIARA DESYA FITRI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "4",
+    "kode": "FEB108",
+    "nama kelas": "STATISTIK INFERENSIAL",
+    "kelas": "1",
+    "koordinator": "Ikhsan, S.E., M.A.NIP. 196802101995121002",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010001",
+        "nama": "ELKA YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010002",
+        "nama": "DINDA PUSPITA SARI HUTAHEAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010004",
+        "nama": "PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010005",
+        "nama": "HIJRAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010006",
+        "nama": "SUSILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010008",
+        "nama": "RISMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010009",
+        "nama": "CUT SISKA PEMA NURI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010010",
+        "nama": "HERI SUFRIJAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010011",
+        "nama": "RISZKY DAMAI SAMOSIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010012",
+        "nama": "MUHAMMAD DWI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010013",
+        "nama": "KIBARDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010014",
+        "nama": "FREDIKA AFRIANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010015",
+        "nama": "FARISI",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010016",
+        "nama": "ANSARULLAH WERY",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010017",
+        "nama": "SHERLY",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FEB108",
+        "kelas": "1",
+        "npm": "2201150010021",
+        "nama": "TIARA DESYA FITRI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "5",
+    "kode": "FEB110",
+    "nama kelas": "APLIKASI KOMPUTER",
+    "kelas": "1",
+    "koordinator": "Meutia Dwi Novita Sari, S.E., M.M.NIP. 199011092020122003",
+    "ruang": "Lab Komputer",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "1901150010038",
+        "nama": "NASRUL ABADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "1901150010073",
+        "nama": "NANDA AZMI SYAFIKRI",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010001",
+        "nama": "ELKA YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010002",
+        "nama": "DINDA PUSPITA SARI HUTAHEAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010004",
+        "nama": "PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010005",
+        "nama": "HIJRAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010006",
+        "nama": "SUSILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010008",
+        "nama": "RISMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010009",
+        "nama": "CUT SISKA PEMA NURI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010010",
+        "nama": "HERI SUFRIJAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010011",
+        "nama": "RISZKY DAMAI SAMOSIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010012",
+        "nama": "MUHAMMAD DWI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010013",
+        "nama": "KIBARDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010014",
+        "nama": "FREDIKA AFRIANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010015",
+        "nama": "FARISI",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010016",
+        "nama": "ANSARULLAH WERY",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010017",
+        "nama": "SHERLY",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FEB110",
+        "kelas": "1",
+        "npm": "2201150010021",
+        "nama": "TIARA DESYA FITRI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "6",
+    "kode": "FEB112",
+    "nama kelas": "TOEFL PREPARATION",
+    "kelas": "1",
+    "koordinator": "Fitriyani, SE., M.ScNIP. 199204122018032001",
+    "ruang": "2",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "1801150010041",
+        "nama": "JEMADIL",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "1801150010066",
+        "nama": "FAISAL ANWAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "1901150010069",
+        "nama": "ANGGIANA, P",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2001150010026",
+        "nama": "MUHAMMAD UMAR SYALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010001",
+        "nama": "ELKA YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010002",
+        "nama": "DINDA PUSPITA SARI HUTAHEAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010004",
+        "nama": "PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010005",
+        "nama": "HIJRAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010006",
+        "nama": "SUSILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010008",
+        "nama": "RISMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010009",
+        "nama": "CUT SISKA PEMA NURI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010010",
+        "nama": "HERI SUFRIJAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010011",
+        "nama": "RISZKY DAMAI SAMOSIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010012",
+        "nama": "MUHAMMAD DWI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010013",
+        "nama": "KIBARDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010014",
+        "nama": "FREDIKA AFRIANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010015",
+        "nama": "FARISI",
+        "kelamin": "L"
+      },
+      {
+        "no": "18",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010016",
+        "nama": "ANSARULLAH WERY",
+        "kelamin": "L"
+      },
+      {
+        "no": "19",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010017",
+        "nama": "SHERLY",
+        "kelamin": "P"
+      },
+      {
+        "no": "20",
+        "kode": "FEB112",
+        "kelas": "1",
+        "npm": "2201150010021",
+        "nama": "TIARA DESYA FITRI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "7",
+    "kode": "FEB304",
+    "nama kelas": "PENULISAN KARYA ILMIAH",
+    "kelas": "1",
+    "koordinator": "Irma Suryani, SE., M.B.ANIP. 198808072015042001",
+    "ruang": "2",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "1901150010069",
+        "nama": "ANGGIANA, P",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "1901150010071",
+        "nama": "NELI AGUSTINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010001",
+        "nama": "JASIMA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010002",
+        "nama": "SANITA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010003",
+        "nama": "ANISA AMALIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010005",
+        "nama": "NOLA ALFA HERA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010011",
+        "nama": "EKA DWI RAHMAWATI HUTABARAT",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010014",
+        "nama": "SASTRI MULIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010015",
+        "nama": "DEVI AMALIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010016",
+        "nama": "DAHLIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010018",
+        "nama": "HARTADIAN RIFKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010019",
+        "nama": "KHAIRUL ABDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010024",
+        "nama": "SYAIPUL AZHAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010026",
+        "nama": "MUHAMMAD UMAR SYALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010027",
+        "nama": "ZULKARNAIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010028",
+        "nama": "RAJA",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010029",
+        "nama": "SARMADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "18",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2001150010030",
+        "nama": "MAHENDRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "19",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2101150010007",
+        "nama": "SURNAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "20",
+        "kode": "FEB304",
+        "kelas": "1",
+        "npm": "2101150010014",
+        "nama": "SANTI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "8",
+    "kode": "FEBP02",
+    "nama kelas": "UJIAN KOMPREHENSIF",
+    "kelas": "1",
+    "koordinator": "Bambang, S.E., M.M.NIP. 199202282018031101",
+    "ruang": "1",
+    "hari": "Sabtu",
+    "waktu": "15:00-17:00",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1601150010046",
+        "nama": "ALI AMRIN SYARIF",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1601150010056",
+        "nama": "INUN PUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1701150010022",
+        "nama": "SOLEH AN AMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1701150010025",
+        "nama": "SUFRIADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1701150010040",
+        "nama": "ANTON NOVRIANA",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1701150010044",
+        "nama": "RAMLI ADAMI",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1801150010003",
+        "nama": "ALDO SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1801150010006",
+        "nama": "YUSMA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1801150010019",
+        "nama": "ALI USIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1801150010021",
+        "nama": "SABDIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1801150010023",
+        "nama": "HATIJAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1801150010030",
+        "nama": "ROSMIDAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1801150010051",
+        "nama": "JIMMY INDRAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010001",
+        "nama": "SOPIAN HENDRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010002",
+        "nama": "SARINI SARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010007",
+        "nama": "KARMILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010008",
+        "nama": "MAISYARAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010009",
+        "nama": "GITA PUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010010",
+        "nama": "MASNIAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "20",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010011",
+        "nama": "CUT MUTIARA",
+        "kelamin": "P"
+      },
+      {
+        "no": "21",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010012",
+        "nama": "DEPI SAHPITRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "22",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010014",
+        "nama": "CUT FADHILAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "23",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010016",
+        "nama": "AMELIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "24",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010019",
+        "nama": "SANNER DAPA NUSHO",
+        "kelamin": "L"
+      },
+      {
+        "no": "25",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010020",
+        "nama": "ARIYANTO PAKPAHAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "26",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010021",
+        "nama": "RISKI TIARA",
+        "kelamin": "P"
+      },
+      {
+        "no": "27",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010022",
+        "nama": "MUTIA RIZKY",
+        "kelamin": "P"
+      },
+      {
+        "no": "28",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010023",
+        "nama": "SIRUN",
+        "kelamin": "L"
+      },
+      {
+        "no": "29",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010024",
+        "nama": "NURHAYATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "30",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010025",
+        "nama": "MONALISA KURNIA P",
+        "kelamin": "P"
+      },
+      {
+        "no": "31",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010026",
+        "nama": "RIDA NOVIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "32",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010027",
+        "nama": "SRI DEPI",
+        "kelamin": "P"
+      },
+      {
+        "no": "33",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010028",
+        "nama": "RAHMA WANDANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "34",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010031",
+        "nama": "FITRIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "35",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010032",
+        "nama": "BASTIAN LIMBONG",
+        "kelamin": "L"
+      },
+      {
+        "no": "36",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010033",
+        "nama": "RISKA RAHAYU",
+        "kelamin": "P"
+      },
+      {
+        "no": "37",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010034",
+        "nama": "HAMIDAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "38",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010035",
+        "nama": "YANWAR SIDDIQ KOTO",
+        "kelamin": "L"
+      },
+      {
+        "no": "39",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010036",
+        "nama": "ADE SHALLY AFDHILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "40",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010039",
+        "nama": "FITRIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "41",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010040",
+        "nama": "RISKA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "42",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010041",
+        "nama": "MAHMANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "43",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010042",
+        "nama": "DIANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "44",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010043",
+        "nama": "SEPTI NURHIDAYAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "45",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010046",
+        "nama": "DENI ARI ANGGARA",
+        "kelamin": "L"
+      },
+      {
+        "no": "46",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010047",
+        "nama": "TARMIZI TAHER",
+        "kelamin": "L"
+      },
+      {
+        "no": "47",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010050",
+        "nama": "SALMIDAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "48",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010052",
+        "nama": "KEVIN KURNIAWAN ARIGA BARUS",
+        "kelamin": "L"
+      },
+      {
+        "no": "49",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010053",
+        "nama": "DASLIA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "50",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010055",
+        "nama": "ADI KUSUMA",
+        "kelamin": "L"
+      },
+      {
+        "no": "51",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010059",
+        "nama": "SITI HAWA",
+        "kelamin": "P"
+      },
+      {
+        "no": "52",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010061",
+        "nama": "SULASTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "53",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010063",
+        "nama": "SHERLY MAHARANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "54",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010065",
+        "nama": "MELISA",
+        "kelamin": "P"
+      },
+      {
+        "no": "55",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010066",
+        "nama": "AZAY SANTOSO",
+        "kelamin": "L"
+      },
+      {
+        "no": "56",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010067",
+        "nama": "RASYA ZAHARA",
+        "kelamin": "P"
+      },
+      {
+        "no": "57",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010070",
+        "nama": "SITI MARLINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "58",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010072",
+        "nama": "NURHAYATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "59",
+        "kode": "FEBP02",
+        "kelas": "1",
+        "npm": "1901150010073",
+        "nama": "NANDA AZMI SYAFIKRI",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "9",
+    "kode": "FEBP03",
+    "nama kelas": "METODOLOGI PENELITIAN",
+    "kelas": "1",
+    "koordinator": "Dr. Halimatussakdiah, S.E., M.ANIP. 197010301998032003",
+    "ruang": "2",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "1801150010041",
+        "nama": "JEMADIL",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "1801150010066",
+        "nama": "FAISAL ANWAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "1901150010038",
+        "nama": "NASRUL ABADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "1901150010040",
+        "nama": "RISKA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "1901150010041",
+        "nama": "MAHMANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "1901150010069",
+        "nama": "ANGGIANA, P",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010001",
+        "nama": "JASIMA",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010002",
+        "nama": "SANITA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010003",
+        "nama": "ANISA AMALIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010005",
+        "nama": "NOLA ALFA HERA",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010006",
+        "nama": "KAWIRITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010008",
+        "nama": "SIYARTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010009",
+        "nama": "MARYANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010011",
+        "nama": "EKA DWI RAHMAWATI HUTABARAT",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010012",
+        "nama": "SALMIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010013",
+        "nama": "KAMARIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010014",
+        "nama": "SASTRI MULIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010015",
+        "nama": "DEVI AMALIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010016",
+        "nama": "DAHLIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "20",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010019",
+        "nama": "KHAIRUL ABDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "21",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010023",
+        "nama": "SOVA RAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "22",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010025",
+        "nama": "ZUBAIDAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "23",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010026",
+        "nama": "MUHAMMAD UMAR SYALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "24",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010027",
+        "nama": "ZULKARNAIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "25",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010028",
+        "nama": "RAJA",
+        "kelamin": "L"
+      },
+      {
+        "no": "26",
+        "kode": "FEBP03",
+        "kelas": "1",
+        "npm": "2001150010029",
+        "nama": "SARMADI",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "10",
+    "kode": "FEBPA1",
+    "nama kelas": "SKRIPSI",
+    "kelas": "1",
+    "koordinator": "Bambang, S.E., M.M.NIP. 199202282018031101",
+    "ruang": "2",
+    "hari": "Sabtu",
+    "waktu": "15:00-17:00",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1601150010046",
+        "nama": "ALI AMRIN SYARIF",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1601150010056",
+        "nama": "INUN PUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1701150010022",
+        "nama": "SOLEH AN AMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1701150010025",
+        "nama": "SUFRIADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1701150010040",
+        "nama": "ANTON NOVRIANA",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1701150010044",
+        "nama": "RAMLI ADAMI",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1801150010003",
+        "nama": "ALDO SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1801150010006",
+        "nama": "YUSMA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1801150010019",
+        "nama": "ALI USIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1801150010021",
+        "nama": "SABDIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1801150010023",
+        "nama": "HATIJAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1801150010030",
+        "nama": "ROSMIDAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1801150010051",
+        "nama": "JIMMY INDRAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010001",
+        "nama": "SOPIAN HENDRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010002",
+        "nama": "SARINI SARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010007",
+        "nama": "KARMILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010008",
+        "nama": "MAISYARAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010009",
+        "nama": "GITA PUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010010",
+        "nama": "MASNIAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "20",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010011",
+        "nama": "CUT MUTIARA",
+        "kelamin": "P"
+      },
+      {
+        "no": "21",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010012",
+        "nama": "DEPI SAHPITRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "22",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010014",
+        "nama": "CUT FADHILAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "23",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010016",
+        "nama": "AMELIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "24",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010019",
+        "nama": "SANNER DAPA NUSHO",
+        "kelamin": "L"
+      },
+      {
+        "no": "25",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010020",
+        "nama": "ARIYANTO PAKPAHAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "26",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010021",
+        "nama": "RISKI TIARA",
+        "kelamin": "P"
+      },
+      {
+        "no": "27",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010022",
+        "nama": "MUTIA RIZKY",
+        "kelamin": "P"
+      },
+      {
+        "no": "28",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010023",
+        "nama": "SIRUN",
+        "kelamin": "L"
+      },
+      {
+        "no": "29",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010024",
+        "nama": "NURHAYATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "30",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010026",
+        "nama": "RIDA NOVIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "31",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010027",
+        "nama": "SRI DEPI",
+        "kelamin": "P"
+      },
+      {
+        "no": "32",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010028",
+        "nama": "RAHMA WANDANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "33",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010031",
+        "nama": "FITRIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "34",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010032",
+        "nama": "BASTIAN LIMBONG",
+        "kelamin": "L"
+      },
+      {
+        "no": "35",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010033",
+        "nama": "RISKA RAHAYU",
+        "kelamin": "P"
+      },
+      {
+        "no": "36",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010034",
+        "nama": "HAMIDAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "37",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010035",
+        "nama": "YANWAR SIDDIQ KOTO",
+        "kelamin": "L"
+      },
+      {
+        "no": "38",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010036",
+        "nama": "ADE SHALLY AFDHILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "39",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010039",
+        "nama": "FITRIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "40",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010040",
+        "nama": "RISKA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "41",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010041",
+        "nama": "MAHMANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "42",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010042",
+        "nama": "DIANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "43",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010043",
+        "nama": "SEPTI NURHIDAYAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "44",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010046",
+        "nama": "DENI ARI ANGGARA",
+        "kelamin": "L"
+      },
+      {
+        "no": "45",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010047",
+        "nama": "TARMIZI TAHER",
+        "kelamin": "L"
+      },
+      {
+        "no": "46",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010050",
+        "nama": "SALMIDAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "47",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010052",
+        "nama": "KEVIN KURNIAWAN ARIGA BARUS",
+        "kelamin": "L"
+      },
+      {
+        "no": "48",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010053",
+        "nama": "DASLIA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "49",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010055",
+        "nama": "ADI KUSUMA",
+        "kelamin": "L"
+      },
+      {
+        "no": "50",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010059",
+        "nama": "SITI HAWA",
+        "kelamin": "P"
+      },
+      {
+        "no": "51",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010061",
+        "nama": "SULASTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "52",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010063",
+        "nama": "SHERLY MAHARANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "53",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010065",
+        "nama": "MELISA",
+        "kelamin": "P"
+      },
+      {
+        "no": "54",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010066",
+        "nama": "AZAY SANTOSO",
+        "kelamin": "L"
+      },
+      {
+        "no": "55",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010067",
+        "nama": "RASYA ZAHARA",
+        "kelamin": "P"
+      },
+      {
+        "no": "56",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010070",
+        "nama": "SITI MARLINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "57",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010072",
+        "nama": "NURHAYATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "58",
+        "kode": "FEBPA1",
+        "kelas": "1",
+        "npm": "1901150010073",
+        "nama": "NANDA AZMI SYAFIKRI",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "11",
+    "kode": "GEB102",
+    "nama kelas": "PENGANTAR AKUNTANSI II",
+    "kelas": "1",
+    "koordinator": "Dr. Syukriy Abdullah, S.E, M.SiNIP. 197006301995121001",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010001",
+        "nama": "ELKA YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010002",
+        "nama": "DINDA PUSPITA SARI HUTAHEAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010004",
+        "nama": "PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010005",
+        "nama": "HIJRAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010006",
+        "nama": "SUSILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010008",
+        "nama": "RISMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010009",
+        "nama": "CUT SISKA PEMA NURI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010010",
+        "nama": "HERI SUFRIJAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010011",
+        "nama": "RISZKY DAMAI SAMOSIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010012",
+        "nama": "MUHAMMAD DWI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010013",
+        "nama": "KIBARDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010014",
+        "nama": "FREDIKA AFRIANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010015",
+        "nama": "FARISI",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010016",
+        "nama": "ANSARULLAH WERY",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010017",
+        "nama": "SHERLY",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "GEB102",
+        "kelas": "1",
+        "npm": "2201150010021",
+        "nama": "TIARA DESYA FITRI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "12",
+    "kode": "GEB202",
+    "nama kelas": "MANAJEMEN KEUANGAN II",
+    "kelas": "1",
+    "koordinator": "Dr. A. Sakir, SE., MMNIP. 197509032002121002",
+    "ruang": "2",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "1901150010038",
+        "nama": "NASRUL ABADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "1901150010071",
+        "nama": "NELI AGUSTINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "1901150010073",
+        "nama": "NANDA AZMI SYAFIKRI",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "1901150010074",
+        "nama": "IDA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2001150010009",
+        "nama": "MARYANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2001150010024",
+        "nama": "SYAIPUL AZHAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2001150010025",
+        "nama": "ZUBAIDAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2001150010026",
+        "nama": "MUHAMMAD UMAR SYALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2001150010029",
+        "nama": "SARMADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010002",
+        "nama": "RAHMANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010003",
+        "nama": "VIVI PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010004",
+        "nama": "ULAN DARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010005",
+        "nama": "JUMIATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010006",
+        "nama": "RISKA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010007",
+        "nama": "SURNAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010008",
+        "nama": "MAWARNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010009",
+        "nama": "RUTMINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010012",
+        "nama": "YULIA PRATIWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010013",
+        "nama": "NELA PUTRI RANGKOP",
+        "kelamin": "P"
+      },
+      {
+        "no": "20",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010014",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "21",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010015",
+        "nama": "AYU ARISTA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "22",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010019",
+        "nama": "ANISA KARAMOY",
+        "kelamin": "P"
+      },
+      {
+        "no": "23",
+        "kode": "GEB202",
+        "kelas": "1",
+        "npm": "2101150010020",
+        "nama": "DIMAS HADISETYA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "13",
+    "kode": "GEB206",
+    "nama kelas": "PERILAKU KEORGANISASIAN",
+    "kelas": "1",
+    "koordinator": "Ade Irma Suryani, SE., M.SiNIP. 197206262003122001",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "1901150010071",
+        "nama": "NELI AGUSTINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "1901150010074",
+        "nama": "IDA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010002",
+        "nama": "RAHMANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010003",
+        "nama": "VIVI PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010004",
+        "nama": "ULAN DARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010005",
+        "nama": "JUMIATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010006",
+        "nama": "RISKA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010007",
+        "nama": "SURNAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010008",
+        "nama": "MAWARNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010009",
+        "nama": "RUTMINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010012",
+        "nama": "YULIA PRATIWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010013",
+        "nama": "NELA PUTRI RANGKOP",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010014",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010015",
+        "nama": "AYU ARISTA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010019",
+        "nama": "ANISA KARAMOY",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "GEB206",
+        "kelas": "1",
+        "npm": "2101150010020",
+        "nama": "DIMAS HADISETYA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "14",
+    "kode": "GEB208",
+    "nama kelas": "PERILAKU KONSUMEN",
+    "kelas": "1",
+    "koordinator": "Dr. Halimatussakdiah, S.E., M.ANIP. 197010301998032003",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "1801150010066",
+        "nama": "FAISAL ANWAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "1901150010071",
+        "nama": "NELI AGUSTINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "1901150010074",
+        "nama": "IDA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2001150010026",
+        "nama": "MUHAMMAD UMAR SYALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010002",
+        "nama": "RAHMANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010003",
+        "nama": "VIVI PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010004",
+        "nama": "ULAN DARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010005",
+        "nama": "JUMIATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010006",
+        "nama": "RISKA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010007",
+        "nama": "SURNAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010008",
+        "nama": "MAWARNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010009",
+        "nama": "RUTMINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010012",
+        "nama": "YULIA PRATIWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010013",
+        "nama": "NELA PUTRI RANGKOP",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010014",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010015",
+        "nama": "AYU ARISTA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010019",
+        "nama": "ANISA KARAMOY",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "GEB208",
+        "kelas": "1",
+        "npm": "2101150010020",
+        "nama": "DIMAS HADISETYA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "15",
+    "kode": "GEB210",
+    "nama kelas": "PEMASARAN JASA",
+    "kelas": "1",
+    "koordinator": "Dr. Ahmad Nizam, SE, MMNIP. 196609201993031003",
+    "ruang": "1",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "1801150010052",
+        "nama": "UCI RAHMADANI SIREGAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2001150010024",
+        "nama": "SYAIPUL AZHAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010002",
+        "nama": "RAHMANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010003",
+        "nama": "VIVI PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010004",
+        "nama": "ULAN DARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010005",
+        "nama": "JUMIATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010006",
+        "nama": "RISKA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010007",
+        "nama": "SURNAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010008",
+        "nama": "MAWARNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010009",
+        "nama": "RUTMINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010012",
+        "nama": "YULIA PRATIWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010013",
+        "nama": "NELA PUTRI RANGKOP",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010014",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010015",
+        "nama": "AYU ARISTA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010019",
+        "nama": "ANISA KARAMOY",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "GEB210",
+        "kelas": "1",
+        "npm": "2101150010020",
+        "nama": "DIMAS HADISETYA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "16",
+    "kode": "GEB212",
+    "nama kelas": "MANAJEMEN OPERASIONAL II",
+    "kelas": "1",
+    "koordinator": "Dr. Nurdasila, M.M.NIP. 195711191981032001",
+    "ruang": "2",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "1801150010018",
+        "nama": "ADI PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "1801150010021",
+        "nama": "SABDIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "1801150010066",
+        "nama": "FAISAL ANWAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "1901150010071",
+        "nama": "NELI AGUSTINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "1901150010073",
+        "nama": "NANDA AZMI SYAFIKRI",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "1901150010074",
+        "nama": "IDA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2001150010018",
+        "nama": "HARTADIAN RIFKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2001150010024",
+        "nama": "SYAIPUL AZHAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2001150010026",
+        "nama": "MUHAMMAD UMAR SYALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2001150010029",
+        "nama": "SARMADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010002",
+        "nama": "RAHMANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010003",
+        "nama": "VIVI PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010004",
+        "nama": "ULAN DARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010005",
+        "nama": "JUMIATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010006",
+        "nama": "RISKA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010007",
+        "nama": "SURNAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010008",
+        "nama": "MAWARNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010009",
+        "nama": "RUTMINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010012",
+        "nama": "YULIA PRATIWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "20",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010013",
+        "nama": "NELA PUTRI RANGKOP",
+        "kelamin": "P"
+      },
+      {
+        "no": "21",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010014",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "22",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010015",
+        "nama": "AYU ARISTA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "23",
+        "kode": "GEB212",
+        "kelas": "1",
+        "npm": "2101150010019",
+        "nama": "ANISA KARAMOY",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "17",
+    "kode": "GEB214",
+    "nama kelas": "METODE KUANTITATIF DALAM PENGAMBILAN KEPUTUSAN",
+    "kelas": "1",
+    "koordinator": "Said Hamzali, S.IP., M.MNIP. 199001122020021101",
+    "ruang": "2",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "1801150010003",
+        "nama": "ALDO SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "1801150010066",
+        "nama": "FAISAL ANWAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "1901150010030",
+        "nama": "HAINUL MARDIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "1901150010048",
+        "nama": "FITRI ARIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010002",
+        "nama": "RAHMANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010003",
+        "nama": "VIVI PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010004",
+        "nama": "ULAN DARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010005",
+        "nama": "JUMIATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010006",
+        "nama": "RISKA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010007",
+        "nama": "SURNAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010008",
+        "nama": "MAWARNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010009",
+        "nama": "RUTMINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010012",
+        "nama": "YULIA PRATIWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010013",
+        "nama": "NELA PUTRI RANGKOP",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010014",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010015",
+        "nama": "AYU ARISTA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010019",
+        "nama": "ANISA KARAMOY",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "GEB214",
+        "kelas": "1",
+        "npm": "2101150010020",
+        "nama": "DIMAS HADISETYA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "18",
+    "kode": "GEB216",
+    "nama kelas": "PENGANGGARAN PERUSAHAAN",
+    "kelas": "1",
+    "koordinator": "Farid, S.E., M.MNIP. 197310022006041001",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "1801150010052",
+        "nama": "UCI RAHMADANI SIREGAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "1901150010071",
+        "nama": "NELI AGUSTINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "1901150010074",
+        "nama": "IDA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2001150010009",
+        "nama": "MARYANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010002",
+        "nama": "RAHMANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010003",
+        "nama": "VIVI PADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010004",
+        "nama": "ULAN DARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010005",
+        "nama": "JUMIATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010006",
+        "nama": "RISKA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010007",
+        "nama": "SURNAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010008",
+        "nama": "MAWARNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010009",
+        "nama": "RUTMINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010012",
+        "nama": "YULIA PRATIWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010013",
+        "nama": "NELA PUTRI RANGKOP",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010014",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010015",
+        "nama": "AYU ARISTA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010019",
+        "nama": "ANISA KARAMOY",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "GEB216",
+        "kelas": "1",
+        "npm": "2101150010020",
+        "nama": "DIMAS HADISETYA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "19",
+    "kode": "GEB303",
+    "nama kelas": "PERENCANAAN BISNIS",
+    "kelas": "1",
+    "koordinator": "Dr. Iskandarsyah, S.E, M.M.NIP. 196511062000031001",
+    "ruang": "1",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB303",
+        "kelas": "1",
+        "npm": "1801150010066",
+        "nama": "FAISAL ANWAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "GEB303",
+        "kelas": "1",
+        "npm": "2001150010001",
+        "nama": "JASIMA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "GEB303",
+        "kelas": "1",
+        "npm": "2001150010002",
+        "nama": "SANITA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB303",
+        "kelas": "1",
+        "npm": "2001150010003",
+        "nama": "ANISA AMALIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB303",
+        "kelas": "1",
+        "npm": "2001150010006",
+        "nama": "KAWIRITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB303",
+        "kelas": "1",
+        "npm": "2001150010009",
+        "nama": "MARYANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB303",
+        "kelas": "1",
+        "npm": "2001150010012",
+        "nama": "SALMIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB303",
+        "kelas": "1",
+        "npm": "2001150010013",
+        "nama": "KAMARIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "GEB303",
+        "kelas": "1",
+        "npm": "2001150010023",
+        "nama": "SOVA RAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "GEB303",
+        "kelas": "1",
+        "npm": "2001150010025",
+        "nama": "ZUBAIDAH",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "20",
+    "kode": "GEB305",
+    "nama kelas": "MANAJEMEN INVESTASI DAN ANALISIS PORTOFOLIO",
+    "kelas": "1",
+    "koordinator": "Prof.Dr. Said Musnadi, S.E, M.SiNIP. 196409191991031002",
+    "ruang": "1",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB305",
+        "kelas": "1",
+        "npm": "1901150010038",
+        "nama": "NASRUL ABADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "GEB305",
+        "kelas": "1",
+        "npm": "2001150010001",
+        "nama": "JASIMA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "GEB305",
+        "kelas": "1",
+        "npm": "2001150010002",
+        "nama": "SANITA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB305",
+        "kelas": "1",
+        "npm": "2001150010013",
+        "nama": "KAMARIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB305",
+        "kelas": "1",
+        "npm": "2001150010023",
+        "nama": "SOVA RAMAYANTI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "21",
+    "kode": "GEB502",
+    "nama kelas": "ANALISIS DATA MULTIVARIAT",
+    "kelas": "1",
+    "koordinator": "Dr. Syafruddin, S.E., MBANIP. 196310291988111001",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "1801150010030",
+        "nama": "ROSMIDAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "1801150010066",
+        "nama": "FAISAL ANWAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "1901150010038",
+        "nama": "NASRUL ABADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "1901150010040",
+        "nama": "RISKA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "1901150010041",
+        "nama": "MAHMANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "1901150010055",
+        "nama": "ADI KUSUMA",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "1901150010069",
+        "nama": "ANGGIANA, P",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "1901150010071",
+        "nama": "NELI AGUSTINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010001",
+        "nama": "JASIMA",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010002",
+        "nama": "SANITA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010005",
+        "nama": "NOLA ALFA HERA",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010006",
+        "nama": "KAWIRITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010011",
+        "nama": "EKA DWI RAHMAWATI HUTABARAT",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010012",
+        "nama": "SALMIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010013",
+        "nama": "KAMARIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010018",
+        "nama": "HARTADIAN RIFKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010019",
+        "nama": "KHAIRUL ABDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "18",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010023",
+        "nama": "SOVA RAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010024",
+        "nama": "SYAIPUL AZHAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "20",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010025",
+        "nama": "ZUBAIDAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "21",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010026",
+        "nama": "MUHAMMAD UMAR SYALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "22",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010027",
+        "nama": "ZULKARNAIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "23",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010028",
+        "nama": "RAJA",
+        "kelamin": "L"
+      },
+      {
+        "no": "24",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010029",
+        "nama": "SARMADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "25",
+        "kode": "GEB502",
+        "kelas": "1",
+        "npm": "2001150010030",
+        "nama": "MAHENDRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "22",
+    "kode": "GEB502",
+    "nama kelas": "ANALISIS DATA MULTIVARIAT",
+    "kelas": "2",
+    "koordinator": "Dr. Teuku Roli Ilhamsyah Putra, SE., MMNIP. 198503232009121008",
+    "ruang": "2",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB502",
+        "kelas": "2",
+        "npm": "1901150010031",
+        "nama": "FITRIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "GEB502",
+        "kelas": "2",
+        "npm": "1901150010050",
+        "nama": "SALMIDAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "GEB502",
+        "kelas": "2",
+        "npm": "1901150010053",
+        "nama": "DASLIA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB502",
+        "kelas": "2",
+        "npm": "2001150010003",
+        "nama": "ANISA AMALIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB502",
+        "kelas": "2",
+        "npm": "2001150010008",
+        "nama": "SIYARTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB502",
+        "kelas": "2",
+        "npm": "2001150010009",
+        "nama": "MARYANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB502",
+        "kelas": "2",
+        "npm": "2001150010014",
+        "nama": "SASTRI MULIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB502",
+        "kelas": "2",
+        "npm": "2001150010015",
+        "nama": "DEVI AMALIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "GEB502",
+        "kelas": "2",
+        "npm": "2001150010016",
+        "nama": "DAHLIA",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "23",
+    "kode": "GEB504",
+    "nama kelas": "PENILAIAN BISNIS",
+    "kelas": "1",
+    "koordinator": "Dr. Sulaiman, SE, MMNIP. 196710181994031002",
+    "ruang": "2",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB504",
+        "kelas": "1",
+        "npm": "1901150010038",
+        "nama": "NASRUL ABADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "GEB504",
+        "kelas": "1",
+        "npm": "1901150010073",
+        "nama": "NANDA AZMI SYAFIKRI",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "GEB504",
+        "kelas": "1",
+        "npm": "2001150010005",
+        "nama": "NOLA ALFA HERA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB504",
+        "kelas": "1",
+        "npm": "2001150010006",
+        "nama": "KAWIRITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB504",
+        "kelas": "1",
+        "npm": "2001150010018",
+        "nama": "HARTADIAN RIFKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "GEB504",
+        "kelas": "1",
+        "npm": "2001150010025",
+        "nama": "ZUBAIDAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB504",
+        "kelas": "1",
+        "npm": "2001150010028",
+        "nama": "RAJA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "24",
+    "kode": "GEB508",
+    "nama kelas": "BUDAYA PERUSAHAAN",
+    "kelas": "1",
+    "koordinator": "Dr. Ridwan, S.E, MMNIP. 195808081986031007",
+    "ruang": "3",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010003",
+        "nama": "ANISA AMALIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010005",
+        "nama": "NOLA ALFA HERA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010006",
+        "nama": "KAWIRITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010008",
+        "nama": "SIYARTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010009",
+        "nama": "MARYANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010011",
+        "nama": "EKA DWI RAHMAWATI HUTABARAT",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010014",
+        "nama": "SASTRI MULIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010015",
+        "nama": "DEVI AMALIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010016",
+        "nama": "DAHLIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010019",
+        "nama": "KHAIRUL ABDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010024",
+        "nama": "SYAIPUL AZHAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010026",
+        "nama": "MUHAMMAD UMAR SYALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010027",
+        "nama": "ZULKARNAIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010029",
+        "nama": "SARMADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "GEB508",
+        "kelas": "1",
+        "npm": "2001150010030",
+        "nama": "MAHENDRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "25",
+    "kode": "GEB510",
+    "nama kelas": "HUBUNGAN INDUSTRIAL",
+    "kelas": "1",
+    "koordinator": "Dr. Muliati Usman, SE.,MMNIP. 197804082002122002",
+    "ruang": "2",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "1901150010069",
+        "nama": "ANGGIANA, P",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010003",
+        "nama": "ANISA AMALIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010005",
+        "nama": "NOLA ALFA HERA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010006",
+        "nama": "KAWIRITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010008",
+        "nama": "SIYARTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010009",
+        "nama": "MARYANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010014",
+        "nama": "SASTRI MULIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010015",
+        "nama": "DEVI AMALIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010016",
+        "nama": "DAHLIA",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010019",
+        "nama": "KHAIRUL ABDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010024",
+        "nama": "SYAIPUL AZHAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010025",
+        "nama": "ZUBAIDAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010027",
+        "nama": "ZULKARNAIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010029",
+        "nama": "SARMADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "GEB510",
+        "kelas": "1",
+        "npm": "2001150010030",
+        "nama": "MAHENDRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "26",
+    "kode": "GEB512",
+    "nama kelas": "KOMUNIKASI PEMASARAN",
+    "kelas": "1",
+    "koordinator": "Dr. T. Meldi Kesuma, S.E., M.MNIP. 197505152006041001",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB512",
+        "kelas": "1",
+        "npm": "1801150010018",
+        "nama": "ADI PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "GEB512",
+        "kelas": "1",
+        "npm": "1801150010052",
+        "nama": "UCI RAHMADANI SIREGAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "GEB512",
+        "kelas": "1",
+        "npm": "1901150010055",
+        "nama": "ADI KUSUMA",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "GEB512",
+        "kelas": "1",
+        "npm": "2001150010012",
+        "nama": "SALMIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB512",
+        "kelas": "1",
+        "npm": "2001150010013",
+        "nama": "KAMARIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB512",
+        "kelas": "1",
+        "npm": "2001150010023",
+        "nama": "SOVA RAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB512",
+        "kelas": "1",
+        "npm": "2001150010028",
+        "nama": "RAJA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "27",
+    "kode": "GEB514",
+    "nama kelas": "MANAJEMEN RITEL",
+    "kelas": "1",
+    "koordinator": "Dr. Hafasnuddin, S.E, MBANIP. 195905101988101001",
+    "ruang": "2",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB514",
+        "kelas": "1",
+        "npm": "1801150010018",
+        "nama": "ADI PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "GEB514",
+        "kelas": "1",
+        "npm": "2001150010001",
+        "nama": "JASIMA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "GEB514",
+        "kelas": "1",
+        "npm": "2001150010002",
+        "nama": "SANITA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "GEB514",
+        "kelas": "1",
+        "npm": "2001150010005",
+        "nama": "NOLA ALFA HERA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "GEB514",
+        "kelas": "1",
+        "npm": "2001150010006",
+        "nama": "KAWIRITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "GEB514",
+        "kelas": "1",
+        "npm": "2001150010011",
+        "nama": "EKA DWI RAHMAWATI HUTABARAT",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "GEB514",
+        "kelas": "1",
+        "npm": "2001150010012",
+        "nama": "SALMIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "GEB514",
+        "kelas": "1",
+        "npm": "2001150010013",
+        "nama": "KAMARIAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "GEB514",
+        "kelas": "1",
+        "npm": "2001150010023",
+        "nama": "SOVA RAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "GEB514",
+        "kelas": "1",
+        "npm": "2001150010028",
+        "nama": "RAJA",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "GEB514",
+        "kelas": "1",
+        "npm": "2001150010030",
+        "nama": "MAHENDRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "28",
+    "kode": "GEB518",
+    "nama kelas": "EKONOMETRIKA",
+    "kelas": "1",
+    "koordinator": "Dr. Sartiyah, S.E., M.SiNIP. 196610091992032002",
+    "ruang": "2",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "GEB518",
+        "kelas": "1",
+        "npm": "2001150010005",
+        "nama": "NOLA ALFA HERA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "GEB518",
+        "kelas": "1",
+        "npm": "2001150010006",
+        "nama": "KAWIRITA",
+        "kelamin": "P"
+      }
+    ]
+  }
+]
