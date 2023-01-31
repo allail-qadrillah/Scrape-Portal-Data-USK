@@ -167,6 +167,19 @@ class PortalUSK:
               })
       return course
 
+    def findCoursesFromDirJson(self, path, namePerson):
+      """
+      mencari matakuliah mahasiwa didalam folder yang terdapat file json
+      
+      @param path (string) : lokasi folder yang akan dicari 
+      @param namePerson (string) : nama mahasiswa yang akan dicari
+      """
+      course = []
+      for folder in os.listdir(path):
+          data = self.loadJson(path + '/' + folder )
+          course.append(self.findCourses(namePerson, data))
+      return course
+
     def findCoursesFromDir(self, path, namePerson, 
       nameFakultas = '',
       nameProdi     = ''):
@@ -182,16 +195,22 @@ class PortalUSK:
 
       for files in os.listdir(path):
         # jika mencari dengan nama fakultas
-        if nameFakultas != '':
+        if nameFakultas != '' and nameProdi == '':
           if nameFakultas == self.getFileName(files):
-            print(nameFakultas)
-        # if files.endswith('.json'):
-        #   data = self.loadJson(path + '/' + files)
-        #   course.append(self.findCourses(namePerson, data))
-        # else:
-        #   for file in os.listdir(path + '/' + files):
-        #     data = self.loadJson(path + '/' + files + '/' + file)
-        #     course.append(self.findCourses(namePerson, data))
+            data = self.findCoursesFromDirJson(path + '/' + nameFakultas, namePerson)
+            course.append( [i for i in data if i != []] )
+        # jika mencari dengan nama fakultas dan prodi
+        elif nameFakultas != '' and nameProdi != '':
+          if nameFakultas == self.getFileName(files):
+            for file in os.listdir(path + '/' + files):
+              if nameProdi == self.getFileName(file):
+                data = self.loadJson(path + '/' + files + '/' + file)
+                course.append(self.findCourses(namePerson, data))
+        # jika hanya mencari dengan nama aja
+        else:
+          for file in os.listdir(path + '/' + files):
+            data = self.loadJson(path + '/' + files + '/' + file)
+            course.append(self.findCourses(namePerson, data))
 
       return [i for i in course if i != []]
 
