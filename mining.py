@@ -1,37 +1,41 @@
+from timer import Timer
+from ScrapePesertaKelas import MiningPortalUSK
+from config import *
+
 @Timer
 def MiningAllPesertaUSKS1():
   pathCourses = './COURSES USK '
   pathPeserta = './PESERTA USK '
   # TEKNIK
-  FT = MiningPortalUSK(
-      pathLoad= pathCourses + '/FT',
-      pathSave= 'Teknik',
-      urutanCode= JURUSAN_FT,
-  )
-  FT.getAllMataKuliahProdi(URUTAN_FAKULTAS['Teknik'])
-  FT.getAllPesertaThread()
-  FT.write_txt_file('log.txt', "========= FT COMPLETE =========")
-  FT.moveFolder('Teknik', pathPeserta + '/Teknik')
-  # KIP
-  KIP = MiningPortalUSK(
-      pathLoad=pathCourses + '/KIP',
-      pathSave='KIP',
-      urutanCode= JURUSAN_KIP,
-  )
-  KIP.getAllMataKuliahProdi(URUTAN_FAKULTAS['KIP'])
-  KIP.getAllPesertaThread()
-  KIP.write_txt_file('log.txt', "========= KIP COMPLETE =========")
-  KIP.moveFolder('KIP', pathPeserta + '/KIP')
-  # KEDOKTERAN
-  FK = MiningPortalUSK(
-      pathLoad=pathCourses + '/FK',
-      pathSave='Kedokteran',
-      urutanCode= JURUSAN_FK,
-  )
-  FK.getAllMataKuliahProdi(URUTAN_FAKULTAS['Kedokteran'])
-  FK.getAllPesertaThread()
-  FK.write_txt_file('log.txt', "========= FK COMPLETE =========")
-  FK.moveFolder('Kedokteran', pathPeserta + '/Kedokteran')
+  # FT = MiningPortalUSK(
+  #     pathLoad= pathCourses + '/FT',
+  #     pathSave= 'Teknik',
+  #     urutanCode= JURUSAN_FT,
+  # )
+  # FT.getAllMataKuliahProdi(URUTAN_FAKULTAS['Teknik'])
+  # FT.getAllPesertaThread()
+  # FT.write_txt_file('log.txt', "========= FT COMPLETE =========")
+  # FT.moveFolder('Teknik', pathPeserta + '/Teknik')
+  # # KIP
+  # KIP = MiningPortalUSK(
+  #     pathLoad=pathCourses + '/KIP',
+  #     pathSave='KIP',
+  #     urutanCode= JURUSAN_KIP,
+  # )
+  # KIP.getAllMataKuliahProdi(URUTAN_FAKULTAS['KIP'])
+  # KIP.getAllPesertaThread()
+  # KIP.write_txt_file('log.txt', "========= KIP COMPLETE =========")
+  # KIP.moveFolder('KIP', pathPeserta + '/KIP')
+  # # KEDOKTERAN
+  # FK = MiningPortalUSK(
+  #     pathLoad=pathCourses + '/FK',
+  #     pathSave='Kedokteran',
+  #     urutanCode= JURUSAN_FK,
+  # )
+  # FK.getAllMataKuliahProdi(URUTAN_FAKULTAS['Kedokteran'])
+  # FK.getAllPesertaThread()
+  # FK.write_txt_file('log.txt', "========= FK COMPLETE =========")
+  # FK.moveFolder('Kedokteran', pathPeserta + '/Kedokteran')
   # EKONOMI
   FEB = MiningPortalUSK(
       pathLoad=pathCourses + '/FEB',

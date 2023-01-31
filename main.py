@@ -11,9 +11,6 @@ import threading
 from mining import MiningAllPesertaUSKS1
 
 
-
-
-
 app = FastAPI()
 
 
