@@ -1,0 +1,1123 @@
+[
+  {
+    "no": "1",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Taufik Fuadi Abidin, S.Si., M.TechNIP. 197010081994031002",
+    "ruang": "Bapel KKN",
+    "hari": "Sabtu",
+    "waktu": "8:00-18:00",
+    "peserta": "9",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "PTK102",
+    "nama": "SUMBERDAYA GENETIK TERNAK LOKAL",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Eka Meutia Sari, M.Sc.NIP. 196712241992122001",
+    "ruang": "Lab repro",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "PTK102",
+    "nama": "SUMBERDAYA GENETIK TERNAK LOKAL",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Ir. Eka Meutia Sari, M.Sc.NIP. 196712241992122001",
+    "ruang": "Lab repro",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "PTK104",
+    "nama": "FISIOLOGI & ANATOMI TERNAK",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Dzarnisa, M.SiNIP. 196909111994032002",
+    "ruang": "B.03.03",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "46",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "PTK104",
+    "nama": "FISIOLOGI & ANATOMI TERNAK",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Dzarnisa, M.SiNIP. 196909111994032002",
+    "ruang": "D.03.01",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "46",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "PTK108",
+    "nama": "MIKROBIOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Zuraida Hanum, S.Pt., M.Si.NIP. 197804152008122002",
+    "ruang": "B.03.12",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "41",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "PTK108",
+    "nama": "MIKROBIOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Zuraida Hanum, S.Pt., M.Si.NIP. 197804152008122002",
+    "ruang": "D.03.03",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "PTK110",
+    "nama": "AGROSTOLOGI",
+    "kelas": "01",
+    "koordinator": "Ir. Mira Delima, M.PNIP. 196201051990022001",
+    "ruang": "B.03.14",
+    "hari": "Selasa",
+    "waktu": "08:00-08:50",
+    "peserta": "48",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "PTK110",
+    "nama": "AGROSTOLOGI",
+    "kelas": "02",
+    "koordinator": "Ir. Mira Delima, M.PNIP. 196201051990022001",
+    "ruang": "D.01.03",
+    "hari": "Jumat",
+    "waktu": "8:00-8:50",
+    "peserta": "54",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "PTK112",
+    "nama": "ILMU TILIK HEWAN",
+    "kelas": "01",
+    "koordinator": "Ir. Asril, M.Rur.ScNIP. 196401131990031001",
+    "ruang": "B.03.01",
+    "hari": "Selasa",
+    "waktu": "14:00-14:50",
+    "peserta": "45",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "PTK112",
+    "nama": "ILMU TILIK HEWAN",
+    "kelas": "02",
+    "koordinator": "Ir. Asril, M.Rur.ScNIP. 196401131990031001",
+    "ruang": "B.03.14",
+    "hari": "Kamis",
+    "waktu": "10:00-10:50",
+    "peserta": "45",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "PTK114",
+    "nama": "TEKNIK PENULISAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Samadi, M.ScNIP. 196807171993031005",
+    "ruang": "B.03.10",
+    "hari": "Kamis",
+    "waktu": "16:20-17:10",
+    "peserta": "55",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK114",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "PTK114",
+    "nama": "TEKNIK PENULISAN",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Ir. Samadi, M.ScNIP. 196807171993031005",
+    "ruang": "B.03.09",
+    "hari": "Jumat",
+    "waktu": "16:20-17:10",
+    "peserta": "56",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK114",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "PTK202",
+    "nama": "BIOTEKNOLOGI PETERNAKAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Eka Meutia Sari, M.Sc.NIP. 196712241992122001",
+    "ruang": "Lab repro",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "PTK202",
+    "nama": "BIOTEKNOLOGI PETERNAKAN",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Ir. Eka Meutia Sari, M.Sc.NIP. 196712241992122001",
+    "ruang": "Lab repro",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "PTK202",
+    "nama": "BIOTEKNOLOGI PETERNAKAN",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Ir. Eka Meutia Sari, M.Sc.NIP. 196712241992122001",
+    "ruang": "Lab repro",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "31",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "PTK204",
+    "nama": "PENGETAHUAN BAHAN PAKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Sitti Wajizah, M.SiNIP. 196902281993032001",
+    "ruang": "B.03.04",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "PTK204",
+    "nama": "PENGETAHUAN BAHAN PAKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Sitti Wajizah, M.SiNIP. 196902281993032001",
+    "ruang": "D. 01.03",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "18",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "PTK204",
+    "nama": "PENGETAHUAN BAHAN PAKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Sitti Wajizah, M.SiNIP. 196902281993032001",
+    "ruang": "B.03.04",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "PTK212",
+    "nama": "PANGAN DAN GIZI KOMODITI TERNAK",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Yurliasni, M.ScNIP. 196204301989032002",
+    "ruang": "D. 01.03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "9",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "PTK212",
+    "nama": "PANGAN DAN GIZI KOMODITI TERNAK",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Yurliasni, M.ScNIP. 196204301989032002",
+    "ruang": "D. 01.03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "PTK212",
+    "nama": "PANGAN DAN GIZI KOMODITI TERNAK",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Yurliasni, M.ScNIP. 196204301989032002",
+    "ruang": "B.03.06",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "37",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK212",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "PTK214",
+    "nama": "PERANCANGAN PERCOBAAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Sitti Wajizah, M.SiNIP. 196902281993032001",
+    "ruang": "B.03.10",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "15",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK214",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "PTK214",
+    "nama": "PERANCANGAN PERCOBAAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Sitti Wajizah, M.SiNIP. 196902281993032001",
+    "ruang": "B.03.11",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK214",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "PTK214",
+    "nama": "PERANCANGAN PERCOBAAN",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Sitti Wajizah, M.SiNIP. 196902281993032001",
+    "ruang": "B.03.11",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK214",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "PTK218",
+    "nama": "TEKNOLOGI PRODUKSI TERNAK POTONG",
+    "kelas": "01",
+    "koordinator": "Ir. Asril, M.Rur.ScNIP. 196401131990031001",
+    "ruang": "B.03.01",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "17",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK218",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "PTK218",
+    "nama": "TEKNOLOGI PRODUKSI TERNAK POTONG",
+    "kelas": "02",
+    "koordinator": "Ir. Asril, M.Rur.ScNIP. 196401131990031001",
+    "ruang": "B.03.02",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK218",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "PTK218",
+    "nama": "TEKNOLOGI PRODUKSI TERNAK POTONG",
+    "kelas": "03",
+    "koordinator": "Ir. Asril, M.Rur.ScNIP. 196401131990031001",
+    "ruang": "B.03.11",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "32",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK218",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "PTK220",
+    "nama": "TEKNOLOGI PRODUKSI TERNAK PERAH",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Dzarnisa, M.SiNIP. 196909111994032002",
+    "ruang": "B.03.10",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "27",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK220",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "PTK220",
+    "nama": "TEKNOLOGI PRODUKSI TERNAK PERAH",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Dzarnisa, M.SiNIP. 196909111994032002",
+    "ruang": "B.03.13",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "39",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK220",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "PTK220",
+    "nama": "TEKNOLOGI PRODUKSI TERNAK PERAH",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Dzarnisa, M.SiNIP. 196909111994032002",
+    "ruang": "B.03.06",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK220",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "PTK222",
+    "nama": "TEKNOLOGI PEMULIAAN TERNAK",
+    "kelas": "01",
+    "koordinator": "Dr. Mohd. Agus Nashri Abdullah, S.Pt, M.SiNIP. 197108161997021001",
+    "ruang": "Lab repro",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK222",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "PTK222",
+    "nama": "TEKNOLOGI PEMULIAAN TERNAK",
+    "kelas": "02",
+    "koordinator": "Dr. Mohd. Agus Nashri Abdullah, S.Pt, M.SiNIP. 197108161997021001",
+    "ruang": "Lab repro",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK222",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "PTK222",
+    "nama": "TEKNOLOGI PEMULIAAN TERNAK",
+    "kelas": "03",
+    "koordinator": "Dr. Mohd. Agus Nashri Abdullah, S.Pt, M.SiNIP. 197108161997021001",
+    "ruang": "Lab repro",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "41",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK222",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "PTK306",
+    "nama": "MANAJEMEN INDUSTRI TERNAK POTONG",
+    "kelas": "01",
+    "koordinator": "Ir. Asril, M.Rur.ScNIP. 196401131990031001",
+    "ruang": "B.03.14",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "42",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK306",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "PTK306",
+    "nama": "MANAJEMEN INDUSTRI TERNAK POTONG",
+    "kelas": "02",
+    "koordinator": "Ir. Asril, M.Rur.ScNIP. 196401131990031001",
+    "ruang": "B.03.01",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "42",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK306",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "PTK306",
+    "nama": "MANAJEMEN INDUSTRI TERNAK POTONG",
+    "kelas": "03",
+    "koordinator": "Ir. Asril, M.Rur.ScNIP. 196401131990031001",
+    "ruang": "B.03.12",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "42",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK306",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "PTK308",
+    "nama": "MANAJEMEN INDUSTRI TERNAK PERAH",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Dzarnisa, M.SiNIP. 196909111994032002",
+    "ruang": "D.03.03",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "47",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK308",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "PTK308",
+    "nama": "MANAJEMEN INDUSTRI TERNAK PERAH",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Dzarnisa, M.SiNIP. 196909111994032002",
+    "ruang": "B.03.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "48",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK308",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "PTK308",
+    "nama": "MANAJEMEN INDUSTRI TERNAK PERAH",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Dzarnisa, M.SiNIP. 196909111994032002",
+    "ruang": "D.03.01",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "47",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK308",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "PTK308",
+    "nama": "MANAJEMEN INDUSTRI TERNAK PERAH",
+    "kelas": "04",
+    "koordinator": "Dr. Ir. Dzarnisa, M.SiNIP. 196909111994032002",
+    "ruang": "D.03.06",
+    "hari": "Senin",
+    "waktu": "08:10-09:50",
+    "peserta": "18",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK308",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "PTK310",
+    "nama": "MANAJEMEN REPRODUKSI DAN PEMBIBITAN TERNAK",
+    "kelas": "01",
+    "koordinator": "Ir. Cut Intan Novita, M.SiNIP. 196911131996032001",
+    "ruang": "D. 03.03",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK310",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "PTK310",
+    "nama": "MANAJEMEN REPRODUKSI DAN PEMBIBITAN TERNAK",
+    "kelas": "02",
+    "koordinator": "Ir. Cut Intan Novita, M.SiNIP. 196911131996032001",
+    "ruang": "B.03.11",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK310",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "PTK310",
+    "nama": "MANAJEMEN REPRODUKSI DAN PEMBIBITAN TERNAK",
+    "kelas": "03",
+    "koordinator": "Ir. Cut Intan Novita, M.SiNIP. 196911131996032001",
+    "ruang": "B.03.06",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "29",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK310",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "PTK314",
+    "nama": "PENANGANAN DAN PEMANFAATAN LIMBAH DAN HASIL  SAMPING PETERNAKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. M. Aman Yaman, M.Agric.Sc.NIP. 196311201990021002",
+    "ruang": "B.03.09",
+    "hari": "Selasa",
+    "waktu": "8:00-8:50",
+    "peserta": "28",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK314",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "PTK314",
+    "nama": "PENANGANAN DAN PEMANFAATAN LIMBAH DAN HASIL  SAMPING PETERNAKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. M. Aman Yaman, M.Agric.Sc.NIP. 196311201990021002",
+    "ruang": "B.03.11",
+    "hari": "Senin",
+    "waktu": "8:10-9:00",
+    "peserta": "9",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK314",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "PTK314",
+    "nama": "PENANGANAN DAN PEMANFAATAN LIMBAH DAN HASIL  SAMPING PETERNAKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. M. Aman Yaman, M.Agric.Sc.NIP. 196311201990021002",
+    "ruang": "B.03.08",
+    "hari": "Kamis",
+    "waktu": "8:00-8:50",
+    "peserta": "34",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK314",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "PTK316",
+    "nama": "KESEHATAN TERNAK DAN BIOSECURITY",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. M. Aman Yaman, M.Agric.Sc.NIP. 196311201990021002",
+    "ruang": "B.03.12",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "23",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK316",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "PTK316",
+    "nama": "KESEHATAN TERNAK DAN BIOSECURITY",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. M. Aman Yaman, M.Agric.Sc.NIP. 196311201990021002",
+    "ruang": "B.03.07",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK316",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "PTK316",
+    "nama": "KESEHATAN TERNAK DAN BIOSECURITY",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. M. Aman Yaman, M.Agric.Sc.NIP. 196311201990021002",
+    "ruang": "B.03.09",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "40",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK316",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "PTK318",
+    "nama": "MANAJEMEN INDUSTRI PERUNGGASAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. M. Aman Yaman, M.Agric.Sc.NIP. 196311201990021002",
+    "ruang": "D.03.04",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "14",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK318",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "PTK318",
+    "nama": "MANAJEMEN INDUSTRI PERUNGGASAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. M. Aman Yaman, M.Agric.Sc.NIP. 196311201990021002",
+    "ruang": "B.03.06",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "31",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK318",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "PTK318",
+    "nama": "MANAJEMEN INDUSTRI PERUNGGASAN",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. M. Aman Yaman, M.Agric.Sc.NIP. 196311201990021002",
+    "ruang": "B.03.10",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "39",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK318",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "PTK320",
+    "nama": "MANAJEMEN INDUSTRI PAKAN TERNAK",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Samadi, M.ScNIP. 196807171993031005",
+    "ruang": "B.03.10",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "2",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK320",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "PTK320",
+    "nama": "MANAJEMEN INDUSTRI PAKAN TERNAK",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Ir. Samadi, M.ScNIP. 196807171993031005",
+    "ruang": "B.03.08",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "25",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK320",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "PTK320",
+    "nama": "MANAJEMEN INDUSTRI PAKAN TERNAK",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Ir. Samadi, M.ScNIP. 196807171993031005",
+    "ruang": "B.03.07",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "26",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTK320",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "PTKP02",
+    "nama": "PRAKTEK LAPANG",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Dzarnisa, M.SiNIP. 196909111994032002",
+    "ruang": "Prodi Peternakan",
+    "hari": "Sabtu",
+    "waktu": "8:00-18:00",
+    "peserta": "107",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTKP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "PTKP04",
+    "nama": "SEMINAR",
+    "kelas": "01",
+    "koordinator": "Zikri Maulina Gaznur, S.Pt., M.Si.NIP. 198902052019032018",
+    "ruang": "Prodi Peternakan",
+    "hari": "Sabtu",
+    "waktu": "8:00-18:00",
+    "peserta": "26",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTKP04",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "PTKPA1",
+    "nama": "PENELITIAN SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Eka Meutia Sari, M.Sc.NIP. 196712241992122001",
+    "ruang": "Prodi Peternakan",
+    "hari": "Sabtu",
+    "waktu": "8:00-18:00",
+    "peserta": "70",
+    "keterangan": "PertanianS1Peternakan",
+    "kode-peserta": {
+      "data-kode": "PTKPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510401"
+    }
+  }
+]

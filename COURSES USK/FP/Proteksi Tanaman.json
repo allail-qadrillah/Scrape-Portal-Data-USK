@@ -1,0 +1,876 @@
+[
+  {
+    "no": "1",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Taufik Fuadi Abidin, S.Si., M.TechNIP. 197010081994031002",
+    "ruang": "Bapel KKN",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "31",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "PTN102",
+    "nama": "DASAR AGRONOMI",
+    "kelas": "01",
+    "koordinator": "Ir. Nurhayati, M.P.NIP. 195911221987022001",
+    "ruang": "B.03.03",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "PTN102",
+    "nama": "DASAR AGRONOMI",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Mardhiah Hayati, M.S.NIP. 196207081987022001",
+    "ruang": "B.03.04",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "PTN104",
+    "nama": "DASAR ILMU TANAH",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Teti Arabia, MS.NIP. 196109141986022001",
+    "ruang": "D.01.01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "PTN104",
+    "nama": "DASAR ILMU TANAH",
+    "kelas": "02",
+    "koordinator": "Yusnizar, S.P., M.SiNIP. 196808161997032001",
+    "ruang": "B.03.10",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "PTN106",
+    "nama": "PENGANTAR AGROKLIMATOLOGI",
+    "kelas": "01",
+    "koordinator": "Ir. Hasnah, M.P.NIP. 195905291985032004",
+    "ruang": "B.03.02",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "22",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "PTN106",
+    "nama": "PENGANTAR AGROKLIMATOLOGI",
+    "kelas": "02",
+    "koordinator": "Ir. Hasnah, M.P.NIP. 195905291985032004",
+    "ruang": "D.01.01",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "28",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "PTN108",
+    "nama": "BOTANI UMUM",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Rina Sriwati, M.SiNIP. 197003061994032001",
+    "ruang": "B.03.03",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "22",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "PTN108",
+    "nama": "BOTANI UMUM",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Ir. Rina Sriwati, M.SiNIP. 197003061994032001",
+    "ruang": "B.03.05",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "PTN110",
+    "nama": "SUMBER DAYA PERTANIAN LOKAL",
+    "kelas": "01",
+    "koordinator": "Dr. Nur Pramayudi, S.P, M.SiNIP. 198010132006041001",
+    "ruang": "B.03.12",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "25",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "PTN110",
+    "nama": "SUMBER DAYA PERTANIAN LOKAL",
+    "kelas": "02",
+    "koordinator": "Dr. Nur Pramayudi, S.P, M.SiNIP. 198010132006041001",
+    "ruang": "D.03.05",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "27",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "PTN202",
+    "nama": "PERANCANGAN PERCOBAAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Susanna, M.Si.NIP. 196811301994032001",
+    "ruang": "D.03.01",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "18",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "PTN202",
+    "nama": "PERANCANGAN PERCOBAAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Susanna, M.Si.NIP. 196811301994032001",
+    "ruang": "D.03.02",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "PTN204",
+    "nama": "ILMU HAMA TANAMAN",
+    "kelas": "01",
+    "koordinator": "Ir. Hasnah, M.P.NIP. 195905291985032004",
+    "ruang": "B.03.03",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "19",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "PTN204",
+    "nama": "ILMU HAMA TANAMAN",
+    "kelas": "02",
+    "koordinator": "Ir. Hasnah, M.P.NIP. 195905291985032004",
+    "ruang": "D.01.01",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "23",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "PTN206",
+    "nama": "ILMU PENYAKIT TANAMAN",
+    "kelas": "01",
+    "koordinator": "Dr. Hartati Oktarina, S.P, M.ScNIP. 198110182006042001",
+    "ruang": "D.01.01",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "22",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "PTN206",
+    "nama": "ILMU PENYAKIT TANAMAN",
+    "kelas": "02",
+    "koordinator": "Dr. Hartati Oktarina, S.P, M.ScNIP. 198110182006042001",
+    "ruang": "B.03.03",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "19",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "PTN212",
+    "nama": "PESTISIDA DAN TEKNIK APLIKASI",
+    "kelas": "01",
+    "koordinator": "Ir. Hasnah, M.P.NIP. 195905291985032004",
+    "ruang": "D.01.03",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "19",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "PTN212",
+    "nama": "PESTISIDA DAN TEKNIK APLIKASI",
+    "kelas": "02",
+    "koordinator": "Ir. Hasnah, M.P.NIP. 195905291985032004",
+    "ruang": "D.03.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "PTN216",
+    "nama": "EKOLOGI SERANGGA",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Jauharlina, M. Sc.NIP. 196309231988032010",
+    "ruang": "B.03.02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "PTN216",
+    "nama": "EKOLOGI SERANGGA",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Jauharlina, M. Sc.NIP. 196309231988032010",
+    "ruang": "D.01.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN216",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "PTN218",
+    "nama": "PENGELOLAAN GULMA",
+    "kelas": "01",
+    "koordinator": "Ir. Hasnah, M.P.NIP. 195905291985032004",
+    "ruang": "D.01.01",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN218",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "PTN218",
+    "nama": "PENGELOLAAN GULMA",
+    "kelas": "02",
+    "koordinator": "Ir. Hasnah, M.P.NIP. 195905291985032004",
+    "ruang": "D.03.01",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "20",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN218",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "PTN514",
+    "nama": "EPIDEMIOLOGI PENYAKIT TANAMAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Susanna, M.Si.NIP. 196811301994032001",
+    "ruang": "B.03.03",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "16",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN514",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "PTN514",
+    "nama": "EPIDEMIOLOGI PENYAKIT TANAMAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Susanna, M.Si.NIP. 196811301994032001",
+    "ruang": "B.03.02",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "20",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN514",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "PTN516",
+    "nama": "SERANGGA BERGUNA",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Jauharlina, M. Sc.NIP. 196309231988032010",
+    "ruang": "B.03.02",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "7",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN516",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "PTN516",
+    "nama": "SERANGGA BERGUNA",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Jauharlina, M. Sc.NIP. 196309231988032010",
+    "ruang": "B.03.05",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "16",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN516",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "PTN518",
+    "nama": "HAMA URBAN",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Sayuthi, S.P, MPNIP. 197211232003121001",
+    "ruang": "B.03.13",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "7",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN518",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "PTN520",
+    "nama": "SISTEM PERAMALAN HAMA TANAMAN",
+    "kelas": "01",
+    "koordinator": "Ir. Hasnah, M.P.NIP. 195905291985032004",
+    "ruang": "D.01.03",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "23",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN520",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "PTN522",
+    "nama": "PATOLOGI SERANGGA",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Sayuthi, S.P, MPNIP. 197211232003121001",
+    "ruang": "B.03.03",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "14",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN522",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "PTN524",
+    "nama": "TEKNOLOGI MIKORIZA",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Marlina, M.S.NIP. 195611211984032001",
+    "ruang": "B.03.11",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN524",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "PTN526",
+    "nama": "BUDIDAYA SERANGGA BERGUNA",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Jauharlina, M. Sc.NIP. 196309231988032010",
+    "ruang": "B.03.13",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN526",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "PTN528",
+    "nama": "PENGELOLAAN OPT KOPI GAYO",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Husni, M.Agric.ScNIP. 196502041992031002",
+    "ruang": "B.03.11",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "2",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN528",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "PTN530",
+    "nama": "PENGELOLAAN OPT NILAM",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Rina Sriwati, M.SiNIP. 197003061994032001",
+    "ruang": "B.03.02",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "19",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN530",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "PTN532",
+    "nama": "KOLEKSI DAN TEKNIK IDENTIFIKASI MIKROBA",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Susanna, M.Si.NIP. 196811301994032001",
+    "ruang": "B.03.12",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN532",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "PTN534",
+    "nama": "KOLEKSI DAN TEKNIK IDENTIFIKASI SERANGGA",
+    "kelas": "01",
+    "koordinator": "Dr. Nur Pramayudi, S.P, M.SiNIP. 198010132006041001",
+    "ruang": "D.03.04",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "13",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN534",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "PTN536",
+    "nama": "BIOPESTISIDA SUMBER DAYA LOKAL",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Susanna, M.Si.NIP. 196811301994032001",
+    "ruang": "D.03.04",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "25",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN536",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "PTN538",
+    "nama": "MANAJEMEN LABORATORIUM PROTEKSI TANAMAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Lukman Hakim, M.S.NIP. 196005121986031004",
+    "ruang": "B.03.02",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "21",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN538",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "PTN540",
+    "nama": "VIROLOGI TUMBUHAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Lukman Hakim, M.S.NIP. 196005121986031004",
+    "ruang": "B.03.02",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN540",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "PTN542",
+    "nama": "NEMATOLOGI LANJUTAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Rina Sriwati, M.SiNIP. 197003061994032001",
+    "ruang": "D.01.01",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "10",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN542",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "PTN544",
+    "nama": "PENGENDALIAN HAMA DAN PENYAKIT TANAMAN",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Sayuthi, S.P, MPNIP. 197211232003121001",
+    "ruang": "D.01.01",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "25",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN544",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "PTN548",
+    "nama": "VERTEBRATA HAMA",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Sapdi, M.SiNIP. 196411151993031003",
+    "ruang": "B.03.12",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "23",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN548",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "PTN550",
+    "nama": "DASAR-DASAR PROTEKSI TANAMAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Lukman Hakim, M.S.NIP. 196005121986031004",
+    "ruang": "B.03.13",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTN550",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "PTNP02",
+    "nama": "PRAKTEK LAPANG",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Susanna, M.Si.NIP. 196811301994032001",
+    "ruang": "Prodi Proteksi Tanam",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "37",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTNP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "PTNP04",
+    "nama": "SEMINAR",
+    "kelas": "01",
+    "koordinator": "Ir. Hasnah, M.P.NIP. 195905291985032004",
+    "ruang": "Prodi Proteksi Tanam",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "47",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTNP04",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "PTNPA1",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Sayuthi, S.P, MPNIP. 197211232003121001",
+    "ruang": "Prodi Proteksi Tanam",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "55",
+    "keterangan": "PertanianS1Proteksi Tanaman",
+    "kode-peserta": {
+      "data-kode": "PTNPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510901"
+    }
+  }
+]

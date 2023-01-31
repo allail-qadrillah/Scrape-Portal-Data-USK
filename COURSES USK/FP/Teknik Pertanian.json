@@ -1,0 +1,1712 @@
+[
+  {
+    "no": "1",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Taufik Fuadi Abidin, S.Si., M.TechNIP. 197010081994031002",
+    "ruang": "Bapel KKN",
+    "hari": "Sabtu",
+    "waktu": "8:00-18:00",
+    "peserta": "13",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "07",
+    "koordinator": "Dr. Muhammad Yasar, S.TP., M.Sc.NIP. 197910192005011001",
+    "ruang": "D.01.03",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "38",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "08",
+    "koordinator": "Dr. Muhammad Yasar, S.TP., M.Sc.NIP. 197910192005011001",
+    "ruang": "D.01.02",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "0",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "09",
+    "koordinator": "Dr. Muhammad Yasar, S.TP., M.Sc.NIP. 197910192005011001",
+    "ruang": "D.01.02",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "09",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "TPM102",
+    "nama": "FISIKA LANJUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Andriani Lubis, S.TP., M.Si.NIP. 198005142006042002",
+    "ruang": "B.03.06",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "20",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "TPM102",
+    "nama": "FISIKA LANJUTAN",
+    "kelas": "02",
+    "koordinator": "Dr. Andriani Lubis, S.TP., M.Si.NIP. 198005142006042002",
+    "ruang": "B.03.14",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "29",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "TPM102",
+    "nama": "FISIKA LANJUTAN",
+    "kelas": "03",
+    "koordinator": "Dr. Andriani Lubis, S.TP., M.Si.NIP. 198005142006042002",
+    "ruang": "B.03.12",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "TPM104",
+    "nama": "PEMOGRAMAN KOMPUTER",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Syahrul, M.ScNIP. 196312111990021001",
+    "ruang": "B.03.13",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "TPM104",
+    "nama": "PEMOGRAMAN KOMPUTER",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Syahrul, M.ScNIP. 196312111990021001",
+    "ruang": "B.03.01",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "9",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "TPM104",
+    "nama": "PEMOGRAMAN KOMPUTER",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Syahrul, M.ScNIP. 196312111990021001",
+    "ruang": "B.03.14",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM104",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "TPM106",
+    "nama": "KALKULUS I",
+    "kelas": "01",
+    "koordinator": "Dr. Rita Khathir, S.TP, M.ScNIP. 197912012002122001",
+    "ruang": "B.03.01",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "TPM106",
+    "nama": "KALKULUS I",
+    "kelas": "02",
+    "koordinator": "Dr. Rita Khathir, S.TP, M.ScNIP. 197912012002122001",
+    "ruang": "B.03.06",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "TPM106",
+    "nama": "KALKULUS I",
+    "kelas": "03",
+    "koordinator": "Dr. Rita Khathir, S.TP, M.ScNIP. 197912012002122001",
+    "ruang": "B.03.14",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "23",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM106",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "TPM108",
+    "nama": "SATUAN OPERASI",
+    "kelas": "01",
+    "koordinator": "Dr. Yusmanizar, S.T., M.P.NIP. 197008061998022001",
+    "ruang": "B.03.06",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "TPM108",
+    "nama": "SATUAN OPERASI",
+    "kelas": "02",
+    "koordinator": "Dr. Yusmanizar, S.T., M.P.NIP. 197008061998022001",
+    "ruang": "B.03.13",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "TPM108",
+    "nama": "SATUAN OPERASI",
+    "kelas": "03",
+    "koordinator": "Dr. Yusmanizar, S.T., M.P.NIP. 197008061998022001",
+    "ruang": "B.03.14",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "13",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM108",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "TPM110",
+    "nama": "MANAJEMEN AGROINDUSTRI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Rahmat Fadhil, S.TP., M.ScNIP. 197811242005011001",
+    "ruang": "B.03.14",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "TPM110",
+    "nama": "MANAJEMEN AGROINDUSTRI",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Rahmat Fadhil, S.TP., M.ScNIP. 197811242005011001",
+    "ruang": "B.03.06",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "TPM110",
+    "nama": "MANAJEMEN AGROINDUSTRI",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Rahmat Fadhil, S.TP., M.ScNIP. 197811242005011001",
+    "ruang": "D.03.04",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "15",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "TPM112",
+    "nama": "BAHASA INGGRIS TERAPAN",
+    "kelas": "01",
+    "koordinator": "Dr. T. Ferijal, S.TP., M.Sc.NIP. 197706062003121001",
+    "ruang": "B.03.01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "TPM112",
+    "nama": "BAHASA INGGRIS TERAPAN",
+    "kelas": "02",
+    "koordinator": "Dr. T. Ferijal, S.TP., M.Sc.NIP. 197706062003121001",
+    "ruang": "B.03.01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "TPM112",
+    "nama": "BAHASA INGGRIS TERAPAN",
+    "kelas": "03",
+    "koordinator": "Dr. T. Ferijal, S.TP., M.Sc.NIP. 197706062003121001",
+    "ruang": "B.03.06",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "31",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM112",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "TPM114",
+    "nama": "PRAKTIKUM  PEMOGRAMAN KOMPUTER",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Syahrul, M.ScNIP. 196312111990021001",
+    "ruang": "Lab. TP",
+    "hari": "Jumat",
+    "waktu": "8:00-8:50",
+    "peserta": "39",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM114",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "TPM114",
+    "nama": "PRAKTIKUM  PEMOGRAMAN KOMPUTER",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Syahrul, M.ScNIP. 196312111990021001",
+    "ruang": "Lab. TP",
+    "hari": "Selasa",
+    "waktu": "8:00-8:50",
+    "peserta": "50",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM114",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "TPM116",
+    "nama": "PRAKTIKUM SATUAN OPERASI",
+    "kelas": "01",
+    "koordinator": "Dr. rer. hort. Indera Sakti Nasution, S.TP., M.Sc.NIP. 198007042005011006",
+    "ruang": "Lab. TP",
+    "hari": "Kamis",
+    "waktu": "8:00-8:50",
+    "peserta": "50",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM116",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "TPM116",
+    "nama": "PRAKTIKUM SATUAN OPERASI",
+    "kelas": "02",
+    "koordinator": "Dr. Yusmanizar, S.T., M.P.NIP. 197008061998022001",
+    "ruang": "Lab. TP",
+    "hari": "Jumat",
+    "waktu": "14:00-14:50",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM116",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "TPM118",
+    "nama": "TEKNIK PENGUKURAN DAN KALIBRASI",
+    "kelas": "01",
+    "koordinator": "Dr. Ing. Agus Arip Munawar, S.TP., M.Sc.NIP. 198008092003121003",
+    "ruang": "B.03.06",
+    "hari": "Jumat",
+    "waktu": "14:00-14:50",
+    "peserta": "10",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM118",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "TPM118",
+    "nama": "TEKNIK PENGUKURAN DAN KALIBRASI",
+    "kelas": "02",
+    "koordinator": "Dr. Ing. Agus Arip Munawar, S.TP., M.Sc.NIP. 198008092003121003",
+    "ruang": "D.03.03",
+    "hari": "Kamis",
+    "waktu": "16:20-17:10",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM118",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "TPM118",
+    "nama": "TEKNIK PENGUKURAN DAN KALIBRASI",
+    "kelas": "03",
+    "koordinator": "Dr. Ing. Agus Arip Munawar, S.TP., M.Sc.NIP. 198008092003121003",
+    "ruang": "D.03.04",
+    "hari": "Rabu",
+    "waktu": "8:00-8:50",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM118",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "TPM202",
+    "nama": "FIELD TRIP",
+    "kelas": "01",
+    "koordinator": "Dr. Devianti, S.TP., MPNIP. 197105101999032004",
+    "ruang": "Lab. TP",
+    "hari": "Jumat",
+    "waktu": "16:20-17:10",
+    "peserta": "30",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "TPM202",
+    "nama": "FIELD TRIP",
+    "kelas": "02",
+    "koordinator": "Dr. Devianti, S.TP., MPNIP. 197105101999032004",
+    "ruang": "Lab TP",
+    "hari": "Senin",
+    "waktu": "16:20-17:10",
+    "peserta": "30",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "TPM202",
+    "nama": "FIELD TRIP",
+    "kelas": "03",
+    "koordinator": "Dr. Devianti, S.TP., MPNIP. 197105101999032004",
+    "ruang": "Lab TP",
+    "hari": "Kamis",
+    "waktu": "16:20-17:10",
+    "peserta": "16",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "TPM204",
+    "nama": "MEKANIKA FLUIDA",
+    "kelas": "01",
+    "koordinator": "Safrizal, S.T., M.SiNIP. 197510302006041001",
+    "ruang": "D.03.03",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "20",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "TPM204",
+    "nama": "MEKANIKA FLUIDA",
+    "kelas": "02",
+    "koordinator": "Safrizal, S.T., M.SiNIP. 197510302006041001",
+    "ruang": "B.03.07",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "TPM204",
+    "nama": "MEKANIKA FLUIDA",
+    "kelas": "03",
+    "koordinator": "Safrizal, S.T., M.SiNIP. 197510302006041001",
+    "ruang": "B.03.03",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "22",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "TPM206",
+    "nama": "ENERGI DAN ELEKTRIFIKASI",
+    "kelas": "01",
+    "koordinator": "Dr. Darwin, S.TP., M.ScNIP. 198302102006041001",
+    "ruang": "D.01.01",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "13",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "TPM206",
+    "nama": "ENERGI DAN ELEKTRIFIKASI",
+    "kelas": "02",
+    "koordinator": "Dr. Darwin, S.TP., M.ScNIP. 198302102006041001",
+    "ruang": "D.01.02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "TPM206",
+    "nama": "ENERGI DAN ELEKTRIFIKASI",
+    "kelas": "03",
+    "koordinator": "Dr. Darwin, S.TP., M.ScNIP. 198302102006041001",
+    "ruang": "D.01.01",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM206",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "TPM208",
+    "nama": "MATEMATIKA TEKNIK",
+    "kelas": "01",
+    "koordinator": "Dr. Ichwana, S.T., M.P.NIP. 197301031998022001",
+    "ruang": "B.03.01",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "4",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "TPM208",
+    "nama": "MATEMATIKA TEKNIK",
+    "kelas": "02",
+    "koordinator": "Dr. Ichwana, S.T., M.P.NIP. 197301031998022001",
+    "ruang": "B.03.01",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM208",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "TPM208",
+    "nama": "MATEMATIKA TEKNIK",
+    "kelas": "03",
+    "koordinator": "Dr. Ichwana, S.T., M.P.NIP. 197301031998022001",
+    "ruang": "D.03.04",
+    "hari": "Selasa",
+    "waktu": "10:00-12:30",
+    "peserta": "34",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM208",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "TPM210",
+    "nama": "BANGUNAN PERTANIAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ichwana, S.T., M.P.NIP. 197301031998022001",
+    "ruang": "D.01.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "34",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM210",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "TPM210",
+    "nama": "BANGUNAN PERTANIAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ichwana, S.T., M.P.NIP. 197301031998022001",
+    "ruang": "D.01.02",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "5",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM210",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "TPM210",
+    "nama": "BANGUNAN PERTANIAN",
+    "kelas": "03",
+    "koordinator": "Dr. Ichwana, S.T., M.P.NIP. 197301031998022001",
+    "ruang": "D.01.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM210",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "TPM212",
+    "nama": "PINDAH PANAS",
+    "kelas": "01",
+    "koordinator": "Dr. Yusmanizar, S.T., M.P.NIP. 197008061998022001",
+    "ruang": "D.03.06",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "39",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "TPM212",
+    "nama": "PINDAH PANAS",
+    "kelas": "02",
+    "koordinator": "Dr. Yusmanizar, S.T., M.P.NIP. 197008061998022001",
+    "ruang": "B.03.01",
+    "hari": "Senin",
+    "waktu": "8:10-10:40",
+    "peserta": "13",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "TPM212",
+    "nama": "PINDAH PANAS",
+    "kelas": "03",
+    "koordinator": "Dr. Yusmanizar, S.T., M.P.NIP. 197008061998022001",
+    "ruang": "D.01.03",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "34",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM212",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "TPM214",
+    "nama": "MENGGAMBAR REKAYASA",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Dhafir, ST, M.SiNIP. 197203302002121001",
+    "ruang": "B.03.14",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM214",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "TPM214",
+    "nama": "MENGGAMBAR REKAYASA",
+    "kelas": "02",
+    "koordinator": "Dr. Muhammad Dhafir, ST, M.SiNIP. 197203302002121001",
+    "ruang": "B.03.06",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "11",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM214",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "TPM214",
+    "nama": "MENGGAMBAR REKAYASA",
+    "kelas": "03",
+    "koordinator": "Dr. Muhammad Dhafir, ST, M.SiNIP. 197203302002121001",
+    "ruang": "B.03.01",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "32",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM214",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "TPM216",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "01",
+    "koordinator": "Safrizal, S.T., M.SiNIP. 197510302006041001",
+    "ruang": "Lab TP",
+    "hari": "Rabu",
+    "waktu": "8:00-8:50",
+    "peserta": "28",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "TPM216",
+    "nama": "PRAKTIKUM MEKANIKA FLUIDA",
+    "kelas": "02",
+    "koordinator": "Safrizal, S.T., M.SiNIP. 197510302006041001",
+    "ruang": "Lab. TP",
+    "hari": "Jumat",
+    "waktu": "16:20-17:10",
+    "peserta": "50",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM216",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "TPM218",
+    "nama": "PRAKTIKUM ENERGI DAN ELEKTRIFIKASI",
+    "kelas": "01",
+    "koordinator": "Dr. Darwin, S.TP., M.ScNIP. 198302102006041001",
+    "ruang": "Lab. TP",
+    "hari": "Kamis",
+    "waktu": "10:00-10:50",
+    "peserta": "50",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM218",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "TPM218",
+    "nama": "PRAKTIKUM ENERGI DAN ELEKTRIFIKASI",
+    "kelas": "02",
+    "koordinator": "Dr. Darwin, S.TP., M.ScNIP. 198302102006041001",
+    "ruang": "Lab. TP",
+    "hari": "Selasa",
+    "waktu": "16:20-17:10",
+    "peserta": "32",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM218",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "TPM220",
+    "nama": "PRAKTIKUM MENGGAMBAR REKAYASA",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Dhafir, ST, M.SiNIP. 197203302002121001",
+    "ruang": "Lab. TP",
+    "hari": "Rabu",
+    "waktu": "16:20-17:10",
+    "peserta": "50",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM220",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "TPM220",
+    "nama": "PRAKTIKUM MENGGAMBAR REKAYASA",
+    "kelas": "02",
+    "koordinator": "Dr. Muhammad Dhafir, ST, M.SiNIP. 197203302002121001",
+    "ruang": "Lab. TP",
+    "hari": "Rabu",
+    "waktu": "14:00-14:50",
+    "peserta": "29",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM220",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "TPM302",
+    "nama": "SISTEM KONTROL DAN OTOMATISASI",
+    "kelas": "01",
+    "koordinator": "Dr. rer. hort. Indera Sakti Nasution, S.TP., M.Sc.NIP. 198007042005011006",
+    "ruang": "D.03.04",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "17",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "TPM302",
+    "nama": "SISTEM KONTROL DAN OTOMATISASI",
+    "kelas": "02",
+    "koordinator": "Dr. rer. hort. Indera Sakti Nasution, S.TP., M.Sc.NIP. 198007042005011006",
+    "ruang": "D.03.02",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "14",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "TPM302",
+    "nama": "SISTEM KONTROL DAN OTOMATISASI",
+    "kelas": "03",
+    "koordinator": "Dr. rer. hort. Indera Sakti Nasution, S.TP., M.Sc.NIP. 198007042005011006",
+    "ruang": "B.03.06",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "38",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM302",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "TPM304",
+    "nama": "ELEMEN MESIN",
+    "kelas": "01",
+    "koordinator": "Dr. Ramayanty Bulan, S.T, M.SiNIP. 197104081998032002",
+    "ruang": "B.03.06",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM304",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "TPM304",
+    "nama": "ELEMEN MESIN",
+    "kelas": "02",
+    "koordinator": "Dr. Ramayanty Bulan, S.T, M.SiNIP. 197104081998032002",
+    "ruang": "B.03.14",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "29",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM304",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "TPM304",
+    "nama": "ELEMEN MESIN",
+    "kelas": "03",
+    "koordinator": "Dr. Ramayanty Bulan, S.T, M.SiNIP. 197104081998032002",
+    "ruang": "B.03.14",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM304",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "TPM306",
+    "nama": "MESIN DAN PERALATAN II",
+    "kelas": "01",
+    "koordinator": "Dr. Ramayanty Bulan, S.T, M.SiNIP. 197104081998032002",
+    "ruang": "B.03.06",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "39",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM306",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "TPM306",
+    "nama": "MESIN DAN PERALATAN II",
+    "kelas": "02",
+    "koordinator": "Dr. Ramayanty Bulan, S.T, M.SiNIP. 197104081998032002",
+    "ruang": "B.03.01",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "2",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM306",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "TPM306",
+    "nama": "MESIN DAN PERALATAN II",
+    "kelas": "03",
+    "koordinator": "Dr. Ramayanty Bulan, S.T, M.SiNIP. 197104081998032002",
+    "ruang": "B.03.14",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM306",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "TPM308",
+    "nama": "PRAKTIKUM SISTEM KONTROL DAN OTOMATISASI",
+    "kelas": "01",
+    "koordinator": "Dr. rer. hort. Indera Sakti Nasution, S.TP., M.Sc.NIP. 198007042005011006",
+    "ruang": "Lab. TP",
+    "hari": "Kamis",
+    "waktu": "16:20-17:10",
+    "peserta": "50",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM308",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "TPM308",
+    "nama": "PRAKTIKUM SISTEM KONTROL DAN OTOMATISASI",
+    "kelas": "02",
+    "koordinator": "Dr. rer. hort. Indera Sakti Nasution, S.TP., M.Sc.NIP. 198007042005011006",
+    "ruang": "Lab. TP",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "27",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM308",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "TPM310",
+    "nama": "PRAKTIKUM MESIN DAN PERALATAN II",
+    "kelas": "01",
+    "koordinator": "Dr. Ramayanty Bulan, S.T, M.SiNIP. 197104081998032002",
+    "ruang": "Lab. TP",
+    "hari": "Kamis",
+    "waktu": "10:00-10:50",
+    "peserta": "31",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM310",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "TPM310",
+    "nama": "PRAKTIKUM MESIN DAN PERALATAN II",
+    "kelas": "02",
+    "koordinator": "Dr. Ramayanty Bulan, S.T, M.SiNIP. 197104081998032002",
+    "ruang": "Lab. TP",
+    "hari": "Kamis",
+    "waktu": "14:00-14:50",
+    "peserta": "50",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM310",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "TPM502",
+    "nama": "TEKNIK IRIGASI DAN DRAINASE",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Syahrul, M.ScNIP. 196312111990021001",
+    "ruang": "D.01.03",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "13",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM502",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "TPM504",
+    "nama": "TEKNIK PENGELOLAAN AIR IRIGASI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Purwana Satriyo, S.TP., MT., IPM.NIP. 197603232000121001",
+    "ruang": "D.01.01",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "13",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM504",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "TPM506",
+    "nama": "TEKNIK KONSERVASI TANAH DAN AIR",
+    "kelas": "01",
+    "koordinator": "Dr. Devianti, S.TP., MPNIP. 197105101999032004",
+    "ruang": "D.03.03",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "18",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM506",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "TPM508",
+    "nama": "FISIOLOGI DAN TEKNOLOGI PASCA PANEN",
+    "kelas": "01",
+    "koordinator": "Ratna, S.TP., M.T.NIP. 197908062005012002",
+    "ruang": "D.03.05",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM508",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "TPM510",
+    "nama": "TEKNIK PENGEMASAN HASIL PERTANIAN",
+    "kelas": "01",
+    "koordinator": "Bambang Sukarno Putra, S.TP., M.Si.NIP. 198003012006041002",
+    "ruang": "B.03.14",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "30",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM510",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "TPM512",
+    "nama": "TEKNIK PASCA PANEN TANAMAN PANGAN",
+    "kelas": "01",
+    "koordinator": "Raida Agustina, S.TP, M. ScNIP. 198108312006042001",
+    "ruang": "B.03.03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM512",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "TPM514",
+    "nama": "TATA LETAK PENANGANAN BAHAN",
+    "kelas": "01",
+    "koordinator": "Dr. Yusmanizar, S.T., M.P.NIP. 197008061998022001",
+    "ruang": "D.03.03",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM514",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "TPM516",
+    "nama": "TEKNIK ANALISIS HASIL PERTANIAN",
+    "kelas": "01",
+    "koordinator": "Raida Agustina, S.TP, M. ScNIP. 198108312006042001",
+    "ruang": "B.03.04",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "27",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM516",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "TPM518",
+    "nama": "ERGONOMIKA",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Dhafir, ST, M.SiNIP. 197203302002121001",
+    "ruang": "B.03.04",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM518",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "TPM520",
+    "nama": "RANCANGAN MESIN DAN PERALATAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ramayanty Bulan, S.T, M.SiNIP. 197104081998032002",
+    "ruang": "B.03.07",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM520",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "TPM522",
+    "nama": "DINAMIKA MESIN DAN TANAH",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Idkham, S.TP., M.SiNIP. 197911212005011004",
+    "ruang": "B.03.08",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM522",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "TPM524",
+    "nama": "SISTEM INFORMASI GEOGRAFIS (SIG) LANJUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. T. Ferijal, S.TP., M.Sc.NIP. 197706062003121001",
+    "ruang": "B.03.08",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "3",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM524",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "TPM526",
+    "nama": "MIKROKONTROLER",
+    "kelas": "01",
+    "koordinator": "Dr. Sri Hartuti, S.TP., M.T.NIP. 198101212005012003",
+    "ruang": "D.03.05",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "7",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM526",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "TPM528",
+    "nama": "PERTANIAN PRESISI",
+    "kelas": "01",
+    "koordinator": "Dr. Ing. Agus Arip Munawar, S.TP., M.Sc.NIP. 198008092003121003",
+    "ruang": "D.03.03",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM528",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "TPM530",
+    "nama": "TEKNIK PENGOLAHAN CITRA DIGITAL",
+    "kelas": "01",
+    "koordinator": "Safrizal, S.T., M.SiNIP. 197510302006041001",
+    "ruang": "D.03.03",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "6",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM530",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "TPM532",
+    "nama": "TEKNIK PENGERINGAN",
+    "kelas": "01",
+    "koordinator": "Dr. Rita Khathir, S.TP, M.ScNIP. 197912012002122001",
+    "ruang": "D.01.02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "7",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM532",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "TPM534",
+    "nama": "MATERIAL KONVERSI ENERGI",
+    "kelas": "01",
+    "koordinator": "Mustaqimah, S.TP., M.Sc.NIP. 198103022005012001",
+    "ruang": "D. 01.03",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "3",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM534",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "TPM536",
+    "nama": "ENERGI TERBARUKAN LANJUTAN",
+    "kelas": "01",
+    "koordinator": "Mustaqimah, S.TP., M.Sc.NIP. 198103022005012001",
+    "ruang": "D.01.01",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "4",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPM536",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "TPMP01",
+    "nama": "PRAKTEK LAPANG",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Dhafir, ST, M.SiNIP. 197203302002121001",
+    "ruang": "Prodi Teknik Pertani",
+    "hari": "Sabtu",
+    "waktu": "8:00-18:00",
+    "peserta": "16",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPMP01",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "TPMP02",
+    "nama": "SEMINAR REGULER",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Dhafir, ST, M.SiNIP. 197203302002121001",
+    "ruang": "Prodi Teknik Pertani",
+    "hari": "Sabtu",
+    "waktu": "8:00-18:00",
+    "peserta": "73",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPMP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "TPMPA1",
+    "nama": "PENELITIAN/SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Idkham, S.TP., M.SiNIP. 197911212005011004",
+    "ruang": "Prodi Teknik Pertani",
+    "hari": "Sabtu",
+    "waktu": "8:00-18:00",
+    "peserta": "88",
+    "keterangan": "PertanianS1Teknik Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPMPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510601"
+    }
+  }
+]

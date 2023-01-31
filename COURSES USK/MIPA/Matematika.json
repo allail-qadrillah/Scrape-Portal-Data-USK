@@ -1,0 +1,1199 @@
+[
+  {
+    "no": "1",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "A",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "14",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "MMT112",
+    "nama": "DASAR-DASAR MATEMATIKA",
+    "kelas": "A",
+    "koordinator": "Hafnani, S.Si, M.SiNIP. 197509092005012001",
+    "ruang": "E.02.01",
+    "hari": "Senin",
+    "waktu": "12:00-12:50",
+    "peserta": "31",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT112",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "MMT112",
+    "nama": "DASAR-DASAR MATEMATIKA",
+    "kelas": "B",
+    "koordinator": "Mahmudi, S.Si., M.Si.NIP. 198207142014041002",
+    "ruang": "E.02.02",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "36",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT112",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "MMT114",
+    "nama": "ALGORITMA DAN PEMROGRAMAN",
+    "kelas": "A",
+    "koordinator": "Dr. Tarmizi, M.ScNIP. 196407051991021001",
+    "ruang": "E.02.01",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "31",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT114",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "MMT114",
+    "nama": "ALGORITMA DAN PEMROGRAMAN",
+    "kelas": "B",
+    "koordinator": "Dr. Tarmizi, M.ScNIP. 196407051991021001",
+    "ruang": "E.02.01",
+    "hari": "Kamis",
+    "waktu": "8:15-9:55",
+    "peserta": "39",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT114",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "MMT120",
+    "nama": "KALKULUS I",
+    "kelas": "A",
+    "koordinator": "Dr. Dra. Intan Syahrini, M.SiNIP. 196409081991022001",
+    "ruang": "E.02.01",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "29",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT120",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "MMT120",
+    "nama": "KALKULUS I",
+    "kelas": "B",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "E.02.02",
+    "hari": "Kamis",
+    "waktu": "12:00-12:50",
+    "peserta": "33",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT120",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "MMT122",
+    "nama": "TEORI BILANGAN",
+    "kelas": "A",
+    "koordinator": "Saiful Amri, S.Si., M.SiNIP. 197410122006041002",
+    "ruang": "E.02.01",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "44",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT122",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "MMT122",
+    "nama": "TEORI BILANGAN",
+    "kelas": "B",
+    "koordinator": "Saiful Amri, S.Si., M.SiNIP. 197410122006041002",
+    "ruang": "E.02.02",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "44",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT122",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "MMT204",
+    "nama": "PERSAMAAN DIFERENSIAL BIASA",
+    "kelas": "A",
+    "koordinator": "Syarifah Meurah Yuni, S.Si., M.SiNIP. 198006072008122001",
+    "ruang": "E.02.01",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "39",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT204",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "MMT204",
+    "nama": "PERSAMAAN DIFERENSIAL BIASA",
+    "kelas": "B",
+    "koordinator": "Dr. Dra. Intan Syahrini, M.SiNIP. 196409081991022001",
+    "ruang": "E.02.02",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "34",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT204",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "MMT208",
+    "nama": "TEORI GRAF",
+    "kelas": "A",
+    "koordinator": "Radhiah, S.Si., M.Sc.NIP. 198508142014042001",
+    "ruang": "E.02.01",
+    "hari": "Selasa",
+    "waktu": "12:00-12:50",
+    "peserta": "41",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT208",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "MMT208",
+    "nama": "TEORI GRAF",
+    "kelas": "B",
+    "koordinator": "Mahyus Ihsan, S.Si, M.SiNIP. 197010051998021001",
+    "ruang": "E.02.02",
+    "hari": "Selasa",
+    "waktu": "12:00-12:50",
+    "peserta": "33",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT208",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "MMT212",
+    "nama": "PENGANTAR TEORI PELUANG",
+    "kelas": "A",
+    "koordinator": "Dr. Dra. Siti Rusdiana, M.EngNIP. 196309101990022001",
+    "ruang": "E.02.02",
+    "hari": "Senin",
+    "waktu": "12:00-12:50",
+    "peserta": "41",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT212",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "MMT212",
+    "nama": "PENGANTAR TEORI PELUANG",
+    "kelas": "B",
+    "koordinator": "Taufiq Iskandar, S.Si., M.SiNIP. 197004071995121001",
+    "ruang": "E.02.02",
+    "hari": "Rabu",
+    "waktu": "10:00-12:50",
+    "peserta": "32",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT212",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "MMT216",
+    "nama": "METODE NUMERIK",
+    "kelas": "A",
+    "koordinator": "Dr. Salmawaty, M.ScNIP. 196110091991022001",
+    "ruang": "E.02.02",
+    "hari": "Kamis",
+    "waktu": "8:15-9:55",
+    "peserta": "40",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT216",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "MMT216",
+    "nama": "METODE NUMERIK",
+    "kelas": "B",
+    "koordinator": "Taufiq Iskandar, S.Si., M.SiNIP. 197004071995121001",
+    "ruang": "E.02.02",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "31",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT216",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "MMT222",
+    "nama": "KALKULUS PEUBAH BANYAK",
+    "kelas": "A",
+    "koordinator": "Vera Halfiani, S.Si., M.MatNIP. 198910062019032014",
+    "ruang": "Jurusan",
+    "hari": "Kamis",
+    "waktu": "12:00-12:50",
+    "peserta": "39",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT222",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "MMT222",
+    "nama": "KALKULUS PEUBAH BANYAK",
+    "kelas": "B",
+    "koordinator": "Vera Halfiani, S.Si., M.MatNIP. 198910062019032014",
+    "ruang": "Jurusan",
+    "hari": "Senin",
+    "waktu": "12:00-12:50",
+    "peserta": "29",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT222",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "MMT224",
+    "nama": "ALJABAR I",
+    "kelas": "A",
+    "koordinator": "Saiful Amri, S.Si., M.SiNIP. 197410122006041002",
+    "ruang": "E.02.01",
+    "hari": "Jumat",
+    "waktu": "8:15-9:55",
+    "peserta": "45",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT224",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "MMT224",
+    "nama": "ALJABAR I",
+    "kelas": "B",
+    "koordinator": "Mahmudi, S.Si., M.Si.NIP. 198207142014041002",
+    "ruang": "Jurusan",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "55",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT224",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "MMT224",
+    "nama": "ALJABAR I",
+    "kelas": "C",
+    "koordinator": "Mahmudi, S.Si., M.Si.NIP. 198207142014041002",
+    "ruang": "B.03.02",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "1",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT224",
+      "data-kelas": "C",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "MMT226",
+    "nama": "PENGANTAR OPTIMASI",
+    "kelas": "A",
+    "koordinator": "Dr. Said Munzir, S.Si., M.Eng.Sc.NIP. 196907031994121002",
+    "ruang": "E.02.01",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "40",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT226",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "MMT226",
+    "nama": "PENGANTAR OPTIMASI",
+    "kelas": "B",
+    "koordinator": "Dr. Dra. Intan Syahrini, M.SiNIP. 196409081991022001",
+    "ruang": "E.02.02",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "45",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT226",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "MMT314",
+    "nama": "ANALISIS REAL",
+    "kelas": "A",
+    "koordinator": "Rini Oktavia, S.Si., M.Si., Ph.DNIP. 197010121995122002",
+    "ruang": "E.02.01",
+    "hari": "Rabu",
+    "waktu": "10:00-12:50",
+    "peserta": "56",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT314",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "MMT314",
+    "nama": "ANALISIS REAL",
+    "kelas": "B",
+    "koordinator": "Hafnani, S.Si, M.SiNIP. 197509092005012001",
+    "ruang": "E.02.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "14",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT314",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "MMT318",
+    "nama": "PEMODELAN MATEMATIKA",
+    "kelas": "A",
+    "koordinator": "Prof. Dr. Marwan, S.Si., M.SiNIP. 197111251999031003",
+    "ruang": "E.02.01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT318",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "MMT318",
+    "nama": "PEMODELAN MATEMATIKA",
+    "kelas": "B",
+    "koordinator": "Dr. Salmawaty, M.ScNIP. 196110091991022001",
+    "ruang": "E.02.01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "36",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT318",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "MMT504",
+    "nama": "ALJABAR LINIER LANJUT",
+    "kelas": "A",
+    "koordinator": "Saiful Amri, S.Si., M.SiNIP. 197410122006041002",
+    "ruang": "Lab Etno",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "8",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT504",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "MMT524",
+    "nama": "ANALISIS REGRESI",
+    "kelas": "A",
+    "koordinator": "Syarifah Meurah Yuni, S.Si., M.SiNIP. 198006072008122001",
+    "ruang": "Lab Etno",
+    "hari": "Kamis",
+    "waktu": "8:15-9:55",
+    "peserta": "20",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT524",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "MMT538",
+    "nama": "KALKULUS VARIASI",
+    "kelas": "A",
+    "koordinator": "Dr. Rahma Zuhra, S.Si., M.SiNIP. 197506091999032001",
+    "ruang": "B.01.01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT538",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "MMT556",
+    "nama": "STOKASTIK",
+    "kelas": "A",
+    "koordinator": "Dr. Dra. Siti Rusdiana, M.EngNIP. 196309101990022001",
+    "ruang": "B.01.01",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "19",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT556",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "MMT558",
+    "nama": "KONTROL OPTIMAL",
+    "kelas": "A",
+    "koordinator": "Dr. Said Munzir, S.Si., M.Eng.Sc.NIP. 196907031994121002",
+    "ruang": "B.01.01",
+    "hari": "Kamis",
+    "waktu": "08:15-09:40",
+    "peserta": "10",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT558",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "MMT560",
+    "nama": "FUNGSI KOMPLEKS TERAPAN",
+    "kelas": "A",
+    "koordinator": "Dr. Dra. Intan Syahrini, M.SiNIP. 196409081991022001",
+    "ruang": "Lab Etno",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT560",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "MMT562",
+    "nama": "SISTIM DINAMIK DISKRIT",
+    "kelas": "A",
+    "koordinator": "Dr. Said Munzir, S.Si., M.Eng.Sc.NIP. 196907031994121002",
+    "ruang": "B.01.01",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "19",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT562",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "MMT564",
+    "nama": "MATEMATIKA EKONOMI DAN BISNIS",
+    "kelas": "A",
+    "koordinator": "Dr. Dra. Intan Syahrini, M.SiNIP. 196409081991022001",
+    "ruang": "Lab Etno",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "20",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT564",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "MMT566",
+    "nama": "PENGANTAR TEORI UKURAN",
+    "kelas": "A",
+    "koordinator": "Dr. Rahma Zuhra, S.Si., M.SiNIP. 197506091999032001",
+    "ruang": "B.01.01",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "20",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT566",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "MMT570",
+    "nama": "HIMPUNAN DAN LOGIKA FUZZY",
+    "kelas": "A",
+    "koordinator": "Radhiah, S.Si., M.Sc.NIP. 198508142014042001",
+    "ruang": "Lab Etno",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "20",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT570",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "MMT574",
+    "nama": "TRANSFORMASI MATEMATIKA KHUSUS",
+    "kelas": "A",
+    "koordinator": "Hafnani, S.Si, M.SiNIP. 197509092005012001",
+    "ruang": "Lab Etno",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "14",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT574",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "MMT576",
+    "nama": "PERSAMAAN INTEGRAL",
+    "kelas": "A",
+    "koordinator": "Dr. Salmawaty, M.ScNIP. 196110091991022001",
+    "ruang": "B.01.01",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "20",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT576",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "MMT578",
+    "nama": "MATEMATIKA KEUANGAN",
+    "kelas": "A",
+    "koordinator": "Dr. Dra. Intan Syahrini, M.SiNIP. 196409081991022001",
+    "ruang": "B.01.01",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "20",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT578",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "MMT580",
+    "nama": "DASAR-DASAR HIDRODINAMIKA",
+    "kelas": "A",
+    "koordinator": "Muhammad Ikhwan, M.SiNIP. 199110152022031007",
+    "ruang": "Lab Etno",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "20",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT580",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "MMT586",
+    "nama": "KOMBINATORIK II",
+    "kelas": "A",
+    "koordinator": "Saiful Amri, S.Si., M.SiNIP. 197410122006041002",
+    "ruang": "Lab Etno",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "10",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT586",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "MMT588",
+    "nama": "PERSAMAAN DIFERENSIAL NUMERIK",
+    "kelas": "A",
+    "koordinator": "Dr. Tarmizi, M.ScNIP. 196407051991021001",
+    "ruang": "B.01.01",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "20",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT588",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "MMT590",
+    "nama": "PEMODELAN RISIKO",
+    "kelas": "A",
+    "koordinator": "Rini Oktavia, S.Si., M.Si., Ph.DNIP. 197010121995122002",
+    "ruang": "Lab. Etno",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "20",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT590",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "MMT592",
+    "nama": "MATEMATIKA AKTUARIA II",
+    "kelas": "A",
+    "koordinator": "Dr. Dra. Siti Rusdiana, M.EngNIP. 196309101990022001",
+    "ruang": "B.01.01",
+    "hari": "Jumat",
+    "waktu": "8:15-9:55",
+    "peserta": "16",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT592",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "MMT594",
+    "nama": "MATEMATIKA DALAM KEBUDAYAAN DUNIA",
+    "kelas": "A",
+    "koordinator": "Syarifah Meurah Yuni, S.Si., M.SiNIP. 198006072008122001",
+    "ruang": "B.01.01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT594",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "MMT598",
+    "nama": "KAPITA SELEKTA MATEMATIKA II",
+    "kelas": "A",
+    "koordinator": "Dr. Said Munzir, S.Si., M.Eng.Sc.NIP. 196907031994121002",
+    "ruang": "B.01.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "18",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MMT598",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "MPAP02",
+    "nama": "PENGANTAR STATISTIKA",
+    "kelas": "A",
+    "koordinator": "Dr. Zurnila Marli Kesuma, S.Si., M.SiNIP. 196903061994122001",
+    "ruang": "E.02.01",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "64",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP02",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "MPAP04",
+    "nama": "KULIAH KERJA PRAKTIK",
+    "kelas": "A",
+    "koordinator": "Dr. Rahma Zuhra, S.Si., M.SiNIP. 197506091999032001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "26",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP04",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "MPAP05",
+    "nama": "PRAKTIK WIRAUSAHA",
+    "kelas": "A",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP05",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "MPAP06",
+    "nama": "PUBLIKASI ILMIAH",
+    "kelas": "A",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP06",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "MPAP07",
+    "nama": "MAGANG INDUSTRI A",
+    "kelas": "A",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP07",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "MPAP08",
+    "nama": "MAGANG INDUSTRI B",
+    "kelas": "A",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP08",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "MPAP09",
+    "nama": "MAGANG INDUSTRI C",
+    "kelas": "A",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP09",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "MPAP10",
+    "nama": "PROYEK DESA A",
+    "kelas": "A",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP10",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "MPAP11",
+    "nama": "PROYEK DESA B",
+    "kelas": "A",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP11",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "MPAP12",
+    "nama": "PROYEK DESA C",
+    "kelas": "A",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP12",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "MPAP13",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS A",
+    "kelas": "A",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP13",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "MPAP14",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS B",
+    "kelas": "A",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP14",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "MPAP15",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS C",
+    "kelas": "A",
+    "koordinator": "Nurmaulidar, S.Si., M.ScNIP. 197006081994122001",
+    "ruang": "Jurusan",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAP15",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "MPAPA1",
+    "nama": "PROPOSAL PENELITIAN",
+    "kelas": "A",
+    "koordinator": "Mahmudi, S.Si., M.Si.NIP. 198207142014041002",
+    "ruang": "Lab Tugas Akhir",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "68",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAPA1",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "MPAPA2",
+    "nama": "TUGAS AKHIR",
+    "kelas": "A",
+    "koordinator": "Mahmudi, S.Si., M.Si.NIP. 198207142014041002",
+    "ruang": "Lab Tugas Akhir",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "89",
+    "keterangan": "MIPAS1Matematika",
+    "kode-peserta": {
+      "data-kode": "MPAPA2",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810101"
+    }
+  }
+]

@@ -1,0 +1,3080 @@
+[
+  {
+    "no": "1",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "11",
+    "koordinator": "Amir Zaki Mubarak, S.T, M. ScNIP. 197910122006041002",
+    "ruang": "DAERAH",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "37",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "TMS102",
+    "nama": "KALKULUS  II",
+    "kelas": "11",
+    "koordinator": "Dr.-Ing. Rudi Kurniawan, ST, M. ScNIP. 197910132003121002",
+    "ruang": "RB - 4A",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "21",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS102",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "TMS102",
+    "nama": "KALKULUS  II",
+    "kelas": "12",
+    "koordinator": "Zulfan, S.T., M.T.NIP. 198310122019031007",
+    "ruang": "RB - 5A",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS102",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "TMS102",
+    "nama": "KALKULUS  II",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Zahrul Fuadi, S.T.,M.Sc., IPM., ASEAN Eng.NIP. 197110061997021001",
+    "ruang": "RB - 6A",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "23",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS102",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "TMS102",
+    "nama": "KALKULUS  II",
+    "kelas": "14",
+    "koordinator": "Dr.Ir. Akhyar, ST., MP., M.Eng., IPM., ASEAN EngNIP. 198006152006041004",
+    "ruang": "A25-201",
+    "hari": "Senin",
+    "waktu": "08:00-11:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS102",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "TMS104",
+    "nama": "FISIKA DASAR II + PRAKTIKUM",
+    "kelas": "11",
+    "koordinator": "Fauzi, S.Si, M.SiNIP. 196609281994031014",
+    "ruang": "RB 6A",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS104",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "TMS104",
+    "nama": "FISIKA DASAR II + PRAKTIKUM",
+    "kelas": "12",
+    "koordinator": "Fadhli, S.Si., M.Si.NIP. 197107031997021003",
+    "ruang": "PRODI",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS104",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "TMS104",
+    "nama": "FISIKA DASAR II + PRAKTIKUM",
+    "kelas": "13",
+    "koordinator": "Dr.. Malahayati, S.Si., M.SiNIP. 197407252000122001",
+    "ruang": "RB 5A",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "16",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS104",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "TMS104",
+    "nama": "FISIKA DASAR II + PRAKTIKUM",
+    "kelas": "14",
+    "koordinator": "Dr. Ir. Adi Rahwanto, M.Eng.ScNIP. 196008091987031003",
+    "ruang": "RB 4A",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS104",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "TMS104",
+    "nama": "FISIKA DASAR II + PRAKTIKUM",
+    "kelas": "15",
+    "koordinator": "Fauzi, S.Si, M.SiNIP. 196609281994031014",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "15",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS104",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "TMS104",
+    "nama": "FISIKA DASAR II + PRAKTIKUM",
+    "kelas": "16",
+    "koordinator": "Dr.. Malahayati, S.Si., M.SiNIP. 197407252000122001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:00",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS104",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "TMS106",
+    "nama": "METALURGI FISIK + PRAKTIKUM",
+    "kelas": "11",
+    "koordinator": "Dr. Ir.. Syarizal Fonna, ST, M.ScNIP. 197810272008121001",
+    "ruang": "A21 - 201",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "11",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS106",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "TMS106",
+    "nama": "METALURGI FISIK + PRAKTIKUM",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Ir. Samsul Rizal, M.Eng., IPU., ASEAN.Eng.NIP. 196208081988031003",
+    "ruang": "RB 6A",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS106",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "TMS106",
+    "nama": "METALURGI FISIK + PRAKTIKUM",
+    "kelas": "13",
+    "koordinator": "Dr. Syifaul Huzni, ST., M.ScNIP. 196910091997021001",
+    "ruang": "RB 5A",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "12",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS106",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "TMS106",
+    "nama": "METALURGI FISIK + PRAKTIKUM",
+    "kelas": "14",
+    "koordinator": "Prof. Dr. Ir. Nurdin Ali, Dipl.IngNIP. 195706271985031001",
+    "ruang": "A23-205",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS106",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "TMS106",
+    "nama": "METALURGI FISIK + PRAKTIKUM",
+    "kelas": "15",
+    "koordinator": "Dr. Ir.. Syarizal Fonna, ST, M.ScNIP. 197810272008121001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS106",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "TMS106",
+    "nama": "METALURGI FISIK + PRAKTIKUM",
+    "kelas": "16",
+    "koordinator": "Prof. Dr. Ir. Samsul Rizal, M.Eng., IPU., ASEAN.Eng.NIP. 196208081988031003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS106",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "TMS106",
+    "nama": "METALURGI FISIK + PRAKTIKUM",
+    "kelas": "17",
+    "koordinator": "Dr. Syifaul Huzni, ST., M.ScNIP. 196910091997021001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS106",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "TMS106",
+    "nama": "METALURGI FISIK + PRAKTIKUM",
+    "kelas": "18",
+    "koordinator": "Prof. Dr. Ir. Nurdin Ali, Dipl.IngNIP. 195706271985031001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS106",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "TMS108",
+    "nama": "MENGGAMBAR TEKNIK MESIN DAN CAD + PRAKTIKUM",
+    "kelas": "11",
+    "koordinator": "Ir. Asbar R., M.T.NIP. 195705151984031005",
+    "ruang": "LAB KONSTRUKSI",
+    "hari": "Selasa",
+    "waktu": "10:45-11:35",
+    "peserta": "11",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS108",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "TMS108",
+    "nama": "MENGGAMBAR TEKNIK MESIN DAN CAD + PRAKTIKUM",
+    "kelas": "12",
+    "koordinator": "Dr. Irwansyah, ST, M.EngNIP. 197609182002121004",
+    "ruang": "RB 5A",
+    "hari": "Senin",
+    "waktu": "10:45-11:35",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS108",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "TMS108",
+    "nama": "MENGGAMBAR TEKNIK MESIN DAN CAD + PRAKTIKUM",
+    "kelas": "13",
+    "koordinator": "Dr.Ir. Akhyar, ST., MP., M.Eng., IPM., ASEAN EngNIP. 198006152006041004",
+    "ruang": "RB 6A",
+    "hari": "Senin",
+    "waktu": "10:45-11:35",
+    "peserta": "11",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS108",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "TMS108",
+    "nama": "MENGGAMBAR TEKNIK MESIN DAN CAD + PRAKTIKUM",
+    "kelas": "14",
+    "koordinator": "Ir. Zulfadhli, ST, M.T., IPMNIP. 196908151997021001",
+    "ruang": "A12-304",
+    "hari": "Senin",
+    "waktu": "10:45-11:35",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS108",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "TMS108",
+    "nama": "MENGGAMBAR TEKNIK MESIN DAN CAD + PRAKTIKUM",
+    "kelas": "15",
+    "koordinator": "Amir Zaki Mubarak, S.T, M. ScNIP. 197910122006041002",
+    "ruang": "LAB KONSTRUKSI",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "11",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS108",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "TMS108",
+    "nama": "MENGGAMBAR TEKNIK MESIN DAN CAD + PRAKTIKUM",
+    "kelas": "17",
+    "koordinator": "T. Arriessa Sukhairi, S.T., M.Sc.NIP. 198709172020121004",
+    "ruang": "LAB",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS108",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "TMS110",
+    "nama": "STATIKA STRUKTUR",
+    "kelas": "11",
+    "koordinator": "Amir Zaki Mubarak, S.T, M. ScNIP. 197910122006041002",
+    "ruang": "PRODI",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS110",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "TMS110",
+    "nama": "STATIKA STRUKTUR",
+    "kelas": "12",
+    "koordinator": "Ir. Zulfadhli, ST, M.T., IPMNIP. 196908151997021001",
+    "ruang": "A21 - 201",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS110",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "TMS110",
+    "nama": "STATIKA STRUKTUR",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Zahrul Fuadi, S.T.,M.Sc., IPM., ASEAN Eng.NIP. 197110061997021001",
+    "ruang": "RB - 5A",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS110",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "TMS110",
+    "nama": "STATIKA STRUKTUR",
+    "kelas": "14",
+    "koordinator": "Prof. Dr. Ir. Husaini, M.T., IPUNIP. 196108081988111001",
+    "ruang": "A12 - 301",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS110",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "TMS110",
+    "nama": "STATIKA STRUKTUR",
+    "kelas": "15",
+    "koordinator": "Dr. Arhami, S.T., M.T.NIP. 197205271998021001",
+    "ruang": "RB - 6A",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS110",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "TMS202",
+    "nama": "MATEMATIKA II",
+    "kelas": "11",
+    "koordinator": "Ir. Jalaluddin, M.T.NIP. 195807311987101001",
+    "ruang": "LAB MOTOR BAKAR TM",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS202",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "TMS202",
+    "nama": "MATEMATIKA II",
+    "kelas": "12",
+    "koordinator": "Dr. Muhammad Ilham Maulana, ST, MTNIP. 197105011998021003",
+    "ruang": "LAB MEKANIKA FLUIDA",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS202",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "TMS202",
+    "nama": "MATEMATIKA II",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Zahrul Fuadi, S.T.,M.Sc., IPM., ASEAN Eng.NIP. 197110061997021001",
+    "ruang": "RKTM 1",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS202",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "TMS202",
+    "nama": "MATEMATIKA II",
+    "kelas": "14",
+    "koordinator": "Dr.-Ing. Rudi Kurniawan, ST, M. ScNIP. 197910132003121002",
+    "ruang": "A25-201",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS202",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "TMS204",
+    "nama": "PERPINDAHAN PANAS DASAR",
+    "kelas": "11",
+    "koordinator": "Ir. Jalaluddin, M.T.NIP. 195807311987101001",
+    "ruang": "LAB MOTOR BAKAR",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS204",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "TMS204",
+    "nama": "PERPINDAHAN PANAS DASAR",
+    "kelas": "12",
+    "koordinator": "Zulfan, S.T., M.T.NIP. 198310122019031007",
+    "ruang": "PRODI TM",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS204",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "TMS204",
+    "nama": "PERPINDAHAN PANAS DASAR",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Ahmad Syuhada, M.ScNIP. 196108201987031002",
+    "ruang": "LAB THERMAL",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS204",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "TMS204",
+    "nama": "PERPINDAHAN PANAS DASAR",
+    "kelas": "14",
+    "koordinator": "Prof. Dr. Ir. Razali, M.Si., M.T.NIP. 196505051991021001",
+    "ruang": "LAB MEKANIKA FLUIDA",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS204",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "TMS206",
+    "nama": "TERMODINAMIKA TEKNIK II",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Khairil, M.T.NIP. 196610261990031001",
+    "ruang": "LAB MOTOR BAKAR",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS206",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "TMS206",
+    "nama": "TERMODINAMIKA TEKNIK II",
+    "kelas": "12",
+    "koordinator": "Ir. Jalaluddin, M.T.NIP. 195807311987101001",
+    "ruang": "LAB MOTOR BAKAR",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "32",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS206",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "TMS206",
+    "nama": "TERMODINAMIKA TEKNIK II",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Razali, M.Si., M.T.NIP. 196505051991021001",
+    "ruang": "RB - 6A",
+    "hari": "Rabu",
+    "waktu": "14:00-16:00",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS206",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "TMS208",
+    "nama": "MEKANIKA FLUIDA I",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Ahmad Syuhada, M.ScNIP. 196108201987031002",
+    "ruang": "LAB THERMAL",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "23",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS208",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "TMS208",
+    "nama": "MEKANIKA FLUIDA I",
+    "kelas": "12",
+    "koordinator": "Dr. Sarwo Edhy S, S.T, M.EngNIP. 198106262006041005",
+    "ruang": "MTM 1",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS208",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "TMS208",
+    "nama": "MEKANIKA FLUIDA I",
+    "kelas": "13",
+    "koordinator": "Dr. Muhammad Ilham Maulana, ST, MTNIP. 197105011998021003",
+    "ruang": "A23 - 204",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS208",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "TMS208",
+    "nama": "MEKANIKA FLUIDA I",
+    "kelas": "14",
+    "koordinator": "Prof. Dr. Ir. Razali, M.Si., M.T.NIP. 196505051991021001",
+    "ruang": "LAB MEKANIKA FLUIDA",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS208",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "TMS210",
+    "nama": "PROSES MANUFAKTUR II + PRAKTIKUM",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Husni, M.Eng.ScNIP. 196505061992031002",
+    "ruang": "RB 4A",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "11",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS210",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "TMS210",
+    "nama": "PROSES MANUFAKTUR II + PRAKTIKUM",
+    "kelas": "12",
+    "koordinator": "Ir. Suhaeri, M.EngNIP. 196007151990021001",
+    "ruang": "RKTM 1",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "12",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS210",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "TMS210",
+    "nama": "PROSES MANUFAKTUR II + PRAKTIKUM",
+    "kelas": "13",
+    "koordinator": "Ir. Udink Aulia, M.Eng.NIP. 196605231993031003",
+    "ruang": "RB 6 A",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "12",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS210",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "TMS210",
+    "nama": "PROSES MANUFAKTUR II + PRAKTIKUM",
+    "kelas": "14",
+    "koordinator": "Dr. Muhammad Rizal, S.T, M.ScNIP. 197910192006041003",
+    "ruang": "A25 - 201",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "12",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS210",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "TMS210",
+    "nama": "PROSES MANUFAKTUR II + PRAKTIKUM",
+    "kelas": "15",
+    "koordinator": "Dr. Ir. Husni, M.Eng.ScNIP. 196505061992031002",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "17:00-20:00",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS210",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "TMS210",
+    "nama": "PROSES MANUFAKTUR II + PRAKTIKUM",
+    "kelas": "16",
+    "koordinator": "Ir. Suhaeri, M.EngNIP. 196007151990021001",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "17:00-20:00",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS210",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "TMS210",
+    "nama": "PROSES MANUFAKTUR II + PRAKTIKUM",
+    "kelas": "17",
+    "koordinator": "Ir. Udink Aulia, M.Eng.NIP. 196605231993031003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "17:00-20:00",
+    "peserta": "8",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS210",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "TMS210",
+    "nama": "PROSES MANUFAKTUR II + PRAKTIKUM",
+    "kelas": "18",
+    "koordinator": "Dr. Muhammad Rizal, S.T, M.ScNIP. 197910192006041003",
+    "ruang": "LAB",
+    "hari": "Sabtu",
+    "waktu": "17:00-20:00",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS210",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "TMS212",
+    "nama": "ELEMEN MESIN I",
+    "kelas": "11",
+    "koordinator": "Dr. Irwansyah, ST, M.EngNIP. 197609182002121004",
+    "ruang": "RKTM 1",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS212",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "TMS212",
+    "nama": "ELEMEN MESIN I",
+    "kelas": "12",
+    "koordinator": "Dr. Arhami, S.T., M.T.NIP. 197205271998021001",
+    "ruang": "MTM 1",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS212",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "TMS212",
+    "nama": "ELEMEN MESIN I",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Husaini, M.T., IPUNIP. 196108081988111001",
+    "ruang": "A23 - 204",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "23",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS212",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "TMS212",
+    "nama": "ELEMEN MESIN I",
+    "kelas": "14",
+    "koordinator": "Ir. Asbar R., M.T.NIP. 195705151984031005",
+    "ruang": "LAB KONSTRUKSI",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS212",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "TMS214",
+    "nama": "PENGUKURAN TEKNIK",
+    "kelas": "11",
+    "koordinator": "Dr. Irwansyah, ST, M.EngNIP. 197609182002121004",
+    "ruang": "A25 - 201",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS214",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "TMS214",
+    "nama": "PENGUKURAN TEKNIK",
+    "kelas": "12",
+    "koordinator": "Dr. Arhami, S.T., M.T.NIP. 197205271998021001",
+    "ruang": "RB - 6A",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS214",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "TMS214",
+    "nama": "PENGUKURAN TEKNIK",
+    "kelas": "13",
+    "koordinator": "Dr. Muhammad Rizal, S.T, M.ScNIP. 197910192006041003",
+    "ruang": "A12 - 301 B",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS214",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "TMS214",
+    "nama": "PENGUKURAN TEKNIK",
+    "kelas": "14",
+    "koordinator": "Ir. Suhaeri, M.EngNIP. 196007151990021001",
+    "ruang": "PRODI TM",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "23",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS214",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "TMS302",
+    "nama": "DINAMIKA TEKNIK",
+    "kelas": "11",
+    "koordinator": "Ir. Asbar R., M.T.NIP. 195705151984031005",
+    "ruang": "LAB KONSTRUKSI",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "18",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS302",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "TMS302",
+    "nama": "DINAMIKA TEKNIK",
+    "kelas": "12",
+    "koordinator": "Sabri, ST, MTNIP. 197205021998021001",
+    "ruang": "A14 - 302",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS302",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "TMS302",
+    "nama": "DINAMIKA TEKNIK",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Razali, M.Si., M.T.NIP. 196505051991021001",
+    "ruang": "LAB MEKANIKA FLUIDA",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS302",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "TMS302",
+    "nama": "DINAMIKA TEKNIK",
+    "kelas": "14",
+    "koordinator": "Dr.-Ing. Rudi Kurniawan, ST, M. ScNIP. 197910132003121002",
+    "ruang": "PRODI TM",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "36",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS302",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "TMS304",
+    "nama": "GETARAN MEKANIK",
+    "kelas": "11",
+    "koordinator": "Sabri, ST, MTNIP. 197205021998021001",
+    "ruang": "MTM 1",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "32",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS304",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "TMS304",
+    "nama": "GETARAN MEKANIK",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Ir. Zahrul Fuadi, S.T.,M.Sc., IPM., ASEAN Eng.NIP. 197110061997021001",
+    "ruang": "PRODI",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "37",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS304",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "TMS304",
+    "nama": "GETARAN MEKANIK",
+    "kelas": "13",
+    "koordinator": "Prof. Dr.-Ing. Ir. Teuku Edisah Putra, S.T, M.Sc., Ph.D. IPM., ASEAN EngNIP. 198005072006041004",
+    "ruang": "A14 - 303",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "40",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS304",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "TMS304",
+    "nama": "GETARAN MEKANIK",
+    "kelas": "14",
+    "koordinator": "Dr. Muhammad Rizal, S.T, M.ScNIP. 197910192006041003",
+    "ruang": "A12 - 303",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "41",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS304",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "TMS306",
+    "nama": "MESIN KONVERSI ENERGI II",
+    "kelas": "11",
+    "koordinator": "Ir. Darwin, M.TNIP. 195612131991021001",
+    "ruang": "LAB MEKANIKA FLUIDA",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS306",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "TMS306",
+    "nama": "MESIN KONVERSI ENERGI II",
+    "kelas": "12",
+    "koordinator": "Prof. Dr. Ir. Ahmad Syuhada, M.ScNIP. 196108201987031002",
+    "ruang": "LAB THERMAL",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "27",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS306",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "TMS306",
+    "nama": "MESIN KONVERSI ENERGI II",
+    "kelas": "13",
+    "koordinator": "Prof. Dr. Ir. Khairil, M.T.NIP. 196610261990031001",
+    "ruang": "RKTM 1",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS306",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "TMS306",
+    "nama": "MESIN KONVERSI ENERGI II",
+    "kelas": "14",
+    "koordinator": "Ir. Jalaluddin, M.T.NIP. 195807311987101001",
+    "ruang": "LAB MOTOR BAKAR",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "22",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS306",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "TMS308",
+    "nama": "SISTEM KENDALI",
+    "kelas": "11",
+    "koordinator": "Ir. Suhaeri, M.EngNIP. 196007151990021001",
+    "ruang": "PRODI",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS308",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "TMS308",
+    "nama": "SISTEM KENDALI",
+    "kelas": "12",
+    "koordinator": "Muhammad Tadjuddin, ST, M.Eng.ScNIP. 197105231998021001",
+    "ruang": "MTM 1",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS308",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "TMS308",
+    "nama": "SISTEM KENDALI",
+    "kelas": "13",
+    "koordinator": "Dr. Muhammad Rizal, S.T, M.ScNIP. 197910192006041003",
+    "ruang": "PRODI",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "37",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS308",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "TMS310",
+    "nama": "PRAKTIKUM FENOMENA DASAR MESIN",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Ahmad Syuhada, M.ScNIP. 196108201987031002",
+    "ruang": "LAB THERMAL",
+    "hari": "Sabtu",
+    "waktu": "10:30-11:45",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS310",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "TMS310",
+    "nama": "PRAKTIKUM FENOMENA DASAR MESIN",
+    "kelas": "12",
+    "koordinator": "Dr. Ir. Hamdani, M.T.NIP. 196511071991021001",
+    "ruang": "PRODI TM",
+    "hari": "Sabtu",
+    "waktu": "10:30-11:45",
+    "peserta": "11",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS310",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "TMS310",
+    "nama": "PRAKTIKUM FENOMENA DASAR MESIN",
+    "kelas": "13",
+    "koordinator": "Ratna Sary, ST, MTNIP. 197811082006042002",
+    "ruang": "LAB MOTOR BAKAR",
+    "hari": "Sabtu",
+    "waktu": "10:30-11:45",
+    "peserta": "23",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS310",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "TMS310",
+    "nama": "PRAKTIKUM FENOMENA DASAR MESIN",
+    "kelas": "14",
+    "koordinator": "Dr. Sarwo Edhy S, S.T, M.EngNIP. 198106262006041005",
+    "ruang": "LAB MOTOR BAKAR",
+    "hari": "Sabtu",
+    "waktu": "11:30-12:45",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS310",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "TMS310",
+    "nama": "PRAKTIKUM FENOMENA DASAR MESIN",
+    "kelas": "15",
+    "koordinator": "Ir. Darwin, M.TNIP. 195612131991021001",
+    "ruang": "LAB MEKANIKA FLUIDA",
+    "hari": "Sabtu",
+    "waktu": "10:30-11:45",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS310",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "TMS402",
+    "nama": "MANAJEMEN INDUSTRI",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Mohd. Iqbal, M.T.NIP. 196706081994031003",
+    "ruang": "RKTM 1",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS402",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "TMS402",
+    "nama": "MANAJEMEN INDUSTRI",
+    "kelas": "12",
+    "koordinator": "Dr. Ir. Husni, M.Eng.ScNIP. 196505061992031002",
+    "ruang": "MTM 1",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "19",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS402",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "TMS402",
+    "nama": "MANAJEMEN INDUSTRI",
+    "kelas": "13",
+    "koordinator": "Dr. Ir. Iskandar, ST.M.Eng.Sc., IPM., ASEAN EngNIP. 197303041998021002",
+    "ruang": "MTM 1",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "23",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMS402",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "TMSP01",
+    "nama": "TUGAS RANCANG PRODUK REKAYASA",
+    "kelas": "11",
+    "koordinator": "Dr. Israr, S.T., M.ScNIP. 198506212020061101",
+    "ruang": "PRODI",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "101",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP01",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "TMSP02",
+    "nama": "TUGAS PURWARUPA PRODUK REKAYASA",
+    "kelas": "12",
+    "koordinator": "Ir. Syahriza, M.EngNIP. 196708081994031005",
+    "ruang": "PRODI",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP02",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "TMSP02",
+    "nama": "TUGAS PURWARUPA PRODUK REKAYASA",
+    "kelas": "2",
+    "koordinator": "Dr. Ikramullah, S.T.NIP. 199012242022031007",
+    "ruang": "PRODI TM",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:00",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP02",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "TMSP02",
+    "nama": "TUGAS PURWARUPA PRODUK REKAYASA",
+    "kelas": "3",
+    "koordinator": "Dr. Sarwo Edhy S, S.T, M.EngNIP. 198106262006041005",
+    "ruang": "PRODI TM",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:00",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP02",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "TMSP02",
+    "nama": "TUGAS PURWARUPA PRODUK REKAYASA",
+    "kelas": "4",
+    "koordinator": "Dr. Ir. Sulaiman Thalib, M.T.NIP. 196102101990021001",
+    "ruang": "PRODI TM",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:00",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP02",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "TMSP02",
+    "nama": "TUGAS PURWARUPA PRODUK REKAYASA",
+    "kelas": "5",
+    "koordinator": "Dr. Syifaul Huzni, ST., M.ScNIP. 196910091997021001",
+    "ruang": "PRODI",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP02",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "91",
+    "kode": "TMSP02",
+    "nama": "TUGAS PURWARUPA PRODUK REKAYASA",
+    "kelas": "7",
+    "koordinator": "Dr.Ir. Akhyar, ST., MP., M.Eng., IPM., ASEAN EngNIP. 198006152006041004",
+    "ruang": "PRODI TM",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:00",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP02",
+      "data-kelas": "7",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "92",
+    "kode": "TMSP02",
+    "nama": "TUGAS PURWARUPA PRODUK REKAYASA",
+    "kelas": "8",
+    "koordinator": "Dr. Ir. Husni, M.Eng.ScNIP. 196505061992031002",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "12:00-13:00",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP02",
+      "data-kelas": "8",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "93",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Ir. Ahmad Syuhada, M.ScNIP. 196108201987031002",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "94",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "10",
+    "koordinator": "Dr. Ir. Husni, M.Eng.ScNIP. 196505061992031002",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "10",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "95",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "11",
+    "koordinator": "Zulfan, S.T., M.T.NIP. 198310122019031007",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "10:30-11:45",
+    "peserta": "40",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "96",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "12",
+    "koordinator": "Dr. Ir.. Dandi Bachtiar, M. ScNIP. 196703162021021101",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "97",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "13",
+    "koordinator": "Dr. Ir.. Syarizal Fonna, ST, M.ScNIP. 197810272008121001",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "98",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "14",
+    "koordinator": "Akram, S.T, MTNIP. 197606012006041003",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "99",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "15",
+    "koordinator": "Ir. Syahriza, M.EngNIP. 196708081994031005",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "100",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "16",
+    "koordinator": "Ir. Suhaeri, M.EngNIP. 196007151990021001",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "101",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "17",
+    "koordinator": "Dr.-Ing. Rudi Kurniawan, ST, M. ScNIP. 197910132003121002",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "17",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "102",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "18",
+    "koordinator": "Dr. Ir. Mohd. Iqbal, M.T.NIP. 196706081994031003",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "18",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "103",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "19",
+    "koordinator": "Dr. Ikramullah, S.T.NIP. 199012242022031007",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "19",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "104",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "2",
+    "koordinator": "Prof. Dr. Ir. Husaini, M.T., IPUNIP. 196108081988111001",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "105",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "20",
+    "koordinator": "Dr.Ir. Akhyar, ST., MP., M.Eng., IPM., ASEAN EngNIP. 198006152006041004",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "20",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "106",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "21",
+    "koordinator": "Dr. Syifaul Huzni, ST., M.ScNIP. 196910091997021001",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "21",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "107",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "22",
+    "koordinator": "Dr. Muhammad Ilham Maulana, ST, MTNIP. 197105011998021003",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "22",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "108",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "23",
+    "koordinator": "Ir. Zulfadhli, ST, M.T., IPMNIP. 196908151997021001",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "23",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "109",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "24",
+    "koordinator": "Dr. Ir. Iskandar, ST.M.Eng.Sc., IPM., ASEAN EngNIP. 197303041998021002",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "24",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "110",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "25",
+    "koordinator": "Prof. Dr. Ir. Zahrul Fuadi, S.T.,M.Sc., IPM., ASEAN Eng.NIP. 197110061997021001",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "25",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "111",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "26",
+    "koordinator": "Ir. Masri, M.T.NIP. 195808121989031002",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "26",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "112",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "27",
+    "koordinator": "Ir. Masri, M.EngNIP. 196505261990031003",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "27",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "113",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "28",
+    "koordinator": "T. Arriessa Sukhairi, S.T., M.Sc.NIP. 198709172020121004",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "28",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "114",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "29",
+    "koordinator": "Ir. Udink Aulia, M.Eng.NIP. 196605231993031003",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "29",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "115",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "3",
+    "koordinator": "Prof. Dr. Ir. Samsul Rizal, M.Eng., IPU., ASEAN.Eng.NIP. 196208081988031003",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "116",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "30",
+    "koordinator": "Dr. Ir. M. Dirhamsyah, M.T., IPUNIP. 196210021988111001",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "30",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "117",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "31",
+    "koordinator": "Ir. Jalaluddin, M.T.NIP. 195807311987101001",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "31",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "118",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "32",
+    "koordinator": "Muhammad Tadjuddin, ST, M.Eng.ScNIP. 197105231998021001",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "32",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "119",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "33",
+    "koordinator": "Dr. Irwansyah, ST, M.EngNIP. 197609182002121004",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "33",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "120",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "34",
+    "koordinator": "Dr. Sarwo Edhy S, S.T, M.EngNIP. 198106262006041005",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "34",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "121",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "35",
+    "koordinator": "Sabri, ST, MTNIP. 197205021998021001",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "35",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "122",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "36",
+    "koordinator": "Dedi Afandi, S.T., M.TNIP. 199612202021021101",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "36",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "123",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "37",
+    "koordinator": "Prof. Dr.-Ing. Ir. Teuku Edisah Putra, S.T, M.Sc., Ph.D. IPM., ASEAN EngNIP. 198005072006041004",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "37",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "124",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "38",
+    "koordinator": "Dr. Muhammad Rizal, S.T, M.ScNIP. 197910192006041003",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "38",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "125",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "39",
+    "koordinator": "Ratna Sary, ST, MTNIP. 197811082006042002",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "39",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "126",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "4",
+    "koordinator": "Prof. Dr. Ir. Khairil, M.T.NIP. 196610261990031001",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "127",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "40",
+    "koordinator": "Amir Zaki Mubarak, S.T, M. ScNIP. 197910122006041002",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "40",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "128",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "41",
+    "koordinator": "Dr. M. Nizar Machmud, S.T., M.EngNIP. 197203201998021001",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "41",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "129",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "42",
+    "koordinator": "Dr. Israr, S.T., M.ScNIP. 198506212020061101",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "42",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "130",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "5",
+    "koordinator": "Prof. Dr. Ir. Nurdin Ali, Dipl.IngNIP. 195706271985031001",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "131",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "6",
+    "koordinator": "Prof. Dr. Ir. Razali, M.Si., M.T.NIP. 196505051991021001",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "132",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "7",
+    "koordinator": "Dr. Ir. Hamdani, M.T.NIP. 196511071991021001",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "7",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "133",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "8",
+    "koordinator": "Dr. Arhami, S.T., M.T.NIP. 197205271998021001",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "8",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "134",
+    "kode": "TMSP03",
+    "nama": "KERJA PRAKTEK (KP)",
+    "kelas": "9",
+    "koordinator": "Dr. Ir. Sulaiman Thalib, M.T.NIP. 196102101990021001",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "20:00-21:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP03",
+      "data-kelas": "9",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "135",
+    "kode": "TMSP04",
+    "nama": "PERPINDAHAN PANAS LANJUT",
+    "kelas": "11",
+    "koordinator": "Ir. Jalaluddin, M.T.NIP. 195807311987101001",
+    "ruang": "LAB MOTOR BAKAR",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "19",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP04",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "136",
+    "kode": "TMSP04",
+    "nama": "PERPINDAHAN PANAS LANJUT",
+    "kelas": "12",
+    "koordinator": "Dr. Sarwo Edhy S, S.T, M.EngNIP. 198106262006041005",
+    "ruang": "PRODI TM",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "25",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP04",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "137",
+    "kode": "TMSP06",
+    "nama": "KONSEP DESAIN",
+    "kelas": "11",
+    "koordinator": "Dr. Irwansyah, ST, M.EngNIP. 197609182002121004",
+    "ruang": "A23 - 204",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP06",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "138",
+    "kode": "TMSP08",
+    "nama": "METALOGRAFI DAN KARAKTERISASI MATERIAL",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Sulaiman Thalib, M.T.NIP. 196102101990021001",
+    "ruang": "MTM 1",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "16",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP08",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "139",
+    "kode": "TMSP10",
+    "nama": "PROSES PEMESINAN",
+    "kelas": "11",
+    "koordinator": "Ir. Udink Aulia, M.Eng.NIP. 196605231993031003",
+    "ruang": "A21-201",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "16",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP10",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "140",
+    "kode": "TMSP12",
+    "nama": "MOTOR BAKAR",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Khairil, M.T.NIP. 196610261990031001",
+    "ruang": "LAB MOTOR BAKAR",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "6",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP12",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "141",
+    "kode": "TMSP14",
+    "nama": "TEKNIK PENDINGIN",
+    "kelas": "11",
+    "koordinator": "Dr. Muhammad Ilham Maulana, ST, MTNIP. 197105011998021003",
+    "ruang": "LAB THERMAL",
+    "hari": "Jumat",
+    "waktu": "16:30-19:00",
+    "peserta": "24",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP14",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "142",
+    "kode": "TMSP16",
+    "nama": "MEKANIKA FLUIDA LANJUT",
+    "kelas": "11",
+    "koordinator": "Dr. Muhammad Ilham Maulana, ST, MTNIP. 197105011998021003",
+    "ruang": "LAB THERMAL",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP16",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "143",
+    "kode": "TMSP18",
+    "nama": "PEMBANGKIT TENAGA UAP",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Ahmad Syuhada, M.ScNIP. 196108201987031002",
+    "ruang": "LAB THERMAL",
+    "hari": "Rabu",
+    "waktu": "16:30-18:15",
+    "peserta": "28",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP18",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "144",
+    "kode": "TMSP20",
+    "nama": "AERODINAMIKA",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Ahmad Syuhada, M.ScNIP. 196108201987031002",
+    "ruang": "LAB THERMAL",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "9",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP20",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "145",
+    "kode": "TMSP22",
+    "nama": "TEKNIK PENGERING",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Ahmad Syuhada, M.ScNIP. 196108201987031002",
+    "ruang": "LAB THERMAL",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "7",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP22",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "146",
+    "kode": "TMSP24",
+    "nama": "METODE MATRIKS DALAM ANALISIS STRUKTUR",
+    "kelas": "11",
+    "koordinator": "Dr. Syifaul Huzni, ST., M.ScNIP. 196910091997021001",
+    "ruang": "RKTM1",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "6",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP24",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "147",
+    "kode": "TMSP26",
+    "nama": "KONSTRUKSI SISTEM PEMIPAAN",
+    "kelas": "11",
+    "koordinator": "Ir. Asbar R., M.T.NIP. 195705151984031005",
+    "ruang": "LAB KONSTRUKSI",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP26",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "148",
+    "kode": "TMSP30",
+    "nama": "PEMILIHAN MATERIAL & PROSES MANUFAKTUR",
+    "kelas": "11",
+    "koordinator": "Dr. Syifaul Huzni, ST., M.ScNIP. 196910091997021001",
+    "ruang": "RKTM 1",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "21",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP30",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "149",
+    "kode": "TMSP32",
+    "nama": "MATERIAL KERAMIK",
+    "kelas": "11",
+    "koordinator": "Dr. Ir.. Syarizal Fonna, ST, M.ScNIP. 197810272008121001",
+    "ruang": "RKTM 1",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP32",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "150",
+    "kode": "TMSP34",
+    "nama": "TEKNIK PENGECORAN",
+    "kelas": "11",
+    "koordinator": "Dr.Ir. Akhyar, ST., MP., M.Eng., IPM., ASEAN EngNIP. 198006152006041004",
+    "ruang": "A23-206",
+    "hari": "Jumat",
+    "waktu": "16:30-18:15",
+    "peserta": "4",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP34",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "151",
+    "kode": "TMSP36",
+    "nama": "PENGETESAN MESIN PERKAKAS",
+    "kelas": "11",
+    "koordinator": "Ir. Suhaeri, M.EngNIP. 196007151990021001",
+    "ruang": "RKTM 2",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP36",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "152",
+    "kode": "TMSP38",
+    "nama": "PEMROGRAMAN MESIN KONTROL NUMERIK",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Husni, M.Eng.ScNIP. 196505061992031002",
+    "ruang": "RKTM 1",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "6",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP38",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "153",
+    "kode": "TMSP40",
+    "nama": "PERHITUNGAN ONGKOS PRODUKSI",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Mohd. Iqbal, M.T.NIP. 196706081994031003",
+    "ruang": "RKTM 1",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "4",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP40",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "154",
+    "kode": "TMSP44",
+    "nama": "MEKANIKA RETAKAN",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Husaini, M.T., IPUNIP. 196108081988111001",
+    "ruang": "RKTM 2",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "0",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP44",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "155",
+    "kode": "TMSP46",
+    "nama": "METODE ELEMEN HINGGA",
+    "kelas": "11",
+    "koordinator": "Dr. Arhami, S.T., M.T.NIP. 197205271998021001",
+    "ruang": "MTM 1",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP46",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "156",
+    "kode": "TMSP48",
+    "nama": "TEKNIK PENGELASAN",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Sulaiman Thalib, M.T.NIP. 196102101990021001",
+    "ruang": "A23-203",
+    "hari": "Senin",
+    "waktu": "16:30-19:00",
+    "peserta": "7",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP48",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "157",
+    "kode": "TMSP50",
+    "nama": "REKAYASA KOROSI",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Nurdin Ali, Dipl.IngNIP. 195706271985031001",
+    "ruang": "RKTM 1",
+    "hari": "Senin",
+    "waktu": "16:30-19:00",
+    "peserta": "10",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP50",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "158",
+    "kode": "TMSP52",
+    "nama": "TEKNOLOGI TEPAT GUNA",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Ahmad Syuhada, M.ScNIP. 196108201987031002",
+    "ruang": "LAB THERMAL",
+    "hari": "Kamis",
+    "waktu": "16:30-18:15",
+    "peserta": "4",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP52",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "159",
+    "kode": "TMSP54",
+    "nama": "TANUR DAN BAHAN BAKAR",
+    "kelas": "11",
+    "koordinator": "Prof. Dr. Ir. Khairil, M.T.NIP. 196610261990031001",
+    "ruang": "LAB MOTOR BAKAR",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "2",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP54",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "160",
+    "kode": "TMSP56",
+    "nama": "BIO MEKANIK",
+    "kelas": "11",
+    "koordinator": "Dr. Syifaul Huzni, ST., M.ScNIP. 196910091997021001",
+    "ruang": "RB 5A",
+    "hari": "Selasa",
+    "waktu": "16:30-18:15",
+    "peserta": "3",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSP56",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "161",
+    "kode": "TMSPA1",
+    "nama": "PROPOSAL TUGAS AKHIR",
+    "kelas": "11",
+    "koordinator": "Ir. Udink Aulia, M.Eng.NIP. 196605231993031003",
+    "ruang": "PRODI",
+    "hari": "Senin",
+    "waktu": "08:00-09:00",
+    "peserta": "101",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSPA1",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  },
+  {
+    "no": "162",
+    "kode": "TMSPA2",
+    "nama": "TUGAS AKHIR",
+    "kelas": "11",
+    "koordinator": "Ir. Udink Aulia, M.Eng.NIP. 196605231993031003",
+    "ruang": "PRODI",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "120",
+    "keterangan": "TeknikS1Teknik Mesin",
+    "kode-peserta": {
+      "data-kode": "TMSPA2",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410201"
+    }
+  }
+]

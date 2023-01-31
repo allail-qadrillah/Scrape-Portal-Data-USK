@@ -1,0 +1,1161 @@
+[
+  {
+    "no": "1",
+    "kode": "INF108",
+    "nama": "PEMROGRAMAN",
+    "kelas": "A",
+    "koordinator": "Prof. Dr. Taufik Fuadi Abidin, S.Si., M.TechNIP. 197010081994031002",
+    "ruang": "E.03.01",
+    "hari": "Kamis",
+    "waktu": "10:00-12:30",
+    "peserta": "42",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF108",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "INF108",
+    "nama": "PEMROGRAMAN",
+    "kelas": "B",
+    "koordinator": "Alim Misbullah, S.Si., M.S.NIP. 198806032019031011",
+    "ruang": "E.03.02",
+    "hari": "Kamis",
+    "waktu": "10:00-12:30",
+    "peserta": "44",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF108",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "INF110",
+    "nama": "STRUKTUR DISKRIT",
+    "kelas": "A",
+    "koordinator": "Zahnur, S.Si, M.Info Tech.NIP. 196905291994031002",
+    "ruang": "E.03.01",
+    "hari": "Selasa",
+    "waktu": "10:00-12:30",
+    "peserta": "42",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF110",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "INF110",
+    "nama": "STRUKTUR DISKRIT",
+    "kelas": "B",
+    "koordinator": "Nazaruddin, S.Si., M. Eng.ScNIP. 197202061997021001",
+    "ruang": "E.03.02",
+    "hari": "Selasa",
+    "waktu": "10:00-12:30",
+    "peserta": "45",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF110",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "INF112",
+    "nama": "JARINGAN KOMPUTER",
+    "kelas": "A",
+    "koordinator": "Zulfan, S.Si., M.Sc.NIP. 198606022015041003",
+    "ruang": "E.03.01",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "peserta": "42",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF112",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "INF112",
+    "nama": "JARINGAN KOMPUTER",
+    "kelas": "B",
+    "koordinator": "Mahyus Ihsan, S.Si, M.SiNIP. 197010051998021001",
+    "ruang": "E.03.02",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "peserta": "42",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF112",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "INF114",
+    "nama": "BASIS DATA",
+    "kelas": "A",
+    "koordinator": "Kikye Martiwi Sukiakhy, ST., M.KomNIP. 198605202019032009",
+    "ruang": "E.03.01",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "42",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF114",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "INF114",
+    "nama": "BASIS DATA",
+    "kelas": "B",
+    "koordinator": "Sri Azizah Nazhifah, S.Kom., M.ScNIP. 199304072021022101",
+    "ruang": "E.03.02",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "44",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF114",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "INF206",
+    "nama": "REKAYASA PERANGKAT LUNAK",
+    "kelas": "A",
+    "koordinator": "Ir. Rahmad Dawood, S.Kom, M.Sc., IPM., ASEAN Eng.,NIP. 197203181995121001",
+    "ruang": "E.03.01",
+    "hari": "Jumat",
+    "waktu": "8:15-9:55",
+    "peserta": "33",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF206",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "INF206",
+    "nama": "REKAYASA PERANGKAT LUNAK",
+    "kelas": "B",
+    "koordinator": "Dalila Husna Yunardi, B.Sc., M.Sc.NIP. 199006172015042001",
+    "ruang": "E.03.02",
+    "hari": "Jumat",
+    "waktu": "8:15-9:55",
+    "peserta": "35",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF206",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "INF206",
+    "nama": "REKAYASA PERANGKAT LUNAK",
+    "kelas": "C",
+    "koordinator": "Rini Deviani, ST., M.EngNIP. 198712302020122002",
+    "ruang": "E.03.03",
+    "hari": "Jumat",
+    "waktu": "8:15-9:55",
+    "peserta": "30",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF206",
+      "data-kelas": "C",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "INF210",
+    "nama": "SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "A",
+    "koordinator": "Sri Azizah Nazhifah, S.Kom., M.ScNIP. 199304072021022101",
+    "ruang": "E.03.01",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "50",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF210",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "INF210",
+    "nama": "SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "B",
+    "koordinator": "Ardiansyah, BSEE.,M.ScNIP. 197212261992011001",
+    "ruang": "E.03.02",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "49",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF210",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "INF216",
+    "nama": "TEORI GRAF",
+    "kelas": "A",
+    "koordinator": "Junidar, S.Si, M.KomNIP. 197806102006042001",
+    "ruang": "E.03.01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF216",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "INF216",
+    "nama": "TEORI GRAF",
+    "kelas": "B",
+    "koordinator": "Dalila Husna Yunardi, B.Sc., M.Sc.NIP. 199006172015042001",
+    "ruang": "E.03.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF216",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "INF216",
+    "nama": "TEORI GRAF",
+    "kelas": "C",
+    "koordinator": "Laina Farsiah, S.Si., M.ScNIP. 198902032022032004",
+    "ruang": "E.03.03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF216",
+      "data-kelas": "C",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "INF218",
+    "nama": "STRUKTUR DATA DAN ALGORITMA",
+    "kelas": "A",
+    "koordinator": "Alim Misbullah, S.Si., M.S.NIP. 198806032019031011",
+    "ruang": "E.03.01",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "35",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF218",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "INF218",
+    "nama": "STRUKTUR DATA DAN ALGORITMA",
+    "kelas": "B",
+    "koordinator": "Zahnur, S.Si, M.Info Tech.NIP. 196905291994031002",
+    "ruang": "E.03.02",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "30",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF218",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "INF218",
+    "nama": "STRUKTUR DATA DAN ALGORITMA",
+    "kelas": "C",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "E.03.03",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "35",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF218",
+      "data-kelas": "C",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "INF220",
+    "nama": "KOMUNIKASI DATA",
+    "kelas": "A",
+    "koordinator": "Arie Budiansyah, ST., M.Eng.NIP. 197808152010121002",
+    "ruang": "E.03.01",
+    "hari": "Jumat",
+    "waktu": "16:00-17:40",
+    "peserta": "48",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF220",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "INF220",
+    "nama": "KOMUNIKASI DATA",
+    "kelas": "B",
+    "koordinator": "Husaini, M.ScNIP. 198806242022031006",
+    "ruang": "E.03.02",
+    "hari": "Jumat",
+    "waktu": "16:00-17:40",
+    "peserta": "48",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF220",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "INF224",
+    "nama": "PEMROGRAMAN BERBASIS WEB",
+    "kelas": "A",
+    "koordinator": "Kurnia Saputra, S.T., M.Sc.NIP. 198003262014041001",
+    "ruang": "E.03.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "48",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF224",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "INF224",
+    "nama": "PEMROGRAMAN BERBASIS WEB",
+    "kelas": "B",
+    "koordinator": "Husaini, M.ScNIP. 198806242022031006",
+    "ruang": "E.03.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "49",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF224",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "INF228",
+    "nama": "ETIKA TEKNOLOGI INFORMASI",
+    "kelas": "A",
+    "koordinator": "Muslim, M.InfoTechNIP. 197311181999031001",
+    "ruang": "E.03.01",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "peserta": "48",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF228",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "INF228",
+    "nama": "ETIKA TEKNOLOGI INFORMASI",
+    "kelas": "B",
+    "koordinator": "Husaini, M.ScNIP. 198806242022031006",
+    "ruang": "E.03.02",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "peserta": "47",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF228",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "INF308",
+    "nama": "PEMROGRAMAN BERBASIS MOBILE",
+    "kelas": "A",
+    "koordinator": "Kurnia Saputra, S.T., M.Sc.NIP. 198003262014041001",
+    "ruang": "E.03.02",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "45",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF308",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "INF308",
+    "nama": "PEMROGRAMAN BERBASIS MOBILE",
+    "kelas": "B",
+    "koordinator": "Dalila Husna Yunardi, B.Sc., M.Sc.NIP. 199006172015042001",
+    "ruang": "E.03.03",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "45",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF308",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "INF310",
+    "nama": "METODELOGI PENELITIAN",
+    "kelas": "A",
+    "koordinator": "Dr. Muhammad Subianto, S.Si, M.SiNIP. 196812111994031005",
+    "ruang": "E.03.01",
+    "hari": "Kamis",
+    "waktu": "8:15-9:55",
+    "peserta": "42",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF310",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "INF310",
+    "nama": "METODELOGI PENELITIAN",
+    "kelas": "B",
+    "koordinator": "Muslim, M.InfoTechNIP. 197311181999031001",
+    "ruang": "E.03.02",
+    "hari": "Kamis",
+    "waktu": "8:15-9:55",
+    "peserta": "45",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF310",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "INF312",
+    "nama": "INTERAKSI MANUSIA DAN KOMPUTER",
+    "kelas": "A",
+    "koordinator": "Ir. Rahmad Dawood, S.Kom, M.Sc., IPM., ASEAN Eng.,NIP. 197203181995121001",
+    "ruang": "E.03.01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "43",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF312",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "INF312",
+    "nama": "INTERAKSI MANUSIA DAN KOMPUTER",
+    "kelas": "B",
+    "koordinator": "Dalila Husna Yunardi, B.Sc., M.Sc.NIP. 199006172015042001",
+    "ruang": "E.03.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "44",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF312",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "INF314",
+    "nama": "VISUALISASI DATA",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "E.03.01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF314",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "INF314",
+    "nama": "VISUALISASI DATA",
+    "kelas": "B",
+    "koordinator": "Laina Farsiah, S.Si., M.ScNIP. 198902032022032004",
+    "ruang": "E.03.03",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF314",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "INF314",
+    "nama": "VISUALISASI DATA",
+    "kelas": "C",
+    "koordinator": "Razief Perucha Fauzie Afidh, S.Si., M.ScNIP. 198408062012121002",
+    "ruang": "DMIR",
+    "hari": "Rabu",
+    "waktu": "08:15-09:55",
+    "peserta": "31",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF314",
+      "data-kelas": "C",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "INF504",
+    "nama": "TEKS DAN WEB MINING",
+    "kelas": "A",
+    "koordinator": "Prof. Dr. Taufik Fuadi Abidin, S.Si., M.TechNIP. 197010081994031002",
+    "ruang": "E.03.03",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "42",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF504",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "INF506",
+    "nama": "KARTOGRAFI",
+    "kelas": "A",
+    "koordinator": "Dr. Nizamuddin, M.Info.Sc.NIP. 197108241996031001",
+    "ruang": "E.03.01",
+    "hari": "Kamis",
+    "waktu": "16:00-17:40",
+    "peserta": "41",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF506",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "INF514",
+    "nama": "KRIPTOGRAFI DAN KEAMANAN DATA",
+    "kelas": "A",
+    "koordinator": "Rasudin, S.Si., M.Info. TechNIP. 197410011999031001",
+    "ruang": "E.03.03",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "11",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF514",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "INF518",
+    "nama": "PROYEK PERANGKAT LUNAK",
+    "kelas": "A",
+    "koordinator": "Kurnia Saputra, S.T., M.Sc.NIP. 198003262014041001",
+    "ruang": "E.03.03",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "43",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF518",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "INF524",
+    "nama": "PENGINDERAAN JAUH",
+    "kelas": "A",
+    "koordinator": "Sri Azizah Nazhifah, S.Kom., M.ScNIP. 199304072021022101",
+    "ruang": "E.03.03",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "peserta": "45",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF524",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "INF526",
+    "nama": "PERANGKAT LUNAK BERBASIS KOMPONEN",
+    "kelas": "A",
+    "koordinator": "Kurnia Saputra, S.T., M.Sc.NIP. 198003262014041001",
+    "ruang": "E.03.03",
+    "hari": "Jumat",
+    "waktu": "16:00-17:40",
+    "peserta": "31",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF526",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "INF528",
+    "nama": "KUALITAS PERANGKAT LUNAK",
+    "kelas": "A",
+    "koordinator": "Nazaruddin, S.Si., M. Eng.ScNIP. 197202061997021001",
+    "ruang": "E.03.01",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF528",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "INF528",
+    "nama": "KUALITAS PERANGKAT LUNAK",
+    "kelas": "B",
+    "koordinator": "Rini Deviani, ST., M.EngNIP. 198712302020122002",
+    "ruang": "E.03.03",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "9",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF528",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "INF534",
+    "nama": "JARINGAN NIRKABEL",
+    "kelas": "A",
+    "koordinator": "Arie Budiansyah, ST., M.Eng.NIP. 197808152010121002",
+    "ruang": "E.03.03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "12",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF534",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "INF540",
+    "nama": "PEMBELAJARAN MESIN",
+    "kelas": "A",
+    "koordinator": "Dr. Muhammad Subianto, S.Si, M.SiNIP. 196812111994031005",
+    "ruang": "E.03.03",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "46",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF540",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "INF542",
+    "nama": "STRATEGI KEAMANAN JARINGAN",
+    "kelas": "A",
+    "koordinator": "Nazaruddin, S.Si., M. Eng.ScNIP. 197202061997021001",
+    "ruang": "E.03.02",
+    "hari": "Selasa",
+    "waktu": "16:00-17:40",
+    "peserta": "21",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "INF542",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "Jurusan Informatika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "21",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "MPAP02",
+    "nama": "PENGANTAR STATISTIKA",
+    "kelas": "A",
+    "koordinator": "Fitriana AR, S.Si., M.SiNIP. 197410152006042002",
+    "ruang": "E.03.01",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "93",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP02",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "MPAP04",
+    "nama": "KULIAH KERJA PRAKTIK",
+    "kelas": "A",
+    "koordinator": "Dalila Husna Yunardi, B.Sc., M.Sc.NIP. 199006172015042001",
+    "ruang": "E.03.02",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "40",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP04",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "MPAP05",
+    "nama": "PRAKTIK WIRAUSAHA",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "Jurusan Informatika",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP05",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "MPAP06",
+    "nama": "PUBLIKASI ILMIAH",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "Jurusan Informatika",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP06",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "MPAP07",
+    "nama": "MAGANG INDUSTRI A",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "Jurusan Informatika",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP07",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "MPAP08",
+    "nama": "MAGANG INDUSTRI B",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "Jurusan Informatika",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP08",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "MPAP09",
+    "nama": "MAGANG INDUSTRI C",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "Jurusan Informatika",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP09",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "MPAP10",
+    "nama": "PROYEK DESA A",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "Jurusan Informatika",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP10",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "MPAP11",
+    "nama": "PROYEK DESA B",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "Jurusan Informatika",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP11",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "MPAP12",
+    "nama": "PROYEK DESA C",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "Jurusan Informatika",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP12",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "MPAP13",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS A",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "Jurusan Informatika",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP13",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "MPAP14",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS B",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "Jurusan Informatika",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP14",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "MPAP15",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS C",
+    "kelas": "A",
+    "koordinator": "Viska Mutiawani, B.IT, M.ITNIP. 198008312009122003",
+    "ruang": "Jurusan Informatika",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAP15",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "MPAPA1",
+    "nama": "PROPOSAL PENELITIAN",
+    "kelas": "A",
+    "koordinator": "Alim Misbullah, S.Si., M.S.NIP. 198806032019031011",
+    "ruang": "E.03.02",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "88",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAPA1",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "MPAPA2",
+    "nama": "TUGAS AKHIR",
+    "kelas": "A",
+    "koordinator": "Alim Misbullah, S.Si., M.S.NIP. 198806032019031011",
+    "ruang": "E.03.01",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "126",
+    "keterangan": "MIPAS1Informatika",
+    "kode-peserta": {
+      "data-kode": "MPAPA2",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810701"
+    }
+  }
+]

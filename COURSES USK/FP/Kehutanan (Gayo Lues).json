@@ -1,0 +1,1104 @@
+[
+  {
+    "no": "1",
+    "kode": "FGL102",
+    "nama": "DASAR-DASAR MANAJEMEN",
+    "kelas": "01",
+    "koordinator": "Akhmad Baihaqi, S.P., M.M.NIP. 197406142008121001",
+    "ruang": "01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "19",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "FGL104",
+    "nama": "KIMIA",
+    "kelas": "01",
+    "koordinator": "Ali Makmur, S.Pt., M.SiNIP. 199104292020021101",
+    "ruang": "01",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "18",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "FGL106",
+    "nama": "PRAKTIKUM KIMIA",
+    "kelas": "01",
+    "koordinator": "Ali Makmur, S.Pt., M.SiNIP. 199104292020021101",
+    "ruang": "01",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "peserta": "18",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "FGL108",
+    "nama": "ILMU TANAH HUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Teti Arabia, MS.NIP. 196109141986022001",
+    "ruang": "01",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "19",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "FGL110",
+    "nama": "PRAKTIKUM ILMU TANAH HUTAN",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "03",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "19",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "FGL112",
+    "nama": "KLIMATOLOGI",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "20",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "FGL114",
+    "nama": "PRAKTIKUM KLIMATOLOGI",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "01",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "peserta": "20",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL114",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "FGL116",
+    "nama": "DENDROLOGI",
+    "kelas": "01",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "01",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL116",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "FGL118",
+    "nama": "PRAKTIKUM DENDROLOGI",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL118",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "FGL120",
+    "nama": "SUMBER DAYA KEHUTANAN LOKAL",
+    "kelas": "01",
+    "koordinator": "Ryan Moulana, S.TP., M.ScNIP. 197901182003121004",
+    "ruang": "01",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "18",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL120",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "FGL202",
+    "nama": "KEBIJAKAN KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Agung Sanjaya, S.Pd., M.PdNIP. 198905272020021101",
+    "ruang": "02",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "15",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "FGL204",
+    "nama": "ILMU UKUR KAYU",
+    "kelas": "01",
+    "koordinator": "Martunis, S.TP., M.ScNIP. 197905052003121002",
+    "ruang": "02",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "16",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "FGL206",
+    "nama": "PRAKTIKUM ILMU UKUR KAYU",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "02",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "16",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "FGL208",
+    "nama": "INVENTARISASI HUTAN",
+    "kelas": "01",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "02",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "15",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "FGL210",
+    "nama": "PRAKTIKUM INVENTARISASI HUTAN",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "02",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "peserta": "15",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL210",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "FGL212",
+    "nama": "SILVIKULTUR",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Ashabul Anhar, M.ScNIP. 196606291990031002",
+    "ruang": "02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "14",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "FGL214",
+    "nama": "PRAKTIKUM SILVIKULTUR",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "02",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "peserta": "14",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL214",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "FGL216",
+    "nama": "HIDROLOGI HUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Hairul Basri, M.ScNIP. 196702101991021001",
+    "ruang": "03",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "15",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "FGL218",
+    "nama": "PRAKTIKUM HIDROLOGI HUTAN",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "02",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "15",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL218",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "FGL220",
+    "nama": "ILMU UKUR DAN PEMETAAN HUTAN",
+    "kelas": "01",
+    "koordinator": "Ir. Sugianto, M.Sc, PhDNIP. 196502231992031003",
+    "ruang": "02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL220",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "FGL222",
+    "nama": "PRAKTIKUM ILMU UKUR DAN PEMETAAN HUTAN",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "02",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "18",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL222",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "FGL502",
+    "nama": "PENGINDERAAN  JARAK JAUH",
+    "kelas": "01",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "02",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "7",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL502",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "FGL504",
+    "nama": "PRAKTIKUM PENGINDERAAN JARAK JAUH",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "03",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "11",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL504",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "FGL506",
+    "nama": "PERUBAHAN IKLIM",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "03",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "8",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL506",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "FGL508",
+    "nama": "MANAJEMEN REHABILITASI HUTAN DAN LAHAN",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "03",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL508",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "FGL510",
+    "nama": "PRAKTIKUM MANAJEMEN REHABILITASI HUTAN DAN LAHAN",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL510",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "FGL512",
+    "nama": "JASA EKOSISTEM HUTAN DAN LINGKUNGAN HIDUP",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "03",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL512",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "FGL514",
+    "nama": "PRAKTIKUM JASA EKOSISTEM HUTAN DAN LINGKUNGAN HIDUP",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL514",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "FGL516",
+    "nama": "BIOTEKNOLOGI DAN KONSERVASI KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Essy Harnelly, S.Si., M.Si., Ph.D.NIP. 197501092000122002",
+    "ruang": "03",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "3",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL516",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "FGL518",
+    "nama": "PRAKTIKUM BIOTEKNOLOGI DAN KONSERVASI KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "02",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "3",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL518",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "FGL520",
+    "nama": "EKOLOGI SATWA LIAR",
+    "kelas": "01",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "03",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "9",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL520",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "FGL522",
+    "nama": "PRAKTIKUM EKOLOGI SATWA LIAR",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "03",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "9",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL522",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "FGL524",
+    "nama": "BIOLOGI TANAH",
+    "kelas": "01",
+    "koordinator": "Lola Adres Yanti, S.Hut., M.Si.NIP. 199001292019032017",
+    "ruang": "03",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "2",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL524",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "FGL526",
+    "nama": "PRAKTIKUM BIOLOGI TANAH",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL526",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "FGL528",
+    "nama": "RANCANGAN PERCOBAAN",
+    "kelas": "01",
+    "koordinator": "Ir. Ainun Marliah, M.P.NIP. 196712311993032006",
+    "ruang": "3",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL528",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "FGL530",
+    "nama": "PRAKTIKUM RANCANGAN PERCOBAAN",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "02",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL530",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "FGL532",
+    "nama": "PENYULUHAN HUTAN",
+    "kelas": "01",
+    "koordinator": "Ali Makmur, S.Pt., M.SiNIP. 199104292020021101",
+    "ruang": "03",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "2",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL532",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "FGL534",
+    "nama": "PEMASARAN HASIL HUTAN",
+    "kelas": "01",
+    "koordinator": "Ryan Moulana, S.TP., M.ScNIP. 197901182003121004",
+    "ruang": "03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL534",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "FGL536",
+    "nama": "ANALISIS KEBIJAKAN KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Agung Sanjaya, S.Pd., M.PdNIP. 198905272020021101",
+    "ruang": "02",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "1",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL536",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "FGL538",
+    "nama": "REKLAMASI LAHAN PASCA TAMBANG DAN RESTORASI HUTAN",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "03",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "2",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL538",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "FGL540",
+    "nama": "TENURIAL KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "03",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "2",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL540",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "FGL542",
+    "nama": "PERHITUNGAN KARBON",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "03",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL542",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "FGL544",
+    "nama": "PRAKTIKUM PERHITUNGAN KARBON",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "02",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL544",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "FGL546",
+    "nama": "UNIT MANAJEMEN HUTAN",
+    "kelas": "01",
+    "koordinator": "Tuti Arlita, S.Pi., M.SiNIP. 197310112006042001",
+    "ruang": "03",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL546",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "FGL548",
+    "nama": "PRAKTIKUM UNIT MANAJEMEN HUTAN",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "03",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL548",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "FGL550",
+    "nama": "PENGELOLAAN KAWASAN KONSERVASI",
+    "kelas": "01",
+    "koordinator": "Ulfa Hansri Ar Rasyid, S.Pd., M.SiNIP. 199203022019032021",
+    "ruang": "03",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "3",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL550",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "FGL552",
+    "nama": "PRAKTIKUM PENGELOLAAN KAWASAN KONSERVASI",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "03",
+    "hari": "Kamis",
+    "waktu": "16:00-17:40",
+    "peserta": "3",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL552",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "FGL554",
+    "nama": "REKREASI ALAM DAN EKOWISATA",
+    "kelas": "01",
+    "koordinator": "Ulfa Hansri Ar Rasyid, S.Pd., M.SiNIP. 199203022019032021",
+    "ruang": "03",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "1",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL554",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "FGL556",
+    "nama": "PRAKTIKUM REKREASI ALAM DAN EKOWISATA",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "02",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGL556",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "FGLP02",
+    "nama": "SEMINAR REGULER",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "04",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "49",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGLP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "FGLP04",
+    "nama": "PRAKTIK KETERAMPILAN",
+    "kelas": "01",
+    "koordinator": "Andi Fauzan Rakhmadsyah Pohan, S.P., M.PNIP. 197804232020021101",
+    "ruang": "04",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "23",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGLP04",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "FGLP05",
+    "nama": "MAGANG/PRAKTIK KERJA DI INDUSTRI/INSTANSI",
+    "kelas": "01",
+    "koordinator": "Agung Sanjaya, S.Pd., M.PdNIP. 198905272020021101",
+    "ruang": "03",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGLP05",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "FGLP06",
+    "nama": "PENELITIAN/RISET DI LUAR USK",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "03",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGLP06",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "FGLP07",
+    "nama": "PROYEK KEMUANUSIAAN",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "03",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGLP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "FGLP08",
+    "nama": "PROYEK WIRAUSAHA",
+    "kelas": "01",
+    "koordinator": "Andi Fauzan Rakhmadsyah Pohan, S.P., M.PNIP. 197804232020021101",
+    "ruang": "03",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGLP08",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "FGLP09",
+    "nama": "MEMBANGUN DESA/KKN TEMATIK",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "03",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGLP09",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "FGLPA1",
+    "nama": "PENELITIAN/ SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "04",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "66",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FGLPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. drh. Tongku Nizwan Siregar, M.PNIP. 196909011994031003",
+    "ruang": "04",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "1",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515002"
+    }
+  }
+]

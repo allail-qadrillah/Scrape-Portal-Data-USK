@@ -1,0 +1,1959 @@
+[
+  {
+    "no": "1",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Syahrul Ridha, S.Pd., M.Pd.NIP. 199003242021021101",
+    "ruang": "3.12",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Syahrul Ridha, S.Pd., M.Pd.NIP. 199003242021021101",
+    "ruang": "3.12",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Syahrul Ridha, S.Pd., M.Pd.NIP. 199003242021021101",
+    "ruang": "2.03",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "18",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "01",
+    "koordinator": "Ruliani, S.Pd., M.Pd.NIP. 198905292017032101",
+    "ruang": "3.14",
+    "hari": "Rabu",
+    "waktu": "11:30-13:10",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "02",
+    "koordinator": "Ruliani, S.Pd., M.Pd.NIP. 198905292017032101",
+    "ruang": "2.03",
+    "hari": "Selasa",
+    "waktu": "16:35-18:10",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "03",
+    "koordinator": "Ruliani, S.Pd., M.Pd.NIP. 198905292017032101",
+    "ruang": "2.03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "18",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "2.03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "6",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "2.03",
+    "hari": "Senin",
+    "waktu": "16:35-18:10",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "2.03",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "01",
+    "koordinator": "Drs. Abdul Wahab, M.SiNIP. 195912311988031017",
+    "ruang": "lapangan",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:40",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "02",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "lapangan",
+    "hari": "Minggu",
+    "waktu": "08:00-10:40",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "03",
+    "koordinator": "Dr. Mirza Desfandi, S.Pd., M.Soc.ScNIP. 198212132010121001",
+    "ruang": "lapangan",
+    "hari": "Minggu",
+    "waktu": "10:40-11:40",
+    "peserta": "3",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "04",
+    "koordinator": "Husna Diah, S.Pd., M.Sc.NIP. 199312102022032017",
+    "ruang": "lapangan",
+    "hari": "Minggu",
+    "waktu": "12:00-13:35",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "05",
+    "koordinator": "M. Hafizul Furqan, S.Pd., M.Pd.NIP. 199106092017031101",
+    "ruang": "lapangan",
+    "hari": "Minggu",
+    "waktu": "14:00-15:40",
+    "peserta": "1",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "07",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "lapangan",
+    "hari": "Sabtu",
+    "waktu": "09:40-10:10",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "08",
+    "koordinator": "Ruliani, S.Pd., M.Pd.NIP. 198905292017032101",
+    "ruang": "lapangan",
+    "hari": "Sabtu",
+    "waktu": "11:30-12:00",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "EDUP09",
+    "nama": "PLP II",
+    "kelas": "01",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "lapangan",
+    "hari": "Minggu",
+    "waktu": "08:00-12:00",
+    "peserta": "11",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDUP09",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "EDUPA1",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "dissimination",
+    "hari": "Sabtu",
+    "waktu": "9:30-13:30",
+    "peserta": "111",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "EDUPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "MGP361",
+    "nama": "SOSIOLOGI DAN ANTROPOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Alamsyah, M.SiNIP. 195804041986021005",
+    "ruang": "3.14",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "40",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MGP361",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "MGP361",
+    "nama": "SOSIOLOGI DAN ANTROPOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Alamsyah, M.SiNIP. 195804041986021005",
+    "ruang": "2.03",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "18",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MGP361",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "MGP502",
+    "nama": "HIDROLOGI TERAPAN",
+    "kelas": "01",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "lab geografi",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MGP502",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "MGP502",
+    "nama": "HIDROLOGI TERAPAN",
+    "kelas": "02",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "2.03",
+    "hari": "Sabtu",
+    "waktu": "09:20-11:20",
+    "peserta": "5",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MGP502",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "MGP502",
+    "nama": "HIDROLOGI TERAPAN",
+    "kelas": "03",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "2.03",
+    "hari": "Sabtu",
+    "waktu": "11:30-13:20",
+    "peserta": "8",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MGP502",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "MGP506",
+    "nama": "SIG TERAPAN",
+    "kelas": "01",
+    "koordinator": "Husna Diah, S.Pd., M.Sc.NIP. 199312102022032017",
+    "ruang": "lab geo",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MGP506",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "MGP515",
+    "nama": "GEOGRAFI BUDAYA DAN KEARIFAN LOKAL",
+    "kelas": "01",
+    "koordinator": "Drs. Abdul Wahab, M.SiNIP. 195912311988031017",
+    "ruang": "3.12",
+    "hari": "Jumat",
+    "waktu": "10:40-12:20",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MGP515",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "MKG102",
+    "nama": "DEMOGRAFI DAN KESEJAHTERAAN SOSIAL",
+    "kelas": "01",
+    "koordinator": "Dra. Dyah Rahmani Purnomowati, M.SiNIP. 196208121989032001",
+    "ruang": "2.03",
+    "hari": "Senin",
+    "waktu": "8:00-10:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "MKG102",
+    "nama": "DEMOGRAFI DAN KESEJAHTERAAN SOSIAL",
+    "kelas": "02",
+    "koordinator": "Dra. Dyah Rahmani Purnomowati, M.SiNIP. 196208121989032001",
+    "ruang": "2.03",
+    "hari": "Kamis",
+    "waktu": "8:00-10:40",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "MKG102",
+    "nama": "DEMOGRAFI DAN KESEJAHTERAAN SOSIAL",
+    "kelas": "03",
+    "koordinator": "Dra. Dyah Rahmani Purnomowati, M.SiNIP. 196208121989032001",
+    "ruang": "2.03",
+    "hari": "Selasa",
+    "waktu": "8:00-10:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "MKG104",
+    "nama": "GEOMORFOLOGI UMUM",
+    "kelas": "01",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "3.12",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "34",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "MKG104",
+    "nama": "GEOMORFOLOGI UMUM",
+    "kelas": "02",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "3.14",
+    "hari": "Jumat",
+    "waktu": "9:40-10:30",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "MKG104",
+    "nama": "GEOMORFOLOGI UMUM",
+    "kelas": "03",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "3.14",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "14",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG104",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "MKG106",
+    "nama": "PENDIDIKAN KEPENDUDUKAN DAN LINGKUNGAN HIDUP (PKLH)",
+    "kelas": "01",
+    "koordinator": "Dr. Alamsyah, M.SiNIP. 195804041986021005",
+    "ruang": "3.14",
+    "hari": "Selasa",
+    "waktu": "9:40-10:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "MKG106",
+    "nama": "PENDIDIKAN KEPENDUDUKAN DAN LINGKUNGAN HIDUP (PKLH)",
+    "kelas": "02",
+    "koordinator": "Dr. Mirza Desfandi, S.Pd., M.Soc.ScNIP. 198212132010121001",
+    "ruang": "3.14",
+    "hari": "Senin",
+    "waktu": "9:40-10:40",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "MKG106",
+    "nama": "PENDIDIKAN KEPENDUDUKAN DAN LINGKUNGAN HIDUP (PKLH)",
+    "kelas": "03",
+    "koordinator": "Dr. Alamsyah, M.SiNIP. 195804041986021005",
+    "ruang": "3.14",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG106",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "MKG110",
+    "nama": "METEOROLOGI DAN KLIMATOLOGI",
+    "kelas": "01",
+    "koordinator": "Ruliani, S.Pd., M.Pd.NIP. 198905292017032101",
+    "ruang": "2.03",
+    "hari": "Kamis",
+    "waktu": "10:45-13:10",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "MKG110",
+    "nama": "METEOROLOGI DAN KLIMATOLOGI",
+    "kelas": "02",
+    "koordinator": "Ruliani, S.Pd., M.Pd.NIP. 198905292017032101",
+    "ruang": "2.03",
+    "hari": "Selasa",
+    "waktu": "10:45-13:10",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "MKG110",
+    "nama": "METEOROLOGI DAN KLIMATOLOGI",
+    "kelas": "03",
+    "koordinator": "Ruliani, S.Pd., M.Pd.NIP. 198905292017032101",
+    "ruang": "2.03",
+    "hari": "Senin",
+    "waktu": "10:45-13:10",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "MKG121",
+    "nama": "BIOGEOGRAFI",
+    "kelas": "01",
+    "koordinator": "Fitriani Yulianti, S.Pd., M.Pd.NIP. 198307132015012101",
+    "ruang": "2.03",
+    "hari": "Jumat",
+    "waktu": "16:35-18:10",
+    "peserta": "15",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG121",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "MKG121",
+    "nama": "BIOGEOGRAFI",
+    "kelas": "02",
+    "koordinator": "Fitriani Yulianti, S.Pd., M.Pd.NIP. 198307132015012101",
+    "ruang": "3.14",
+    "hari": "Kamis",
+    "waktu": "11:30-13:10",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG121",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "MKG121",
+    "nama": "BIOGEOGRAFI",
+    "kelas": "03",
+    "koordinator": "Fitriani Yulianti, S.Pd., M.Pd.NIP. 198307132015012101",
+    "ruang": "2.03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG121",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "MKG202",
+    "nama": "KARTOGRAFI",
+    "kelas": "01",
+    "koordinator": "Drs. Abdul Wahab, M.SiNIP. 195912311988031017",
+    "ruang": "3.12",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "MKG202",
+    "nama": "KARTOGRAFI",
+    "kelas": "02",
+    "koordinator": "Drs. Abdul Wahab, M.SiNIP. 195912311988031017",
+    "ruang": "3.12",
+    "hari": "Selasa",
+    "waktu": "9:30-10:40",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "MKG202",
+    "nama": "KARTOGRAFI",
+    "kelas": "03",
+    "koordinator": "Drs. Abdul Wahab, M.SiNIP. 195912311988031017",
+    "ruang": "3.12",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "MKG204",
+    "nama": "PRAKTIKUM KARTOGRAFI",
+    "kelas": "01",
+    "koordinator": "Mice Putri Afriyani, S.Pd., M.Sc.NIP. 198802182020082101",
+    "ruang": "lab geografi",
+    "hari": "Senin",
+    "waktu": "9:30-10:40",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "MKG204",
+    "nama": "PRAKTIKUM KARTOGRAFI",
+    "kelas": "02",
+    "koordinator": "Mice Putri Afriyani, S.Pd., M.Sc.NIP. 198802182020082101",
+    "ruang": "lab geografi",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "MKG204",
+    "nama": "PRAKTIKUM KARTOGRAFI",
+    "kelas": "03",
+    "koordinator": "Mice Putri Afriyani, S.Pd., M.Sc.NIP. 198802182020082101",
+    "ruang": "lab geografi",
+    "hari": "Senin",
+    "waktu": "11:30-13:10",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "MKG204",
+    "nama": "PRAKTIKUM KARTOGRAFI",
+    "kelas": "04",
+    "koordinator": "Mice Putri Afriyani, S.Pd., M.Sc.NIP. 198802182020082101",
+    "ruang": "lab geografi",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG204",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "MKG206",
+    "nama": "GEOGRAFI REGIONAL INDONESIA",
+    "kelas": "01",
+    "koordinator": "Novia Zalmita, S.Pd., M.Pd.NIP. 198711152015042002",
+    "ruang": "2.03",
+    "hari": "Rabu",
+    "waktu": "9:30-10:40",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "MKG206",
+    "nama": "GEOGRAFI REGIONAL INDONESIA",
+    "kelas": "02",
+    "koordinator": "Novia Zalmita, S.Pd., M.Pd.NIP. 198711152015042002",
+    "ruang": "2.03",
+    "hari": "Rabu",
+    "waktu": "08:00-10:40",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "MKG206",
+    "nama": "GEOGRAFI REGIONAL INDONESIA",
+    "kelas": "03",
+    "koordinator": "Novia Zalmita, S.Pd., M.Pd.NIP. 198711152015042002",
+    "ruang": "2.03",
+    "hari": "Rabu",
+    "waktu": "11:30-13:10",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG206",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "MKG207",
+    "nama": "GEOGRAFI TRANSPORTASI",
+    "kelas": "01",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "3.12",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG207",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "MKG207",
+    "nama": "GEOGRAFI TRANSPORTASI",
+    "kelas": "02",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "3.12",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG207",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "MKG207",
+    "nama": "GEOGRAFI TRANSPORTASI",
+    "kelas": "03",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "3.12",
+    "hari": "Kamis",
+    "waktu": "16:35-18:10",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG207",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "MKG207",
+    "nama": "GEOGRAFI TRANSPORTASI",
+    "kelas": "04",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "3.12",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "12",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG207",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "MKG210",
+    "nama": "ILMU UKUR TANAH",
+    "kelas": "01",
+    "koordinator": "Husna Diah, S.Pd., M.Sc.NIP. 199312102022032017",
+    "ruang": "3.14",
+    "hari": "Kamis",
+    "waktu": "16:35-18:10",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG210",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "MKG210",
+    "nama": "ILMU UKUR TANAH",
+    "kelas": "02",
+    "koordinator": "Husna Diah, S.Pd., M.Sc.NIP. 199312102022032017",
+    "ruang": "3.14",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG210",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "MKG210",
+    "nama": "ILMU UKUR TANAH",
+    "kelas": "03",
+    "koordinator": "Husna Diah, S.Pd., M.Sc.NIP. 199312102022032017",
+    "ruang": "3.14",
+    "hari": "Senin",
+    "waktu": "16:35-18:10",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG210",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "MKG212",
+    "nama": "PRAKTIKUM ILMU UKUR TANAH",
+    "kelas": "01",
+    "koordinator": "Mice Putri Afriyani, S.Pd., M.Sc.NIP. 198802182020082101",
+    "ruang": "3.14",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "MKG212",
+    "nama": "PRAKTIKUM ILMU UKUR TANAH",
+    "kelas": "02",
+    "koordinator": "Mice Putri Afriyani, S.Pd., M.Sc.NIP. 198802182020082101",
+    "ruang": "lab geografi",
+    "hari": "Jumat",
+    "waktu": "16:30-18:10",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "MKG212",
+    "nama": "PRAKTIKUM ILMU UKUR TANAH",
+    "kelas": "03",
+    "koordinator": "Mice Putri Afriyani, S.Pd., M.Sc.NIP. 198802182020082101",
+    "ruang": "lab geografi",
+    "hari": "Rabu",
+    "waktu": "09:40-11:20",
+    "peserta": "14",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG212",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "MKG212",
+    "nama": "PRAKTIKUM ILMU UKUR TANAH",
+    "kelas": "04",
+    "koordinator": "Husna Diah, S.Pd., M.Sc.NIP. 199312102022032017",
+    "ruang": "lab geografi",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG212",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "MKG214",
+    "nama": "GEOGRAFI TANAH",
+    "kelas": "01",
+    "koordinator": "Fitriani Yulianti, S.Pd., M.Pd.NIP. 198307132015012101",
+    "ruang": "3.14",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "13",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG214",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "MKG214",
+    "nama": "GEOGRAFI TANAH",
+    "kelas": "02",
+    "koordinator": "Fitriani Yulianti, S.Pd., M.Pd.NIP. 198307132015012101",
+    "ruang": "3.14",
+    "hari": "Kamis",
+    "waktu": "09:40-11:30",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG214",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "MKG214",
+    "nama": "GEOGRAFI TANAH",
+    "kelas": "03",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "2.03",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG214",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "MKG216",
+    "nama": "PRAKTIKUM GEOGRAFI TANAH",
+    "kelas": "01",
+    "koordinator": "Fitriani Yulianti, S.Pd., M.Pd.NIP. 198307132015012101",
+    "ruang": "lab geografi",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "MKG216",
+    "nama": "PRAKTIKUM GEOGRAFI TANAH",
+    "kelas": "02",
+    "koordinator": "Fitriani Yulianti, S.Pd., M.Pd.NIP. 198307132015012101",
+    "ruang": "lab geografi",
+    "hari": "Rabu",
+    "waktu": "11:30-13:10",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG216",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "MKG216",
+    "nama": "PRAKTIKUM GEOGRAFI TANAH",
+    "kelas": "03",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "lab geografi",
+    "hari": "Selasa",
+    "waktu": "09:40-11:30",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG216",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "MKG216",
+    "nama": "PRAKTIKUM GEOGRAFI TANAH",
+    "kelas": "04",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "lab geografi",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG216",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "MKG218",
+    "nama": "GEOHIDROLOGI",
+    "kelas": "01",
+    "koordinator": "Ruliani, S.Pd., M.Pd.NIP. 198905292017032101",
+    "ruang": "3.14",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG218",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "MKG218",
+    "nama": "GEOHIDROLOGI",
+    "kelas": "02",
+    "koordinator": "Ruliani, S.Pd., M.Pd.NIP. 198905292017032101",
+    "ruang": "3.14",
+    "hari": "Rabu",
+    "waktu": "16:35-18:10",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG218",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "MKG218",
+    "nama": "GEOHIDROLOGI",
+    "kelas": "03",
+    "koordinator": "Mice Putri Afriyani, S.Pd., M.Sc.NIP. 198802182020082101",
+    "ruang": "3.14",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG218",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "MKG302",
+    "nama": "GEOGRAFI INDUSTRI",
+    "kelas": "01",
+    "koordinator": "Husna Diah, S.Pd., M.Sc.NIP. 199312102022032017",
+    "ruang": "3.12",
+    "hari": "Kamis",
+    "waktu": "11:30-13:10",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "MKG302",
+    "nama": "GEOGRAFI INDUSTRI",
+    "kelas": "02",
+    "koordinator": "Husna Diah, S.Pd., M.Sc.NIP. 199312102022032017",
+    "ruang": "3.12",
+    "hari": "Kamis",
+    "waktu": "09:40-11:30",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "MKG302",
+    "nama": "GEOGRAFI INDUSTRI",
+    "kelas": "03",
+    "koordinator": "Husna Diah, S.Pd., M.Sc.NIP. 199312102022032017",
+    "ruang": "3.12",
+    "hari": "Jumat",
+    "waktu": "16:35-18:10",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG302",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "MKG304",
+    "nama": "STATISTIK PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Drs. Abdul Wahab, M.SiNIP. 195912311988031017",
+    "ruang": "3.12",
+    "hari": "Rabu",
+    "waktu": "08:00-10:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG304",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "MKG304",
+    "nama": "STATISTIK PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Drs. Abdul Wahab, M.SiNIP. 195912311988031017",
+    "ruang": "3.12",
+    "hari": "Rabu",
+    "waktu": "10:45-13:10",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG304",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "MKG304",
+    "nama": "STATISTIK PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Drs. Abdul Wahab, M.SiNIP. 195912311988031017",
+    "ruang": "3.12",
+    "hari": "Jumat",
+    "waktu": "08:00-10:40",
+    "peserta": "13",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG304",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "MKG306",
+    "nama": "KAJIAN MATERI GEOGRAFI SMA",
+    "kelas": "01",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "3.14",
+    "hari": "Jumat",
+    "waktu": "16:35-18:10",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG306",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "MKG306",
+    "nama": "KAJIAN MATERI GEOGRAFI SMA",
+    "kelas": "02",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "3.14",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG306",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "MKG306",
+    "nama": "KAJIAN MATERI GEOGRAFI SMA",
+    "kelas": "03",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "3.12",
+    "hari": "Senin",
+    "waktu": "11:30-13:10",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG306",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "MKG307",
+    "nama": "EVALUASI PEMBELAJARAN GEOGRAFI",
+    "kelas": "01",
+    "koordinator": "Novia Zalmita, S.Pd., M.Pd.NIP. 198711152015042002",
+    "ruang": "2.03",
+    "hari": "Jumat",
+    "waktu": "9:40-11:30",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG307",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "MKG307",
+    "nama": "EVALUASI PEMBELAJARAN GEOGRAFI",
+    "kelas": "02",
+    "koordinator": "Novia Zalmita, S.Pd., M.Pd.NIP. 198711152015042002",
+    "ruang": "3.14",
+    "hari": "Senin",
+    "waktu": "11:30-13:10",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG307",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "MKG307",
+    "nama": "EVALUASI PEMBELAJARAN GEOGRAFI",
+    "kelas": "03",
+    "koordinator": "Novia Zalmita, S.Pd., M.Pd.NIP. 198711152015042002",
+    "ruang": "2.03",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG307",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "MKG311",
+    "nama": "GEOGRAFI EKONOMI",
+    "kelas": "01",
+    "koordinator": "Dra. Dyah Rahmani Purnomowati, M.SiNIP. 196208121989032001",
+    "ruang": "3.12",
+    "hari": "Selasa",
+    "waktu": "16:35-18:10",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG311",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "MKG311",
+    "nama": "GEOGRAFI EKONOMI",
+    "kelas": "02",
+    "koordinator": "Dra. Dyah Rahmani Purnomowati, M.SiNIP. 196208121989032001",
+    "ruang": "3.12",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG311",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "MKG311",
+    "nama": "GEOGRAFI EKONOMI",
+    "kelas": "03",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "3.12",
+    "hari": "Rabu",
+    "waktu": "16:35-18:10",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG311",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "MKG312",
+    "nama": "SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "01",
+    "koordinator": "M. Hafizul Furqan, S.Pd., M.Pd.NIP. 199106092017031101",
+    "ruang": "3.14",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG312",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "MKG312",
+    "nama": "SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "02",
+    "koordinator": "M. Hafizul Furqan, S.Pd., M.Pd.NIP. 199106092017031101",
+    "ruang": "3.14",
+    "hari": "Selasa",
+    "waktu": "16:35-18:10",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG312",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "MKG312",
+    "nama": "SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "03",
+    "koordinator": "M. Hafizul Furqan, S.Pd., M.Pd.NIP. 199106092017031101",
+    "ruang": "3.14",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG312",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "MKG314",
+    "nama": "PRAKTIKUM SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "01",
+    "koordinator": "M. Hafizul Furqan, S.Pd., M.Pd.NIP. 199106092017031101",
+    "ruang": "lab geografi",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG314",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "91",
+    "kode": "MKG314",
+    "nama": "PRAKTIKUM SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "02",
+    "koordinator": "M. Hafizul Furqan, S.Pd., M.Pd.NIP. 199106092017031101",
+    "ruang": "lab geografi",
+    "hari": "Rabu",
+    "waktu": "16:35-18:10",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG314",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "92",
+    "kode": "MKG314",
+    "nama": "PRAKTIKUM SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "03",
+    "koordinator": "M. Hafizul Furqan, S.Pd., M.Pd.NIP. 199106092017031101",
+    "ruang": "lab geografi",
+    "hari": "Senin",
+    "waktu": "16:35-18:10",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG314",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "93",
+    "kode": "MKG314",
+    "nama": "PRAKTIKUM SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "04",
+    "koordinator": "M. Hafizul Furqan, S.Pd., M.Pd.NIP. 199106092017031101",
+    "ruang": "lab geografi",
+    "hari": "Jumat",
+    "waktu": "09:40-11:30",
+    "peserta": "14",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG314",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "94",
+    "kode": "MKG405",
+    "nama": "KKL II (FISIK)",
+    "kelas": "01",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "3.14",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG405",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "95",
+    "kode": "MKG405",
+    "nama": "KKL II (FISIK)",
+    "kelas": "02",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "2.03",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG405",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "96",
+    "kode": "MKG405",
+    "nama": "KKL II (FISIK)",
+    "kelas": "03",
+    "koordinator": "Cut Vita Rajiatul Jummi, S.Pd.,M.Pd.NIP. 199101182019032021",
+    "ruang": "2.03",
+    "hari": "Kamis",
+    "waktu": "16:35-18:10",
+    "peserta": "17",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG405",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "97",
+    "kode": "MKG407",
+    "nama": "GEOGRAFI PARIWISATA",
+    "kelas": "01",
+    "koordinator": "Dr. Mirza Desfandi, S.Pd., M.Soc.ScNIP. 198212132010121001",
+    "ruang": "3.12",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "38",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG407",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "98",
+    "kode": "MKG407",
+    "nama": "GEOGRAFI PARIWISATA",
+    "kelas": "02",
+    "koordinator": "Dr. Mirza Desfandi, S.Pd., M.Soc.ScNIP. 198212132010121001",
+    "ruang": "3.14",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG407",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "99",
+    "kode": "MKG407",
+    "nama": "GEOGRAFI PARIWISATA",
+    "kelas": "03",
+    "koordinator": "Dr. Mirza Desfandi, S.Pd., M.Soc.ScNIP. 198212132010121001",
+    "ruang": "3.14",
+    "hari": "Rabu",
+    "waktu": "09:40-11:30",
+    "peserta": "12",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKG407",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "100",
+    "kode": "MKGP01",
+    "nama": "KARYA TULIS ILMIAH DAN SEMINAR GEOGRAFI",
+    "kelas": "01",
+    "koordinator": "Drs. Abdul Wahab, M.SiNIP. 195912311988031017",
+    "ruang": "lab geografi",
+    "hari": "Kamis",
+    "waktu": "08:00-10:40",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKGP01",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "101",
+    "kode": "MKGP01",
+    "nama": "KARYA TULIS ILMIAH DAN SEMINAR GEOGRAFI",
+    "kelas": "02",
+    "koordinator": "Novia Zalmita, S.Pd., M.Pd.NIP. 198711152015042002",
+    "ruang": "lab geografi",
+    "hari": "Kamis",
+    "waktu": "14:00-17:20",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKGP01",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "102",
+    "kode": "MKGP01",
+    "nama": "KARYA TULIS ILMIAH DAN SEMINAR GEOGRAFI",
+    "kelas": "03",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "lab geografi",
+    "hari": "Kamis",
+    "waktu": "10:45-13:10",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKGP01",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  },
+  {
+    "no": "103",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Daska Azis, S.Pd., M.ANIP. 197701012006041003",
+    "ruang": "dissimination",
+    "hari": "Sabtu",
+    "waktu": "9:30-13:30",
+    "peserta": "9",
+    "keterangan": "KIPS1Pendidikan Geografi",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610104"
+    }
+  }
+]

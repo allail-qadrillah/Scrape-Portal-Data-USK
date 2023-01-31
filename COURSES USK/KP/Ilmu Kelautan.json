@@ -1,0 +1,1066 @@
+[
+  {
+    "no": "1",
+    "kode": "FKP102",
+    "nama": "IKTIOLOGI",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Muchlisin Z.A, S.Pi, M.ScNIP. 197109111999031003",
+    "ruang": "RKU 13.02.009",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "FKP102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "FKP102",
+    "nama": "IKTIOLOGI",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Muchlisin Z.A, S.Pi, M.ScNIP. 197109111999031003",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "55",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "FKP102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "FKP104",
+    "nama": "EKOLOGI PERAIRAN",
+    "kelas": "01",
+    "koordinator": "Chitra Octavina, S.Kel., M.Si.NIP. 198910202015042001",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "FKP104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "FKP104",
+    "nama": "EKOLOGI PERAIRAN",
+    "kelas": "02",
+    "koordinator": "Chitra Octavina, S.Kel., M.Si.NIP. 198910202015042001",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "FKP104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "FKP104",
+    "nama": "EKOLOGI PERAIRAN",
+    "kelas": "03",
+    "koordinator": "Chitra Octavina, S.Kel., M.Si.NIP. 198910202015042001",
+    "ruang": "RKU 13.02.001",
+    "hari": "Selasa",
+    "waktu": "10:40-12:25",
+    "peserta": "11",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "FKP104",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "FKP502",
+    "nama": "KONSERVASI SUMBERDAYA KELAUTAN DAN PERIKANAN",
+    "kelas": "01",
+    "koordinator": "Maria Ulfah, S.Kel., M.Si.NIP. 198611202014012101",
+    "ruang": "RKU 13.02.002",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "FKP502",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "FKP502",
+    "nama": "KONSERVASI SUMBERDAYA KELAUTAN DAN PERIKANAN",
+    "kelas": "02",
+    "koordinator": "Maria Ulfah, S.Kel., M.Si.NIP. 198611202014012101",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "31",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "FKP502",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Sofyatuddin Karina, M.ScNIP. 198311042009122003",
+    "ruang": "RKU 13.02.009",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "77",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "MSC102",
+    "nama": "HUKUM LAUT DAN PERATURAN INTERNASIONAL",
+    "kelas": "01",
+    "koordinator": "Riza Chatias Pratama, S.H., LL.M.NIP. 198905302022031009",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "MSC102",
+    "nama": "HUKUM LAUT DAN PERATURAN INTERNASIONAL",
+    "kelas": "02",
+    "koordinator": "Riza Chatias Pratama, S.H., LL.M.NIP. 198905302022031009",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "MSC102",
+    "nama": "HUKUM LAUT DAN PERATURAN INTERNASIONAL",
+    "kelas": "03",
+    "koordinator": "Riza Chatias Pratama, S.H., LL.M.NIP. 198905302022031009",
+    "ruang": "RKU 13.02.008",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "14",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "MSC104",
+    "nama": "MATEMATIKA KELAUTAN",
+    "kelas": "01",
+    "koordinator": "Ichsan Setiawan, S.Si., M.Si.NIP. 197806072006041004",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "MSC104",
+    "nama": "MATEMATIKA KELAUTAN",
+    "kelas": "02",
+    "koordinator": "Ichsan Setiawan, S.Si., M.Si.NIP. 197806072006041004",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "49",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "MSC104",
+    "nama": "MATEMATIKA KELAUTAN",
+    "kelas": "03",
+    "koordinator": "Ichsan Setiawan, S.Si., M.Si.NIP. 197806072006041004",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "10",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC104",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "MSC106",
+    "nama": "KIMIA ORGANIK",
+    "kelas": "01",
+    "koordinator": "Sofyatuddin Karina, M.ScNIP. 198311042009122003",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "MSC106",
+    "nama": "KIMIA ORGANIK",
+    "kelas": "02",
+    "koordinator": "Sofyatuddin Karina, M.ScNIP. 198311042009122003",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "MSC106",
+    "nama": "KIMIA ORGANIK",
+    "kelas": "03",
+    "koordinator": "Sofyatuddin Karina, M.ScNIP. 198311042009122003",
+    "ruang": "RKU 13.02.001",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "10",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC106",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "MSC108",
+    "nama": "PENGANTAR OSEANOGRAFI",
+    "kelas": "01",
+    "koordinator": "Maria Ulfah, S.Kel., M.Si.NIP. 198611202014012101",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "MSC108",
+    "nama": "PENGANTAR OSEANOGRAFI",
+    "kelas": "02",
+    "koordinator": "Maria Ulfah, S.Kel., M.Si.NIP. 198611202014012101",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "MSC108",
+    "nama": "PENGANTAR OSEANOGRAFI",
+    "kelas": "03",
+    "koordinator": "Maria Ulfah, S.Kel., M.Si.NIP. 198611202014012101",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "9",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC108",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "MSC110",
+    "nama": "MANAJEMEN UMUM",
+    "kelas": "01",
+    "koordinator": "Sayyid Afdhal El Rahimi, S.Kel., M.Si.NIP. 198009282006041002",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "MSC110",
+    "nama": "MANAJEMEN UMUM",
+    "kelas": "02",
+    "koordinator": "Sayyid Afdhal El Rahimi, S.Kel., M.Si.NIP. 198009282006041002",
+    "ruang": "RKU 13.02.001",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "MSC110",
+    "nama": "MANAJEMEN UMUM",
+    "kelas": "03",
+    "koordinator": "Sayyid Afdhal El Rahimi, S.Kel., M.Si.NIP. 198009282006041002",
+    "ruang": "RKU 13.02.002",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "MSC204",
+    "nama": "OSEANOGRAFI KIMIAWI",
+    "kelas": "01",
+    "koordinator": "Sri Agustina, S.Si., M.S.NIP. 198508052015042001",
+    "ruang": "RKU 13.02.009",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "MSC204",
+    "nama": "OSEANOGRAFI KIMIAWI",
+    "kelas": "02",
+    "koordinator": "Sri Agustina, S.Si., M.S.NIP. 198508052015042001",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "55",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "MSC206",
+    "nama": "DASAR-DASAR AKUSTIK",
+    "kelas": "01",
+    "koordinator": "Haekal Azief Haridhi, S.Kel., M.Sc., Ph.DNIP. 198712172014041001",
+    "ruang": "RKU 13.02.009",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "MSC206",
+    "nama": "DASAR-DASAR AKUSTIK",
+    "kelas": "02",
+    "koordinator": "Haekal Azief Haridhi, S.Kel., M.Sc., Ph.DNIP. 198712172014041001",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "MSC206",
+    "nama": "DASAR-DASAR AKUSTIK",
+    "kelas": "03",
+    "koordinator": "Haekal Azief Haridhi, S.Kel., M.Sc., Ph.DNIP. 198712172014041001",
+    "ruang": "RKU 13.02.001",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "12",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC206",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "MSC208",
+    "nama": "PENCEMARAN LAUT",
+    "kelas": "01",
+    "koordinator": "Sri Agustina, S.Si., M.S.NIP. 198508052015042001",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "51",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "MSC208",
+    "nama": "PENCEMARAN LAUT",
+    "kelas": "02",
+    "koordinator": "Sri Agustina, S.Si., M.S.NIP. 198508052015042001",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "55",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC208",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "MSC210",
+    "nama": "SIG KELAUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Muhammad Irham, S.Si, M.Si.NIP. 197108211999031001",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC210",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "MSC210",
+    "nama": "SIG KELAUTAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Muhammad Irham, S.Si, M.Si.NIP. 197108211999031001",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC210",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "MSC210",
+    "nama": "SIG KELAUTAN",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Muhammad Irham, S.Si, M.Si.NIP. 197108211999031001",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "17",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC210",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "MSC212",
+    "nama": "OSEANOGRAFI FISIKA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Syamsul RizalNIP. 196101221987031003",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "52",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "MSC212",
+    "nama": "OSEANOGRAFI FISIKA",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Ir. Syamsul RizalNIP. 196101221987031003",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "55",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "MSC302",
+    "nama": "AMDAL",
+    "kelas": "01",
+    "koordinator": "Ichsan Setiawan, S.Si., M.Si.NIP. 197806072006041004",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "MSC302",
+    "nama": "AMDAL",
+    "kelas": "02",
+    "koordinator": "Ichsan Setiawan, S.Si., M.Si.NIP. 197806072006041004",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "MSC302",
+    "nama": "AMDAL",
+    "kelas": "03",
+    "koordinator": "Ichsan Setiawan, S.Si., M.Si.NIP. 197806072006041004",
+    "ruang": "RKU 13.02.001",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "peserta": "25",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC302",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "MSC304",
+    "nama": "INSTRUMENTASI KELAUTAN",
+    "kelas": "01",
+    "koordinator": "Haekal Azief Haridhi, S.Kel., M.Sc., Ph.DNIP. 198712172014041001",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC304",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "MSC304",
+    "nama": "INSTRUMENTASI KELAUTAN",
+    "kelas": "02",
+    "koordinator": "Haekal Azief Haridhi, S.Kel., M.Sc., Ph.DNIP. 198712172014041001",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC304",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "MSC304",
+    "nama": "INSTRUMENTASI KELAUTAN",
+    "kelas": "03",
+    "koordinator": "Haekal Azief Haridhi, S.Kel., M.Sc., Ph.DNIP. 198712172014041001",
+    "ruang": "RKU 13.02.003",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "18",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC304",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "MSC306",
+    "nama": "GEOKIMIA LAUT",
+    "kelas": "01",
+    "koordinator": "Sri Agustina, S.Si., M.S.NIP. 198508052015042001",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC306",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "MSC306",
+    "nama": "GEOKIMIA LAUT",
+    "kelas": "02",
+    "koordinator": "Sri Agustina, S.Si., M.S.NIP. 198508052015042001",
+    "ruang": "RKU 13.02.002",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC306",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "MSC306",
+    "nama": "GEOKIMIA LAUT",
+    "kelas": "03",
+    "koordinator": "Sri Agustina, S.Si., M.S.NIP. 198508052015042001",
+    "ruang": "RKU 13.02.002",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "21",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC306",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "MSC308",
+    "nama": "TEKN. PEMANFAATAN SDHL",
+    "kelas": "01",
+    "koordinator": "Mutia Ramadhaniaty, S.Kel., M.Si.NIP. 199103272020012101",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "35",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC308",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "MSC308",
+    "nama": "TEKN. PEMANFAATAN SDHL",
+    "kelas": "02",
+    "koordinator": "Mutia Ramadhaniaty, S.Kel., M.Si.NIP. 199103272020012101",
+    "ruang": "RKU 13.02.002",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC308",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "MSC502",
+    "nama": "BIODIVERSITAS KELAUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Nur Fadli, S.Pi., M.ScNIP. 198011292003121001",
+    "ruang": "RKU 13.02.002",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC502",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "MSC502",
+    "nama": "BIODIVERSITAS KELAUTAN",
+    "kelas": "02",
+    "koordinator": "Dr. Nur Fadli, S.Pi., M.ScNIP. 198011292003121001",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "41",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC502",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "MSC504",
+    "nama": "PLANKTONOLOGI",
+    "kelas": "01",
+    "koordinator": "Maria Ulfah, S.Kel., M.Si.NIP. 198611202014012101",
+    "ruang": "RKU 13.02.001",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC504",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "MSC504",
+    "nama": "PLANKTONOLOGI",
+    "kelas": "02",
+    "koordinator": "Irma Dewiyanti, S.Pi., M.ScNIP. 198112212005012001",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC504",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "MSC506",
+    "nama": "PEMODELAN LAUT II",
+    "kelas": "01",
+    "koordinator": "Dr. Yopi Ilhamsyah, S.Si., M.Si.NIP. 198104062005011002",
+    "ruang": "RKU 13.02.002",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC506",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "MSC506",
+    "nama": "PEMODELAN LAUT II",
+    "kelas": "02",
+    "koordinator": "Dr. Yopi Ilhamsyah, S.Si., M.Si.NIP. 198104062005011002",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC506",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "MSC508",
+    "nama": "TOKSIKOLOGI LAUT",
+    "kelas": "01",
+    "koordinator": "Irwan, S.Si., M.Si.NIP. 198508082019031009",
+    "ruang": "RKU 13.02.002",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC508",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "MSC508",
+    "nama": "TOKSIKOLOGI LAUT",
+    "kelas": "02",
+    "koordinator": "Irwan, S.Si., M.Si.NIP. 198508082019031009",
+    "ruang": "RKU 13.02.003",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "4",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC508",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "MSC508",
+    "nama": "TOKSIKOLOGI LAUT",
+    "kelas": "03",
+    "koordinator": "Irwan, S.Si., M.Si.NIP. 198508082019031009",
+    "ruang": "RKU 13.02.003",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "0",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSC508",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "MSCP01",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Maria Ulfah, S.Kel., M.Si.NIP. 198611202014012101",
+    "ruang": "RKU 13.02.001",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "107",
+    "keterangan": "Kelautan dan PerikananS1Ilmu Kelautan",
+    "kode-peserta": {
+      "data-kode": "MSCP01",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110101"
+    }
+  }
+]

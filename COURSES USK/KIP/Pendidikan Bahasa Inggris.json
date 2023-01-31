@@ -1,0 +1,2054 @@
+[
+  {
+    "no": "1",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "1",
+    "koordinator": "Nurul Inayah, S.Pd., M.Tesol.NIP. 198610032014042001",
+    "ruang": "C2.10",
+    "hari": "Selasa",
+    "waktu": "9:40-11:30",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "2",
+    "koordinator": "Nurul Inayah, S.Pd., M.Tesol.NIP. 198610032014042001",
+    "ruang": "C3.09",
+    "hari": "Jumat",
+    "waktu": "8:00-9:30",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "3",
+    "koordinator": "Nira Erdiana, S.Pd., M.Pd.NIP. 198403022015042003",
+    "ruang": "14.02.006",
+    "hari": "Rabu",
+    "waktu": "14:00-15:30",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "4",
+    "koordinator": "Nira Erdiana, S.Pd., M.Pd.NIP. 198403022015042003",
+    "ruang": "C3.07",
+    "hari": "Jumat",
+    "waktu": "10:40-12:00",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "1",
+    "koordinator": "Dr. Khairuddin, M.PdNIP. 195903111985031002",
+    "ruang": "C2.12",
+    "hari": "Senin",
+    "waktu": "16:30-18:00",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "2",
+    "koordinator": "Dr. Khairuddin, M.PdNIP. 195903111985031002",
+    "ruang": "C3.09",
+    "hari": "Kamis",
+    "waktu": "8:00-9:30",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "3",
+    "koordinator": "Dr. Khairuddin, M.PdNIP. 195903111985031002",
+    "ruang": "C3.09",
+    "hari": "Kamis",
+    "waktu": "9:40-11:30",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "4",
+    "koordinator": "Dra. Nurulwati, M.Pd., CITNIP. 196607231991022001",
+    "ruang": "C3.09",
+    "hari": "Kamis",
+    "waktu": "11:30-13:10",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "EDU302",
+    "nama": "PENGAJARAN MIKRO",
+    "kelas": "1",
+    "koordinator": "Nira Erdiana, S.Pd., M.Pd.NIP. 198403022015042003",
+    "ruang": "C2.12",
+    "hari": "Kamis",
+    "waktu": "08:00-10:40",
+    "peserta": "14",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EDU302",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "1",
+    "koordinator": "Drs. Mukhlis, M.S.NIP. 196212021988101001",
+    "ruang": "C3.07",
+    "hari": "Kamis",
+    "waktu": "8:00-9:30",
+    "peserta": "12",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "EDUP09",
+    "nama": "PLP II",
+    "kelas": "1",
+    "koordinator": "Drs. Mukhlis, M.S.NIP. 196212021988101001",
+    "ruang": "C3.07",
+    "hari": "Kamis",
+    "waktu": "8:00-9:30",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EDUP09",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "EDUPA1",
+    "nama": "SKRIPSI",
+    "kelas": "1",
+    "koordinator": "Dr.. Kismullah, S.Pd., M.App.Ling.NIP. 198104232008121001",
+    "ruang": "14.02.006",
+    "hari": "Kamis",
+    "waktu": "14:00-18:00",
+    "peserta": "161",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EDUPA1",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "EED102",
+    "nama": "SPEAKING FOR GROUP ACTIVITIES",
+    "kelas": "1",
+    "koordinator": "Burhansyah, S.Pd. M.A.NIP. 197605142006041002",
+    "ruang": "C2.12",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED102",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "EED102",
+    "nama": "SPEAKING FOR GROUP ACTIVITIES",
+    "kelas": "2",
+    "koordinator": "Hendra Heriansyah, S.Pd, M.Pd., MTESOL.NIP. 197910102005011001",
+    "ruang": "C2.12",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED102",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "EED102",
+    "nama": "SPEAKING FOR GROUP ACTIVITIES",
+    "kelas": "3",
+    "koordinator": "Dr.. Kismullah, S.Pd., M.App.Ling.NIP. 198104232008121001",
+    "ruang": "C2.12",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED102",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "EED102",
+    "nama": "SPEAKING FOR GROUP ACTIVITIES",
+    "kelas": "4",
+    "koordinator": "Dr. Muhammad Aulia, S.Pd., M.TESOL., M.A.NIP. 198409042012121002",
+    "ruang": "C2.10",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED102",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "EED104",
+    "nama": "INTERPRETIVE AND EFFECTIVE READING",
+    "kelas": "1",
+    "koordinator": "Diana, S.Pd., M. EdNIP. 197910012006042001",
+    "ruang": "C3.07",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED104",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "EED104",
+    "nama": "INTERPRETIVE AND EFFECTIVE READING",
+    "kelas": "2",
+    "koordinator": "Diana Fauzia Sari, S.Pd, MANIP. 197809092006042001",
+    "ruang": "C3.09",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED104",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "EED104",
+    "nama": "INTERPRETIVE AND EFFECTIVE READING",
+    "kelas": "3",
+    "koordinator": "Nurul Inayah, S.Pd., M.Tesol.NIP. 198610032014042001",
+    "ruang": "C3.07",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED104",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "EED104",
+    "nama": "INTERPRETIVE AND EFFECTIVE READING",
+    "kelas": "4",
+    "koordinator": "Dr. Dohra Fitrisia, S.Pd., M.Ed.NIP. 197908022008122001",
+    "ruang": "C3.07",
+    "hari": "Selasa",
+    "waktu": "10:40-13:10",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED104",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "EED106",
+    "nama": "INTERMEDIATE ENGLISH GRAMMAR",
+    "kelas": "1",
+    "koordinator": "Diana, S.Pd., M. EdNIP. 197910012006042001",
+    "ruang": "C3.09",
+    "hari": "Selasa",
+    "waktu": "10:40-13:10",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED106",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "EED106",
+    "nama": "INTERMEDIATE ENGLISH GRAMMAR",
+    "kelas": "2",
+    "koordinator": "Burhansyah, S.Pd. M.A.NIP. 197605142006041002",
+    "ruang": "C3.07",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED106",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "EED106",
+    "nama": "INTERMEDIATE ENGLISH GRAMMAR",
+    "kelas": "3",
+    "koordinator": "Diana Fauzia Sari, S.Pd, MANIP. 197809092006042001",
+    "ruang": "C3.07",
+    "hari": "Senin",
+    "waktu": "9:40-12:20",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED106",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "EED106",
+    "nama": "INTERMEDIATE ENGLISH GRAMMAR",
+    "kelas": "4",
+    "koordinator": "Nira Erdiana, S.Pd., M.Pd.NIP. 198403022015042003",
+    "ruang": "C3.09",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED106",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "EED108",
+    "nama": "INTERPRETIVE LISTENING",
+    "kelas": "1",
+    "koordinator": "Drs. Syamsul Bahri YS, M.A.NIP. 196001101989031003",
+    "ruang": "C3.09",
+    "hari": "Senin",
+    "waktu": "8:00-9:35",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED108",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "EED108",
+    "nama": "INTERPRETIVE LISTENING",
+    "kelas": "2",
+    "koordinator": "Drs. Syamsul Bahri YS, M.A.NIP. 196001101989031003",
+    "ruang": "C2.12",
+    "hari": "Kamis",
+    "waktu": "14:00-15:35",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED108",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "EED108",
+    "nama": "INTERPRETIVE LISTENING",
+    "kelas": "3",
+    "koordinator": "Drs. Syamsul Bahri YS, M.A.NIP. 196001101989031003",
+    "ruang": "C2.12",
+    "hari": "Jumat",
+    "waktu": "8:00-9:35",
+    "peserta": "34",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED108",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "EED108",
+    "nama": "INTERPRETIVE LISTENING",
+    "kelas": "4",
+    "koordinator": "Drs. Syamsul Bahri YS, M.A.NIP. 196001101989031003",
+    "ruang": "15.03.001",
+    "hari": "Senin",
+    "waktu": "09:40-11:30",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED108",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "EED110",
+    "nama": "ICT LANGUAGE LEARNING & PRESENTATION SKILL",
+    "kelas": "1",
+    "koordinator": "Dr. Siti Sarah Fitriani, S.Pd., M.A.NIP. 198108242008122001",
+    "ruang": "C2.10",
+    "hari": "Senin",
+    "waktu": "11:30-13:10",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED110",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "EED110",
+    "nama": "ICT LANGUAGE LEARNING & PRESENTATION SKILL",
+    "kelas": "2",
+    "koordinator": "Tgk. Maya Silviyanti, S.Pd, MANIP. 198005152006042001",
+    "ruang": "C3.09",
+    "hari": "Selasa",
+    "waktu": "8:00-9:35",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED110",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "EED110",
+    "nama": "ICT LANGUAGE LEARNING & PRESENTATION SKILL",
+    "kelas": "3",
+    "koordinator": "Burhansyah, S.Pd. M.A.NIP. 197605142006041002",
+    "ruang": "14.02.006",
+    "hari": "Jumat",
+    "waktu": "14:00-15:35",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED110",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "EED110",
+    "nama": "ICT LANGUAGE LEARNING & PRESENTATION SKILL",
+    "kelas": "4",
+    "koordinator": "Tgk. Maya Silviyanti, S.Pd, MANIP. 198005152006042001",
+    "ruang": "14.02.006",
+    "hari": "Senin",
+    "waktu": "11:30-13:10",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED110",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "EED112",
+    "nama": "CROSS CULTURAL UNDERSTANDING",
+    "kelas": "1",
+    "koordinator": "Hendra Heriansyah, S.Pd, M.Pd., MTESOL.NIP. 197910102005011001",
+    "ruang": "C3.09",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED112",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "EED112",
+    "nama": "CROSS CULTURAL UNDERSTANDING",
+    "kelas": "2",
+    "koordinator": "Dr. Muhammad Aulia, S.Pd., M.TESOL., M.A.NIP. 198409042012121002",
+    "ruang": "C2.12",
+    "hari": "Senin",
+    "waktu": "9:40-11:30",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED112",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "EED112",
+    "nama": "CROSS CULTURAL UNDERSTANDING",
+    "kelas": "3",
+    "koordinator": "Chairina, S.Pd., M.A.NIP. 198011252008122002",
+    "ruang": "C2.12",
+    "hari": "Rabu",
+    "waktu": "11:30-13:10",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED112",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "EED112",
+    "nama": "CROSS CULTURAL UNDERSTANDING",
+    "kelas": "4",
+    "koordinator": "Nurul Inayah, S.Pd., M.Tesol.NIP. 198610032014042001",
+    "ruang": "C2.12",
+    "hari": "Jumat",
+    "waktu": "14:00-15:35",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED112",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "EED202",
+    "nama": "ESSAY WRITING",
+    "kelas": "1",
+    "koordinator": "Dr. Muhammad Aulia, S.Pd., M.TESOL., M.A.NIP. 198409042012121002",
+    "ruang": "C2.12",
+    "hari": "Selasa",
+    "waktu": "10:40-13:10",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED202",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "EED202",
+    "nama": "ESSAY WRITING",
+    "kelas": "2",
+    "koordinator": "Hendra Heriansyah, S.Pd, M.Pd., MTESOL.NIP. 197910102005011001",
+    "ruang": "C2.10",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED202",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "EED202",
+    "nama": "ESSAY WRITING",
+    "kelas": "3",
+    "koordinator": "Diana Fauzia Sari, S.Pd, MANIP. 197809092006042001",
+    "ruang": "15.03.001",
+    "hari": "Rabu",
+    "waktu": "10:40-13:10",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED202",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "EED202",
+    "nama": "ESSAY WRITING",
+    "kelas": "4",
+    "koordinator": "Diana, S.Pd., M. EdNIP. 197910012006042001",
+    "ruang": "C3.07",
+    "hari": "Rabu",
+    "waktu": "10:40-13:10",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED202",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "EED204",
+    "nama": "ENGLISH PHONETICS AND PHONOLOGY",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Yunisrina Qismullah Yusuf, S.Pd, M.Ling.NIP. 198006172002122003",
+    "ruang": "14.02.006",
+    "hari": "Rabu",
+    "waktu": "10:40-13:10",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED204",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "EED204",
+    "nama": "ENGLISH PHONETICS AND PHONOLOGY",
+    "kelas": "2",
+    "koordinator": "Prof. Dr. Yunisrina Qismullah Yusuf, S.Pd, M.Ling.NIP. 198006172002122003",
+    "ruang": "C3.09",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED204",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "EED204",
+    "nama": "ENGLISH PHONETICS AND PHONOLOGY",
+    "kelas": "3",
+    "koordinator": "Prof. Dr. Zulfadli, S.Pd., M.A.NIP. 197606032006041001",
+    "ruang": "C3.09",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED204",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "EED204",
+    "nama": "ENGLISH PHONETICS AND PHONOLOGY",
+    "kelas": "4",
+    "koordinator": "Prof. Dr. Zulfadli, S.Pd., M.A.NIP. 197606032006041001",
+    "ruang": "C3.09",
+    "hari": "Rabu",
+    "waktu": "10:40-13:10",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED204",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "EED206",
+    "nama": "EXTENSIVE READING: NOVELS AND SHORT STORIES",
+    "kelas": "1",
+    "koordinator": "Dr. Siti Sarah Fitriani, S.Pd., M.A.NIP. 198108242008122001",
+    "ruang": "C3.09",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED206",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "EED206",
+    "nama": "EXTENSIVE READING: NOVELS AND SHORT STORIES",
+    "kelas": "2",
+    "koordinator": "Drs. Syamsul Bahri YS, M.A.NIP. 196001101989031003",
+    "ruang": "14.02.006",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED206",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "EED206",
+    "nama": "EXTENSIVE READING: NOVELS AND SHORT STORIES",
+    "kelas": "3",
+    "koordinator": "Nira Erdiana, S.Pd., M.Pd.NIP. 198403022015042003",
+    "ruang": "C2.12",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED206",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "EED206",
+    "nama": "EXTENSIVE READING: NOVELS AND SHORT STORIES",
+    "kelas": "4",
+    "koordinator": "Nira Erdiana, S.Pd., M.Pd.NIP. 198403022015042003",
+    "ruang": "C2.12",
+    "hari": "Rabu",
+    "waktu": "10:40-13:10",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED206",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "EED216",
+    "nama": "SECOND LANGUAGE ACQUISITION",
+    "kelas": "1",
+    "koordinator": "Nurul Inayah, S.Pd., M.Tesol.NIP. 198610032014042001",
+    "ruang": "C3.07",
+    "hari": "Kamis",
+    "waktu": "11:30-13:10",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED216",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "EED216",
+    "nama": "SECOND LANGUAGE ACQUISITION",
+    "kelas": "2",
+    "koordinator": "Prof. Dr. Usman Kasim, M.EdNIP. 195312091985031003",
+    "ruang": "15.03.001",
+    "hari": "Selasa",
+    "waktu": "8:00-9:30",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED216",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "EED216",
+    "nama": "SECOND LANGUAGE ACQUISITION",
+    "kelas": "3",
+    "koordinator": "Nurul Inayah, S.Pd., M.Tesol.NIP. 198610032014042001",
+    "ruang": "C2.12",
+    "hari": "Jumat",
+    "waktu": "16:30-18:00",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED216",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "EED216",
+    "nama": "SECOND LANGUAGE ACQUISITION",
+    "kelas": "4",
+    "koordinator": "Prof. Dr. Usman Kasim, M.EdNIP. 195312091985031003",
+    "ruang": "15.03.001",
+    "hari": "Selasa",
+    "waktu": "9:40-11:30",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED216",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "EED221",
+    "nama": "ENGLISH TEACHING METHODOLOGY",
+    "kelas": "1",
+    "koordinator": "Dr. Asnawi, S.Pd., M.EdNIP. 197411052001121003",
+    "ruang": "C2.12",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "18",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED221",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "EED221",
+    "nama": "ENGLISH TEACHING METHODOLOGY",
+    "kelas": "2",
+    "koordinator": "Prof. Dr. Usman Kasim, M.EdNIP. 195312091985031003",
+    "ruang": "C2.12",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED221",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "EED221",
+    "nama": "ENGLISH TEACHING METHODOLOGY",
+    "kelas": "3",
+    "koordinator": "Nira Erdiana, S.Pd., M.Pd.NIP. 198403022015042003",
+    "ruang": "C2.10",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED221",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "EED221",
+    "nama": "ENGLISH TEACHING METHODOLOGY",
+    "kelas": "4",
+    "koordinator": "Hendra Heriansyah, S.Pd, M.Pd., MTESOL.NIP. 197910102005011001",
+    "ruang": "C2.10",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED221",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "EED228",
+    "nama": "INSTRUCTIONAL MATERIAL DEVELOPMENT",
+    "kelas": "1",
+    "koordinator": "Dr. Asnawi, S.Pd., M.EdNIP. 197411052001121003",
+    "ruang": "15.03.001",
+    "hari": "Rabu",
+    "waktu": "14:00-15:30",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED228",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "EED228",
+    "nama": "INSTRUCTIONAL MATERIAL DEVELOPMENT",
+    "kelas": "2",
+    "koordinator": "Nira Erdiana, S.Pd., M.Pd.NIP. 198403022015042003",
+    "ruang": "C3.07",
+    "hari": "Kamis",
+    "waktu": "14:00-15:30",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED228",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "EED228",
+    "nama": "INSTRUCTIONAL MATERIAL DEVELOPMENT",
+    "kelas": "3",
+    "koordinator": "Nira Erdiana, S.Pd., M.Pd.NIP. 198403022015042003",
+    "ruang": "C3.09",
+    "hari": "Selasa",
+    "waktu": "14:00-15:30",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED228",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "EED228",
+    "nama": "INSTRUCTIONAL MATERIAL DEVELOPMENT",
+    "kelas": "4",
+    "koordinator": "Tgk. Maya Silviyanti, S.Pd, MANIP. 198005152006042001",
+    "ruang": "C2.10",
+    "hari": "Rabu",
+    "waktu": "9:40-11:30",
+    "peserta": "18",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED228",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "EED302",
+    "nama": "SEMANTICS AND PRAGMATICS",
+    "kelas": "1",
+    "koordinator": "Dr. Dohra Fitrisia, S.Pd., M.Ed.NIP. 197908022008122001",
+    "ruang": "14.02.006",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED302",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "EED302",
+    "nama": "SEMANTICS AND PRAGMATICS",
+    "kelas": "2",
+    "koordinator": "Dr. Dohra Fitrisia, S.Pd., M.Ed.NIP. 197908022008122001",
+    "ruang": "14.02.006",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED302",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "EED302",
+    "nama": "SEMANTICS AND PRAGMATICS",
+    "kelas": "3",
+    "koordinator": "Prof. Dr. Zulfadli, S.Pd., M.A.NIP. 197606032006041001",
+    "ruang": "C3.07",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED302",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "EED308",
+    "nama": "RESEARCH METHODS",
+    "kelas": "1",
+    "koordinator": "Dian Fajrina, S.Pd., M.EdNIP. 198012062005012002",
+    "ruang": "14.02.006",
+    "hari": "Selasa",
+    "waktu": "14:00-18:10",
+    "peserta": "34",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED308",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "EED308",
+    "nama": "RESEARCH METHODS",
+    "kelas": "2",
+    "koordinator": "Dr. Asnawi, S.Pd., M.EdNIP. 197411052001121003",
+    "ruang": "C2.12",
+    "hari": "Senin",
+    "waktu": "8:00-9:30",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED308",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "EED308",
+    "nama": "RESEARCH METHODS",
+    "kelas": "3",
+    "koordinator": "Dr. Sofyan, M.A.NIP. 196008121986031002",
+    "ruang": "C2.10",
+    "hari": "Rabu",
+    "waktu": "14:00-18:00",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED308",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "EED308",
+    "nama": "RESEARCH METHODS",
+    "kelas": "4",
+    "koordinator": "Prof. Dr. Usman Kasim, M.EdNIP. 195312091985031003",
+    "ruang": "14.02.006",
+    "hari": "Senin",
+    "waktu": "8:00-9:30",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED308",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "EED314",
+    "nama": "STATISTICS FOR EDUCATION",
+    "kelas": "1",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "C2.10",
+    "hari": "Jumat",
+    "waktu": "8:00-9:30",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED314",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "EED314",
+    "nama": "STATISTICS FOR EDUCATION",
+    "kelas": "2",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "C2.10",
+    "hari": "Jumat",
+    "waktu": "9:35-11:30",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED314",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "EED314",
+    "nama": "STATISTICS FOR EDUCATION",
+    "kelas": "3",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "14.02.006",
+    "hari": "Kamis",
+    "waktu": "11:30-13:10",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED314",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "EED314",
+    "nama": "STATISTICS FOR EDUCATION",
+    "kelas": "4",
+    "koordinator": "Mukhlis Hidayat, S.Pd., M.Kom.NIP. 198208312006041002",
+    "ruang": "14.02.006",
+    "hari": "Kamis",
+    "waktu": "09:40-11:30",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED314",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "EED317",
+    "nama": "WRITING BUSINES ENGLISH LETTERS",
+    "kelas": "1",
+    "koordinator": "Dr. Iskandar AS, S.Pd, M.A.NIP. 197810252003121004",
+    "ruang": "14.02.006",
+    "hari": "Jumat",
+    "waktu": "8:00-9:30",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED317",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "EED317",
+    "nama": "WRITING BUSINES ENGLISH LETTERS",
+    "kelas": "2",
+    "koordinator": "Dr. Muhammad Aulia, S.Pd., M.TESOL., M.A.NIP. 198409042012121002",
+    "ruang": "14.02.006",
+    "hari": "Jumat",
+    "waktu": "9:40-11:30",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED317",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "EED317",
+    "nama": "WRITING BUSINES ENGLISH LETTERS",
+    "kelas": "3",
+    "koordinator": "Dr. Muhammad Aulia, S.Pd., M.TESOL., M.A.NIP. 198409042012121002",
+    "ruang": "C2.10",
+    "hari": "Kamis",
+    "waktu": "16:30-18:00",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED317",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "EED324",
+    "nama": "DRAMA AND PERFORMANCE",
+    "kelas": "1",
+    "koordinator": "Anisah, S.Pd., M.A.NIP. 199301012021022101",
+    "ruang": "C2.10",
+    "hari": "Kamis",
+    "waktu": "14:00-15:30",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED324",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "EED324",
+    "nama": "DRAMA AND PERFORMANCE",
+    "kelas": "2",
+    "koordinator": "Tgk. Maya Silviyanti, S.Pd, MANIP. 198005152006042001",
+    "ruang": "15.03.001",
+    "hari": "Selasa",
+    "waktu": "14:00-15:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED324",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "EED324",
+    "nama": "DRAMA AND PERFORMANCE",
+    "kelas": "3",
+    "koordinator": "Tgk. Maya Silviyanti, S.Pd, MANIP. 198005152006042001",
+    "ruang": "C3.09",
+    "hari": "Senin",
+    "waktu": "9:40-11:30",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED324",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "EED324",
+    "nama": "DRAMA AND PERFORMANCE",
+    "kelas": "4",
+    "koordinator": "Tgk. Maya Silviyanti, S.Pd, MANIP. 198005152006042001",
+    "ruang": "14.02.006",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED324",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "EED335",
+    "nama": "ENGLISH INSTRUCTIONAL LABORATORY PRACTICE",
+    "kelas": "1",
+    "koordinator": "Dr.. Kismullah, S.Pd., M.App.Ling.NIP. 198104232008121001",
+    "ruang": "C3.07",
+    "hari": "Selasa",
+    "waktu": "08:00-10:10",
+    "peserta": "6",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED335",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "EED503",
+    "nama": "BUSINESS ENGLISH",
+    "kelas": "1",
+    "koordinator": "Diana Fauzia Sari, S.Pd, MANIP. 197809092006042001",
+    "ruang": "C2.10",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED503",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "EED503",
+    "nama": "BUSINESS ENGLISH",
+    "kelas": "2",
+    "koordinator": "Chairina, S.Pd., M.A.NIP. 198011252008122002",
+    "ruang": "C2.12",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "34",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED503",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "EED503",
+    "nama": "BUSINESS ENGLISH",
+    "kelas": "3",
+    "koordinator": "Dr. Iskandar AS, S.Pd, M.A.NIP. 197810252003121004",
+    "ruang": "15.03.001",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED503",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "EED503",
+    "nama": "BUSINESS ENGLISH",
+    "kelas": "4",
+    "koordinator": "Chairina, S.Pd., M.A.NIP. 198011252008122002",
+    "ruang": "15.03.001",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "34",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED503",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "EED503",
+    "nama": "BUSINESS ENGLISH",
+    "kelas": "5",
+    "koordinator": "Dian Fajrina, S.Pd., M.EdNIP. 198012062005012002",
+    "ruang": "C3.07",
+    "hari": "Kamis",
+    "waktu": "16:30-18:00",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED503",
+      "data-kelas": "5",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "EED503",
+    "nama": "BUSINESS ENGLISH",
+    "kelas": "6",
+    "koordinator": "Diana Fauzia Sari, S.Pd, MANIP. 197809092006042001",
+    "ruang": "C2.12",
+    "hari": "Senin",
+    "waktu": "16:30-18:00",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED503",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "EED505",
+    "nama": "ENGLISH FOR YOUNG LEARNERS",
+    "kelas": "1",
+    "koordinator": "Dr.. Kismullah, S.Pd., M.App.Ling.NIP. 198104232008121001",
+    "ruang": "C2.10",
+    "hari": "Kamis",
+    "waktu": "08:00-09:30",
+    "peserta": "3",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED505",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "EED508",
+    "nama": "ENGLISH FOR SPECIFIC PURPOSES",
+    "kelas": "1",
+    "koordinator": "Dr. Dohra Fitrisia, S.Pd., M.Ed.NIP. 197908022008122001",
+    "ruang": "15.03.001",
+    "hari": "Senin",
+    "waktu": "8:00-9:30",
+    "peserta": "34",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED508",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "EED508",
+    "nama": "ENGLISH FOR SPECIFIC PURPOSES",
+    "kelas": "2",
+    "koordinator": "Dr. Iskandar AS, S.Pd, M.A.NIP. 197810252003121004",
+    "ruang": "C3.09",
+    "hari": "Jumat",
+    "waktu": "10:40-12:25",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED508",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "EED508",
+    "nama": "ENGLISH FOR SPECIFIC PURPOSES",
+    "kelas": "3",
+    "koordinator": "Burhansyah, S.Pd. M.A.NIP. 197605142006041002",
+    "ruang": "14.02.006",
+    "hari": "Kamis",
+    "waktu": "14:00-15:30",
+    "peserta": "34",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED508",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "EED559",
+    "nama": "DEVELOPMENT OF LITERACY SKILLS",
+    "kelas": "1",
+    "koordinator": "Dr. Siti Sarah Fitriani, S.Pd., M.A.NIP. 198108242008122001",
+    "ruang": "C2.12",
+    "hari": "Jumat",
+    "waktu": "9:40-11:30",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED559",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "91",
+    "kode": "EED559",
+    "nama": "DEVELOPMENT OF LITERACY SKILLS",
+    "kelas": "2",
+    "koordinator": "Chairina, S.Pd., M.A.NIP. 198011252008122002",
+    "ruang": "15.03.001",
+    "hari": "Senin",
+    "waktu": "11:30-13:10",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED559",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "92",
+    "kode": "EED559",
+    "nama": "DEVELOPMENT OF LITERACY SKILLS",
+    "kelas": "3",
+    "koordinator": "Dr. Siti Sarah Fitriani, S.Pd., M.A.NIP. 198108242008122001",
+    "ruang": "C3.07",
+    "hari": "Sabtu",
+    "waktu": "09:30-11:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EED559",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "93",
+    "kode": "EEDP01",
+    "nama": "INDEPENDENT PROJECT",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Burhanuddin YS, M.Ed.NIP. 196009291986031002",
+    "ruang": "C3.09",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP01",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "94",
+    "kode": "EEDP01",
+    "nama": "INDEPENDENT PROJECT",
+    "kelas": "2",
+    "koordinator": "Dr. Asnawi, S.Pd., M.EdNIP. 197411052001121003",
+    "ruang": "14.02.006",
+    "hari": "Senin",
+    "waktu": "10:45-13:10",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP01",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "95",
+    "kode": "EEDP01",
+    "nama": "INDEPENDENT PROJECT",
+    "kelas": "3",
+    "koordinator": "Hendra Heriansyah, S.Pd, M.Pd., MTESOL.NIP. 197910102005011001",
+    "ruang": "C2.10",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP01",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "96",
+    "kode": "EEDP01",
+    "nama": "INDEPENDENT PROJECT",
+    "kelas": "4",
+    "koordinator": "Dr. Sofyan, M.A.NIP. 196008121986031002",
+    "ruang": "15.03.001",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP01",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "97",
+    "kode": "EEDP02",
+    "nama": "HUMANITARIAN PROJECT",
+    "kelas": "6",
+    "koordinator": "NIP. ",
+    "ruang": "C2.12",
+    "hari": "Senin",
+    "waktu": "08:00-10:40",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP02",
+      "data-kelas": "6",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "98",
+    "kode": "EEDP03",
+    "nama": "CLASSROOM ACTION RESEARCH",
+    "kelas": "2",
+    "koordinator": "NIP. ",
+    "ruang": "C3.07",
+    "hari": "Rabu",
+    "waktu": "08:00-10:40",
+    "peserta": "5",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP03",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "99",
+    "kode": "EEDP04",
+    "nama": "TEACHERS PERSONALITY DEVELOPMENT",
+    "kelas": "3",
+    "koordinator": "Dr.. Kismullah, S.Pd., M.App.Ling.NIP. 198104232008121001",
+    "ruang": "C3.07",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "1",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP04",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "100",
+    "kode": "EEDP05",
+    "nama": "TEACHING AIDS",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Burhanuddin YS, M.Ed.NIP. 196009291986031002",
+    "ruang": "C3.07",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "37",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP05",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "101",
+    "kode": "EEDP05",
+    "nama": "TEACHING AIDS",
+    "kelas": "2",
+    "koordinator": "Dr.. Kismullah, S.Pd., M.App.Ling.NIP. 198104232008121001",
+    "ruang": "15.03.001",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "37",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP05",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "102",
+    "kode": "EEDP05",
+    "nama": "TEACHING AIDS",
+    "kelas": "3",
+    "koordinator": "Hendra Heriansyah, S.Pd, M.Pd., MTESOL.NIP. 197910102005011001",
+    "ruang": "15.03.001",
+    "hari": "Kamis",
+    "waktu": "10:40-13:10",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP05",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "103",
+    "kode": "EEDP05",
+    "nama": "TEACHING AIDS",
+    "kelas": "4",
+    "koordinator": "Dian Fajrina, S.Pd., M.EdNIP. 198012062005012002",
+    "ruang": "C3.09",
+    "hari": "Sabtu",
+    "waktu": "10:40-13:10",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP05",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "104",
+    "kode": "EEDP06",
+    "nama": "ENTREPRENEURSHIP",
+    "kelas": "1",
+    "koordinator": "Zulfadhli, S.Pd, M.Pd., M.SiNIP. 197405181999031003",
+    "ruang": "C3.07",
+    "hari": "Kamis",
+    "waktu": "8:00-9:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP06",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "105",
+    "kode": "EEDP06",
+    "nama": "ENTREPRENEURSHIP",
+    "kelas": "2",
+    "koordinator": "Zulfadhli, S.Pd, M.Pd., M.SiNIP. 197405181999031003",
+    "ruang": "C3.07",
+    "hari": "Kamis",
+    "waktu": "9:40-11:30",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP06",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "106",
+    "kode": "EEDP06",
+    "nama": "ENTREPRENEURSHIP",
+    "kelas": "3",
+    "koordinator": "A. Razak, S.Pd.,M.S.M.NIP. 197112202002121001",
+    "ruang": "C2.10",
+    "hari": "Kamis",
+    "waktu": "8:00-9:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP06",
+      "data-kelas": "3",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "107",
+    "kode": "EEDP06",
+    "nama": "ENTREPRENEURSHIP",
+    "kelas": "4",
+    "koordinator": "A. Razak, S.Pd.,M.S.M.NIP. 197112202002121001",
+    "ruang": "C2.10",
+    "hari": "Kamis",
+    "waktu": "9:40-11:30",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "EEDP06",
+      "data-kelas": "4",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  },
+  {
+    "no": "108",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "1",
+    "koordinator": "Dr.. Kismullah, S.Pd., M.App.Ling.NIP. 198104232008121001",
+    "ruang": "14.02.006",
+    "hari": "Kamis",
+    "waktu": "14:00-15:30",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Bahasa Inggris",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610202"
+    }
+  }
+]

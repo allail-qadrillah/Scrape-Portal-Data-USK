@@ -1,0 +1,1332 @@
+[
+  {
+    "no": "1",
+    "kode": "AGB102",
+    "nama": "ILMU TANAH",
+    "kelas": "01",
+    "koordinator": "Ir. Zainabun, M.S.NIP. 195912071985032002",
+    "ruang": "D.03.07",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "34",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "AGB102",
+    "nama": "ILMU TANAH",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Muyassir, M.P.NIP. 196404211993091001",
+    "ruang": "B.03.04",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "37",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "AGB102",
+    "nama": "ILMU TANAH",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Hifnalisa, M.SiNIP. 196409111992032001",
+    "ruang": "B. 03.09",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "AGB104",
+    "nama": "SOSIOLOGI PEDESAAN DAN PERTANIAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Ahmad Humam Hamid, M.A.NIP. 195603311984031001",
+    "ruang": "B.03.08",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "34",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "AGB104",
+    "nama": "SOSIOLOGI PEDESAAN DAN PERTANIAN",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Ir. Ahmad Humam Hamid, M.A.NIP. 195603311984031001",
+    "ruang": "B.03.08",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "AGB104",
+    "nama": "SOSIOLOGI PEDESAAN DAN PERTANIAN",
+    "kelas": "03",
+    "koordinator": "Dr. Irfan Zikri, S.P., M.A.NIP. 198004042006041003",
+    "ruang": "D. 03.04",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "36",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB104",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "AGB106",
+    "nama": "MANAJEMEN  AGRIBISNIS",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Mustafa, M.S.NIP. 196112311987021008",
+    "ruang": "B.03.01",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "36",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "AGB106",
+    "nama": "MANAJEMEN  AGRIBISNIS",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Mustafa, M.S.NIP. 196112311987021008",
+    "ruang": "B. 03.02",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "AGB106",
+    "nama": "MANAJEMEN  AGRIBISNIS",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Mustafa, M.S.NIP. 196112311987021008",
+    "ruang": "B. 03.03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB106",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "AGB108",
+    "nama": "EKONOMI PERTANIAN",
+    "kelas": "01",
+    "koordinator": "Ir. Edy Marsudi, M.SiNIP. 196305241990031002",
+    "ruang": "D.03.04",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "28",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "AGB108",
+    "nama": "EKONOMI PERTANIAN",
+    "kelas": "02",
+    "koordinator": "Ir. Edy Marsudi, M.SiNIP. 196305241990031002",
+    "ruang": "B. 03.11",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "34",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "AGB108",
+    "nama": "EKONOMI PERTANIAN",
+    "kelas": "03",
+    "koordinator": "Ir. Edy Marsudi, M.SiNIP. 196305241990031002",
+    "ruang": "B.03.04",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "36",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB108",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "AGB110",
+    "nama": "PERILAKU ORGANISASI & KEPEMIMPINAN",
+    "kelas": "01",
+    "koordinator": "Dr. Elvira Iskandar, SP., M.ScNIP. 198210222009122003",
+    "ruang": "D. 03.04",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "AGB110",
+    "nama": "PERILAKU ORGANISASI & KEPEMIMPINAN",
+    "kelas": "02",
+    "koordinator": "Dr. Elvira Iskandar, SP., M.ScNIP. 198210222009122003",
+    "ruang": "D.03.02",
+    "hari": "Senin",
+    "waktu": "8:00-9:50",
+    "peserta": "16",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "AGB110",
+    "nama": "PERILAKU ORGANISASI & KEPEMIMPINAN",
+    "kelas": "03",
+    "koordinator": "Dr. Elvira Iskandar, SP., M.ScNIP. 198210222009122003",
+    "ruang": "B.03.11",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "AGB112",
+    "nama": "STATISTIK EKONOMI DAN BISNIS",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Sofyan, M.Agric.ScNIP. 196611051992031004",
+    "ruang": "B.03.09",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "AGB112",
+    "nama": "STATISTIK EKONOMI DAN BISNIS",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Sofyan, M.Agric.ScNIP. 196611051992031004",
+    "ruang": "B.03.09",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "AGB112",
+    "nama": "STATISTIK EKONOMI DAN BISNIS",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Sofyan, M.Agric.ScNIP. 196611051992031004",
+    "ruang": "B.03.08",
+    "hari": "Senin",
+    "waktu": "8:00-9:50",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB112",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "AGB114",
+    "nama": "ENGLISH FOR AGRIBUSINEES",
+    "kelas": "01",
+    "koordinator": "Dr. Agus Nugroho, S.P., M.Com.NIP. 198208042006041013",
+    "ruang": "D.03.05",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "32",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB114",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "AGB114",
+    "nama": "ENGLISH FOR AGRIBUSINEES",
+    "kelas": "02",
+    "koordinator": "Dr. Agus Nugroho, S.P., M.Com.NIP. 198208042006041013",
+    "ruang": "D.03.01",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "28",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB114",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "AGB114",
+    "nama": "ENGLISH FOR AGRIBUSINEES",
+    "kelas": "03",
+    "koordinator": "Dr. Agus Nugroho, S.P., M.Com.NIP. 198208042006041013",
+    "ruang": "D. 03.03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB114",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "AGB202",
+    "nama": "EKONOMI MAKRO",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Safrida, M.SiNIP. 196805281994032002",
+    "ruang": "B.03.05",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "AGB202",
+    "nama": "EKONOMI MAKRO",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Safrida, M.SiNIP. 196805281994032002",
+    "ruang": "B.03.05",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "AGB202",
+    "nama": "EKONOMI MAKRO",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Safrida, M.SiNIP. 196805281994032002",
+    "ruang": "B.03.11",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "AGB204",
+    "nama": "STUDI KELAYAKAN AGRIBISNIS",
+    "kelas": "01",
+    "koordinator": "Agustina Arida, S.P., M.SiNIP. 196908171997022001",
+    "ruang": "D.01.02",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "38",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "AGB204",
+    "nama": "STUDI KELAYAKAN AGRIBISNIS",
+    "kelas": "02",
+    "koordinator": "Agustina Arida, S.P., M.SiNIP. 196908171997022001",
+    "ruang": "D.01.02",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "AGB204",
+    "nama": "STUDI KELAYAKAN AGRIBISNIS",
+    "kelas": "03",
+    "koordinator": "Agustina Arida, S.P., M.SiNIP. 196908171997022001",
+    "ruang": "D.01.03",
+    "hari": "Senin",
+    "waktu": "8:00-9:50",
+    "peserta": "35",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "AGB206",
+    "nama": "PRINSIP PEMASARAN AGRIBISNIS",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Mustafa, M.S.NIP. 196112311987021008",
+    "ruang": "D.03.05",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "57",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "AGB206",
+    "nama": "PRINSIP PEMASARAN AGRIBISNIS",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Mustafa, M.S.NIP. 196112311987021008",
+    "ruang": "B.03.07",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "55",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "AGB206",
+    "nama": "PRINSIP PEMASARAN AGRIBISNIS",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Mustafa, M.S.NIP. 196112311987021008",
+    "ruang": "D.03.06",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "55",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB206",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "AGB206",
+    "nama": "PRINSIP PEMASARAN AGRIBISNIS",
+    "kelas": "04",
+    "koordinator": "Dr. Ir. Mustafa, M.S.NIP. 196112311987021008",
+    "ruang": "D. 03.06",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB206",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "AGB208",
+    "nama": "EKONOMI SUMBERDAYA  ALAM DAN LINGKUNGAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Indra, M.P.NIP. 196309071990021001",
+    "ruang": "D.03.04",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "38",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "AGB208",
+    "nama": "EKONOMI SUMBERDAYA  ALAM DAN LINGKUNGAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Indra, M.P.NIP. 196309071990021001",
+    "ruang": "B.03.08",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "43",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB208",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "AGB208",
+    "nama": "EKONOMI SUMBERDAYA  ALAM DAN LINGKUNGAN",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Indra, M.P.NIP. 196309071990021001",
+    "ruang": "D. 03.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "43",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB208",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "AGB210",
+    "nama": "MANAJEMEN RESIKO AGRIBISNIS",
+    "kelas": "01",
+    "koordinator": "Akhmad Baihaqi, S.P., M.M.NIP. 197406142008121001",
+    "ruang": "D.03.02",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "57",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB210",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "AGB210",
+    "nama": "MANAJEMEN RESIKO AGRIBISNIS",
+    "kelas": "02",
+    "koordinator": "Akhmad Baihaqi, S.P., M.M.NIP. 197406142008121001",
+    "ruang": "D.03.05",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "58",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB210",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "AGB210",
+    "nama": "MANAJEMEN RESIKO AGRIBISNIS",
+    "kelas": "03",
+    "koordinator": "Akhmad Baihaqi, S.P., M.M.NIP. 197406142008121001",
+    "ruang": "D.03.01",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "60",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB210",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "AGB210",
+    "nama": "MANAJEMEN RESIKO AGRIBISNIS",
+    "kelas": "04",
+    "koordinator": "Akhmad Baihaqi, S.P., M.M.NIP. 197406142008121001",
+    "ruang": "B. 03.11",
+    "hari": "Rabu",
+    "waktu": "08:00-09:50",
+    "peserta": "0",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB210",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "AGB212",
+    "nama": "METODE KUANTITATIF BISNIS",
+    "kelas": "01",
+    "koordinator": "Dr. Zakiah, S.P, M.SiNIP. 197309061999032002",
+    "ruang": "B.03.04",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "36",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "AGB212",
+    "nama": "METODE KUANTITATIF BISNIS",
+    "kelas": "02",
+    "koordinator": "Dr. Zakiah, S.P, M.SiNIP. 197309061999032002",
+    "ruang": "D.03.01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "AGB212",
+    "nama": "METODE KUANTITATIF BISNIS",
+    "kelas": "03",
+    "koordinator": "Dr. Zakiah, S.P, M.SiNIP. 197309061999032002",
+    "ruang": "B. 03.09",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "35",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGB212",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "AGBP02",
+    "nama": "KULIAH KERJA PROFESI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Anwar Deli, SP., M.Si.NIP. 196509241995031001",
+    "ruang": "PRODI AGRIBISNIS",
+    "hari": "Sabtu",
+    "waktu": "8:00-18:00",
+    "peserta": "11",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "AGBP04",
+    "nama": "SEMINAR",
+    "kelas": "01",
+    "koordinator": "Litna Nurjannah Ginting, S.P., M.Si.NIP. 199201242020122006",
+    "ruang": "PRODI AGRIBISNIS",
+    "hari": "Sabtu",
+    "waktu": "8:00-18:00",
+    "peserta": "82",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP04",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "AGBP06",
+    "nama": "MANAJEMEN STRATEJIK  AGRIBISNIS",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Anwar Deli, SP., M.Si.NIP. 196509241995031001",
+    "ruang": "D.03.05",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "46",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP06",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "AGBP06",
+    "nama": "MANAJEMEN STRATEJIK  AGRIBISNIS",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Anwar Deli, SP., M.Si.NIP. 196509241995031001",
+    "ruang": "D.03.01",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "45",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP06",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "AGBP06",
+    "nama": "MANAJEMEN STRATEJIK  AGRIBISNIS",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Anwar Deli, SP., M.Si.NIP. 196509241995031001",
+    "ruang": "B. 03.14",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "33",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP06",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "AGBP08",
+    "nama": "MANAJEMEN  RANTAI PASOK  AGRIBISNIS",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Suyanti Kasimin, M.SiNIP. 196510311990112001",
+    "ruang": "B. 03.12",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "40",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP08",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "AGBP08",
+    "nama": "MANAJEMEN  RANTAI PASOK  AGRIBISNIS",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Suyanti Kasimin, M.SiNIP. 196510311990112001",
+    "ruang": "B.03.07",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "37",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP08",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "AGBP10",
+    "nama": "MANAJEMEN  FINANSIAL",
+    "kelas": "01",
+    "koordinator": "Dr. Agus Nugroho, S.P., M.Com.NIP. 198208042006041013",
+    "ruang": "D.03.03",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "43",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP10",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "AGBP10",
+    "nama": "MANAJEMEN  FINANSIAL",
+    "kelas": "02",
+    "koordinator": "Dr. Agus Nugroho, S.P., M.Com.NIP. 198208042006041013",
+    "ruang": "B.03.10",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "27",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP10",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "AGBP12",
+    "nama": "NEGOSIASI DAN  ADVOKASI  BISNIS",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Azhar, M.Sc.NIP. 196711021993031003",
+    "ruang": "B.03.04",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "43",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP12",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "AGBP12",
+    "nama": "NEGOSIASI DAN  ADVOKASI  BISNIS",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Azhar, M.Sc.NIP. 196711021993031003",
+    "ruang": "D.03.04",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP12",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "AGBP14",
+    "nama": "PERENCANAAN PASAR",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Fajri, M.ScNIP. 196009301986021001",
+    "ruang": "D.03.05",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "42",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP14",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "AGBP14",
+    "nama": "PERENCANAAN PASAR",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Fajri, M.ScNIP. 196009301986021001",
+    "ruang": "B.03.02",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "34",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP14",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "AGBP16",
+    "nama": "MANAJEMEN PRODUKSI DAN OPERASI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Romano, M.P.NIP. 196012311989031025",
+    "ruang": "B.03.12",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "28",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP16",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "AGBP18",
+    "nama": "PERILAKU KONSUMEN",
+    "kelas": "01",
+    "koordinator": "Cut Faradilla, S.P, M.SiNIP. 197409232000032006",
+    "ruang": "B. 03.03",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "31",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP18",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "AGBP20",
+    "nama": "AGROINDUSTRI",
+    "kelas": "01",
+    "koordinator": "Dr. Lukman Hakim, S.P., M.PNIP. 197811032006041001",
+    "ruang": "B.03.13",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "2",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP20",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "AGBP22",
+    "nama": "EKONOMI PENGAIRAN",
+    "kelas": "01",
+    "koordinator": "Ir. Edy Marsudi, M.SiNIP. 196305241990031002",
+    "ruang": "B.03.11",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "34",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP22",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "AGBP24",
+    "nama": "HUKUM DAN ETIKA BISNIS",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Azhar, M.Sc.NIP. 196711021993031003",
+    "ruang": "B.03.11",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "37",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP24",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "AGBP26",
+    "nama": "PENGEMBANGAN  KAWASAN  AGRIBISNIS BERKELANJUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Suyanti Kasimin, M.SiNIP. 196510311990112001",
+    "ruang": "B.03.14",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "45",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP26",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "AGBP28",
+    "nama": "GENDER DALAM PENGEMBANGAN PERTANIAN",
+    "kelas": "01",
+    "koordinator": "Mujiburrahmad, SP., M.SiNIP. 198810282015041003",
+    "ruang": "B.03.12",
+    "hari": "Kamis",
+    "waktu": "14:00-15:30",
+    "peserta": "55",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP28",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "AGBP30",
+    "nama": "PENDIDIKAN ORANG DEWASA",
+    "kelas": "01",
+    "koordinator": "Monalisa, SP, M.SiNIP. 197702022008122001",
+    "ruang": "B. 03.12",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "1",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP30",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "AGBP32",
+    "nama": "KOMUNIKASI  SOSIAL",
+    "kelas": "01",
+    "koordinator": "Dr. Irfan Zikri, S.P., M.A.NIP. 198004042006041003",
+    "ruang": "B.03.09",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "8",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP32",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "AGBP34",
+    "nama": "PERUBAHAN  SOSIAL",
+    "kelas": "01",
+    "koordinator": "Elly Susanti, S.P., M.Si.NIP. 198307082006042003",
+    "ruang": "B.03.08",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "38",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP34",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "AGBP36",
+    "nama": "SOSIOLOGI LINGKUNGAN & EKOLOGI MANUSIA",
+    "kelas": "01",
+    "koordinator": "Monalisa, SP, M.SiNIP. 197702022008122001",
+    "ruang": "D.03.03",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "41",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBP36",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "AGBPA1",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Indra, M.P.NIP. 196309071990021001",
+    "ruang": "PRODI AGRIBISNIS",
+    "hari": "Sabtu",
+    "waktu": "8:00-18:00",
+    "peserta": "118",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "AGBPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Taufik Fuadi Abidin, S.Si., M.TechNIP. 197010081994031002",
+    "ruang": "BAPEL KKN",
+    "hari": "Sabtu",
+    "waktu": "8:00-18:00",
+    "peserta": "5",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "01",
+    "koordinator": "Dr. T. Saiful Bahri, S.P., M.P.NIP. 197512052006041001",
+    "ruang": "B.03.05",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "34",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "02",
+    "koordinator": "Dr. T. Saiful Bahri, S.P., M.P.NIP. 197512052006041001",
+    "ruang": "B.03.09",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "31",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "03",
+    "koordinator": "Dr. T. Saiful Bahri, S.P., M.P.NIP. 197512052006041001",
+    "ruang": "D.03.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "PertanianS1Agribisnis",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510201"
+    }
+  }
+]

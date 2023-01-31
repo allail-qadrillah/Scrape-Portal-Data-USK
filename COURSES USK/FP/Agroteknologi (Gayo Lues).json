@@ -1,0 +1,496 @@
+[
+  {
+    "no": "1",
+    "kode": "ADK102",
+    "nama": "DASAR-DASAR MANAJEMEN",
+    "kelas": "1",
+    "koordinator": "Trisda Kurniawan, S.P., M.PNIP. 197707282008011006",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "11:00-12:40",
+    "peserta": "10",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK102",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "ADK104",
+    "nama": "SUMBERDAYA PERTANIAN LOKAL",
+    "kelas": "1",
+    "koordinator": "Dr. Siti Hafsah, S.P, M.SiNIP. 197008121996032004",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "11:00-12:40",
+    "peserta": "10",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK104",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "ADK106",
+    "nama": "BOTANI",
+    "kelas": "1",
+    "koordinator": "Ir. Ainun Marliah, M.P.NIP. 196712311993032006",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "09:00-10:40",
+    "peserta": "10",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK106",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "ADK108",
+    "nama": "BIOKIMIA",
+    "kelas": "1",
+    "koordinator": "Dr. Ir. Syamsuddin, M.SiNIP. 196107041988031006",
+    "ruang": "1",
+    "hari": "Rabu",
+    "waktu": "09:00-10:40",
+    "peserta": "10",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK108",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "ADK110",
+    "nama": "FISIOLOGI TUMBUHAN",
+    "kelas": "1",
+    "koordinator": "Dr. Ir. Mardhiah Hayati, M.S.NIP. 196207081987022001",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "09:00-10:40",
+    "peserta": "10",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK110",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "ADK112",
+    "nama": "GENETIKA DASAR",
+    "kelas": "1",
+    "koordinator": "Dr. Ir. Zuyasna, M.ScNIP. 196205091988032001",
+    "ruang": "1",
+    "hari": "Kamis",
+    "waktu": "09:00-10:40",
+    "peserta": "10",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK112",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "ADK202",
+    "nama": "DASAR-DASAR PERLINDUNGAN TANAMAN",
+    "kelas": "1",
+    "koordinator": "Dr. Siti Hafsah, S.P, M.SiNIP. 197008121996032004",
+    "ruang": "1",
+    "hari": "Rabu",
+    "waktu": "09:00-10:40",
+    "peserta": "6",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK202",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "ADK204",
+    "nama": "MEKANISASI PERTANIAN",
+    "kelas": "1",
+    "koordinator": "Trisda Kurniawan, S.P., M.PNIP. 197707282008011006",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "09:00-10:40",
+    "peserta": "7",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK204",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "ADK206",
+    "nama": "KESUBURAN TANAH DAN PEMUPUKAN",
+    "kelas": "1",
+    "koordinator": "Ir. Nurhayati, M.P.NIP. 195911221987022001",
+    "ruang": "1",
+    "hari": "Kamis",
+    "waktu": "09:00-10:40",
+    "peserta": "6",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK206",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "ADK208",
+    "nama": "DASAR-DASAR PEMULIAAN TANAMAN",
+    "kelas": "1",
+    "koordinator": "Ir. Erita Hayati, M.P.NIP. 196608101993032002",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "11:00-12:40",
+    "peserta": "6",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK208",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "ADK210",
+    "nama": "DASAR-DASAR TEKNOLOGI BENIH",
+    "kelas": "1",
+    "koordinator": "Hasanuddin, S.P., M.Si.NIP. 197208052000031003",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "9:00-10:40",
+    "peserta": "6",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK210",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "ADK212",
+    "nama": "IRIGASI DAN DRAINASE",
+    "kelas": "1",
+    "koordinator": "Dr. Taufan Hidayat, S.Si., M.SiNIP. 197805102006041001",
+    "ruang": "1",
+    "hari": "Rabu",
+    "waktu": "11:00-12:40",
+    "peserta": "6",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK212",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "ADK302",
+    "nama": "PENGELOLAAN TANAMAN PANGAN",
+    "kelas": "1",
+    "koordinator": "Hasanuddin, S.P., M.Si.NIP. 197208052000031003",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "2",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK302",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "ADK304",
+    "nama": "PENGELOLAAN TANAMAN PERKEBUNAN",
+    "kelas": "1",
+    "koordinator": "Ir. Ainun Marliah, M.P.NIP. 196712311993032006",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "11:00-12:40",
+    "peserta": "13",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK304",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "ADK306",
+    "nama": "METODE PENELITIAN DAN PENULISAN ILMIAH",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Ir. Hasanuddin, M.S.NIP. 196011141986031001",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "11:00-12:40",
+    "peserta": "15",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK306",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "ADK308",
+    "nama": "PELESTARIAN SUMBERDAYA HAYATI",
+    "kelas": "1",
+    "koordinator": "Ir. Jumini, M.P.NIP. 195910101985032003",
+    "ruang": "1",
+    "hari": "Rabu",
+    "waktu": "11:00-12:40",
+    "peserta": "13",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK308",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "ADK310",
+    "nama": "PERTANIAN BERKELANJUTAN",
+    "kelas": "1",
+    "koordinator": "Prof. Dr.nat.techn. Syafruddin, SP., M.P.NIP. 196801061997031002",
+    "ruang": "1",
+    "hari": "Sabtu",
+    "waktu": "09:00-10:40",
+    "peserta": "9",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK310",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "ADK312",
+    "nama": "TEKNOLOGI PASCAPANEN",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "1",
+    "hari": "Sabtu",
+    "waktu": "09:00-10:40",
+    "peserta": "13",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADK312",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "ADKP02",
+    "nama": "PRAKTEK LAPANG",
+    "kelas": "1",
+    "koordinator": "Dr. Siti Hafsah, S.P, M.SiNIP. 197008121996032004",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "11",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADKP02",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "ADKP04",
+    "nama": "SEMINAR",
+    "kelas": "1",
+    "koordinator": "Ir. Ainun Marliah, M.P.NIP. 196712311993032006",
+    "ruang": "1",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "33",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADKP04",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "ADKPA1",
+    "nama": "SKRIPSI",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "1",
+    "hari": "Sabtu",
+    "waktu": "15:00-18:00",
+    "peserta": "50",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "ADKPA1",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "MKS101",
+    "nama": "BAHASA INDONESIA",
+    "kelas": "1",
+    "koordinator": "Dr. Drs. Razali, M.PdNIP. 196112211987031002",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "09:00-10:40",
+    "peserta": "10",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "MKS101",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "MKS105",
+    "nama": "PENDIDIKAN AGAMA",
+    "kelas": "1",
+    "koordinator": "Zamzami, S.Thi., M.AgNIP. 198707042020021101",
+    "ruang": "1",
+    "hari": "Sabtu",
+    "waktu": "11:00-12:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "MKS105",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "MKS106",
+    "nama": "PENGETAHUAN KEBENCANAAN DAN LINGKUNGAN",
+    "kelas": "1",
+    "koordinator": "Dr. Taufan Hidayat, S.Si., M.SiNIP. 197805102006041001",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "09:00-10:40",
+    "peserta": "10",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "MKS106",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "1",
+    "koordinator": "Dr. Ir. Syamsuddin, M.SiNIP. 196107041988031006",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "16:00-17:40",
+    "peserta": "2",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "1",
+    "hari": "Kamis",
+    "waktu": "11:00-12:40",
+    "peserta": "12",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0515001"
+    }
+  }
+]

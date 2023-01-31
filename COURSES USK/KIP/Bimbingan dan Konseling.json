@@ -1,0 +1,1731 @@
+[
+  {
+    "no": "1",
+    "kode": "EDU101",
+    "nama": "LANDASAN PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Murniati AR, M.PdNIP. 196005071986022001",
+    "ruang": "R. 2.02",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "26",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDU101",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "EDU101",
+    "nama": "LANDASAN PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Murniati AR, M.PdNIP. 196005071986022001",
+    "ruang": "R. 2.02",
+    "hari": "Rabu",
+    "waktu": "9:50-11:30",
+    "peserta": "26",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDU101",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "EDU101",
+    "nama": "LANDASAN PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Nasir Usman, M.PdNIP. 196012311985111003",
+    "ruang": "R. 2.02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDU101",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "EDU101",
+    "nama": "LANDASAN PENDIDIKAN",
+    "kelas": "04",
+    "koordinator": "Dr. Khairuddin, M.PdNIP. 195903111985031002",
+    "ruang": "R. 1.01",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "13",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDU101",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "EDU201",
+    "nama": "PSIKOLOGI PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Drs. Martunis, M.SiNIP. 196212311987021052",
+    "ruang": "R. 2.02",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDU201",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "EDU201",
+    "nama": "PSIKOLOGI PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Drs. Martunis, M.SiNIP. 196212311987021052",
+    "ruang": "R. 2.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "33",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDU201",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "EDU201",
+    "nama": "PSIKOLOGI PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Drs. Martunis, M.SiNIP. 196212311987021052",
+    "ruang": "R. 2.02",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "35",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDU201",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "EDU301",
+    "nama": "PROFESI PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Drs. Niswanto, M.PdNIP. 196203151987031003",
+    "ruang": "R. 1.01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "33",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDU301",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "EDU301",
+    "nama": "PROFESI PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Drs. Niswanto, M.PdNIP. 196203151987031003",
+    "ruang": "R. 1.01",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "31",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDU301",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "EDU301",
+    "nama": "PROFESI PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Drs. Niswanto, M.PdNIP. 196203151987031003",
+    "ruang": "R. 1.01",
+    "hari": "Rabu",
+    "waktu": "9:50-11:30",
+    "peserta": "35",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDU301",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "EDU302",
+    "nama": "PENGAJARAN MIKRO",
+    "kelas": "01",
+    "koordinator": "Drs. Martunis, M.SiNIP. 196212311987021052",
+    "ruang": "R. MTL 03",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "8",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDU302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "01",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "R. Lab. BK",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "3",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "EDUP09",
+    "nama": "PLP II",
+    "kelas": "01",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "R. Lab. BK",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "6",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDUP09",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "EDUPA1",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "R.Lab BK",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:50",
+    "peserta": "101",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "EDUPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "R.Lab BK",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:50",
+    "peserta": "35",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "PBK104",
+    "nama": "INSTRUMEN BK I (NONTES)",
+    "kelas": "01",
+    "koordinator": "Jamilah Aini Nasution, S,Pd., M.PdNIP. 199107032019032024",
+    "ruang": "R. 3.11",
+    "hari": "Senin",
+    "waktu": "10:35-13:15",
+    "peserta": "26",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "PBK104",
+    "nama": "INSTRUMEN BK I (NONTES)",
+    "kelas": "02",
+    "koordinator": "Jamilah Aini Nasution, S,Pd., M.PdNIP. 199107032019032024",
+    "ruang": "R. 3.11",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "26",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "PBK104",
+    "nama": "INSTRUMEN BK I (NONTES)",
+    "kelas": "03",
+    "koordinator": "Jamilah Aini Nasution, S,Pd., M.PdNIP. 199107032019032024",
+    "ruang": "R. 3.11",
+    "hari": "Selasa",
+    "waktu": "10:35-13:15",
+    "peserta": "26",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK104",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "PBK104",
+    "nama": "INSTRUMEN BK I (NONTES)",
+    "kelas": "04",
+    "koordinator": "Jamilah Aini Nasution, S,Pd., M.PdNIP. 199107032019032024",
+    "ruang": "R. 3.11",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "17",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK104",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "PBK110",
+    "nama": "PSIKOLOGI SOSIAL",
+    "kelas": "01",
+    "koordinator": "Khairiah, S.Pd., M.Ed.NIP. 198810182017032101",
+    "ruang": "R. 3.11",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "PBK110",
+    "nama": "PSIKOLOGI SOSIAL",
+    "kelas": "02",
+    "koordinator": "Khairiah, S.Pd., M.Ed.NIP. 198810182017032101",
+    "ruang": "R. 3.11",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "28",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "PBK110",
+    "nama": "PSIKOLOGI SOSIAL",
+    "kelas": "03",
+    "koordinator": "Khairiah, S.Pd., M.Ed.NIP. 198810182017032101",
+    "ruang": "R. 3.11",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "PBK110",
+    "nama": "PSIKOLOGI SOSIAL",
+    "kelas": "04",
+    "koordinator": "Khairiah, S.Pd., M.Ed.NIP. 198810182017032101",
+    "ruang": "R. 3.11",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "1",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK110",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "PBK112",
+    "nama": "ICT LAYANAN BK",
+    "kelas": "01",
+    "koordinator": "Dara Rosita, S.T., S.Pd., M.Ed.NIP. 198408282017032101",
+    "ruang": "R. ICT 2.07",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "17",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "PBK112",
+    "nama": "ICT LAYANAN BK",
+    "kelas": "02",
+    "koordinator": "Dara Rosita, S.T., S.Pd., M.Ed.NIP. 198408282017032101",
+    "ruang": "R. ICT 2.07",
+    "hari": "Senin",
+    "waktu": "10:35-13:15",
+    "peserta": "17",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "PBK112",
+    "nama": "ICT LAYANAN BK",
+    "kelas": "03",
+    "koordinator": "Dara Rosita, S.T., S.Pd., M.Ed.NIP. 198408282017032101",
+    "ruang": "R. ICT 2.07",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "17",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK112",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "PBK112",
+    "nama": "ICT LAYANAN BK",
+    "kelas": "04",
+    "koordinator": "Dara Rosita, S.T., S.Pd., M.Ed.NIP. 198408282017032101",
+    "ruang": "R. ICT 2.07",
+    "hari": "Selasa",
+    "waktu": "10:35-13:15",
+    "peserta": "17",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK112",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "PBK112",
+    "nama": "ICT LAYANAN BK",
+    "kelas": "05",
+    "koordinator": "Dara Rosita, S.T., S.Pd., M.Ed.NIP. 198408282017032101",
+    "ruang": "R. ICT 2.07",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "8",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK112",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "PBK112",
+    "nama": "ICT LAYANAN BK",
+    "kelas": "06",
+    "koordinator": "Dara Rosita, S.T., S.Pd., M.Ed.NIP. 198408282017032101",
+    "ruang": "R. ICT 2.07",
+    "hari": "Kamis",
+    "waktu": "10:30-13:15",
+    "peserta": "17",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK112",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "PBK114",
+    "nama": "BIMBINGAN DAN KONSELING BELAJAR",
+    "kelas": "01",
+    "koordinator": "Drs. Martunis, M.SiNIP. 196212311987021052",
+    "ruang": "R. 3.11",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK114",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "PBK114",
+    "nama": "BIMBINGAN DAN KONSELING BELAJAR",
+    "kelas": "02",
+    "koordinator": "Drs. Martunis, M.SiNIP. 196212311987021052",
+    "ruang": "R. 3.11",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "24",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK114",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "PBK114",
+    "nama": "BIMBINGAN DAN KONSELING BELAJAR",
+    "kelas": "03",
+    "koordinator": "Drs. Martunis, M.SiNIP. 196212311987021052",
+    "ruang": "R. 3.11",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "19",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK114",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "PBK114",
+    "nama": "BIMBINGAN DAN KONSELING BELAJAR",
+    "kelas": "04",
+    "koordinator": "Drs. Martunis, M.SiNIP. 196212311987021052",
+    "ruang": "R. 3.11",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK114",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "PBK116",
+    "nama": "PSIKOLOGI KEPRIBADIAN",
+    "kelas": "01",
+    "koordinator": "Dina Amalia, S.Psi., M.Sc.NIP. 198907292017032101",
+    "ruang": "R. 2.02",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "24",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK116",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "PBK116",
+    "nama": "PSIKOLOGI KEPRIBADIAN",
+    "kelas": "02",
+    "koordinator": "Dina Amalia, S.Psi., M.Sc.NIP. 198907292017032101",
+    "ruang": "R. 1.01",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "28",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK116",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "PBK116",
+    "nama": "PSIKOLOGI KEPRIBADIAN",
+    "kelas": "03",
+    "koordinator": "Dina Amalia, S.Psi., M.Sc.NIP. 198907292017032101",
+    "ruang": "R. 2.02",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "24",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK116",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "PBK116",
+    "nama": "PSIKOLOGI KEPRIBADIAN",
+    "kelas": "04",
+    "koordinator": "Dina Amalia, S.Psi., M.Sc.NIP. 198907292017032101",
+    "ruang": "R. 2.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK116",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "PBK204",
+    "nama": "BIMBINGAN DAN KONSELING KARIR",
+    "kelas": "01",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "R. 2.02",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "37",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "PBK204",
+    "nama": "BIMBINGAN DAN KONSELING KARIR",
+    "kelas": "02",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "R. 2.02",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "28",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "PBK204",
+    "nama": "BIMBINGAN DAN KONSELING KARIR",
+    "kelas": "03",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "R. 1.01",
+    "hari": "Jumat",
+    "waktu": "10:45-13:15",
+    "peserta": "37",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "PBK206",
+    "nama": "BIMBINGAN DAN KONSELING KELOMPOK",
+    "kelas": "01",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. 2.02",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "34",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "PBK206",
+    "nama": "BIMBINGAN DAN KONSELING KELOMPOK",
+    "kelas": "02",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. 2.02",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "34",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "PBK206",
+    "nama": "BIMBINGAN DAN KONSELING KELOMPOK",
+    "kelas": "03",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. 3.11",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "32",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK206",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "PBK214",
+    "nama": "PERENCANAAN LAYANAN BK",
+    "kelas": "01",
+    "koordinator": "Jamilah Aini Nasution, S,Pd., M.PdNIP. 199107032019032024",
+    "ruang": "R. 3.11",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "36",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK214",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "PBK214",
+    "nama": "PERENCANAAN LAYANAN BK",
+    "kelas": "02",
+    "koordinator": "Jamilah Aini Nasution, S,Pd., M.PdNIP. 199107032019032024",
+    "ruang": "R. 3.11",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "34",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK214",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "PBK214",
+    "nama": "PERENCANAAN LAYANAN BK",
+    "kelas": "03",
+    "koordinator": "Jamilah Aini Nasution, S,Pd., M.PdNIP. 199107032019032024",
+    "ruang": "R. 3.11",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:30",
+    "peserta": "35",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK214",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "PBK216",
+    "nama": "TEORI DAN TEKNIK KONSELING I",
+    "kelas": "01",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. 1.01",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "PBK216",
+    "nama": "TEORI DAN TEKNIK KONSELING I",
+    "kelas": "02",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. 3.11",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "35",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK216",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "PBK216",
+    "nama": "TEORI DAN TEKNIK KONSELING I",
+    "kelas": "03",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. 1.01",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "36",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK216",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "PBK218",
+    "nama": "PENGGUNAAN HASIL ASESMEN",
+    "kelas": "01",
+    "koordinator": "Drs. Syaiful Bahri, M.PdNIP. 196012191986031001",
+    "ruang": "R. 1.01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "36",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK218",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "PBK218",
+    "nama": "PENGGUNAAN HASIL ASESMEN",
+    "kelas": "02",
+    "koordinator": "Drs. Syaiful Bahri, M.PdNIP. 196012191986031001",
+    "ruang": "R. 1.01",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "31",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK218",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "PBK218",
+    "nama": "PENGGUNAAN HASIL ASESMEN",
+    "kelas": "03",
+    "koordinator": "Drs. Syaiful Bahri, M.PdNIP. 196012191986031001",
+    "ruang": "R. 1.01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "34",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK218",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "PBK220",
+    "nama": "METODE PENELITIAN KUANTITATIF",
+    "kelas": "01",
+    "koordinator": "Drs. Syaiful Bahri, M.PdNIP. 196012191986031001",
+    "ruang": "R. 1.01",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "35",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK220",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "PBK220",
+    "nama": "METODE PENELITIAN KUANTITATIF",
+    "kelas": "02",
+    "koordinator": "Drs. Syaiful Bahri, M.PdNIP. 196012191986031001",
+    "ruang": "R. 1.01",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "34",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK220",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "PBK220",
+    "nama": "METODE PENELITIAN KUANTITATIF",
+    "kelas": "03",
+    "koordinator": "Drs. Syaiful Bahri, M.PdNIP. 196012191986031001",
+    "ruang": "R. 1.01",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "34",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK220",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "PBK306",
+    "nama": "PENGEMBANGAN PRIBADI KONSELOR",
+    "kelas": "01",
+    "koordinator": "Drs. M. Husen, M.Pd.NIP. 195703271986031004",
+    "ruang": "R. 2.02",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "32",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK306",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "PBK306",
+    "nama": "PENGEMBANGAN PRIBADI KONSELOR",
+    "kelas": "02",
+    "koordinator": "Drs. M. Husen, M.Pd.NIP. 195703271986031004",
+    "ruang": "R. 2.02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK306",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "PBK306",
+    "nama": "PENGEMBANGAN PRIBADI KONSELOR",
+    "kelas": "03",
+    "koordinator": "Drs. M. Husen, M.Pd.NIP. 195703271986031004",
+    "ruang": "R. 3.11",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "36",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK306",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "PBK306",
+    "nama": "PENGEMBANGAN PRIBADI KONSELOR",
+    "kelas": "04",
+    "koordinator": "Drs. M. Husen, M.Pd.NIP. 195703271986031004",
+    "ruang": "3.11",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "12",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK306",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "PBK310",
+    "nama": "KONSELING LINTAS BUDAYA",
+    "kelas": "01",
+    "koordinator": "Drs. Syaiful Bahri, M.PdNIP. 196012191986031001",
+    "ruang": "R. 1.01",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "36",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK310",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "PBK310",
+    "nama": "KONSELING LINTAS BUDAYA",
+    "kelas": "02",
+    "koordinator": "Drs. Syaiful Bahri, M.PdNIP. 196012191986031001",
+    "ruang": "R. 1.01",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "37",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK310",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "PBK310",
+    "nama": "KONSELING LINTAS BUDAYA",
+    "kelas": "03",
+    "koordinator": "Drs. Syaiful Bahri, M.PdNIP. 196012191986031001",
+    "ruang": "R. 1.01",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "35",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK310",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "PBK310",
+    "nama": "KONSELING LINTAS BUDAYA",
+    "kelas": "04",
+    "koordinator": "Drs. Syaiful Bahri, M.PdNIP. 196012191986031001",
+    "ruang": "1.01",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "35",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK310",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "PBK314",
+    "nama": "KONSELING INDIVIDUAL",
+    "kelas": "01A",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. Lab BK",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "10",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK314",
+      "data-kelas": "01A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "PBK314",
+    "nama": "KONSELING INDIVIDUAL",
+    "kelas": "01B",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. Lab BK",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK314",
+      "data-kelas": "01B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "PBK314",
+    "nama": "KONSELING INDIVIDUAL",
+    "kelas": "02A",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. Lab BK",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "7",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK314",
+      "data-kelas": "02A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "PBK314",
+    "nama": "KONSELING INDIVIDUAL",
+    "kelas": "02B",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. Lab BK",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "8",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK314",
+      "data-kelas": "02B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "PBK314",
+    "nama": "KONSELING INDIVIDUAL",
+    "kelas": "04A",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. Lab BK",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "1",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK314",
+      "data-kelas": "04A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "PBK314",
+    "nama": "KONSELING INDIVIDUAL",
+    "kelas": "05A",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. Lab BK",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "1",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK314",
+      "data-kelas": "05A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "PBK314",
+    "nama": "KONSELING INDIVIDUAL",
+    "kelas": "06B",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. Lab BK",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK314",
+      "data-kelas": "06B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "PBK316",
+    "nama": "EVALUASI DAN SUPERVISI BK",
+    "kelas": "01",
+    "koordinator": "Drs. Martunis, M.SiNIP. 196212311987021052",
+    "ruang": "R. 2.02",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "26",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK316",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "PBK316",
+    "nama": "EVALUASI DAN SUPERVISI BK",
+    "kelas": "02",
+    "koordinator": "Drs. Martunis, M.SiNIP. 196212311987021052",
+    "ruang": "R. 2.02",
+    "hari": "Jumat",
+    "waktu": "10:45-13:15",
+    "peserta": "25",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK316",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "PBK316",
+    "nama": "EVALUASI DAN SUPERVISI BK",
+    "kelas": "03",
+    "koordinator": "Drs. Martunis, M.SiNIP. 196212311987021052",
+    "ruang": "R. 3.11",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "51",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK316",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "PBK317",
+    "nama": "TEORI DAN TEKNIK KONSELING II",
+    "kelas": "01",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R.3.11",
+    "hari": "Jumat",
+    "waktu": "10:45-13:15",
+    "peserta": "43",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK317",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "PBK317",
+    "nama": "TEORI DAN TEKNIK KONSELING II",
+    "kelas": "02",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R.3.11",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "26",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK317",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "PBK318",
+    "nama": "SEMINAR BK",
+    "kelas": "01",
+    "koordinator": "Drs. Syaiful Bahri, M.PdNIP. 196012191986031001",
+    "ruang": "R. 2.02",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "23",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK318",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "PBK318",
+    "nama": "SEMINAR BK",
+    "kelas": "02",
+    "koordinator": "Drs. Syaiful Bahri, M.PdNIP. 196012191986031001",
+    "ruang": "R. 2.02",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "25",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK318",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "PBK319",
+    "nama": "PRAKTIKUM KONSELING KARIR",
+    "kelas": "01",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "R. Lab BK",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "31",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK319",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "PBK319",
+    "nama": "PRAKTIKUM KONSELING KARIR",
+    "kelas": "02",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "R. Lab BK",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "34",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK319",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "PBK319",
+    "nama": "PRAKTIKUM KONSELING KARIR",
+    "kelas": "03",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "R. 3.11",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "31",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK319",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "PBK323",
+    "nama": "TINJAUAN LITERATUR",
+    "kelas": "01",
+    "koordinator": "Khairiah, S.Pd., M.Ed.NIP. 198810182017032101",
+    "ruang": "R.2.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK323",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "PBK323",
+    "nama": "TINJAUAN LITERATUR",
+    "kelas": "02",
+    "koordinator": "Khairiah, S.Pd., M.Ed.NIP. 198810182017032101",
+    "ruang": "1.01",
+    "hari": "Sabtu",
+    "waktu": "10:45-12:25",
+    "peserta": "33",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK323",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "PBK325",
+    "nama": "METODE PENELITIAN KUALITATIF DAN CAMPURAN",
+    "kelas": "01",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "R.2.02",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "37",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK325",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "PBK325",
+    "nama": "METODE PENELITIAN KUALITATIF DAN CAMPURAN",
+    "kelas": "02",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "R.2.02",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:30",
+    "peserta": "19",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBK325",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "PBKP03",
+    "nama": "KESEHATAN MENTAL",
+    "kelas": "01",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "R. 2.02",
+    "hari": "Sabtu",
+    "waktu": "14:00-16:30",
+    "peserta": "38",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBKP03",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "PBKP03",
+    "nama": "KESEHATAN MENTAL",
+    "kelas": "02",
+    "koordinator": "Dra. Nurhasanah, M.PdNIP. 195911181986032002",
+    "ruang": "1.01",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:30",
+    "peserta": "40",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBKP03",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "PBKP07",
+    "nama": "TERAPI BERMAIN",
+    "kelas": "01",
+    "koordinator": "Dara Rosita, S.T., S.Pd., M.Ed.NIP. 198408282017032101",
+    "ruang": "R.1.01",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "32",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBKP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "PBKP07",
+    "nama": "TERAPI BERMAIN",
+    "kelas": "02",
+    "koordinator": "Dara Rosita, S.T., S.Pd., M.Ed.NIP. 198408282017032101",
+    "ruang": "1.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "37",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBKP07",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "PBKP07",
+    "nama": "TERAPI BERMAIN",
+    "kelas": "03",
+    "koordinator": "Dara Rosita, S.T., S.Pd., M.Ed.NIP. 198408282017032101",
+    "ruang": "Lab BK",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "11",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBKP07",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "PBKP11",
+    "nama": "PROBLEMATIKA DAN TEKNIK BK ANAK",
+    "kelas": "01",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "1.01",
+    "hari": "Senin",
+    "waktu": "08:00-09:35",
+    "peserta": "1",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBKP11",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  },
+  {
+    "no": "91",
+    "kode": "PBKP12",
+    "nama": "PEMAHAMAN DAN TEKNIK BK ABK",
+    "kelas": "01",
+    "koordinator": "Nurbaity, S.Pd., M.Ed.NIP. 198108202006042003",
+    "ruang": "1.01",
+    "hari": "Senin",
+    "waktu": "08:00-10:50",
+    "peserta": "1",
+    "keterangan": "KIPS1Bimbingan dan Konseling",
+    "kode-peserta": {
+      "data-kode": "PBKP12",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610403"
+    }
+  }
+]

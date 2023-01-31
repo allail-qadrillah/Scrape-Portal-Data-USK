@@ -1,0 +1,5330 @@
+[
+  {
+    "no": "1",
+    "kode": "FGL102",
+    "nama kelas": "DASAR-DASAR MANAJEMEN",
+    "kelas": "01",
+    "koordinator": "Akhmad Baihaqi, S.P., M.M.NIP. 197406142008121001",
+    "ruang": "01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020001",
+        "nama": "RAVEL TRANANDO",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020003",
+        "nama": "EDI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020004",
+        "nama": "JULAEHA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020005",
+        "nama": "SOFIYAH NAHDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020006",
+        "nama": "IRPAN EPENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020007",
+        "nama": "FAUZAN ADIB HIDAYATULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020008",
+        "nama": "JEPI MUNANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020009",
+        "nama": "JULKARMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020010",
+        "nama": "CUT PUTRI SARUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020011",
+        "nama": "RIKI RIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020012",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020013",
+        "nama": "TIARA MARINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020014",
+        "nama": "MAWARDAH WARAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020015",
+        "nama": "HAFIZ MUHAMMAD ZAKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020016",
+        "nama": "DOLA RAMALISKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020017",
+        "nama": "IREN SONETA",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020019",
+        "nama": "ALIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "19",
+        "kode": "FGL102",
+        "kelas": "01",
+        "npm": "2205150020020",
+        "nama": "MUHAMMAD AKBAR PRAWIRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "2",
+    "kode": "FGL104",
+    "nama kelas": "KIMIA",
+    "kelas": "01",
+    "koordinator": "Ali Makmur, S.Pt., M.SiNIP. 199104292020021101",
+    "ruang": "01",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020001",
+        "nama": "RAVEL TRANANDO",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020003",
+        "nama": "EDI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020004",
+        "nama": "JULAEHA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020005",
+        "nama": "SOFIYAH NAHDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020006",
+        "nama": "IRPAN EPENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020007",
+        "nama": "FAUZAN ADIB HIDAYATULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020008",
+        "nama": "JEPI MUNANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020009",
+        "nama": "JULKARMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020010",
+        "nama": "CUT PUTRI SARUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020011",
+        "nama": "RIKI RIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020012",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020013",
+        "nama": "TIARA MARINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020014",
+        "nama": "MAWARDAH WARAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020015",
+        "nama": "HAFIZ MUHAMMAD ZAKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020016",
+        "nama": "DOLA RAMALISKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020017",
+        "nama": "IREN SONETA",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020019",
+        "nama": "ALIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "18",
+        "kode": "FGL104",
+        "kelas": "01",
+        "npm": "2205150020020",
+        "nama": "MUHAMMAD AKBAR PRAWIRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "3",
+    "kode": "FGL106",
+    "nama kelas": "PRAKTIKUM KIMIA",
+    "kelas": "01",
+    "koordinator": "Ali Makmur, S.Pt., M.SiNIP. 199104292020021101",
+    "ruang": "01",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020001",
+        "nama": "RAVEL TRANANDO",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020003",
+        "nama": "EDI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020004",
+        "nama": "JULAEHA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020005",
+        "nama": "SOFIYAH NAHDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020006",
+        "nama": "IRPAN EPENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020007",
+        "nama": "FAUZAN ADIB HIDAYATULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020008",
+        "nama": "JEPI MUNANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020009",
+        "nama": "JULKARMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020010",
+        "nama": "CUT PUTRI SARUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020011",
+        "nama": "RIKI RIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020012",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020013",
+        "nama": "TIARA MARINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020014",
+        "nama": "MAWARDAH WARAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020015",
+        "nama": "HAFIZ MUHAMMAD ZAKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020016",
+        "nama": "DOLA RAMALISKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020017",
+        "nama": "IREN SONETA",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020019",
+        "nama": "ALIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "18",
+        "kode": "FGL106",
+        "kelas": "01",
+        "npm": "2205150020020",
+        "nama": "MUHAMMAD AKBAR PRAWIRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "4",
+    "kode": "FGL108",
+    "nama kelas": "ILMU TANAH HUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Teti Arabia, MS.NIP. 196109141986022001",
+    "ruang": "01",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020001",
+        "nama": "RAVEL TRANANDO",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020003",
+        "nama": "EDI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020004",
+        "nama": "JULAEHA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020005",
+        "nama": "SOFIYAH NAHDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020006",
+        "nama": "IRPAN EPENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020007",
+        "nama": "FAUZAN ADIB HIDAYATULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020008",
+        "nama": "JEPI MUNANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020009",
+        "nama": "JULKARMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020010",
+        "nama": "CUT PUTRI SARUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020011",
+        "nama": "RIKI RIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020012",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020013",
+        "nama": "TIARA MARINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020014",
+        "nama": "MAWARDAH WARAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020015",
+        "nama": "HAFIZ MUHAMMAD ZAKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020016",
+        "nama": "DOLA RAMALISKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020017",
+        "nama": "IREN SONETA",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020019",
+        "nama": "ALIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "19",
+        "kode": "FGL108",
+        "kelas": "01",
+        "npm": "2205150020020",
+        "nama": "MUHAMMAD AKBAR PRAWIRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "5",
+    "kode": "FGL110",
+    "nama kelas": "PRAKTIKUM ILMU TANAH HUTAN",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "03",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020001",
+        "nama": "RAVEL TRANANDO",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020003",
+        "nama": "EDI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020004",
+        "nama": "JULAEHA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020005",
+        "nama": "SOFIYAH NAHDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020006",
+        "nama": "IRPAN EPENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020007",
+        "nama": "FAUZAN ADIB HIDAYATULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020008",
+        "nama": "JEPI MUNANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020009",
+        "nama": "JULKARMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020010",
+        "nama": "CUT PUTRI SARUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020011",
+        "nama": "RIKI RIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020012",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020013",
+        "nama": "TIARA MARINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020014",
+        "nama": "MAWARDAH WARAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020015",
+        "nama": "HAFIZ MUHAMMAD ZAKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020016",
+        "nama": "DOLA RAMALISKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020017",
+        "nama": "IREN SONETA",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020019",
+        "nama": "ALIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "19",
+        "kode": "FGL110",
+        "kelas": "01",
+        "npm": "2205150020020",
+        "nama": "MUHAMMAD AKBAR PRAWIRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "6",
+    "kode": "FGL112",
+    "nama kelas": "KLIMATOLOGI",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020001",
+        "nama": "RAVEL TRANANDO",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020003",
+        "nama": "EDI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020004",
+        "nama": "JULAEHA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020005",
+        "nama": "SOFIYAH NAHDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020006",
+        "nama": "IRPAN EPENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020007",
+        "nama": "FAUZAN ADIB HIDAYATULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020008",
+        "nama": "JEPI MUNANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020009",
+        "nama": "JULKARMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020010",
+        "nama": "CUT PUTRI SARUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020011",
+        "nama": "RIKI RIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020012",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020013",
+        "nama": "TIARA MARINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020014",
+        "nama": "MAWARDAH WARAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020015",
+        "nama": "HAFIZ MUHAMMAD ZAKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020016",
+        "nama": "DOLA RAMALISKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020017",
+        "nama": "IREN SONETA",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020019",
+        "nama": "ALIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "20",
+        "kode": "FGL112",
+        "kelas": "01",
+        "npm": "2205150020020",
+        "nama": "MUHAMMAD AKBAR PRAWIRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "7",
+    "kode": "FGL114",
+    "nama kelas": "PRAKTIKUM KLIMATOLOGI",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "01",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020001",
+        "nama": "RAVEL TRANANDO",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020003",
+        "nama": "EDI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020004",
+        "nama": "JULAEHA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020005",
+        "nama": "SOFIYAH NAHDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020006",
+        "nama": "IRPAN EPENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020007",
+        "nama": "FAUZAN ADIB HIDAYATULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020008",
+        "nama": "JEPI MUNANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020009",
+        "nama": "JULKARMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020010",
+        "nama": "CUT PUTRI SARUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020011",
+        "nama": "RIKI RIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020012",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020013",
+        "nama": "TIARA MARINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020014",
+        "nama": "MAWARDAH WARAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020015",
+        "nama": "HAFIZ MUHAMMAD ZAKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020016",
+        "nama": "DOLA RAMALISKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020017",
+        "nama": "IREN SONETA",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020019",
+        "nama": "ALIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "20",
+        "kode": "FGL114",
+        "kelas": "01",
+        "npm": "2205150020020",
+        "nama": "MUHAMMAD AKBAR PRAWIRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "8",
+    "kode": "FGL116",
+    "nama kelas": "DENDROLOGI",
+    "kelas": "01",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "01",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020001",
+        "nama": "RAVEL TRANANDO",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020003",
+        "nama": "EDI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020004",
+        "nama": "JULAEHA",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020005",
+        "nama": "SOFIYAH NAHDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020006",
+        "nama": "IRPAN EPENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020007",
+        "nama": "FAUZAN ADIB HIDAYATULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020008",
+        "nama": "JEPI MUNANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020009",
+        "nama": "JULKARMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020010",
+        "nama": "CUT PUTRI SARUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020011",
+        "nama": "RIKI RIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020012",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "18",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020013",
+        "nama": "TIARA MARINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020014",
+        "nama": "MAWARDAH WARAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "20",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020015",
+        "nama": "HAFIZ MUHAMMAD ZAKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "21",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020016",
+        "nama": "DOLA RAMALISKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "22",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020017",
+        "nama": "IREN SONETA",
+        "kelamin": "P"
+      },
+      {
+        "no": "23",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020019",
+        "nama": "ALIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "24",
+        "kode": "FGL116",
+        "kelas": "01",
+        "npm": "2205150020020",
+        "nama": "MUHAMMAD AKBAR PRAWIRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "9",
+    "kode": "FGL118",
+    "nama kelas": "PRAKTIKUM DENDROLOGI",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020001",
+        "nama": "RAVEL TRANANDO",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020003",
+        "nama": "EDI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020004",
+        "nama": "JULAEHA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020005",
+        "nama": "SOFIYAH NAHDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020006",
+        "nama": "IRPAN EPENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020007",
+        "nama": "FAUZAN ADIB HIDAYATULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020008",
+        "nama": "JEPI MUNANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020009",
+        "nama": "JULKARMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020010",
+        "nama": "CUT PUTRI SARUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020011",
+        "nama": "RIKI RIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020012",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020013",
+        "nama": "TIARA MARINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020014",
+        "nama": "MAWARDAH WARAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020015",
+        "nama": "HAFIZ MUHAMMAD ZAKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020016",
+        "nama": "DOLA RAMALISKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020017",
+        "nama": "IREN SONETA",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020019",
+        "nama": "ALIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "20",
+        "kode": "FGL118",
+        "kelas": "01",
+        "npm": "2205150020020",
+        "nama": "MUHAMMAD AKBAR PRAWIRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "10",
+    "kode": "FGL120",
+    "nama kelas": "SUMBER DAYA KEHUTANAN LOKAL",
+    "kelas": "01",
+    "koordinator": "Ryan Moulana, S.TP., M.ScNIP. 197901182003121004",
+    "ruang": "01",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020001",
+        "nama": "RAVEL TRANANDO",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020003",
+        "nama": "EDI SAPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020004",
+        "nama": "JULAEHA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020005",
+        "nama": "SOFIYAH NAHDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020006",
+        "nama": "IRPAN EPENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020007",
+        "nama": "FAUZAN ADIB HIDAYATULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020008",
+        "nama": "JEPI MUNANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020009",
+        "nama": "JULKARMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020010",
+        "nama": "CUT PUTRI SARUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020011",
+        "nama": "RIKI RIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020012",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020013",
+        "nama": "TIARA MARINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020014",
+        "nama": "MAWARDAH WARAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020015",
+        "nama": "HAFIZ MUHAMMAD ZAKI",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020016",
+        "nama": "DOLA RAMALISKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020017",
+        "nama": "IREN SONETA",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020019",
+        "nama": "ALIANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "18",
+        "kode": "FGL120",
+        "kelas": "01",
+        "npm": "2205150020020",
+        "nama": "MUHAMMAD AKBAR PRAWIRA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "11",
+    "kode": "FGL202",
+    "nama kelas": "KEBIJAKAN KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Agung Sanjaya, S.Pd., M.PdNIP. 198905272020021101",
+    "ruang": "02",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL202",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "12",
+    "kode": "FGL204",
+    "nama kelas": "ILMU UKUR KAYU",
+    "kelas": "01",
+    "koordinator": "Martunis, S.TP., M.ScNIP. 197905052003121002",
+    "ruang": "02",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "1905150020022",
+        "nama": "ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FGL204",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "13",
+    "kode": "FGL206",
+    "nama kelas": "PRAKTIKUM ILMU UKUR KAYU",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "02",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "1905150020022",
+        "nama": "ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FGL206",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "14",
+    "kode": "FGL208",
+    "nama kelas": "INVENTARISASI HUTAN",
+    "kelas": "01",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "02",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL208",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "15",
+    "kode": "FGL210",
+    "nama kelas": "PRAKTIKUM INVENTARISASI HUTAN",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "02",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL210",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "16",
+    "kode": "FGL212",
+    "nama kelas": "SILVIKULTUR",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Ashabul Anhar, M.ScNIP. 196606291990031002",
+    "ruang": "02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGL212",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "17",
+    "kode": "FGL214",
+    "nama kelas": "PRAKTIKUM SILVIKULTUR",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "02",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGL214",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "18",
+    "kode": "FGL216",
+    "nama kelas": "HIDROLOGI HUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Hairul Basri, M.ScNIP. 196702101991021001",
+    "ruang": "03",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL216",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "19",
+    "kode": "FGL218",
+    "nama kelas": "PRAKTIKUM HIDROLOGI HUTAN",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "02",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL218",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "20",
+    "kode": "FGL220",
+    "nama kelas": "ILMU UKUR DAN PEMETAAN HUTAN",
+    "kelas": "01",
+    "koordinator": "Ir. Sugianto, M.Sc, PhDNIP. 196502231992031003",
+    "ruang": "02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "1905150020012",
+        "nama": "ANHAR HARIS",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "1905150020021",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "1905150020024",
+        "nama": "HERY GUNAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "1905150020032",
+        "nama": "ZAKIRMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "1905150020034",
+        "nama": "RAMSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "18",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      },
+      {
+        "no": "20",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "21",
+        "kode": "FGL220",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "21",
+    "kode": "FGL222",
+    "nama kelas": "PRAKTIKUM ILMU UKUR DAN PEMETAAN HUTAN",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "02",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "1905150020012",
+        "nama": "ANHAR HARIS",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "1905150020021",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "1905150020024",
+        "nama": "HERY GUNAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "1905150020032",
+        "nama": "ZAKIRMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "13",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "15",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "18",
+        "kode": "FGL222",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "22",
+    "kode": "FGL502",
+    "nama kelas": "PENGINDERAAN  JARAK JAUH",
+    "kelas": "01",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "02",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL502",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL502",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FGL502",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL502",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FGL502",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGL502",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL502",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "23",
+    "kode": "FGL504",
+    "nama kelas": "PRAKTIKUM PENGINDERAAN JARAK JAUH",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "03",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL504",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL504",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL504",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL504",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL504",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL504",
+        "kelas": "01",
+        "npm": "2105150020005",
+        "nama": "ZULPIKAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL504",
+        "kelas": "01",
+        "npm": "2105150020006",
+        "nama": "MUHAMMAD RIZKI AL HAFIZH",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL504",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "FGL504",
+        "kelas": "01",
+        "npm": "2105150020010",
+        "nama": "AMIRUL HUSIN SIREGAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGL504",
+        "kelas": "01",
+        "npm": "2105150020015",
+        "nama": "EL MAIDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGL504",
+        "kelas": "01",
+        "npm": "2105150020017",
+        "nama": "RASIDAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "24",
+    "kode": "FGL506",
+    "nama kelas": "PERUBAHAN IKLIM",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "03",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL506",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL506",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL506",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL506",
+        "kelas": "01",
+        "npm": "2105150020001",
+        "nama": "YULIA KARTIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL506",
+        "kelas": "01",
+        "npm": "2105150020004",
+        "nama": "ELSA SEPTINA DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL506",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FGL506",
+        "kelas": "01",
+        "npm": "2105150020008",
+        "nama": "RAMADANI SINAGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL506",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "25",
+    "kode": "FGL508",
+    "nama kelas": "MANAJEMEN REHABILITASI HUTAN DAN LAHAN",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "03",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "26",
+    "kode": "FGL510",
+    "nama kelas": "PRAKTIKUM MANAJEMEN REHABILITASI HUTAN DAN LAHAN",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "27",
+    "kode": "FGL512",
+    "nama kelas": "JASA EKOSISTEM HUTAN DAN LINGKUNGAN HIDUP",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "03",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "28",
+    "kode": "FGL514",
+    "nama kelas": "PRAKTIKUM JASA EKOSISTEM HUTAN DAN LINGKUNGAN HIDUP",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "29",
+    "kode": "FGL516",
+    "nama kelas": "BIOTEKNOLOGI DAN KONSERVASI KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Essy Harnelly, S.Si., M.Si., Ph.D.NIP. 197501092000122002",
+    "ruang": "03",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL516",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL516",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL516",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "30",
+    "kode": "FGL518",
+    "nama kelas": "PRAKTIKUM BIOTEKNOLOGI DAN KONSERVASI KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "02",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL518",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL518",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL518",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "31",
+    "kode": "FGL520",
+    "nama kelas": "EKOLOGI SATWA LIAR",
+    "kelas": "01",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "03",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL520",
+        "kelas": "01",
+        "npm": "1905150020022",
+        "nama": "ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL520",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "FGL520",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL520",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FGL520",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL520",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FGL520",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL520",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FGL520",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "32",
+    "kode": "FGL522",
+    "nama kelas": "PRAKTIKUM EKOLOGI SATWA LIAR",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "03",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL522",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL522",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL522",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGL522",
+        "kelas": "01",
+        "npm": "2105150020003",
+        "nama": "RAMAINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGL522",
+        "kelas": "01",
+        "npm": "2105150020007",
+        "nama": "EMME GLORI SABRINA BARUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGL522",
+        "kelas": "01",
+        "npm": "2105150020009",
+        "nama": "AMERAN SAHPUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGL522",
+        "kelas": "01",
+        "npm": "2105150020011",
+        "nama": "IRZA ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGL522",
+        "kelas": "01",
+        "npm": "2105150020012",
+        "nama": "SINAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FGL522",
+        "kelas": "01",
+        "npm": "2105150020014",
+        "nama": "BUHARI MUSLIM",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "33",
+    "kode": "FGL524",
+    "nama kelas": "BIOLOGI TANAH",
+    "kelas": "01",
+    "koordinator": "Lola Adres Yanti, S.Hut., M.Si.NIP. 199001292019032017",
+    "ruang": "03",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL524",
+        "kelas": "01",
+        "npm": "1905150020021",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "FGL524",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "34",
+    "kode": "FGL526",
+    "nama kelas": "PRAKTIKUM BIOLOGI TANAH",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "35",
+    "kode": "FGL528",
+    "nama kelas": "RANCANGAN PERCOBAAN",
+    "kelas": "01",
+    "koordinator": "Ir. Ainun Marliah, M.P.NIP. 196712311993032006",
+    "ruang": "3",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "36",
+    "kode": "FGL530",
+    "nama kelas": "PRAKTIKUM RANCANGAN PERCOBAAN",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "02",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "37",
+    "kode": "FGL532",
+    "nama kelas": "PENYULUHAN HUTAN",
+    "kelas": "01",
+    "koordinator": "Ali Makmur, S.Pt., M.SiNIP. 199104292020021101",
+    "ruang": "03",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL532",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL532",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "38",
+    "kode": "FGL534",
+    "nama kelas": "PEMASARAN HASIL HUTAN",
+    "kelas": "01",
+    "koordinator": "Ryan Moulana, S.TP., M.ScNIP. 197901182003121004",
+    "ruang": "03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "39",
+    "kode": "FGL536",
+    "nama kelas": "ANALISIS KEBIJAKAN KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Agung Sanjaya, S.Pd., M.PdNIP. 198905272020021101",
+    "ruang": "02",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL536",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "40",
+    "kode": "FGL538",
+    "nama kelas": "REKLAMASI LAHAN PASCA TAMBANG DAN RESTORASI HUTAN",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "03",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL538",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL538",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "41",
+    "kode": "FGL540",
+    "nama kelas": "TENURIAL KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "03",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL540",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL540",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "42",
+    "kode": "FGL542",
+    "nama kelas": "PERHITUNGAN KARBON",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "03",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "43",
+    "kode": "FGL544",
+    "nama kelas": "PRAKTIKUM PERHITUNGAN KARBON",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "02",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "44",
+    "kode": "FGL546",
+    "nama kelas": "UNIT MANAJEMEN HUTAN",
+    "kelas": "01",
+    "koordinator": "Tuti Arlita, S.Pi., M.SiNIP. 197310112006042001",
+    "ruang": "03",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "45",
+    "kode": "FGL548",
+    "nama kelas": "PRAKTIKUM UNIT MANAJEMEN HUTAN",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "03",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "46",
+    "kode": "FGL550",
+    "nama kelas": "PENGELOLAAN KAWASAN KONSERVASI",
+    "kelas": "01",
+    "koordinator": "Ulfa Hansri Ar Rasyid, S.Pd., M.SiNIP. 199203022019032021",
+    "ruang": "03",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL550",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL550",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL550",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "47",
+    "kode": "FGL552",
+    "nama kelas": "PRAKTIKUM PENGELOLAAN KAWASAN KONSERVASI",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "03",
+    "hari": "Kamis",
+    "waktu": "16:00-17:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL552",
+        "kelas": "01",
+        "npm": "2005150020001",
+        "nama": "FAHIRA RIFANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGL552",
+        "kelas": "01",
+        "npm": "2005150020002",
+        "nama": "PANJIR",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGL552",
+        "kelas": "01",
+        "npm": "2005150020003",
+        "nama": "KARMANSYAH",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "48",
+    "kode": "FGL554",
+    "nama kelas": "REKREASI ALAM DAN EKOWISATA",
+    "kelas": "01",
+    "koordinator": "Ulfa Hansri Ar Rasyid, S.Pd., M.SiNIP. 199203022019032021",
+    "ruang": "03",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGL554",
+        "kelas": "01",
+        "npm": "1905150020021",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "49",
+    "kode": "FGL556",
+    "nama kelas": "PRAKTIKUM REKREASI ALAM DAN EKOWISATA",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "02",
+    "hari": "Kamis",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "50",
+    "kode": "FGLP02",
+    "nama kelas": "SEMINAR REGULER",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "04",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1605150020026",
+        "nama": "SUSANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1605150020043",
+        "nama": "RAMLI",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1705150020021",
+        "nama": "SAMSIER",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020003",
+        "nama": "WATILAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020004",
+        "nama": "CICI MARDONA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020005",
+        "nama": "MIRNA TIADI KOMBIH",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020008",
+        "nama": "LAILATUL CHOMSI BR. PANJAITAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020009",
+        "nama": "RISKA ASTUTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020011",
+        "nama": "WIDIYA PUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020012",
+        "nama": "MUHAMMAD AMIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020013",
+        "nama": "NAUWARAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020015",
+        "nama": "SUMARNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020016",
+        "nama": "DARMAN SYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020019",
+        "nama": "ASTERI JULI ANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020020",
+        "nama": "M.TEGUH DESKY",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020022",
+        "nama": "DEWI DAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020024",
+        "nama": "ASMIDAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020029",
+        "nama": "RIZKI DAULAY",
+        "kelamin": "L"
+      },
+      {
+        "no": "19",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020030",
+        "nama": "LINDAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "20",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020031",
+        "nama": "RASIDAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "21",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020032",
+        "nama": "PUTRI MAYANG SARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "22",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020038",
+        "nama": "AL WAHID ARIGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "23",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020040",
+        "nama": "ASMAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "24",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020049",
+        "nama": "MUHAMAD MUZAKI JULIANTA",
+        "kelamin": "L"
+      },
+      {
+        "no": "25",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1805150020050",
+        "nama": "SURYA PRANATA",
+        "kelamin": "L"
+      },
+      {
+        "no": "26",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020001",
+        "nama": "SURYA DEVI",
+        "kelamin": "P"
+      },
+      {
+        "no": "27",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020002",
+        "nama": "SRI DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "28",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020004",
+        "nama": "MAYA LINDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "29",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020006",
+        "nama": "HAFIDA YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "30",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020007",
+        "nama": "LIVI HIDAYATUL LAILI",
+        "kelamin": "P"
+      },
+      {
+        "no": "31",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020008",
+        "nama": "RUAIDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "32",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020009",
+        "nama": "SITI RAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "33",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020010",
+        "nama": "IRNA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "34",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020011",
+        "nama": "HALIMAH KUDADIRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "35",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020013",
+        "nama": "NOVITA CAHYANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "36",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020014",
+        "nama": "TUTIH MELANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "37",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020015",
+        "nama": "SARBAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "38",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020016",
+        "nama": "ROSI MARLINDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "39",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020018",
+        "nama": "SADIAN TONI",
+        "kelamin": "L"
+      },
+      {
+        "no": "40",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020019",
+        "nama": "DARMAN SYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "41",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020020",
+        "nama": "SURIATI ARMAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "42",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020022",
+        "nama": "ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "43",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020023",
+        "nama": "SUPRI HARIADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "44",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020026",
+        "nama": "ARWIN ANWAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "45",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020027",
+        "nama": "MARIANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "46",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020029",
+        "nama": "SALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "47",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020031",
+        "nama": "SUARDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "48",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020032",
+        "nama": "ZAKIRMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "49",
+        "kode": "FGLP02",
+        "kelas": "01",
+        "npm": "1905150020039",
+        "nama": "AKHIRUDDIN HASIBUAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "51",
+    "kode": "FGLP04",
+    "nama kelas": "PRAKTIK KETERAMPILAN",
+    "kelas": "01",
+    "koordinator": "Andi Fauzan Rakhmadsyah Pohan, S.P., M.PNIP. 197804232020021101",
+    "ruang": "04",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1805150020004",
+        "nama": "CICI MARDONA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1805150020050",
+        "nama": "SURYA PRANATA",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020001",
+        "nama": "SURYA DEVI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020002",
+        "nama": "SRI DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020004",
+        "nama": "MAYA LINDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020006",
+        "nama": "HAFIDA YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020007",
+        "nama": "LIVI HIDAYATUL LAILI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020008",
+        "nama": "RUAIDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020010",
+        "nama": "IRNA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020012",
+        "nama": "ANHAR HARIS",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020014",
+        "nama": "TUTIH MELANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020016",
+        "nama": "ROSI MARLINDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020019",
+        "nama": "DARMAN SYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020020",
+        "nama": "SURIATI ARMAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020021",
+        "nama": "DARMAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020022",
+        "nama": "ALFARISI YUSFA",
+        "kelamin": "L"
+      },
+      {
+        "no": "17",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020023",
+        "nama": "SUPRI HARIADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "18",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020024",
+        "nama": "HERY GUNAWAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "19",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020026",
+        "nama": "ARWIN ANWAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "20",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020027",
+        "nama": "MARIANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "21",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020029",
+        "nama": "SALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "22",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020031",
+        "nama": "SUARDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "23",
+        "kode": "FGLP04",
+        "kelas": "01",
+        "npm": "1905150020032",
+        "nama": "ZAKIRMAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "52",
+    "kode": "FGLP05",
+    "nama kelas": "MAGANG/PRAKTIK KERJA DI INDUSTRI/INSTANSI",
+    "kelas": "01",
+    "koordinator": "Agung Sanjaya, S.Pd., M.PdNIP. 198905272020021101",
+    "ruang": "03",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "53",
+    "kode": "FGLP06",
+    "nama kelas": "PENELITIAN/RISET DI LUAR USK",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "03",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "54",
+    "kode": "FGLP07",
+    "nama kelas": "PROYEK KEMUANUSIAAN",
+    "kelas": "01",
+    "koordinator": "Misdi, S.Hut., M.SiNIP. 198804232020021101",
+    "ruang": "03",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "55",
+    "kode": "FGLP08",
+    "nama kelas": "PROYEK WIRAUSAHA",
+    "kelas": "01",
+    "koordinator": "Andi Fauzan Rakhmadsyah Pohan, S.P., M.PNIP. 197804232020021101",
+    "ruang": "03",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "56",
+    "kode": "FGLP09",
+    "nama kelas": "MEMBANGUN DESA/KKN TEMATIK",
+    "kelas": "01",
+    "koordinator": "Astri Winda Siregar, S.Hut., M.ScNIP. 199011192020022101",
+    "ruang": "03",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "57",
+    "kode": "FGLPA1",
+    "nama kelas": "PENELITIAN/ SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Triati Handayani, S.Hut., M.SiNIP. 199308232020022101",
+    "ruang": "04",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1605150020026",
+        "nama": "SUSANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1605150020034",
+        "nama": "ALI HASJMY",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1605150020043",
+        "nama": "RAMLI",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1605150020047",
+        "nama": "ARMANSYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1605150020050",
+        "nama": "HERMAN MANSUR",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020002",
+        "nama": "YOZI ELFIKRIA",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020003",
+        "nama": "AHMAD GANAFI",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020010",
+        "nama": "WIJAH WIQA YATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020011",
+        "nama": "YUSUF MELALA",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020016",
+        "nama": "SYAHTUDIN BINSE",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020021",
+        "nama": "SAMSIER",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020022",
+        "nama": "VIVI ANGRAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020025",
+        "nama": "LISNA MONIKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020026",
+        "nama": "ERNAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020027",
+        "nama": "RIDDUAN SYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "16",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020029",
+        "nama": "WIDIA PURNAMA SARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020036",
+        "nama": "SRI MINTA",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020038",
+        "nama": "FANI SAFITRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1705150020042",
+        "nama": "IHWAN ARBI",
+        "kelamin": "L"
+      },
+      {
+        "no": "20",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020003",
+        "nama": "WATILAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "21",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020004",
+        "nama": "CICI MARDONA",
+        "kelamin": "P"
+      },
+      {
+        "no": "22",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020005",
+        "nama": "MIRNA TIADI KOMBIH",
+        "kelamin": "P"
+      },
+      {
+        "no": "23",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020008",
+        "nama": "LAILATUL CHOMSI BR. PANJAITAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "24",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020009",
+        "nama": "RISKA ASTUTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "25",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020011",
+        "nama": "WIDIYA PUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "26",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020012",
+        "nama": "MUHAMMAD AMIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "27",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020013",
+        "nama": "NAUWARAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "28",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020014",
+        "nama": "ERNI YATI PELIS",
+        "kelamin": "P"
+      },
+      {
+        "no": "29",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020015",
+        "nama": "SUMARNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "30",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020019",
+        "nama": "ASTERI JULI ANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "31",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020020",
+        "nama": "M.TEGUH DESKY",
+        "kelamin": "L"
+      },
+      {
+        "no": "32",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020021",
+        "nama": "RISMA DAULAY",
+        "kelamin": "P"
+      },
+      {
+        "no": "33",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020022",
+        "nama": "DEWI DAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "34",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020024",
+        "nama": "ASMIDAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "35",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020029",
+        "nama": "RIZKI DAULAY",
+        "kelamin": "L"
+      },
+      {
+        "no": "36",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020030",
+        "nama": "LINDAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "37",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020031",
+        "nama": "RASIDAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "38",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020032",
+        "nama": "PUTRI MAYANG SARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "39",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020035",
+        "nama": "SISKA YANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "40",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020038",
+        "nama": "AL WAHID ARIGA",
+        "kelamin": "L"
+      },
+      {
+        "no": "41",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020040",
+        "nama": "ASMAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "42",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020048",
+        "nama": "HAWA RAHMADINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "43",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1805150020053",
+        "nama": "AMINAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "44",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020001",
+        "nama": "SURYA DEVI",
+        "kelamin": "P"
+      },
+      {
+        "no": "45",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020002",
+        "nama": "SRI DEWI",
+        "kelamin": "P"
+      },
+      {
+        "no": "46",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020004",
+        "nama": "MAYA LINDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "47",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020006",
+        "nama": "HAFIDA YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "48",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020007",
+        "nama": "LIVI HIDAYATUL LAILI",
+        "kelamin": "P"
+      },
+      {
+        "no": "49",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020008",
+        "nama": "RUAIDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "50",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020009",
+        "nama": "SITI RAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "51",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020010",
+        "nama": "IRNA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "52",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020011",
+        "nama": "HALIMAH KUDADIRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "53",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020013",
+        "nama": "NOVITA CAHYANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "54",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020014",
+        "nama": "TUTIH MELANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "55",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020015",
+        "nama": "SARBAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "56",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020016",
+        "nama": "ROSI MARLINDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "57",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020018",
+        "nama": "SADIAN TONI",
+        "kelamin": "L"
+      },
+      {
+        "no": "58",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020019",
+        "nama": "DARMAN SYAH PUTRA",
+        "kelamin": "L"
+      },
+      {
+        "no": "59",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020020",
+        "nama": "SURIATI ARMAINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "60",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020023",
+        "nama": "SUPRI HARIADI",
+        "kelamin": "L"
+      },
+      {
+        "no": "61",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020026",
+        "nama": "ARWIN ANWAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "62",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020027",
+        "nama": "MARIANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "63",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020029",
+        "nama": "SALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "64",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020031",
+        "nama": "SUARDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "65",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020032",
+        "nama": "ZAKIRMAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "66",
+        "kode": "FGLPA1",
+        "kelas": "01",
+        "npm": "1905150020039",
+        "nama": "AKHIRUDDIN HASIBUAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "58",
+    "kode": "MKSP02",
+    "nama kelas": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. drh. Tongku Nizwan Siregar, M.PNIP. 196909011994031003",
+    "ruang": "04",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "keterangan": "PertanianS1Kehutanan (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "MKSP02",
+        "kelas": "01",
+        "npm": "1905150020024",
+        "nama": "HERY GUNAWAN",
+        "kelamin": "L"
+      }
+    ]
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "no": "1",
+    "kode": "FEB102",
+    "nama": "PENGANTAR MAKROEKONOMI",
+    "kelas": "1",
+    "koordinator": "Dr. Abd. Jamal, S.E., M.SiNIP. 196612312000031003",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "18",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FEB102",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "FEB104",
+    "nama": "MANAJEMEN",
+    "kelas": "1",
+    "koordinator": "Murkhana, SE, MBANIP. 196509221990021001",
+    "ruang": "1",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "17",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FEB104",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "FEB106",
+    "nama": "EKONOMI ISLAM I",
+    "kelas": "1",
+    "koordinator": "Dr. Ridwan Nurdin, SE., MANIP. 197006092005011003",
+    "ruang": "1",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "16",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FEB106",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "FEB108",
+    "nama": "STATISTIK INFERENSIAL",
+    "kelas": "1",
+    "koordinator": "Ikhsan, S.E., M.A.NIP. 196802101995121002",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "16",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FEB108",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "FEB110",
+    "nama": "APLIKASI KOMPUTER",
+    "kelas": "1",
+    "koordinator": "Meutia Dwi Novita Sari, S.E., M.M.NIP. 199011092020122003",
+    "ruang": "Lab Komputer",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "18",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FEB110",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "FEB112",
+    "nama": "TOEFL PREPARATION",
+    "kelas": "1",
+    "koordinator": "Fitriyani, SE., M.ScNIP. 199204122018032001",
+    "ruang": "2",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "20",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FEB112",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "FEB304",
+    "nama": "PENULISAN KARYA ILMIAH",
+    "kelas": "1",
+    "koordinator": "Irma Suryani, SE., M.B.ANIP. 198808072015042001",
+    "ruang": "2",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "20",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FEB304",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "FEBP02",
+    "nama": "UJIAN KOMPREHENSIF",
+    "kelas": "1",
+    "koordinator": "Bambang, S.E., M.M.NIP. 199202282018031101",
+    "ruang": "1",
+    "hari": "Sabtu",
+    "waktu": "15:00-17:00",
+    "peserta": "59",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FEBP02",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "FEBP03",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "1",
+    "koordinator": "Dr. Halimatussakdiah, S.E., M.ANIP. 197010301998032003",
+    "ruang": "2",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "26",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FEBP03",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "FEBPA1",
+    "nama": "SKRIPSI",
+    "kelas": "1",
+    "koordinator": "Bambang, S.E., M.M.NIP. 199202282018031101",
+    "ruang": "2",
+    "hari": "Sabtu",
+    "waktu": "15:00-17:00",
+    "peserta": "58",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "FEBPA1",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "GEB102",
+    "nama": "PENGANTAR AKUNTANSI II",
+    "kelas": "1",
+    "koordinator": "Dr. Syukriy Abdullah, S.E, M.SiNIP. 197006301995121001",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "16",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB102",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "GEB202",
+    "nama": "MANAJEMEN KEUANGAN II",
+    "kelas": "1",
+    "koordinator": "Dr. A. Sakir, SE., MMNIP. 197509032002121002",
+    "ruang": "2",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "23",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB202",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "GEB206",
+    "nama": "PERILAKU KEORGANISASIAN",
+    "kelas": "1",
+    "koordinator": "Ade Irma Suryani, SE., M.SiNIP. 197206262003122001",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "16",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB206",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "GEB208",
+    "nama": "PERILAKU KONSUMEN",
+    "kelas": "1",
+    "koordinator": "Dr. Halimatussakdiah, S.E., M.ANIP. 197010301998032003",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "18",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB208",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "GEB210",
+    "nama": "PEMASARAN JASA",
+    "kelas": "1",
+    "koordinator": "Dr. Ahmad Nizam, SE, MMNIP. 196609201993031003",
+    "ruang": "1",
+    "hari": "Kamis",
+    "waktu": "10:45-13:15",
+    "peserta": "16",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB210",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "GEB212",
+    "nama": "MANAJEMEN OPERASIONAL II",
+    "kelas": "1",
+    "koordinator": "Dr. Nurdasila, M.M.NIP. 195711191981032001",
+    "ruang": "2",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "23",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB212",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "GEB214",
+    "nama": "METODE KUANTITATIF DALAM PENGAMBILAN KEPUTUSAN",
+    "kelas": "1",
+    "koordinator": "Said Hamzali, S.IP., M.MNIP. 199001122020021101",
+    "ruang": "2",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "18",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB214",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "GEB216",
+    "nama": "PENGANGGARAN PERUSAHAAN",
+    "kelas": "1",
+    "koordinator": "Farid, S.E., M.MNIP. 197310022006041001",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "18",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB216",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "GEB303",
+    "nama": "PERENCANAAN BISNIS",
+    "kelas": "1",
+    "koordinator": "Dr. Iskandarsyah, S.E, M.M.NIP. 196511062000031001",
+    "ruang": "1",
+    "hari": "Rabu",
+    "waktu": "10:45-13:15",
+    "peserta": "10",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB303",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "GEB305",
+    "nama": "MANAJEMEN INVESTASI DAN ANALISIS PORTOFOLIO",
+    "kelas": "1",
+    "koordinator": "Prof.Dr. Said Musnadi, S.E, M.SiNIP. 196409191991031002",
+    "ruang": "1",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "5",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB305",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "GEB502",
+    "nama": "ANALISIS DATA MULTIVARIAT",
+    "kelas": "1",
+    "koordinator": "Dr. Syafruddin, S.E., MBANIP. 196310291988111001",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "25",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB502",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "GEB502",
+    "nama": "ANALISIS DATA MULTIVARIAT",
+    "kelas": "2",
+    "koordinator": "Dr. Teuku Roli Ilhamsyah Putra, SE., MMNIP. 198503232009121008",
+    "ruang": "2",
+    "hari": "Selasa",
+    "waktu": "10:45-13:15",
+    "peserta": "9",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB502",
+      "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "GEB504",
+    "nama": "PENILAIAN BISNIS",
+    "kelas": "1",
+    "koordinator": "Dr. Sulaiman, SE, MMNIP. 196710181994031002",
+    "ruang": "2",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "7",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB504",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "GEB508",
+    "nama": "BUDAYA PERUSAHAAN",
+    "kelas": "1",
+    "koordinator": "Dr. Ridwan, S.E, MMNIP. 195808081986031007",
+    "ruang": "3",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "15",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB508",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "GEB510",
+    "nama": "HUBUNGAN INDUSTRIAL",
+    "kelas": "1",
+    "koordinator": "Dr. Muliati Usman, SE.,MMNIP. 197804082002122002",
+    "ruang": "2",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "15",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB510",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "GEB512",
+    "nama": "KOMUNIKASI PEMASARAN",
+    "kelas": "1",
+    "koordinator": "Dr. T. Meldi Kesuma, S.E., M.MNIP. 197505152006041001",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "10:45-13:15",
+    "peserta": "7",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB512",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "GEB514",
+    "nama": "MANAJEMEN RITEL",
+    "kelas": "1",
+    "koordinator": "Dr. Hafasnuddin, S.E, MBANIP. 195905101988101001",
+    "ruang": "2",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "11",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB514",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "GEB518",
+    "nama": "EKONOMETRIKA",
+    "kelas": "1",
+    "koordinator": "Dr. Sartiyah, S.E., M.SiNIP. 196610091992032002",
+    "ruang": "2",
+    "hari": "Kamis",
+    "waktu": "08:00-10:30",
+    "peserta": "2",
+    "keterangan": "Ekonomi dan BisnisS1Manajemen (Gayo Lues)",
+    "kode-peserta": {
+      "data-kode": "GEB518",
+      "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0115001"
+    }
+  }
+]

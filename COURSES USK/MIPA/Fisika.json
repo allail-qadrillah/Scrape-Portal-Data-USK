@@ -1,0 +1,1275 @@
+[
+  {
+    "no": "1",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "8",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "MPAP01",
+    "nama": "PENGANTAR TIK",
+    "kelas": "A",
+    "koordinator": "Razief Perucha Fauzie Afidh, S.Si., M.ScNIP. 198408062012121002",
+    "ruang": "D.03.02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "43",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP01",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "MPAP04",
+    "nama": "KULIAH KERJA PRAKTIK",
+    "kelas": "A",
+    "koordinator": "Gunawati, S.Si., M.SiNIP. 197309032000122001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "26",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP04",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "MPAP05",
+    "nama": "PRAKTIK WIRAUSAHA",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP05",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "MPAP06",
+    "nama": "PUBLIKASI ILMIAH",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP06",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "MPAP07",
+    "nama": "MAGANG INDUSTRI A",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP07",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "MPAP08",
+    "nama": "MAGANG INDUSTRI B",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP08",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "MPAP09",
+    "nama": "MAGANG INDUSTRI C",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP09",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "MPAP10",
+    "nama": "PROYEK DESA A",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP10",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "MPAP11",
+    "nama": "PROYEK DESA B",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP11",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "MPAP12",
+    "nama": "PROYEK DESA C",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP12",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "MPAP13",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS A",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP13",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "MPAP14",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS B",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP14",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "MPAP15",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS C",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "0",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAP15",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "MPAPA1",
+    "nama": "PROPOSAL PENELITIAN",
+    "kelas": "A",
+    "koordinator": "Zulfalina, S.Si., M.SiNIP. 197507072002122001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "64",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAPA1",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "MPAPA2",
+    "nama": "TUGAS AKHIR",
+    "kelas": "A",
+    "koordinator": "Zulfalina, S.Si., M.SiNIP. 197507072002122001",
+    "ruang": "Jurusan Fisika",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "86",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "MPAPA2",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "PHY104",
+    "nama": "FISIKA DASAR",
+    "kelas": "A",
+    "koordinator": "Prof. Dr. Syahrun Nur, S.Si., M.SiNIP. 196712241994031001",
+    "ruang": "D.03.01",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "20",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY104",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "PHY104",
+    "nama": "FISIKA DASAR",
+    "kelas": "B",
+    "koordinator": "Dr. Ir. Adi Rahwanto, M.Eng.ScNIP. 196008091987031003",
+    "ruang": "D.03.02",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "19",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY104",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "PHY106",
+    "nama": "FISIKA KALKULUS",
+    "kelas": "A",
+    "koordinator": "Prof. Dr. Eng. Nasrullah, S.Si., M.T.NIP. 197607031995121001",
+    "ruang": "C.01.02",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "peserta": "21",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY106",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "PHY106",
+    "nama": "FISIKA KALKULUS",
+    "kelas": "B",
+    "koordinator": "Gunawati, S.Si., M.SiNIP. 197309032000122001",
+    "ruang": "D.03.01",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "peserta": "27",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY106",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "PHY108",
+    "nama": "PENGUKURAN DAN ALAT UKUR",
+    "kelas": "A",
+    "koordinator": "Dr. Didik Sugiyanto, M.T.NIP. 197312072003121002",
+    "ruang": "D.03.01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY108",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "PHY108",
+    "nama": "PENGUKURAN DAN ALAT UKUR",
+    "kelas": "B",
+    "koordinator": "Edwar Iswardy, S.Si, M. Si, Ph.DNIP. 197902032005011002",
+    "ruang": "C.01.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "41",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY108",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "PHY202",
+    "nama": "FISIKA MATEMATIK II",
+    "kelas": "A",
+    "koordinator": "Fadhli, S.Si., M.Si.NIP. 197107031997021003",
+    "ruang": "D.03.01",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "28",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY202",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "PHY202",
+    "nama": "FISIKA MATEMATIK II",
+    "kelas": "B",
+    "koordinator": "Prof. Dr. Eng. Nasrullah, S.Si., M.T.NIP. 197607031995121001",
+    "ruang": "D.03.02",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "22",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY202",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "PHY204",
+    "nama": "GELOMBANG",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Adi Rahwanto, M.Eng.ScNIP. 196008091987031003",
+    "ruang": "D.03.01",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "peserta": "24",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY204",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "PHY204",
+    "nama": "GELOMBANG",
+    "kelas": "B",
+    "koordinator": "Prof. Dr. Syahrun Nur, S.Si., M.SiNIP. 196712241994031001",
+    "ruang": "D.03.02",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "peserta": "22",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY204",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "PHY206",
+    "nama": "ELEKTROMAGNETIKA",
+    "kelas": "A",
+    "koordinator": "Dr. Muhammad Isa, S.Si., M.SiNIP. 197404202006041002",
+    "ruang": "D.03.01",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "23",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY206",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "PHY206",
+    "nama": "ELEKTROMAGNETIKA",
+    "kelas": "B",
+    "koordinator": "Dr. Nazli, S.Si, M.SiNIP. 197104212000031002",
+    "ruang": "D.03.02",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "21",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY206",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "PHY208",
+    "nama": "MEKANIKA",
+    "kelas": "A",
+    "koordinator": "Dr. Faisal, S.Si, M.ScNIP. 197012201998021001",
+    "ruang": "D.03.02",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "23",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY208",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "PHY208",
+    "nama": "MEKANIKA",
+    "kelas": "B",
+    "koordinator": "Dr. Didik Sugiyanto, M.T.NIP. 197312072003121002",
+    "ruang": "D.03.02",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "peserta": "21",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY208",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "PHY210",
+    "nama": "EKSPERIMEN FISIKA II",
+    "kelas": "A",
+    "koordinator": "Dr.. Malahayati, S.Si., M.SiNIP. 197407252000122001",
+    "ruang": "Lab. Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "24",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY210",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "PHY210",
+    "nama": "EKSPERIMEN FISIKA II",
+    "kelas": "B",
+    "koordinator": "Dr. Muksin, S.Si, M.Si,M.PhilNIP. 197406252000121001",
+    "ruang": "Lab. Fisika",
+    "hari": "Sabtu",
+    "waktu": "8:15-9:55",
+    "peserta": "23",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY210",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "PHY302",
+    "nama": "FISIKA NUKLIR",
+    "kelas": "A",
+    "koordinator": "Dr. Eng. Elin Yusibani, S.Si, M.EngNIP. 197903232006042002",
+    "ruang": "D.03.01",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "19",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY302",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "PHY302",
+    "nama": "FISIKA NUKLIR",
+    "kelas": "B",
+    "koordinator": "Dr. Rini Safitri, S.Si., M.Si.NIP. 197004251995122001",
+    "ruang": "D.03.02",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "28",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY302",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "PHY304",
+    "nama": "FISIKA KOMPUTASI",
+    "kelas": "A",
+    "koordinator": "Dr. Nazli, S.Si, M.SiNIP. 197104212000031002",
+    "ruang": "D.03.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY304",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "PHY304",
+    "nama": "FISIKA KOMPUTASI",
+    "kelas": "B",
+    "koordinator": "T. Khairuman, S.Si., M.SiNIP. 197301311999031003",
+    "ruang": "D.03.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY304",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "PHY306",
+    "nama": "FISIKA ZAT PADAT",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Ismail AB, M.ScNIP. 196301141989031003",
+    "ruang": "B.01.01",
+    "hari": "Rabu",
+    "waktu": "08:15-09:55",
+    "peserta": "33",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY306",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "PHY306",
+    "nama": "FISIKA ZAT PADAT",
+    "kelas": "B",
+    "koordinator": "Fauzi, S.Si, M.SiNIP. 196609281994031014",
+    "ruang": "D.03.02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "36",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY306",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "PHY502",
+    "nama": "SURVEI MEDAN POTENSIAL",
+    "kelas": "A",
+    "koordinator": "Dr. Nazli, S.Si, M.SiNIP. 197104212000031002",
+    "ruang": "C.01.01",
+    "hari": "Jumat",
+    "waktu": "16:20-18:30",
+    "peserta": "13",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY502",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "PHY504",
+    "nama": "PENGANTAR GEOFISIKA",
+    "kelas": "A",
+    "koordinator": "Dr. Didik Sugiyanto, M.T.NIP. 197312072003121002",
+    "ruang": "C.01.01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "13",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY504",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "PHY506",
+    "nama": "METODE SEISMIK",
+    "kelas": "A",
+    "koordinator": "Dr. Muksin, S.Si, M.Si,M.PhilNIP. 197406252000121001",
+    "ruang": "Lab. Geofisika",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "15",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY506",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "PHY508",
+    "nama": "VULKANOLOGI DAN PANAS BUMI",
+    "kelas": "A",
+    "koordinator": "Dr. Muhammad Isa, S.Si., M.SiNIP. 197404202006041002",
+    "ruang": "Lab. Elins",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "10",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY508",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "PHY510",
+    "nama": "GEOTEKNIK",
+    "kelas": "A",
+    "koordinator": "Irwandi, S.Si,M.Si., Ph.DNIP. 197503041999031001",
+    "ruang": "Lab. Elins",
+    "hari": "Selasa",
+    "waktu": "16:00-17:40",
+    "peserta": "8",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY510",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "PHY512",
+    "nama": "MATERIAL MAGNETIK",
+    "kelas": "A",
+    "koordinator": "Dr. Zulkarnain, S.Si., M.Si.NIP. 196912291994031002",
+    "ruang": "C.01.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "14",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY512",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "PHY514",
+    "nama": "SEMIKONDUKTOR",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "C.01.02",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "17",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY514",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "PHY516",
+    "nama": "KARAKTERISASI MATERIAL",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Ismail AB, M.ScNIP. 196301141989031003",
+    "ruang": "C.01.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "11",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY516",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "PHY518",
+    "nama": "SUPERKONDUKTOR",
+    "kelas": "A",
+    "koordinator": "Fauzi, S.Si, M.SiNIP. 196609281994031014",
+    "ruang": "C.01.02",
+    "hari": "Selasa",
+    "waktu": "16:00-17:40",
+    "peserta": "13",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY518",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "PHY520",
+    "nama": "PANDU GELOMBANG",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Adi Rahwanto, M.Eng.ScNIP. 196008091987031003",
+    "ruang": "Lab. Optik Jurusan F",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY520",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "PHY522",
+    "nama": "KOMUNIKASI OPTIK",
+    "kelas": "A",
+    "koordinator": "Bukhari, S.Si., M.TNIP. 197007051998031004",
+    "ruang": "C.01.01",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "2",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY522",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "PHY524",
+    "nama": "LASER",
+    "kelas": "A",
+    "koordinator": "Dr. Kurnia Lahna, M.T.NIP. 196102011997021001",
+    "ruang": "C.01.02",
+    "hari": "Kamis",
+    "waktu": "8:15-9:55",
+    "peserta": "4",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY524",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "PHY526",
+    "nama": "PENGANTAR FOTONIKA",
+    "kelas": "A",
+    "koordinator": "Dr. Suhrawardi Ilyas, S.Si, M.ScNIP. 197107061994121001",
+    "ruang": "C.01.01",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "peserta": "1",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY526",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "PHY528",
+    "nama": "DESAIN ELEKTRONIKA DAN INSTRUMENTASI",
+    "kelas": "A",
+    "koordinator": "Dr. Saumi Syahreza, S.Si., M.SiNIP. 197609172005011002",
+    "ruang": "C.01.02",
+    "hari": "Jumat",
+    "waktu": "16:20-18:30",
+    "peserta": "5",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY528",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "PHY530",
+    "nama": "SERVER DAN SISTEM JARINGAN KOMPUTER",
+    "kelas": "A",
+    "koordinator": "Dr. Rajibussalim, M.Sc, M.InfoTechNIP. 197208311998021001",
+    "ruang": "Lab. Elin",
+    "hari": "Kamis",
+    "waktu": "10:00-10:50",
+    "peserta": "5",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY530",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "PHY532",
+    "nama": "BIOELEKTRONIKA",
+    "kelas": "A",
+    "koordinator": "Edwar Iswardy, S.Si, M. Si, Ph.DNIP. 197902032005011002",
+    "ruang": "Lab. Elins",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "9",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY532",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "PHY534",
+    "nama": "SISTEM KONTROL DAN MEKATRONIKA",
+    "kelas": "A",
+    "koordinator": "Dr. Kurnia Lahna, M.T.NIP. 196102011997021001",
+    "ruang": "D.03.01",
+    "hari": "Jumat",
+    "waktu": "16:20-18:30",
+    "peserta": "6",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY534",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "PHY536",
+    "nama": "FISIKA TEORI II",
+    "kelas": "A",
+    "koordinator": "Irwandi, S.Si,M.Si., Ph.DNIP. 197503041999031001",
+    "ruang": "C.01.02",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "3",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY536",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "PHY538",
+    "nama": "KAPITA SELEKTA FISIKA TEORI DAN KOMPUTASI II",
+    "kelas": "A",
+    "koordinator": "Dr. Rajibussalim, M.Sc, M.InfoTechNIP. 197208311998021001",
+    "ruang": "Lab. Fisika Komputas",
+    "hari": "Selasa",
+    "waktu": "16:00-17:40",
+    "peserta": "2",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY538",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "PHY540",
+    "nama": "METODE NUMERIK",
+    "kelas": "A",
+    "koordinator": "Dr. Muksin, S.Si, M.Si,M.PhilNIP. 197406252000121001",
+    "ruang": "C.01.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "2",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY540",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "PHY542",
+    "nama": "ELEKTRODINAMIKA",
+    "kelas": "A",
+    "koordinator": "Gunawati, S.Si., M.SiNIP. 197309032000122001",
+    "ruang": "C.01.02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "7",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY542",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "PHY544",
+    "nama": "FISIKA REAKTOR",
+    "kelas": "A",
+    "koordinator": "Dr. Eng. Elin Yusibani, S.Si, M.EngNIP. 197903232006042002",
+    "ruang": "C.01.02",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "4",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY544",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "PHY546",
+    "nama": "PENDAHULUAN KEDOKTERAN NUKLIR",
+    "kelas": "A",
+    "koordinator": "Dr. Rini Safitri, S.Si., M.Si.NIP. 197004251995122001",
+    "ruang": "C.01.02",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "peserta": "16",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY546",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "PHY548",
+    "nama": "FISIKA PENCITRAAN MEDIS KLINIS",
+    "kelas": "A",
+    "koordinator": "Dr. Saumi Syahreza, S.Si., M.SiNIP. 197609172005011002",
+    "ruang": "Lab. Elins",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "7",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY548",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "PHY550",
+    "nama": "PERENCANAAN RADIOTERAPI KLINIS",
+    "kelas": "A",
+    "koordinator": "Dr. Rini Safitri, S.Si., M.Si.NIP. 197004251995122001",
+    "ruang": "D.03.02",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "12",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY550",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "PHY552",
+    "nama": "FISIKA MINERAL DAN BATUAN",
+    "kelas": "A",
+    "koordinator": "Fadhli, S.Si., M.Si.NIP. 197107031997021003",
+    "ruang": "C.01.01",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "peserta": "11",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY552",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "PHY554",
+    "nama": "PENGINDERAAN JAUH",
+    "kelas": "A",
+    "koordinator": "Dr. Nasrullah, S.Si., M.Si., M.ScNIP. 197501021999031001",
+    "ruang": "D.03.02",
+    "hari": "Jumat",
+    "waktu": "16:20-18:30",
+    "peserta": "5",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHY554",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "PHYP01",
+    "nama": "METODE PENELITIAN",
+    "kelas": "A",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "C.01.02",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "30",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHYP01",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "PHYP02",
+    "nama": "PENULISAN ILMIAH",
+    "kelas": "A",
+    "koordinator": "Dr. Eng. Elin Yusibani, S.Si, M.EngNIP. 197903232006042002",
+    "ruang": "D.03.02",
+    "hari": "Selasa",
+    "waktu": "16:00-17:40",
+    "peserta": "33",
+    "keterangan": "MIPAS1Fisika",
+    "kode-peserta": {
+      "data-kode": "PHYP02",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810201"
+    }
+  }
+]

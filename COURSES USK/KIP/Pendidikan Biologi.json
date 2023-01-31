@@ -1,0 +1,2548 @@
+[
+  {
+    "no": "1",
+    "kode": "BEP106",
+    "nama": "BIOLOGI SEL",
+    "kelas": "01",
+    "koordinator": "Dra. Asiah, M.PNIP. 196704031991022001",
+    "ruang": "2.01",
+    "hari": "Senin",
+    "waktu": "9:50-11:35",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "BEP106",
+    "nama": "BIOLOGI SEL",
+    "kelas": "02",
+    "koordinator": "Dra. Asiah, M.PNIP. 196704031991022001",
+    "ruang": "2.01",
+    "hari": "Senin",
+    "waktu": "8:00-9:45",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "BEP106",
+    "nama": "BIOLOGI SEL",
+    "kelas": "03",
+    "koordinator": "Dra. Asiah, M.PNIP. 196704031991022001",
+    "ruang": "2.01",
+    "hari": "Kamis",
+    "waktu": "16:35-18:20",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP106",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "BEP106",
+    "nama": "BIOLOGI SEL",
+    "kelas": "04",
+    "koordinator": "Dra. Asiah, M.PNIP. 196704031991022001",
+    "ruang": "2.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:45",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP106",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "BEP112",
+    "nama": "ZOOLOGI INVERTEBRATA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. M. Ali S, M.SiNIP. 195903251986031003",
+    "ruang": "3.03",
+    "hari": "Kamis",
+    "waktu": "16:35-18:20",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "BEP112",
+    "nama": "ZOOLOGI INVERTEBRATA",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. M. Ali S, M.SiNIP. 195903251986031003",
+    "ruang": "3.03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:45",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "BEP112",
+    "nama": "ZOOLOGI INVERTEBRATA",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. M. Ali S, M.SiNIP. 195903251986031003",
+    "ruang": "3.03",
+    "hari": "Senin",
+    "waktu": "16:35-18:20",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP112",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "BEP112",
+    "nama": "ZOOLOGI INVERTEBRATA",
+    "kelas": "04",
+    "koordinator": "Prof. Dr. M. Ali S, M.SiNIP. 195903251986031003",
+    "ruang": "1.05",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:45",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP112",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "BEP114",
+    "nama": "PRAKTIKUM ZOOLOGI INVERTEBRATA",
+    "kelas": "01",
+    "koordinator": "Yaumil Istiqlal M.Nur, S.Pd.I., M.Pd.NIP. 199108182019031015",
+    "ruang": "LAB BIO B",
+    "hari": "Kamis",
+    "waktu": "14:00-15:45",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP114",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "BEP114",
+    "nama": "PRAKTIKUM ZOOLOGI INVERTEBRATA",
+    "kelas": "02",
+    "koordinator": "Yaumil Istiqlal M.Nur, S.Pd.I., M.Pd.NIP. 199108182019031015",
+    "ruang": "LAB BIO B",
+    "hari": "Kamis",
+    "waktu": "11:30-13:15",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP114",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "BEP114",
+    "nama": "PRAKTIKUM ZOOLOGI INVERTEBRATA",
+    "kelas": "03",
+    "koordinator": "Yaumil Istiqlal M.Nur, S.Pd.I., M.Pd.NIP. 199108182019031015",
+    "ruang": "LAB BIO B",
+    "hari": "Kamis",
+    "waktu": "9:50-11:35",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP114",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "BEP114",
+    "nama": "PRAKTIKUM ZOOLOGI INVERTEBRATA",
+    "kelas": "04",
+    "koordinator": "Yaumil Istiqlal M.Nur, S.Pd.I., M.Pd.NIP. 199108182019031015",
+    "ruang": "LAB BIO B",
+    "hari": "Kamis",
+    "waktu": "8:00-9:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP114",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "BEP116",
+    "nama": "BIOKIMIA",
+    "kelas": "01",
+    "koordinator": "Dr. Supriatno, M.SiNIP. 196205131989031004",
+    "ruang": "1.05",
+    "hari": "Senin",
+    "waktu": "8:00-9:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP116",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "BEP116",
+    "nama": "BIOKIMIA",
+    "kelas": "02",
+    "koordinator": "Dr. Supriatno, M.SiNIP. 196205131989031004",
+    "ruang": "1.05",
+    "hari": "Senin",
+    "waktu": "9:50-10:40",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP116",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "BEP116",
+    "nama": "BIOKIMIA",
+    "kelas": "03",
+    "koordinator": "Dr. Supriatno, M.SiNIP. 196205131989031004",
+    "ruang": "1.05",
+    "hari": "Selasa",
+    "waktu": "8:00-9:45",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP116",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "BEP116",
+    "nama": "BIOKIMIA",
+    "kelas": "04",
+    "koordinator": "Dr. Supriatno, M.SiNIP. 196205131989031004",
+    "ruang": "1.05",
+    "hari": "Senin",
+    "waktu": "11:45-13:15",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP116",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "BEP118",
+    "nama": "PRAKTIKUM BIOKIMIA",
+    "kelas": "01",
+    "koordinator": "Dr. Hafnati Rahmatan, M.SiNIP. 196808231993032004",
+    "ruang": "LAB BIO A",
+    "hari": "Rabu",
+    "waktu": "14:00-15:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP118",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "BEP118",
+    "nama": "PRAKTIKUM BIOKIMIA",
+    "kelas": "02",
+    "koordinator": "Dr. Hafnati Rahmatan, M.SiNIP. 196808231993032004",
+    "ruang": "LAB BIO A",
+    "hari": "Rabu",
+    "waktu": "11:40-13:15",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP118",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "BEP118",
+    "nama": "PRAKTIKUM BIOKIMIA",
+    "kelas": "03",
+    "koordinator": "Dr. Hafnati Rahmatan, M.SiNIP. 196808231993032004",
+    "ruang": "LAB BIO A",
+    "hari": "Rabu",
+    "waktu": "9:50-11:35",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP118",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "BEP118",
+    "nama": "PRAKTIKUM BIOKIMIA",
+    "kelas": "04",
+    "koordinator": "Dr. Hafnati Rahmatan, M.SiNIP. 196808231993032004",
+    "ruang": "LAB BIO A",
+    "hari": "Rabu",
+    "waktu": "8:00-9:45",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP118",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "BEP120",
+    "nama": "MORFOLOGI TUMBUHAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "2.01",
+    "hari": "Senin",
+    "waktu": "11:40-13:10",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP120",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "BEP120",
+    "nama": "MORFOLOGI TUMBUHAN",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "2.01",
+    "hari": "Senin",
+    "waktu": "16:35-18:20",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP120",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "BEP120",
+    "nama": "MORFOLOGI TUMBUHAN",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "2.01",
+    "hari": "Kamis",
+    "waktu": "8:00-9:45",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP120",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "BEP120",
+    "nama": "MORFOLOGI TUMBUHAN",
+    "kelas": "04",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "2.01",
+    "hari": "Kamis",
+    "waktu": "9:50-11:35",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP120",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "BEP122",
+    "nama": "PRAKTIKUM MORFOLOGI TUMBUHAN",
+    "kelas": "01",
+    "koordinator": "Nazar Muhammad, S.Pd.,M.Pd.NIP. 198703112019031005",
+    "ruang": "LAB BIO B",
+    "hari": "Rabu",
+    "waktu": "8:00-9:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP122",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "BEP122",
+    "nama": "PRAKTIKUM MORFOLOGI TUMBUHAN",
+    "kelas": "02",
+    "koordinator": "Nazar Muhammad, S.Pd.,M.Pd.NIP. 198703112019031005",
+    "ruang": "LAB BIO B",
+    "hari": "Rabu",
+    "waktu": "9:50-11:35",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP122",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "BEP122",
+    "nama": "PRAKTIKUM MORFOLOGI TUMBUHAN",
+    "kelas": "03",
+    "koordinator": "Nazar Muhammad, S.Pd.,M.Pd.NIP. 198703112019031005",
+    "ruang": "LAB BIO B",
+    "hari": "Rabu",
+    "waktu": "11:40-13:15",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP122",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "BEP122",
+    "nama": "PRAKTIKUM MORFOLOGI TUMBUHAN",
+    "kelas": "04",
+    "koordinator": "Nazar Muhammad, S.Pd.,M.Pd.NIP. 198703112019031005",
+    "ruang": "LAB BIO B",
+    "hari": "Rabu",
+    "waktu": "14:00-15:45",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP122",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "BEP124",
+    "nama": "TEKNOLOGI PEMBELAJARAN BIOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Ismul Huda, M.SiNIP. 196810281994031004",
+    "ruang": "LABKOM 2.08",
+    "hari": "Kamis",
+    "waktu": "8:00-9:45",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP124",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "BEP124",
+    "nama": "TEKNOLOGI PEMBELAJARAN BIOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Ismul Huda, M.SiNIP. 196810281994031004",
+    "ruang": "LABKOM 2.08",
+    "hari": "Kamis",
+    "waktu": "9:50-11:35",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP124",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "BEP124",
+    "nama": "TEKNOLOGI PEMBELAJARAN BIOLOGI",
+    "kelas": "03",
+    "koordinator": "Dr. Ismul Huda, M.SiNIP. 196810281994031004",
+    "ruang": "LABKOM 2.08",
+    "hari": "Senin",
+    "waktu": "8:00-9:45",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP124",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "BEP124",
+    "nama": "TEKNOLOGI PEMBELAJARAN BIOLOGI",
+    "kelas": "04",
+    "koordinator": "Dr. Ismul Huda, M.SiNIP. 196810281994031004",
+    "ruang": "LABKOM 2.08",
+    "hari": "Senin",
+    "waktu": "9:50-11:35",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP124",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "BEP212",
+    "nama": "BOTANI TUMBUHAN TINGGI",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "15.03.005",
+    "hari": "Kamis",
+    "waktu": "11:40-13:15",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "BEP212",
+    "nama": "BOTANI TUMBUHAN TINGGI",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "15.03.005",
+    "hari": "Kamis",
+    "waktu": "9:50-11:35",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "BEP212",
+    "nama": "BOTANI TUMBUHAN TINGGI",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "15.03.005",
+    "hari": "Senin",
+    "waktu": "8:00-9:45",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP212",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "BEP212",
+    "nama": "BOTANI TUMBUHAN TINGGI",
+    "kelas": "04",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "15.03.005",
+    "hari": "Senin",
+    "waktu": "09:50-11:35",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP212",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "BEP214",
+    "nama": "PRAKTIKUM BOTANI TUMBUHAN TINGGI",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "LAB BIO B",
+    "hari": "Jumat",
+    "waktu": "16:35-18:20",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP214",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "BEP214",
+    "nama": "PRAKTIKUM BOTANI TUMBUHAN TINGGI",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "LAB BIO B",
+    "hari": "Jumat",
+    "waktu": "14:00-15:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP214",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "BEP214",
+    "nama": "PRAKTIKUM BOTANI TUMBUHAN TINGGI",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "LAB BIO B",
+    "hari": "Jumat",
+    "waktu": "9:50-11:35",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP214",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "BEP214",
+    "nama": "PRAKTIKUM BOTANI TUMBUHAN TINGGI",
+    "kelas": "04",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "LAB BIO B",
+    "hari": "Jumat",
+    "waktu": "8:00-9:45",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP214",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "BEP216",
+    "nama": "STRUKTUR HEWAN",
+    "kelas": "01",
+    "koordinator": "Devi Syafrianti, S.Pd., M.SiNIP. 198212072006042001",
+    "ruang": "15.03.005",
+    "hari": "Kamis",
+    "waktu": "14:00-15:45",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "BEP216",
+    "nama": "STRUKTUR HEWAN",
+    "kelas": "02",
+    "koordinator": "Devi Syafrianti, S.Pd., M.SiNIP. 198212072006042001",
+    "ruang": "15.03.005",
+    "hari": "Kamis",
+    "waktu": "16:35-18:20",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP216",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "BEP216",
+    "nama": "STRUKTUR HEWAN",
+    "kelas": "03",
+    "koordinator": "Devi Syafrianti, S.Pd., M.SiNIP. 198212072006042001",
+    "ruang": "2.01",
+    "hari": "Jumat",
+    "waktu": "8:00-9:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP216",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "BEP216",
+    "nama": "STRUKTUR HEWAN",
+    "kelas": "04",
+    "koordinator": "Devi Syafrianti, S.Pd., M.SiNIP. 198212072006042001",
+    "ruang": "2.01",
+    "hari": "Jumat",
+    "waktu": "9:50-11:35",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP216",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "BEP218",
+    "nama": "PRAKTIKUM STRUKTUR HEWAN",
+    "kelas": "01",
+    "koordinator": "Devi Syafrianti, S.Pd., M.SiNIP. 198212072006042001",
+    "ruang": "LAB BIO A",
+    "hari": "Senin",
+    "waktu": "11:40-13:15",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP218",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "BEP218",
+    "nama": "PRAKTIKUM STRUKTUR HEWAN",
+    "kelas": "02",
+    "koordinator": "Devi Syafrianti, S.Pd., M.SiNIP. 198212072006042001",
+    "ruang": "LAB BIO A",
+    "hari": "Senin",
+    "waktu": "8:00-9:45",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP218",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "BEP218",
+    "nama": "PRAKTIKUM STRUKTUR HEWAN",
+    "kelas": "03",
+    "koordinator": "Devi Syafrianti, S.Pd., M.SiNIP. 198212072006042001",
+    "ruang": "LAB BIO A",
+    "hari": "Senin",
+    "waktu": "9:50-11:35",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP218",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "BEP218",
+    "nama": "PRAKTIKUM STRUKTUR HEWAN",
+    "kelas": "04",
+    "koordinator": "Devi Syafrianti, S.Pd., M.SiNIP. 198212072006042001",
+    "ruang": "LAB BIO A",
+    "hari": "Senin",
+    "waktu": "14:00-15:45",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP218",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "BEP220",
+    "nama": "MIKROBIOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Samingan, M.Si.NIP. 196412011990031001",
+    "ruang": "1.05",
+    "hari": "Selasa",
+    "waktu": "14:00-15:45",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP220",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "BEP220",
+    "nama": "MIKROBIOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Samingan, M.Si.NIP. 196412011990031001",
+    "ruang": "1.05",
+    "hari": "Selasa",
+    "waktu": "16:35-18:20",
+    "peserta": "18",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP220",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "BEP220",
+    "nama": "MIKROBIOLOGI",
+    "kelas": "03",
+    "koordinator": "Dr. Samingan, M.Si.NIP. 196412011990031001",
+    "ruang": "15.03.005",
+    "hari": "Senin",
+    "waktu": "14:00-15:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP220",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "BEP220",
+    "nama": "MIKROBIOLOGI",
+    "kelas": "04",
+    "koordinator": "Dr. Samingan, M.Si.NIP. 196412011990031001",
+    "ruang": "15.03.005",
+    "hari": "Senin",
+    "waktu": "16:35-18:20",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP220",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "BEP220",
+    "nama": "MIKROBIOLOGI",
+    "kelas": "05",
+    "koordinator": "Dr. Wiwit Artika, S.Si., M.Ed.NIP. 198206102009122006",
+    "ruang": "15.03.005 (PGMIPAU)",
+    "hari": "Selasa",
+    "waktu": "11:40-13:15",
+    "peserta": "10",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP220",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "BEP222",
+    "nama": "PRAKTIKUM MIKROBIOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Samingan, M.Si.NIP. 196412011990031001",
+    "ruang": "LAB BIO A",
+    "hari": "Jumat",
+    "waktu": "09:50-11:35",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP222",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "BEP222",
+    "nama": "PRAKTIKUM MIKROBIOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Samingan, M.Si.NIP. 196412011990031001",
+    "ruang": "LAB BIO A",
+    "hari": "Jumat",
+    "waktu": "8:00-9:45",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP222",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "BEP222",
+    "nama": "PRAKTIKUM MIKROBIOLOGI",
+    "kelas": "03",
+    "koordinator": "Dr. Samingan, M.Si.NIP. 196412011990031001",
+    "ruang": "LAB BIO A",
+    "hari": "Jumat",
+    "waktu": "16:35-18:20",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP222",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "BEP222",
+    "nama": "PRAKTIKUM MIKROBIOLOGI",
+    "kelas": "04",
+    "koordinator": "Dr. Samingan, M.Si.NIP. 196412011990031001",
+    "ruang": "LAB BIO A",
+    "hari": "Jumat",
+    "waktu": "14:00-15:45",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP222",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "BEP224",
+    "nama": "GIZI DAN KESEHATAN",
+    "kelas": "01",
+    "koordinator": "Dr. Hafnati Rahmatan, M.SiNIP. 196808231993032004",
+    "ruang": "15.03.005",
+    "hari": "Selasa",
+    "waktu": "8:00-9:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP224",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "BEP224",
+    "nama": "GIZI DAN KESEHATAN",
+    "kelas": "02",
+    "koordinator": "Dr. Hafnati Rahmatan, M.SiNIP. 196808231993032004",
+    "ruang": "15.03.005",
+    "hari": "Selasa",
+    "waktu": "9:50-11:35",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP224",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "BEP224",
+    "nama": "GIZI DAN KESEHATAN",
+    "kelas": "03",
+    "koordinator": "Dr. Hafnati Rahmatan, M.SiNIP. 196808231993032004",
+    "ruang": "1.05",
+    "hari": "Jumat",
+    "waktu": "14:00-15:45",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP224",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "BEP224",
+    "nama": "GIZI DAN KESEHATAN",
+    "kelas": "04",
+    "koordinator": "Dr. Hafnati Rahmatan, M.SiNIP. 196808231993032004",
+    "ruang": "1.05",
+    "hari": "Jumat",
+    "waktu": "16:35-18:20",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP224",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "BEP226",
+    "nama": "EVALUASI PEMBELAJARAN BIOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Andi Ulfa Tenri Pada, S.Pd. M.Pd.NIP. 198304212008122003",
+    "ruang": "1.05",
+    "hari": "Jumat",
+    "waktu": "8:00-09:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP226",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "BEP226",
+    "nama": "EVALUASI PEMBELAJARAN BIOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Andi Ulfa Tenri Pada, S.Pd. M.Pd.NIP. 198304212008122003",
+    "ruang": "1.05",
+    "hari": "Jumat",
+    "waktu": "9:50-11:35",
+    "peserta": "19",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP226",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "BEP226",
+    "nama": "EVALUASI PEMBELAJARAN BIOLOGI",
+    "kelas": "03",
+    "koordinator": "Dr. Andi Ulfa Tenri Pada, S.Pd. M.Pd.NIP. 198304212008122003",
+    "ruang": "2.01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP226",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "BEP226",
+    "nama": "EVALUASI PEMBELAJARAN BIOLOGI",
+    "kelas": "04",
+    "koordinator": "Dr. Andi Ulfa Tenri Pada, S.Pd. M.Pd.NIP. 198304212008122003",
+    "ruang": "2.01",
+    "hari": "Selasa",
+    "waktu": "16:35-18:20",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP226",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "BEP226",
+    "nama": "EVALUASI PEMBELAJARAN BIOLOGI",
+    "kelas": "05",
+    "koordinator": "Dr. Andi Ulfa Tenri Pada, S.Pd. M.Pd.NIP. 198304212008122003",
+    "ruang": "1.05 (PGMIPAU)",
+    "hari": "Senin",
+    "waktu": "11:40-13:15",
+    "peserta": "9",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP226",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "BEP228",
+    "nama": "INOVASI DAN MEDIA PEMBELAJARAN",
+    "kelas": "01",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "LABKOM 2.08",
+    "hari": "Selasa",
+    "waktu": "9:50-11:35",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP228",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "BEP228",
+    "nama": "INOVASI DAN MEDIA PEMBELAJARAN",
+    "kelas": "02",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "LABKOM 2.08",
+    "hari": "Selasa",
+    "waktu": "8:00-9:45",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP228",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "BEP228",
+    "nama": "INOVASI DAN MEDIA PEMBELAJARAN",
+    "kelas": "03",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "LABKOM 2.08",
+    "hari": "Kamis",
+    "waktu": "14:00-15:45",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP228",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "BEP228",
+    "nama": "INOVASI DAN MEDIA PEMBELAJARAN",
+    "kelas": "04",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "LABKOM 2.08",
+    "hari": "Kamis",
+    "waktu": "16:35-18:20",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP228",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "BEP228",
+    "nama": "INOVASI DAN MEDIA PEMBELAJARAN",
+    "kelas": "05",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "2.08 LABKOM",
+    "hari": "Jumat",
+    "waktu": "08:00-09:45",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP228",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "BEP310",
+    "nama": "EKOLOGI HEWAN",
+    "kelas": "01",
+    "koordinator": "Dr. Abdullah, S.Pd, M.SiNIP. 197402051999031004",
+    "ruang": "3.03",
+    "hari": "Selasa",
+    "waktu": "9:50-11:35",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP310",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "BEP310",
+    "nama": "EKOLOGI HEWAN",
+    "kelas": "02",
+    "koordinator": "Dr. Abdullah, S.Pd, M.SiNIP. 197402051999031004",
+    "ruang": "3.03",
+    "hari": "Selasa",
+    "waktu": "11:40-13:15",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP310",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "BEP310",
+    "nama": "EKOLOGI HEWAN",
+    "kelas": "03",
+    "koordinator": "Dr. Abdullah, S.Pd, M.SiNIP. 197402051999031004",
+    "ruang": "3.03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:45",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP310",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "BEP310",
+    "nama": "EKOLOGI HEWAN",
+    "kelas": "04",
+    "koordinator": "Dr. Abdullah, S.Pd, M.SiNIP. 197402051999031004",
+    "ruang": "3.03",
+    "hari": "Selasa",
+    "waktu": "16:35-18:20",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP310",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "BEP312",
+    "nama": "PRAKTIKUM EKOLOGI HEWAN",
+    "kelas": "01",
+    "koordinator": "Dr. Abdullah, S.Pd, M.SiNIP. 197402051999031004",
+    "ruang": "LAB BIO B",
+    "hari": "Sabtu",
+    "waktu": "11:40-13:15",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP312",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "BEP312",
+    "nama": "PRAKTIKUM EKOLOGI HEWAN",
+    "kelas": "02",
+    "koordinator": "Dr. Abdullah, S.Pd, M.SiNIP. 197402051999031004",
+    "ruang": "LAB BIO B",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:45",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP312",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "BEP312",
+    "nama": "PRAKTIKUM EKOLOGI HEWAN",
+    "kelas": "03",
+    "koordinator": "Dr. Abdullah, S.Pd, M.SiNIP. 197402051999031004",
+    "ruang": "LAB BIO B",
+    "hari": "Sabtu",
+    "waktu": "9:50-11:35",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP312",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "BEP312",
+    "nama": "PRAKTIKUM EKOLOGI HEWAN",
+    "kelas": "04",
+    "koordinator": "Dr. Abdullah, S.Pd, M.SiNIP. 197402051999031004",
+    "ruang": "LAB BIO B",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:45",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP312",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "BEP314",
+    "nama": "EKOLOGI TUMBUHAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "1.05",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:45",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP314",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "BEP314",
+    "nama": "EKOLOGI TUMBUHAN",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "1.05",
+    "hari": "Kamis",
+    "waktu": "16:35-18:20",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP314",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "BEP314",
+    "nama": "EKOLOGI TUMBUHAN",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "1.05",
+    "hari": "Kamis",
+    "waktu": "14:00-15:45",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP314",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "BEP314",
+    "nama": "EKOLOGI TUMBUHAN",
+    "kelas": "04",
+    "koordinator": "Prof. Dr. Djufri, M.Si.NIP. 196311111989031001",
+    "ruang": "1.05",
+    "hari": "Selasa",
+    "waktu": "11:40-13:15",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP314",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "BEP316",
+    "nama": "PRAKTIKUM EKOLOGI TUMBUHAN",
+    "kelas": "01",
+    "koordinator": "Nazar Muhammad, S.Pd.,M.Pd.NIP. 198703112019031005",
+    "ruang": "LAB BIO A",
+    "hari": "Kamis",
+    "waktu": "14:00-15:45",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP316",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "BEP316",
+    "nama": "PRAKTIKUM EKOLOGI TUMBUHAN",
+    "kelas": "02",
+    "koordinator": "Nazar Muhammad, S.Pd.,M.Pd.NIP. 198703112019031005",
+    "ruang": "LAB BIO A",
+    "hari": "Kamis",
+    "waktu": "11:40-13:15",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP316",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "BEP316",
+    "nama": "PRAKTIKUM EKOLOGI TUMBUHAN",
+    "kelas": "03",
+    "koordinator": "Nazar Muhammad, S.Pd.,M.Pd.NIP. 198703112019031005",
+    "ruang": "LAB BIO A",
+    "hari": "Kamis",
+    "waktu": "09:50-11:35",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP316",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "BEP316",
+    "nama": "PRAKTIKUM EKOLOGI TUMBUHAN",
+    "kelas": "04",
+    "koordinator": "Nazar Muhammad, S.Pd.,M.Pd.NIP. 198703112019031005",
+    "ruang": "LAB BIO A",
+    "hari": "Kamis",
+    "waktu": "08:00-09:50",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP316",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "BEP318",
+    "nama": "GENETIKA",
+    "kelas": "01",
+    "koordinator": "Dr. Khairil, M.SiNIP. 195806291986031002",
+    "ruang": "3.03",
+    "hari": "Jumat",
+    "waktu": "9:50-11:35",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP318",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "BEP318",
+    "nama": "GENETIKA",
+    "kelas": "02",
+    "koordinator": "Dr. Khairil, M.SiNIP. 195806291986031002",
+    "ruang": "15.03.005",
+    "hari": "Kamis",
+    "waktu": "8:00-9:45",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP318",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "BEP318",
+    "nama": "GENETIKA",
+    "kelas": "03",
+    "koordinator": "Dr. Khairil, M.SiNIP. 195806291986031002",
+    "ruang": "15.03.005",
+    "hari": "Selasa",
+    "waktu": "16:35-18:20",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP318",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "91",
+    "kode": "BEP318",
+    "nama": "GENETIKA",
+    "kelas": "04",
+    "koordinator": "Dr. Khairil, M.SiNIP. 195806291986031002",
+    "ruang": "15.03.005",
+    "hari": "Selasa",
+    "waktu": "14:00-15:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP318",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "92",
+    "kode": "BEP318",
+    "nama": "GENETIKA",
+    "kelas": "05",
+    "koordinator": "Dewi Andayani, S.Pd., M.Pd.NIP. 198304212015042003",
+    "ruang": "1.05 (PGMIPAU)",
+    "hari": "Kamis",
+    "waktu": "9:50-11:35",
+    "peserta": "15",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP318",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "93",
+    "kode": "BEP320",
+    "nama": "PRAKTIKUM GENETIKA",
+    "kelas": "01",
+    "koordinator": "Dewi Andayani, S.Pd., M.Pd.NIP. 198304212015042003",
+    "ruang": "LAB BIO A",
+    "hari": "Selasa",
+    "waktu": "11:40-13:15",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP320",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "94",
+    "kode": "BEP320",
+    "nama": "PRAKTIKUM GENETIKA",
+    "kelas": "02",
+    "koordinator": "Dewi Andayani, S.Pd., M.Pd.NIP. 198304212015042003",
+    "ruang": "LAB BIO A",
+    "hari": "Selasa",
+    "waktu": "14:00-15:45",
+    "peserta": "34",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP320",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "95",
+    "kode": "BEP320",
+    "nama": "PRAKTIKUM GENETIKA",
+    "kelas": "03",
+    "koordinator": "Dewi Andayani, S.Pd., M.Pd.NIP. 198304212015042003",
+    "ruang": "LAB BIO A",
+    "hari": "Selasa",
+    "waktu": "9:50-11:35",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP320",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "96",
+    "kode": "BEP320",
+    "nama": "PRAKTIKUM GENETIKA",
+    "kelas": "04",
+    "koordinator": "Dewi Andayani, S.Pd., M.Pd.NIP. 198304212015042003",
+    "ruang": "LAB BIO A",
+    "hari": "Selasa",
+    "waktu": "8:00-9:45",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP320",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "97",
+    "kode": "BEP322",
+    "nama": "PARASITOLOGI",
+    "kelas": "01",
+    "koordinator": "Iswadi, S.Pd., M. SiNIP. 197803282006041024",
+    "ruang": "1.05",
+    "hari": "Sabtu",
+    "waktu": "9:50-11:35",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP322",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "98",
+    "kode": "BEP322",
+    "nama": "PARASITOLOGI",
+    "kelas": "02",
+    "koordinator": "Iswadi, S.Pd., M. SiNIP. 197803282006041024",
+    "ruang": "1.05",
+    "hari": "Sabtu",
+    "waktu": "11:40-13:15",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP322",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "99",
+    "kode": "BEP322",
+    "nama": "PARASITOLOGI",
+    "kelas": "03",
+    "koordinator": "Iswadi, S.Pd., M. SiNIP. 197803282006041024",
+    "ruang": "2.01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:45",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP322",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "100",
+    "kode": "BEP322",
+    "nama": "PARASITOLOGI",
+    "kelas": "04",
+    "koordinator": "Iswadi, S.Pd., M. SiNIP. 197803282006041024",
+    "ruang": "2.01",
+    "hari": "Jumat",
+    "waktu": "16:35-18:20",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP322",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "101",
+    "kode": "BEP322",
+    "nama": "PARASITOLOGI",
+    "kelas": "05",
+    "koordinator": "Iswadi, S.Pd., M. SiNIP. 197803282006041024",
+    "ruang": "1.05",
+    "hari": "Rabu",
+    "waktu": "09:50-11:35",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP322",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "102",
+    "kode": "BEP322",
+    "nama": "PARASITOLOGI",
+    "kelas": "06",
+    "koordinator": "Iswadi, S.Pd., M. SiNIP. 197803282006041024",
+    "ruang": "1.05",
+    "hari": "Sabtu",
+    "waktu": "09:50-11:35",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP322",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "103",
+    "kode": "BEP504",
+    "nama": "MIKROTEKNIK",
+    "kelas": "01",
+    "koordinator": "Dra. Asiah, M.PNIP. 196704031991022001",
+    "ruang": "LAB. BIO A",
+    "hari": "Senin",
+    "waktu": "16:35-18:20",
+    "peserta": "6",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP504",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "104",
+    "kode": "BEP506",
+    "nama": "EKOLOGI PERAIRAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. M. Ali S, M.SiNIP. 195903251986031003",
+    "ruang": "1.05",
+    "hari": "Kamis",
+    "waktu": "11:40-13:15",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP506",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "105",
+    "kode": "BEP510",
+    "nama": "MIKOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Samingan, M.Si.NIP. 196412011990031001",
+    "ruang": "3.03",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:45",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP510",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "106",
+    "kode": "BEP510",
+    "nama": "MIKOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Samingan, M.Si.NIP. 196412011990031001",
+    "ruang": "3.03",
+    "hari": "Sabtu",
+    "waktu": "11:30-13:15",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP510",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "107",
+    "kode": "BEP512",
+    "nama": "EVOLUSI",
+    "kelas": "01",
+    "koordinator": "Dewi Andayani, S.Pd., M.Pd.NIP. 198304212015042003",
+    "ruang": "3.03",
+    "hari": "Senin",
+    "waktu": "11:40-13:15",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP512",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "108",
+    "kode": "BEP512",
+    "nama": "EVOLUSI",
+    "kelas": "02",
+    "koordinator": "Dewi Andayani, S.Pd., M.Pd.NIP. 198304212015042003",
+    "ruang": "1.05",
+    "hari": "Sabtu",
+    "waktu": "16:35-18:20",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEP512",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "109",
+    "kode": "BEPP01",
+    "nama": "SEMINAR PENDIDIKAN BIOLOGI",
+    "kelas": "01",
+    "koordinator": "Wardiah, S.Pd., M.BioNIP. 198011062006042003",
+    "ruang": "3.03",
+    "hari": "Jumat",
+    "waktu": "14:00-15:45",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEPP01",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "110",
+    "kode": "BEPP01",
+    "nama": "SEMINAR PENDIDIKAN BIOLOGI",
+    "kelas": "02",
+    "koordinator": "Wardiah, S.Pd., M.BioNIP. 198011062006042003",
+    "ruang": "3.03",
+    "hari": "Jumat",
+    "waktu": "16:35-18:20",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEPP01",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "111",
+    "kode": "BEPP01",
+    "nama": "SEMINAR PENDIDIKAN BIOLOGI",
+    "kelas": "03",
+    "koordinator": "Wardiah, S.Pd., M.BioNIP. 198011062006042003",
+    "ruang": "2.01",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEPP01",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "112",
+    "kode": "BEPP01",
+    "nama": "SEMINAR PENDIDIKAN BIOLOGI",
+    "kelas": "04",
+    "koordinator": "Wardiah, S.Pd., M.BioNIP. 198011062006042003",
+    "ruang": "2.01",
+    "hari": "Sabtu",
+    "waktu": "9:50-11:35",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEPP01",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "113",
+    "kode": "BEPP02",
+    "nama": "KONSTRUKSI INSTRUMEN",
+    "kelas": "01",
+    "koordinator": "Dr. Andi Ulfa Tenri Pada, S.Pd. M.Pd.NIP. 198304212008122003",
+    "ruang": "3.03",
+    "hari": "Rabu",
+    "waktu": "16:35-18:20",
+    "peserta": "11",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEPP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "114",
+    "kode": "BEPP03",
+    "nama": "KAPITA SELEKTA PENDIDIKAN BIOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Safrida, S.Pd, M.Si., AIFO.NIP. 198008052005012003",
+    "ruang": "3.03",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:45",
+    "peserta": "4",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEPP03",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "115",
+    "kode": "BEPP04",
+    "nama": "BERPIKIR KREATIF",
+    "kelas": "01",
+    "koordinator": "Dr. Andi Ulfa Tenri Pada, S.Pd. M.Pd.NIP. 198304212008122003",
+    "ruang": "3.03",
+    "hari": "Selasa",
+    "waktu": "8:00-9:45",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEPP04",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "116",
+    "kode": "BEPP06",
+    "nama": "KAJIAN\u00a0KURIKULUM\u00a0BIOLOGI SEKOLAH MENENGAH",
+    "kelas": "01",
+    "koordinator": "Dr. Hafnati Rahmatan, M.SiNIP. 196808231993032004",
+    "ruang": "2.01",
+    "hari": "Selasa",
+    "waktu": "11:40-13:15",
+    "peserta": "2",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEPP06",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "117",
+    "kode": "BEPP07",
+    "nama": "PEMBELAJARAN\u00a0BIOLOGI\u00a0BERBASIS\u00a0LINGKUNGAN",
+    "kelas": "01",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "2.01",
+    "hari": "Senin",
+    "waktu": "14:00-15:45",
+    "peserta": "13",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "BEPP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "118",
+    "kode": "EDU101",
+    "nama": "LANDASAN PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Wiwit Artika, S.Si., M.Ed.NIP. 198206102009122006",
+    "ruang": "2.01",
+    "hari": "Rabu",
+    "waktu": "14:00-15:45",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU101",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "119",
+    "kode": "EDU101",
+    "nama": "LANDASAN PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Wiwit Artika, S.Si., M.Ed.NIP. 198206102009122006",
+    "ruang": "2.01",
+    "hari": "Rabu",
+    "waktu": "16:35-18:20",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU101",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "120",
+    "kode": "EDU101",
+    "nama": "LANDASAN PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Wiwit Artika, S.Si., M.Ed.NIP. 198206102009122006",
+    "ruang": "15.03.005",
+    "hari": "Senin",
+    "waktu": "11:40-13:15",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU101",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "121",
+    "kode": "EDU101",
+    "nama": "LANDASAN PENDIDIKAN",
+    "kelas": "04",
+    "koordinator": "Dr. Wiwit Artika, S.Si., M.Ed.NIP. 198206102009122006",
+    "ruang": "3.03",
+    "hari": "Jumat",
+    "waktu": "8:00-9:45",
+    "peserta": "21",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU101",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "122",
+    "kode": "EDU201",
+    "nama": "PSIKOLOGI PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "3.03",
+    "hari": "Senin",
+    "waktu": "8:00-9:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU201",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "123",
+    "kode": "EDU201",
+    "nama": "PSIKOLOGI PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "3.03",
+    "hari": "Senin",
+    "waktu": "9:50-11:35",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU201",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "124",
+    "kode": "EDU201",
+    "nama": "PSIKOLOGI PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "3.03",
+    "hari": "Kamis",
+    "waktu": "8:00-9:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU201",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "125",
+    "kode": "EDU201",
+    "nama": "PSIKOLOGI PENDIDIKAN",
+    "kelas": "04",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "3.03",
+    "hari": "Kamis",
+    "waktu": "9:50-11:35",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU201",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "126",
+    "kode": "EDU301",
+    "nama": "PROFESI PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Wiwit Artika, S.Si., M.Ed.NIP. 198206102009122006",
+    "ruang": "1.05",
+    "hari": "Senin",
+    "waktu": "14:00-15:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU301",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "127",
+    "kode": "EDU301",
+    "nama": "PROFESI PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Wiwit Artika, S.Si., M.Ed.NIP. 198206102009122006",
+    "ruang": "1.05",
+    "hari": "Senin",
+    "waktu": "16:35-18:20",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU301",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "128",
+    "kode": "EDU301",
+    "nama": "PROFESI PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Wiwit Artika, S.Si., M.Ed.NIP. 198206102009122006",
+    "ruang": "2.01",
+    "hari": "Selasa",
+    "waktu": "8:00-9:45",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU301",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "129",
+    "kode": "EDU301",
+    "nama": "PROFESI PENDIDIKAN",
+    "kelas": "04",
+    "koordinator": "Dr. Wiwit Artika, S.Si., M.Ed.NIP. 198206102009122006",
+    "ruang": "2.01",
+    "hari": "Selasa",
+    "waktu": "9:50-11:35",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU301",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "130",
+    "kode": "EDU302",
+    "nama": "PENGAJARAN MIKRO",
+    "kelas": "01",
+    "koordinator": "Yaumil Istiqlal M.Nur, S.Pd.I., M.Pd.NIP. 199108182019031015",
+    "ruang": "MTL",
+    "hari": "Senin",
+    "waktu": "08:00-10:40",
+    "peserta": "4",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDU302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "131",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "01",
+    "koordinator": "Dr. Ismul Huda, M.SiNIP. 196810281994031004",
+    "ruang": "MTL 1",
+    "hari": "Sabtu",
+    "waktu": "16:35-18:20",
+    "peserta": "1",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "132",
+    "kode": "EDUP09",
+    "nama": "PLP II",
+    "kelas": "01",
+    "koordinator": "Dr. Ismul Huda, M.SiNIP. 196810281994031004",
+    "ruang": "MTL 1",
+    "hari": "Sabtu",
+    "waktu": "16:35-18:20",
+    "peserta": "4",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDUP09",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "133",
+    "kode": "EDUPA1",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Dr. Muhibbuddin, M.S.NIP. 196305141989031002",
+    "ruang": "prodi",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:00",
+    "peserta": "148",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "EDUPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  },
+  {
+    "no": "134",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Dr. Ismul Huda, M.SiNIP. 196810281994031004",
+    "ruang": "prodi",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:00",
+    "peserta": "10",
+    "keterangan": "KIPS1Pendidikan Biologi",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610301"
+    }
+  }
+]

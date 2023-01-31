@@ -1,0 +1,933 @@
+[
+  {
+    "no": "1",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Taufik Fuadi Abidin, S.Si., M.TechNIP. 197010081994031002",
+    "ruang": "BAPEL KKN",
+    "hari": "Sabtu",
+    "waktu": "8:00-16:00",
+    "peserta": "8",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "13",
+    "koordinator": "Dr. Ir. Helmi, M.Agric.ScNIP. 196512311992031039",
+    "ruang": "B.03.14",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "14",
+    "koordinator": "Dr. Ir. Muyassir, M.P.NIP. 196404211993091001",
+    "ruang": "B.03.07",
+    "hari": "Jumat",
+    "waktu": "16:00-18:00",
+    "peserta": "27",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "SOL102",
+    "nama": "DASAR-DASAR ILMU TANAH",
+    "kelas": "01",
+    "koordinator": "Ir. Munawar Khalil, M.S.NIP. 196010061986021002",
+    "ruang": "B. 03.07",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "27",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "SOL102",
+    "nama": "DASAR-DASAR ILMU TANAH",
+    "kelas": "02",
+    "koordinator": "Yusnizar, S.P., M.SiNIP. 196808161997032001",
+    "ruang": "B. 03.13",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "22",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "SOL104",
+    "nama": "AGROKLIMATOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Hairul Basri, M.ScNIP. 196702101991021001",
+    "ruang": "B. 03.12",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "SOL104",
+    "nama": "AGROKLIMATOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Syakur, M.P.NIP. 196803041993031003",
+    "ruang": "B.03.12",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "24",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "SOL106",
+    "nama": "DASAR  DASAR AGRONOMI",
+    "kelas": "01",
+    "koordinator": "Ir. Nurhayati, M.P.NIP. 195911221987022001",
+    "ruang": "B.03.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "SOL106",
+    "nama": "DASAR  DASAR AGRONOMI",
+    "kelas": "02",
+    "koordinator": "Ir. Erida Nurahmi, M.P.NIP. 196903041993032016",
+    "ruang": "D. 03.01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "SOL108",
+    "nama": "FISIOLOGI TUMBUHAN",
+    "kelas": "01",
+    "koordinator": "Nura, SP., M.SiNIP. 198708302016012101",
+    "ruang": "B. 03.13",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "28",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "SOL108",
+    "nama": "FISIOLOGI TUMBUHAN",
+    "kelas": "02",
+    "koordinator": "Ir. Erita Hayati, M.P.NIP. 196608101993032002",
+    "ruang": "B.03.12",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "23",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "SOL110",
+    "nama": "PENGINDERAAN  JAUH",
+    "kelas": "01",
+    "koordinator": "Ir. Sugianto, M.Sc, PhDNIP. 196502231992031003",
+    "ruang": "B.03.07",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "SOL110",
+    "nama": "PENGINDERAAN  JAUH",
+    "kelas": "02",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "B.03.10",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "SOL112",
+    "nama": "PRAKTEK PENGINDERAAN JAUH",
+    "kelas": "01",
+    "koordinator": "Ir. Sugianto, M.Sc, PhDNIP. 196502231992031003",
+    "ruang": "LAB TNH",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "27",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "SOL112",
+    "nama": "PRAKTEK PENGINDERAAN JAUH",
+    "kelas": "02",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "LAB.TNH",
+    "hari": "Jumat",
+    "waktu": "14:00-14:50",
+    "peserta": "30",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "SOL202",
+    "nama": "AGROHIDROLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Hairul Basri, M.ScNIP. 196702101991021001",
+    "ruang": "B.03.06",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "24",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "SOL202",
+    "nama": "AGROHIDROLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Syakur, M.P.NIP. 196803041993031003",
+    "ruang": "B. 03.10",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "20",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "SOL204",
+    "nama": "PERANCANGAN PERCOBAAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Muyassir, M.P.NIP. 196404211993091001",
+    "ruang": "B. 03.02",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "SOL204",
+    "nama": "PERANCANGAN PERCOBAAN",
+    "kelas": "02",
+    "koordinator": "Zuraida, S.P, M.SiNIP. 196903101994032002",
+    "ruang": "B. 03.04",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "SOL206",
+    "nama": "KONSERVASI TANAH DAN AIR",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Hairul Basri, M.ScNIP. 196702101991021001",
+    "ruang": "B. 03.12",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "22",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "SOL206",
+    "nama": "KONSERVASI TANAH DAN AIR",
+    "kelas": "02",
+    "koordinator": "Ir. Manfarizah, M.SiNIP. 196809081993032003",
+    "ruang": "B.03.14",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "22",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "SOL208",
+    "nama": "KESUBURAN TANAH DAN PEMUPUKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Muyassir, M.P.NIP. 196404211993091001",
+    "ruang": "B.03.07",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "23",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "SOL208",
+    "nama": "KESUBURAN TANAH DAN PEMUPUKAN",
+    "kelas": "02",
+    "koordinator": "Zuraida, S.P, M.SiNIP. 196903101994032002",
+    "ruang": "B.03.05",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "22",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL208",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "SOL210",
+    "nama": "MORFOLOGI DAN KLASIFIKASI TANAH",
+    "kelas": "01",
+    "koordinator": "Ir. Zainabun, M.S.NIP. 195912071985032002",
+    "ruang": "D. 01.01",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL210",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "SOL210",
+    "nama": "MORFOLOGI DAN KLASIFIKASI TANAH",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Teti Arabia, MS.NIP. 196109141986022001",
+    "ruang": "B. 03.03",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "22",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL210",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "SOL212",
+    "nama": "ILMU UKUR TANAH DAN KARTOGRAFI",
+    "kelas": "01",
+    "koordinator": "Ir. Sugianto, M.Sc, PhDNIP. 196502231992031003",
+    "ruang": "D. 03.02",
+    "hari": "Senin",
+    "waktu": "16:20-17:10",
+    "peserta": "27",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "SOL212",
+    "nama": "ILMU UKUR TANAH DAN KARTOGRAFI",
+    "kelas": "02",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "B. 03.07",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "20",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "SOL302",
+    "nama": "NUTRISI TANAMAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Fikrinda, M.SiNIP. 196905141994032001",
+    "ruang": "B. 03.03",
+    "hari": "Senin",
+    "waktu": "16:20-17:10",
+    "peserta": "32",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "SOL302",
+    "nama": "NUTRISI TANAMAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Yadi Jufri, M.PNIP. 196511271990091001",
+    "ruang": "B. 03.09",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "SOL304",
+    "nama": "SISTEM INFORMASI GEOGRAFIS (SIG)",
+    "kelas": "01",
+    "koordinator": "Ir. Sugianto, M.Sc, PhDNIP. 196502231992031003",
+    "ruang": "D. 03.05",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "42",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL304",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "SOL304",
+    "nama": "SISTEM INFORMASI GEOGRAFIS (SIG)",
+    "kelas": "02",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "B. 03.09",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL304",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "SOL306",
+    "nama": "GEOMORFOLOGI DAN ANALISIS LANSEKAP",
+    "kelas": "01",
+    "koordinator": "Ir. Sugianto, M.Sc, PhDNIP. 196502231992031003",
+    "ruang": "B. 03.14",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "29",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL306",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "SOL306",
+    "nama": "GEOMORFOLOGI DAN ANALISIS LANSEKAP",
+    "kelas": "02",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "D. 03.02",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "33",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL306",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "SOL308",
+    "nama": "PRAKTEK SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "01",
+    "koordinator": "Ir. Sugianto, M.Sc, PhDNIP. 196502231992031003",
+    "ruang": "LAB.TNH",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "37",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL308",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "SOL308",
+    "nama": "PRAKTEK SISTEM INFORMASI GEOGRAFIS",
+    "kelas": "02",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "LAB TNH",
+    "hari": "Selasa",
+    "waktu": "14:00-14:50",
+    "peserta": "40",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL308",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "SOL310",
+    "nama": "PRAKTEK GEOMORFOLOGI DAN ANALISIS LANSEKAP",
+    "kelas": "01",
+    "koordinator": "Ir. Sugianto, M.Sc, PhDNIP. 196502231992031003",
+    "ruang": "LAB.TNH",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "30",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL310",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "SOL310",
+    "nama": "PRAKTEK GEOMORFOLOGI DAN ANALISIS LANSEKAP",
+    "kelas": "02",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "LAB.TNH",
+    "hari": "Kamis",
+    "waktu": "16:20-17:10",
+    "peserta": "33",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL310",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "SOL502",
+    "nama": "KARAKTERISTIK DAN PENGELOLAAN LAHAN RAWA",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Teti Arabia, MS.NIP. 196109141986022001",
+    "ruang": "D. 03.03",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL502",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "SOL504",
+    "nama": "KARAKTERISTIK DAN PENGELOLAAN LAHAN SAWAH",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Teti Arabia, MS.NIP. 196109141986022001",
+    "ruang": "B. 03.14",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "18",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL504",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "SOL506",
+    "nama": "REKLAMASI DAN REHABILITASI LAHAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Sufardi, M.S.NIP. 196211171987021001",
+    "ruang": "B.03.05",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "17",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL506",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "SOL506",
+    "nama": "REKLAMASI DAN REHABILITASI LAHAN",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Ir. Darusman, M.Sc.NIP. 196210091987021001",
+    "ruang": "B. 03.05",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL506",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "SOL508",
+    "nama": "TAKSONOMI TANAH",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Teti Arabia, MS.NIP. 196109141986022001",
+    "ruang": "D.01.03",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "18",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL508",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "SOL510",
+    "nama": "AGROEKOLOGI",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Sufardi, M.S.NIP. 196211171987021001",
+    "ruang": "B.03.09",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL510",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "SOL512",
+    "nama": "ANALISIS TANAH DAN TANAMAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Muyassir, M.P.NIP. 196404211993091001",
+    "ruang": "B. 03.13",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "31",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL512",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "SOL514",
+    "nama": "APLIKASI PENGINDERAAN JAUH",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Abubakar, M.S.NIP. 196210101988111001",
+    "ruang": "D. 03.03",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "27",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL514",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "SOL516",
+    "nama": "APLIKASI RENCANA TATA RUANG  WILAYAH",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Abubakar, M.S.NIP. 196210101988111001",
+    "ruang": "B. 03.10",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "44",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOL516",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "SOLP02",
+    "nama": "PRAKTEK KETERAMPILAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Fikrinda, M.SiNIP. 196905141994032001",
+    "ruang": "PRODI ILMU TANAH",
+    "hari": "Sabtu",
+    "waktu": "8:00-16:00",
+    "peserta": "40",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOLP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "SOLP04",
+    "nama": "SEMINAR",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Fikrinda, M.SiNIP. 196905141994032001",
+    "ruang": "PRODI ILMU TANAH",
+    "hari": "Sabtu",
+    "waktu": "8:00-16:00",
+    "peserta": "70",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOLP04",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "SOLPA1",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Ir. Sugianto, M.Sc, PhDNIP. 196502231992031003",
+    "ruang": "PRODI ILMU TANAH",
+    "hari": "Sabtu",
+    "waktu": "8:00-16:00",
+    "peserta": "107",
+    "keterangan": "PertanianS1Ilmu Tanah",
+    "kode-peserta": {
+      "data-kode": "SOLPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510801"
+    }
+  }
+]

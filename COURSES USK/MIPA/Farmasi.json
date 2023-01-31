@@ -1,0 +1,971 @@
+[
+  {
+    "no": "1",
+    "kode": "MFI108",
+    "nama": "ANATOMI DAN FISIOLOGI MANUSIA",
+    "kelas": "A",
+    "koordinator": "Misrahanum, S.Si., M.KesNIP. 197711072010122001",
+    "ruang": "E.02.07",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "30",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI108",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "MFI108",
+    "nama": "ANATOMI DAN FISIOLOGI MANUSIA",
+    "kelas": "B",
+    "koordinator": "Misrahanum, S.Si., M.KesNIP. 197711072010122001",
+    "ruang": "E.02.07",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI108",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "MFI110",
+    "nama": "KIMIA ORGANIK",
+    "kelas": "A",
+    "koordinator": "Dr.rer.nat. Khairan, S.Si., M.SiNIP. 197506222005011001",
+    "ruang": "E.02.07",
+    "hari": "Rabu",
+    "waktu": "16:00-16:50",
+    "peserta": "29",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI110",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "MFI110",
+    "nama": "KIMIA ORGANIK",
+    "kelas": "B",
+    "koordinator": "Dr.rer.nat. Khairan, S.Si., M.SiNIP. 197506222005011001",
+    "ruang": "E.02.07",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "29",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI110",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "MFI114",
+    "nama": "FARMASETIKA",
+    "kelas": "A",
+    "koordinator": "Lydia Septa Desiyana, S.Farm., M.Si.AptNIP. 198109252008122002",
+    "ruang": "E.02.08",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "30",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI114",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "MFI114",
+    "nama": "FARMASETIKA",
+    "kelas": "B",
+    "koordinator": "Lydia Septa Desiyana, S.Farm., M.Si.AptNIP. 198109252008122002",
+    "ruang": "E.02.07",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "30",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI114",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "MFI116",
+    "nama": "PENGANTAR KEFARMASIAN",
+    "kelas": "A",
+    "koordinator": "Apt.. Fajar Fakri, S.Farm., M.S.FarmNIP. 199505012022031011",
+    "ruang": "E.02.08",
+    "hari": "Kamis",
+    "waktu": "12:00-12:50",
+    "peserta": "29",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI116",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "MFI116",
+    "nama": "PENGANTAR KEFARMASIAN",
+    "kelas": "B",
+    "koordinator": "Apt.. Fajar Fakri, S.Farm., M.S.FarmNIP. 199505012022031011",
+    "ruang": "E.02.08",
+    "hari": "Kamis",
+    "waktu": "8:00-8:50",
+    "peserta": "30",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI116",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "MFI206",
+    "nama": "TEKNOLOGI SEDIAAN FARMASI SOLID",
+    "kelas": "A",
+    "koordinator": "Hilda Maysarah, S.Farm., Apt., M.Si.NIP. 198505022014042002",
+    "ruang": "E.02.08",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "24",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI206",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "MFI206",
+    "nama": "TEKNOLOGI SEDIAAN FARMASI SOLID",
+    "kelas": "B",
+    "koordinator": "Hilda Maysarah, S.Farm., Apt., M.Si.NIP. 198505022014042002",
+    "ruang": "B.03.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI206",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "MFI210",
+    "nama": "FARMAKOLOGI II",
+    "kelas": "A",
+    "koordinator": "Didi Nurhadi Illian, S. Farm., M.Si., Apt.NIP. 199111302019031015",
+    "ruang": "E.02.08",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI210",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "MFI210",
+    "nama": "FARMAKOLOGI II",
+    "kelas": "B",
+    "koordinator": "Didi Nurhadi Illian, S. Farm., M.Si., Apt.NIP. 199111302019031015",
+    "ruang": "E.02.08",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "31",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI210",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "MFI228",
+    "nama": "BIOTEKNOLOGI FARMASI",
+    "kelas": "A",
+    "koordinator": "Muhammad Ali Husni, S.Si., M.SiNIP. 197801142008121004",
+    "ruang": "E.02.07",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI228",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "MFI228",
+    "nama": "BIOTEKNOLOGI FARMASI",
+    "kelas": "B",
+    "koordinator": "Muhammad Ali Husni, S.Si., M.SiNIP. 197801142008121004",
+    "ruang": "E.02.07",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "32",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI228",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "MFI230",
+    "nama": "KIMIA MEDISINAL",
+    "kelas": "A",
+    "koordinator": "Dr.rer.nat. Khairan, S.Si., M.SiNIP. 197506222005011001",
+    "ruang": "E.02.07",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "24",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI230",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "MFI230",
+    "nama": "KIMIA MEDISINAL",
+    "kelas": "B",
+    "koordinator": "Dr.rer.nat. Khairan, S.Si., M.SiNIP. 197506222005011001",
+    "ruang": "E.02.08",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "31",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI230",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "MFI256",
+    "nama": "BOTANI FARMASI",
+    "kelas": "A",
+    "koordinator": "Misrahanum, S.Si., M.KesNIP. 197711072010122001",
+    "ruang": "E.02.08",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "24",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI256",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "MFI256",
+    "nama": "BOTANI FARMASI",
+    "kelas": "B",
+    "koordinator": "Misrahanum, S.Si., M.KesNIP. 197711072010122001",
+    "ruang": "E.02.08",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI256",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "MFI258",
+    "nama": "ANALISA FARMASI",
+    "kelas": "A",
+    "koordinator": "Sadli, ST., M.SiNIP. 197602062009121002",
+    "ruang": "E.02.07",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI258",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "MFI258",
+    "nama": "ANALISA FARMASI",
+    "kelas": "B",
+    "koordinator": "Sadli, ST., M.SiNIP. 197602062009121002",
+    "ruang": "E.02.07",
+    "hari": "Kamis",
+    "waktu": "12:00-12:50",
+    "peserta": "32",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI258",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "MFI260",
+    "nama": "KOSMETOLOGI",
+    "kelas": "A",
+    "koordinator": "Lydia Septa Desiyana, S.Farm., M.Si.AptNIP. 198109252008122002",
+    "ruang": "E.02.07",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "23",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI260",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "MFI260",
+    "nama": "KOSMETOLOGI",
+    "kelas": "B",
+    "koordinator": "Lydia Septa Desiyana, S.Farm., M.Si.AptNIP. 198109252008122002",
+    "ruang": "E.02.08",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI260",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "MFI262",
+    "nama": "IMUNOLOGI",
+    "kelas": "A",
+    "koordinator": "Didi Nurhadi Illian, S. Farm., M.Si., Apt.NIP. 199111302019031015",
+    "ruang": "E.02.08",
+    "hari": "Selasa",
+    "waktu": "16:00-17:40",
+    "peserta": "21",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI262",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "MFI262",
+    "nama": "IMUNOLOGI",
+    "kelas": "B",
+    "koordinator": "Didi Nurhadi Illian, S. Farm., M.Si., Apt.NIP. 199111302019031015",
+    "ruang": "B.03.02",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "33",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI262",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "MFI310",
+    "nama": "TEKNOLOGI SEDIAAN FARMASI STERIL",
+    "kelas": "A",
+    "koordinator": "Apt. Nadia Isnaini, S.Farm., M.ScNIP. 199407042022032016",
+    "ruang": "B.03.02",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "33",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI310",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "MFI310",
+    "nama": "TEKNOLOGI SEDIAAN FARMASI STERIL",
+    "kelas": "B",
+    "koordinator": "Apt. Nadia Isnaini, S.Farm., M.ScNIP. 199407042022032016",
+    "ruang": "E.02.07",
+    "hari": "Selasa",
+    "waktu": "16:00-17:40",
+    "peserta": "33",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI310",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "MFI312",
+    "nama": "FARMAKOTERAPI II",
+    "kelas": "A",
+    "koordinator": "Tedy Kurniawan Bakri, S.Farm., M. Farm.AptNIP. 198705082015041002",
+    "ruang": "B.03.02",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "33",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI312",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "MFI312",
+    "nama": "FARMAKOTERAPI II",
+    "kelas": "B",
+    "koordinator": "Tedy Kurniawan Bakri, S.Farm., M. Farm.AptNIP. 198705082015041002",
+    "ruang": "-",
+    "hari": "Rabu",
+    "waktu": "16:00-16:50",
+    "peserta": "34",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI312",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "MFI314",
+    "nama": "ASUHAN KEFARMASIAN I",
+    "kelas": "A",
+    "koordinator": "Lydia Septa Desiyana, S.Farm., M.Si.AptNIP. 198109252008122002",
+    "ruang": "B.03.02",
+    "hari": "Selasa",
+    "waktu": "14:00-14:50",
+    "peserta": "32",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI314",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "MFI314",
+    "nama": "ASUHAN KEFARMASIAN I",
+    "kelas": "B",
+    "koordinator": "Lydia Septa Desiyana, S.Farm., M.Si.AptNIP. 198109252008122002",
+    "ruang": "E.02.07",
+    "hari": "Jumat",
+    "waktu": "16:00-16:50",
+    "peserta": "34",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI314",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "MFI318",
+    "nama": "TEKNOLOGI SEDIAAN FARMASI BAHAN ALAM",
+    "kelas": "A",
+    "koordinator": "Irma Sari, M.Si., AptNIP. 198203232012122001",
+    "ruang": "B.03.02",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "32",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI318",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "MFI318",
+    "nama": "TEKNOLOGI SEDIAAN FARMASI BAHAN ALAM",
+    "kelas": "B",
+    "koordinator": "Irma Sari, M.Si., AptNIP. 198203232012122001",
+    "ruang": "-",
+    "hari": "Jumat",
+    "waktu": "8:00-8:50",
+    "peserta": "32",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI318",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "MFI322",
+    "nama": "FITOKIMIA",
+    "kelas": "A",
+    "koordinator": "Dr.rer.nat. Khairan, S.Si., M.SiNIP. 197506222005011001",
+    "ruang": "B.03.02",
+    "hari": "Rabu",
+    "waktu": "16:00-17:40",
+    "peserta": "33",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI322",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "MFI322",
+    "nama": "FITOKIMIA",
+    "kelas": "B",
+    "koordinator": "Dr.rer.nat. Khairan, S.Si., M.SiNIP. 197506222005011001",
+    "ruang": "E.02.08",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI322",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "MFI324",
+    "nama": "MANAJEMEN FARMASI",
+    "kelas": "A",
+    "koordinator": "Hilda Maysarah, S.Farm., Apt., M.Si.NIP. 198505022014042002",
+    "ruang": "B.03.02",
+    "hari": "Selasa",
+    "waktu": "16:00-16:50",
+    "peserta": "35",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI324",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "MFI324",
+    "nama": "MANAJEMEN FARMASI",
+    "kelas": "B",
+    "koordinator": "Hilda Maysarah, S.Farm., Apt., M.Si.NIP. 198505022014042002",
+    "ruang": "B.03.02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI324",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "MFI326",
+    "nama": "FITOTERAPI",
+    "kelas": "A",
+    "koordinator": "Irma Sari, M.Si., AptNIP. 198203232012122001",
+    "ruang": "E.02.08",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "35",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI326",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "MFI326",
+    "nama": "FITOTERAPI",
+    "kelas": "B",
+    "koordinator": "Irma Sari, M.Si., AptNIP. 198203232012122001",
+    "ruang": "E.02.07",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "23",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI326",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "MFI506",
+    "nama": "FARMASI BAHAN ALAM BAHARI",
+    "kelas": "A",
+    "koordinator": "Irma Sari, M.Si., AptNIP. 198203232012122001",
+    "ruang": "B.03.02",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "4",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI506",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "MFI524",
+    "nama": "PENGEMBANGAN PRODUK",
+    "kelas": "A",
+    "koordinator": "Hilda Maysarah, S.Farm., Apt., M.Si.NIP. 198505022014042002",
+    "ruang": "B.03.02",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "26",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI524",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "MFI526",
+    "nama": "FARMAKOEPIDEMIOLOGI",
+    "kelas": "A",
+    "koordinator": "Sadli, ST., M.SiNIP. 197602062009121002",
+    "ruang": "B.03.02",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "17",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI526",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "MFI532",
+    "nama": "PENGENDALIAN MUTU MAKANAN",
+    "kelas": "A",
+    "koordinator": "Sadli, ST., M.SiNIP. 197602062009121002",
+    "ruang": "B.03.02",
+    "hari": "Jumat",
+    "waktu": "16:00-17:40",
+    "peserta": "38",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI532",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "MFI534",
+    "nama": "PATOLOGI DAN PATOFISIOLOGI",
+    "kelas": "A",
+    "koordinator": "Misrahanum, S.Si., M.KesNIP. 197711072010122001",
+    "ruang": "B.03.02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI534",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "MFI536",
+    "nama": "KOMUNIKASI DAN KONSELING",
+    "kelas": "A",
+    "koordinator": "Tedy Kurniawan Bakri, S.Farm., M. Farm.AptNIP. 198705082015041002",
+    "ruang": "-",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "18",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI536",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "MFI538",
+    "nama": "KAPITA SELEKTA",
+    "kelas": "A",
+    "koordinator": "Sadli, ST., M.SiNIP. 197602062009121002",
+    "ruang": "B.03.02",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "14",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MFI538",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "A",
+    "koordinator": "Lydia Septa Desiyana, S.Farm., M.Si.AptNIP. 198109252008122002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "2",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "MPAP01",
+    "nama": "PENGANTAR TIK",
+    "kelas": "A",
+    "koordinator": "Razief Perucha Fauzie Afidh, S.Si., M.ScNIP. 198408062012121002",
+    "ruang": "-",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MPAP01",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "MPAP02",
+    "nama": "PENGANTAR STATISTIKA",
+    "kelas": "A",
+    "koordinator": "Ridha Ferdhiana, S.Si., M.ScNIP. 197302141998022001",
+    "ruang": "E.02.08",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "62",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MPAP02",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "MPAP03",
+    "nama": "KEWIRAUSAHAAN",
+    "kelas": "A",
+    "koordinator": "Lydia Septa Desiyana, S.Farm., M.Si.AptNIP. 198109252008122002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MPAP03",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "MPAPA1",
+    "nama": "PROPOSAL PENELITIAN",
+    "kelas": "A",
+    "koordinator": "Apt. Nadia Isnaini, S.Farm., M.ScNIP. 199407042022032016",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "48",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MPAPA1",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "MPAPA2",
+    "nama": "TUGAS AKHIR",
+    "kelas": "A",
+    "koordinator": "Apt. Nadia Isnaini, S.Farm., M.ScNIP. 199407042022032016",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "82",
+    "keterangan": "MIPAS1Farmasi",
+    "kode-peserta": {
+      "data-kode": "MPAPA2",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810901"
+    }
+  }
+]

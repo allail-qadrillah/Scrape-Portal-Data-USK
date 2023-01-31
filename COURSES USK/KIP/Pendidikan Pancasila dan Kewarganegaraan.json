@@ -1,0 +1,1769 @@
+[
+  {
+    "no": "1",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Drs. Bahrun, M.PdNIP. 195908241987021001",
+    "ruang": "1.02",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Drs. Bahrun, M.PdNIP. 195908241987021001",
+    "ruang": "1.02",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "EDU102",
+    "nama": "FILSAFAT PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Drs. Bahrun, M.PdNIP. 195908241987021001",
+    "ruang": "2.09 A",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDU102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Yunus, S.Pd., M.PdNIP. 197203102005011001",
+    "ruang": "2.09 A",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "02",
+    "koordinator": "Dr. Muhammad Yunus, S.Pd., M.PdNIP. 197203102005011001",
+    "ruang": "3.05A",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "03",
+    "koordinator": "Dr. Muhammad Yunus, S.Pd., M.PdNIP. 197203102005011001",
+    "ruang": "2.11",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Nasir Usman, M.PdNIP. 196012311985111003",
+    "ruang": "2.11",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Murniati AR, M.PdNIP. 196005071986022001",
+    "ruang": "1.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "EDU204",
+    "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Murniati AR, M.PdNIP. 196005071986022001",
+    "ruang": "2.11",
+    "hari": "Kamis",
+    "waktu": "8:00-09:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDU204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "EDU302",
+    "nama": "PENGAJARAN MIKRO",
+    "kelas": "01",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "MTL-04",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:30",
+    "peserta": "7",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDU302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "EDU302",
+    "nama": "PENGAJARAN MIKRO",
+    "kelas": "02",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "MTL-04",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:30",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDU302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "EDU302",
+    "nama": "PENGAJARAN MIKRO",
+    "kelas": "03",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "MTL-04",
+    "hari": "Sabtu",
+    "waktu": "8:00-10:30",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDU302",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "EDUP07",
+    "nama": "PLP I",
+    "kelas": "01",
+    "koordinator": "Dr. Ismul Huda, M.SiNIP. 196810281994031004",
+    "ruang": "2.11",
+    "hari": "Minggu",
+    "waktu": "8:00-9:40",
+    "peserta": "3",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDUP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "EDUP09",
+    "nama": "PLP II",
+    "kelas": "01",
+    "koordinator": "Dr. Ismul Huda, M.SiNIP. 196810281994031004",
+    "ruang": "2.11",
+    "hari": "Minggu",
+    "waktu": "8:00-9:30",
+    "peserta": "4",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDUP09",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "EDUPA1",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Yunus, S.Pd., M.PdNIP. 197203102005011001",
+    "ruang": "prodi",
+    "hari": "Minggu",
+    "waktu": "08:00-09:40",
+    "peserta": "79",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "EDUPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "KPK106",
+    "nama": "HUKUM PIDANA",
+    "kelas": "01",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "2.09A",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "KPK106",
+    "nama": "HUKUM PIDANA",
+    "kelas": "02",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "3.05A",
+    "hari": "Rabu",
+    "waktu": "9:40-11:30",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "KPK106",
+    "nama": "HUKUM PIDANA",
+    "kelas": "03",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "3.05A",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK106",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "KPK108",
+    "nama": "TEORI KONSTITUSI DAN UUD 1945",
+    "kelas": "01",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "1.02",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "KPK108",
+    "nama": "TEORI KONSTITUSI DAN UUD 1945",
+    "kelas": "02",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "1.02",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "KPK108",
+    "nama": "TEORI KONSTITUSI DAN UUD 1945",
+    "kelas": "03",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "2.11",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK108",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "KPK112",
+    "nama": "ILMU POLITIK",
+    "kelas": "01",
+    "koordinator": "Dr. Saiful, S.Pd., M.Si.NIP. 197606142001121002",
+    "ruang": "2.09A",
+    "hari": "Rabu",
+    "waktu": "16:20-18:20",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "KPK112",
+    "nama": "ILMU POLITIK",
+    "kelas": "02",
+    "koordinator": "Maimun, S.Pd., MANIP. 198104202010121003",
+    "ruang": "2.11",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "KPK112",
+    "nama": "ILMU POLITIK",
+    "kelas": "03",
+    "koordinator": "Maimun, S.Pd., MANIP. 198104202010121003",
+    "ruang": "2.09A",
+    "hari": "Senin",
+    "waktu": "16:20-18:20",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK112",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "KPK116",
+    "nama": "FILSAFAT HUKUM",
+    "kelas": "01",
+    "koordinator": "Hasbi Ali, S.Pd, M.SiNIP. 197011222005011002",
+    "ruang": "1.02",
+    "hari": "Jumat",
+    "waktu": "16:20-18:20",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK116",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "KPK116",
+    "nama": "FILSAFAT HUKUM",
+    "kelas": "02",
+    "koordinator": "Hasbi Ali, S.Pd, M.SiNIP. 197011222005011002",
+    "ruang": "2.09A",
+    "hari": "Rabu",
+    "waktu": "11:30-13:10",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK116",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "KPK116",
+    "nama": "FILSAFAT HUKUM",
+    "kelas": "03",
+    "koordinator": "Hasbi Ali, S.Pd, M.SiNIP. 197011222005011002",
+    "ruang": "1.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK116",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "KPK122",
+    "nama": "FILSAFAT PANCASILA",
+    "kelas": "01",
+    "koordinator": "Hasbi Ali, S.Pd, M.SiNIP. 197011222005011002",
+    "ruang": "2.09A",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK122",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "KPK122",
+    "nama": "FILSAFAT PANCASILA",
+    "kelas": "02",
+    "koordinator": "Hasbi Ali, S.Pd, M.SiNIP. 197011222005011002",
+    "ruang": "2.09A",
+    "hari": "Senin",
+    "waktu": "11:30-13:10",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK122",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "KPK122",
+    "nama": "FILSAFAT PANCASILA",
+    "kelas": "03",
+    "koordinator": "Hasbi Ali, S.Pd, M.SiNIP. 197011222005011002",
+    "ruang": "2.11",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK122",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "KPK124",
+    "nama": "STATISTIKA",
+    "kelas": "01",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "2.09A",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK124",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "KPK124",
+    "nama": "STATISTIKA",
+    "kelas": "02",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "2.09A",
+    "hari": "Jumat",
+    "waktu": "16:20-18:10",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK124",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "KPK124",
+    "nama": "STATISTIKA",
+    "kelas": "03",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "3.05A",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK124",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "KPK204",
+    "nama": "HUKUM DAN HUBUNGAN INTERNASIONAL",
+    "kelas": "01",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "3.05A",
+    "hari": "Rabu",
+    "waktu": "11:30-13:10",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "KPK204",
+    "nama": "HUKUM DAN HUBUNGAN INTERNASIONAL",
+    "kelas": "02",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "2.11",
+    "hari": "Selasa",
+    "waktu": "16:20-18:20",
+    "peserta": "34",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "KPK204",
+    "nama": "HUKUM DAN HUBUNGAN INTERNASIONAL",
+    "kelas": "03",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "2.11",
+    "hari": "Kamis",
+    "waktu": "11:30-13:10",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "KPK208",
+    "nama": "EVALUASI PEMBELAJARAN PPKN",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Yunus, S.Pd., M.PdNIP. 197203102005011001",
+    "ruang": "2.11",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "KPK208",
+    "nama": "EVALUASI PEMBELAJARAN PPKN",
+    "kelas": "02",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "2.09A",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK208",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "KPK208",
+    "nama": "EVALUASI PEMBELAJARAN PPKN",
+    "kelas": "03",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "2.11",
+    "hari": "Rabu",
+    "waktu": "10:40-13:10",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK208",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "KPK214",
+    "nama": "HUKUM ISLAM",
+    "kelas": "01",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "1.02",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK214",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "KPK214",
+    "nama": "HUKUM ISLAM",
+    "kelas": "02",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "2.09A",
+    "hari": "Kamis",
+    "waktu": "10:40-13:10",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK214",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "KPK214",
+    "nama": "HUKUM ISLAM",
+    "kelas": "03",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "2.11",
+    "hari": "Senin",
+    "waktu": "10:40-13:10",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK214",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "KPK214",
+    "nama": "HUKUM ISLAM",
+    "kelas": "04",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "1.02",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK214",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "KPK214",
+    "nama": "HUKUM ISLAM",
+    "kelas": "05",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "3.05A",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK214",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "KPK214",
+    "nama": "HUKUM ISLAM",
+    "kelas": "06",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "2.09A",
+    "hari": "Sabtu",
+    "waktu": "10:40-11:10",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK214",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "KPK216",
+    "nama": "PENDIDIKAN KEWARGANEGARAAN",
+    "kelas": "01",
+    "koordinator": "Hasbi Ali, S.Pd, M.SiNIP. 197011222005011002",
+    "ruang": "2.09A",
+    "hari": "Jumat",
+    "waktu": "9:40-11:30",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "KPK216",
+    "nama": "PENDIDIKAN KEWARGANEGARAAN",
+    "kelas": "02",
+    "koordinator": "Irwan Putra, S.Pd., M.PdNIP. 198801012019031015",
+    "ruang": "1.02",
+    "hari": "Senin",
+    "waktu": "10:40-12:20",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK216",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "KPK216",
+    "nama": "PENDIDIKAN KEWARGANEGARAAN",
+    "kelas": "03",
+    "koordinator": "Hasbi Ali, S.Pd, M.SiNIP. 197011222005011002",
+    "ruang": "3.05A",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK216",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "KPK218",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Rusli Yusuf, M.Pd.NIP. 195702101985031004",
+    "ruang": "2.11",
+    "hari": "Senin",
+    "waktu": "16:20-18:20",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK218",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "KPK218",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "02",
+    "koordinator": "Dr. Muhammad Yunus, S.Pd., M.PdNIP. 197203102005011001",
+    "ruang": "2.11",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "36",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK218",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "KPK218",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Rusli Yusuf, M.Pd.NIP. 195702101985031004",
+    "ruang": "1.02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "34",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK218",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "KPK220",
+    "nama": "FILSAFAT POLITIK",
+    "kelas": "01",
+    "koordinator": "Dr. Saiful, S.Pd., M.Si.NIP. 197606142001121002",
+    "ruang": "2.09A",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK220",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "KPK220",
+    "nama": "FILSAFAT POLITIK",
+    "kelas": "02",
+    "koordinator": "Maimun, S.Pd., MANIP. 198104202010121003",
+    "ruang": "2.11",
+    "hari": "Jumat",
+    "waktu": "8:00-9:30",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK220",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "KPK220",
+    "nama": "FILSAFAT POLITIK",
+    "kelas": "03",
+    "koordinator": "Dr. Saiful, S.Pd., M.Si.NIP. 197606142001121002",
+    "ruang": "2.11",
+    "hari": "Jumat",
+    "waktu": "09:50-11:30",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK220",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "KPK222",
+    "nama": "LOGIKA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Rusli Yusuf, M.Pd.NIP. 195702101985031004",
+    "ruang": "1.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK222",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "KPK222",
+    "nama": "LOGIKA",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Rusli Yusuf, M.Pd.NIP. 195702101985031004",
+    "ruang": "1.02",
+    "hari": "Kamis",
+    "waktu": "16:20-18:20",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK222",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "KPK222",
+    "nama": "LOGIKA",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Rusli Yusuf, M.Pd.NIP. 195702101985031004",
+    "ruang": "3.05A",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK222",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "KPK224",
+    "nama": "PERENCANAAN PEMBELAJARAN PPKN",
+    "kelas": "01",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "1.02",
+    "hari": "Kamis",
+    "waktu": "10:40-13:10",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK224",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "KPK224",
+    "nama": "PERENCANAAN PEMBELAJARAN PPKN",
+    "kelas": "02",
+    "koordinator": "Dr. Muhammad Yunus, S.Pd., M.PdNIP. 197203102005011001",
+    "ruang": "2.09 A",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK224",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "KPK224",
+    "nama": "PERENCANAAN PEMBELAJARAN PPKN",
+    "kelas": "03",
+    "koordinator": "Dr. Muhammad Yunus, S.Pd., M.PdNIP. 197203102005011001",
+    "ruang": "2.11",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK224",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "KPK224",
+    "nama": "PERENCANAAN PEMBELAJARAN PPKN",
+    "kelas": "04",
+    "koordinator": "Dr. Muhammad Yunus, S.Pd., M.PdNIP. 197203102005011001",
+    "ruang": "2.09A",
+    "hari": "Sabtu",
+    "waktu": "14:00-16:20",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK224",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "KPK302",
+    "nama": "PSIKOLOGI KEPRIBADIAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "3.05A",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "KPK302",
+    "nama": "PSIKOLOGI KEPRIBADIAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "3.05A",
+    "hari": "Kamis",
+    "waktu": "16:20-18:10",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "KPK302",
+    "nama": "PSIKOLOGI KEPRIBADIAN",
+    "kelas": "03",
+    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
+    "ruang": "2.09A",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK302",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "KPK304",
+    "nama": "PENDIDIKAN POLITIK",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Rusli Yusuf, M.Pd.NIP. 195702101985031004",
+    "ruang": "1.02",
+    "hari": "Selasa",
+    "waktu": "16:20-18:10",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK304",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "KPK304",
+    "nama": "PENDIDIKAN POLITIK",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Rusli Yusuf, M.Pd.NIP. 195702101985031004",
+    "ruang": "1.02",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK304",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "KPK304",
+    "nama": "PENDIDIKAN POLITIK",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Rusli Yusuf, M.Pd.NIP. 195702101985031004",
+    "ruang": "1.02",
+    "hari": "Rabu",
+    "waktu": "16:20-18:10",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK304",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "KPK310",
+    "nama": "DEMOKRASI PANCASILA",
+    "kelas": "01",
+    "koordinator": "Dr. Saiful, S.Pd., M.Si.NIP. 197606142001121002",
+    "ruang": "3.05A",
+    "hari": "Kamis",
+    "waktu": "8:00-09:40",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK310",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "KPK310",
+    "nama": "DEMOKRASI PANCASILA",
+    "kelas": "02",
+    "koordinator": "Dr. Saiful, S.Pd., M.Si.NIP. 197606142001121002",
+    "ruang": "2.11",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK310",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "KPK310",
+    "nama": "DEMOKRASI PANCASILA",
+    "kelas": "03",
+    "koordinator": "Dr. Saiful, S.Pd., M.Si.NIP. 197606142001121002",
+    "ruang": "3.05A",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK310",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "KPK310",
+    "nama": "DEMOKRASI PANCASILA",
+    "kelas": "04",
+    "koordinator": "Dr. Saiful, S.Pd., M.Si.NIP. 197606142001121002",
+    "ruang": "2.08 A",
+    "hari": "Sabtu",
+    "waktu": "11:30-13:10",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK310",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "KPK312",
+    "nama": "HUKUM ADMINISTRASI NEGARA",
+    "kelas": "01",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "2.11",
+    "hari": "Kamis",
+    "waktu": "09:50-11:30",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK312",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "KPK312",
+    "nama": "HUKUM ADMINISTRASI NEGARA",
+    "kelas": "02",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "1.02",
+    "hari": "Rabu",
+    "waktu": "09:50-11:30",
+    "peserta": "28",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK312",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "KPK312",
+    "nama": "HUKUM ADMINISTRASI NEGARA",
+    "kelas": "03",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "2.09A",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK312",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "KPK318",
+    "nama": "HUKUM PERDATA DAN BISNIS",
+    "kelas": "01",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "1.02",
+    "hari": "Senin",
+    "waktu": "16:20-18:10",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK318",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "KPK318",
+    "nama": "HUKUM PERDATA DAN BISNIS",
+    "kelas": "02",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "3.05A",
+    "hari": "Selasa",
+    "waktu": "11:30-13:10",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK318",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "KPK318",
+    "nama": "HUKUM PERDATA DAN BISNIS",
+    "kelas": "03",
+    "koordinator": "Erna Hayati, S.H., M.HumNIP. 195911041990032001",
+    "ruang": "3.05A",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK318",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "KPK320",
+    "nama": "PENELITIAN TINDAKAN KELAS (PTK)",
+    "kelas": "01",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "2.09A",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK320",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "KPK320",
+    "nama": "PENELITIAN TINDAKAN KELAS (PTK)",
+    "kelas": "02",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "3.05A",
+    "hari": "Senin",
+    "waktu": "09:50-11:30",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK320",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "KPK320",
+    "nama": "PENELITIAN TINDAKAN KELAS (PTK)",
+    "kelas": "03",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "3.05A",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK320",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "KPK322",
+    "nama": "MANAJEMEN DAN RESOLUSI KONFLIK",
+    "kelas": "01",
+    "koordinator": "Maimun, S.Pd., MANIP. 198104202010121003",
+    "ruang": "3.05A",
+    "hari": "Jumat",
+    "waktu": "16:20-18:10",
+    "peserta": "36",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK322",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "KPK322",
+    "nama": "MANAJEMEN DAN RESOLUSI KONFLIK",
+    "kelas": "02",
+    "koordinator": "Maimun, S.Pd., MANIP. 198104202010121003",
+    "ruang": "2.09A",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:40",
+    "peserta": "34",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK322",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "KPK322",
+    "nama": "MANAJEMEN DAN RESOLUSI KONFLIK",
+    "kelas": "03",
+    "koordinator": "Maimun, S.Pd., MANIP. 198104202010121003",
+    "ruang": "1.02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "39",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPK322",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "KPKP02",
+    "nama": "EKONOMI POLITIK",
+    "kelas": "01",
+    "koordinator": "Dr. Saiful, S.Pd., M.Si.NIP. 197606142001121002",
+    "ruang": "2.11",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPKP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "KPKP04",
+    "nama": "KEWIRAUSAHAAN",
+    "kelas": "01",
+    "koordinator": "Dr. Amiruddin, S.Pd., M.SiNIP. 197101062000121001",
+    "ruang": "1.02",
+    "hari": "Jumat",
+    "waktu": "09:50-11:30",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPKP04",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "KPKP06",
+    "nama": "KRIMINOLOGI",
+    "kelas": "01",
+    "koordinator": "Yusrijal Abdar, S.Pd, M.H.NIP. 199203202021021101",
+    "ruang": "1.02",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "18",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPKP06",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "KPKP08",
+    "nama": "SEJARAH INDONESIA",
+    "kelas": "01",
+    "koordinator": "Dr. Saiful, S.Pd., M.Si.NIP. 197606142001121002",
+    "ruang": "2.9A",
+    "hari": "Selasa",
+    "waktu": "16:20-18:10",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPKP08",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "KPKP10",
+    "nama": "WAWASAN ILMU SOSIAL",
+    "kelas": "01",
+    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
+    "ruang": "3.05A",
+    "hari": "Senin",
+    "waktu": "16:20-18:10",
+    "peserta": "0",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPKP10",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "KPKP12",
+    "nama": "KAPITA SELEKTA POLITIK",
+    "kelas": "01",
+    "koordinator": "Dr. Saiful, S.Pd., M.Si.NIP. 197606142001121002",
+    "ruang": "2.09A",
+    "hari": "Kamis",
+    "waktu": "16:20-18:10",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPKP12",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "KPKP14",
+    "nama": "NASIONALISME INDONESIA",
+    "kelas": "01",
+    "koordinator": "Dr. Saiful, S.Pd., M.Si.NIP. 197606142001121002",
+    "ruang": "3.05A",
+    "hari": "Senin",
+    "waktu": "11:30-13:10",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPKP14",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "91",
+    "kode": "KPKP16",
+    "nama": "ILMU PEMERINTAHAN",
+    "kelas": "01",
+    "koordinator": "Maimun, S.Pd., MANIP. 198104202010121003",
+    "ruang": "3.05A",
+    "hari": "Jumat",
+    "waktu": "09:50-11:30",
+    "peserta": "23",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPKP16",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "92",
+    "kode": "KPKP18",
+    "nama": "KEWARGANEGARAAN DIGITAL",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Rusli Yusuf, M.Pd.NIP. 195702101985031004",
+    "ruang": "1.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "KPKP18",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  },
+  {
+    "no": "93",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Yunus, S.Pd., M.PdNIP. 197203102005011001",
+    "ruang": "2.11",
+    "hari": "Minggu",
+    "waktu": "8:00-9:40",
+    "peserta": "16",
+    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610101"
+    }
+  }
+]

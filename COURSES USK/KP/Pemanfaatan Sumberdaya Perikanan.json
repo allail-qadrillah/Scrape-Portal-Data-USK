@@ -1,0 +1,876 @@
+[
+  {
+    "no": "1",
+    "kode": "FKP102",
+    "nama": "IKTIOLOGI",
+    "kelas": "01",
+    "koordinator": "Ilham Zulfahmi, S.Kel., M.Si.NIP. 198807162020121002",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "FKP102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "FKP102",
+    "nama": "IKTIOLOGI",
+    "kelas": "02",
+    "koordinator": "Ilham Zulfahmi, S.Kel., M.Si.NIP. 198807162020121002",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "24",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "FKP102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "FKP109",
+    "nama": "MATEMATIKA",
+    "kelas": "01",
+    "koordinator": "Ichsan Setiawan, S.Si., M.Si.NIP. 197806072006041004",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "34",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "FKP109",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "FKP109",
+    "nama": "MATEMATIKA",
+    "kelas": "02",
+    "koordinator": "Ichsan Setiawan, S.Si., M.Si.NIP. 197806072006041004",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "42",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "FKP109",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Rizwan, S.T., M.T.NIP. 197609062008011008",
+    "ruang": "RKU 13.02.009",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "5",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "TPT102",
+    "nama": "TEKNOLOGI PENANGKAPAN IKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Chaliluddin, S.Pi., M.Si.NIP. 197002052008121004",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "49",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "TPT102",
+    "nama": "TEKNOLOGI PENANGKAPAN IKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Chaliluddin, S.Pi., M.Si.NIP. 197002052008121004",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "25",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "TPT104",
+    "nama": "KAPAL PERIKANAN",
+    "kelas": "01",
+    "koordinator": "Rizwan, S.T., M.T.NIP. 197609062008011008",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "47",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "TPT104",
+    "nama": "KAPAL PERIKANAN",
+    "kelas": "02",
+    "koordinator": "Rizwan, S.T., M.T.NIP. 197609062008011008",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "26",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "TPT106",
+    "nama": "ALAT PENANGKAPAN IKAN",
+    "kelas": "01",
+    "koordinator": "Edy Miswar, S.Si, M.Si.NIP. 197908162006041003",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "TPT106",
+    "nama": "ALAT PENANGKAPAN IKAN",
+    "kelas": "02",
+    "koordinator": "Edy Miswar, S.Si, M.Si.NIP. 197908162006041003",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "TPT108",
+    "nama": "PELABUHAN PERIKANAN",
+    "kelas": "01",
+    "koordinator": "Rizwan, S.T., M.T.NIP. 197609062008011008",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "TPT108",
+    "nama": "PELABUHAN PERIKANAN",
+    "kelas": "02",
+    "koordinator": "Rizwan, S.T., M.T.NIP. 197609062008011008",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "TPT202",
+    "nama": "KEPELAUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Chaliluddin, S.Pi., M.Si.NIP. 197002052008121004",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "34",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "TPT202",
+    "nama": "KEPELAUTAN",
+    "kelas": "02",
+    "koordinator": "Dr. Chaliluddin, S.Pi., M.Si.NIP. 197002052008121004",
+    "ruang": "RKU 13.02.009",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "TPT204",
+    "nama": "NAVIGASI KAPAL PERIKANAN",
+    "kelas": "01",
+    "koordinator": "Alvi Rahmah, S.Pi., M.Si.NIP. 198805082015042002",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "34",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "TPT204",
+    "nama": "NAVIGASI KAPAL PERIKANAN",
+    "kelas": "02",
+    "koordinator": "Alvi Rahmah, S.Pi., M.Si.NIP. 198805082015042002",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "TPT206",
+    "nama": "MANAJEMEN OPERASI PENANGKAPAN IKAN",
+    "kelas": "01",
+    "koordinator": "Ratna Mutia Aprilla, S.Kel., M.Si.NIP. 198804222019032016",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "41",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "TPT206",
+    "nama": "MANAJEMEN OPERASI PENANGKAPAN IKAN",
+    "kelas": "02",
+    "koordinator": "Ratna Mutia Aprilla, S.Kel., M.Si.NIP. 198804222019032016",
+    "ruang": "RKU 13.02.009",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "49",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "TPT210",
+    "nama": "METODE OBSERVASI BAWAH AIR",
+    "kelas": "01",
+    "koordinator": "Rianjuanda, S. Kel., M.Si.NIP. 198603092019031009",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT210",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "TPT210",
+    "nama": "METODE OBSERVASI BAWAH AIR",
+    "kelas": "02",
+    "koordinator": "Rianjuanda, S. Kel., M.Si.NIP. 198603092019031009",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "37",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT210",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "TPT212",
+    "nama": "MANAJEMEN USAHA PERIKANAN TANGKAP",
+    "kelas": "01",
+    "koordinator": "Dr. Chaliluddin, S.Pi., M.Si.NIP. 197002052008121004",
+    "ruang": "RKU 13.02.009",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "43",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "TPT212",
+    "nama": "MANAJEMEN USAHA PERIKANAN TANGKAP",
+    "kelas": "02",
+    "koordinator": "Dr. Chaliluddin, S.Pi., M.Si.NIP. 197002052008121004",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "TPT302",
+    "nama": "RANCANGAN PERCOBAAN",
+    "kelas": "01",
+    "koordinator": "Ratna Mutia Aprilla, S.Kel., M.Si.NIP. 198804222019032016",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "39",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "TPT302",
+    "nama": "RANCANGAN PERCOBAAN",
+    "kelas": "02",
+    "koordinator": "Ratna Mutia Aprilla, S.Kel., M.Si.NIP. 198804222019032016",
+    "ruang": "RKU 13.02.001",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "49",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "TPT304",
+    "nama": "RANCANG BANGUN ALAT PENANGKAPAN IKAN",
+    "kelas": "01",
+    "koordinator": "Edy Miswar, S.Si, M.Si.NIP. 197908162006041003",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT304",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "TPT304",
+    "nama": "RANCANG BANGUN ALAT PENANGKAPAN IKAN",
+    "kelas": "02",
+    "koordinator": "Edy Miswar, S.Si, M.Si.NIP. 197908162006041003",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "24",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT304",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "TPT306",
+    "nama": "DAERAH PENANGKAPAN IKAN",
+    "kelas": "01",
+    "koordinator": "Edy Miswar, S.Si, M.Si.NIP. 197908162006041003",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT306",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "TPT306",
+    "nama": "DAERAH PENANGKAPAN IKAN",
+    "kelas": "02",
+    "koordinator": "Edy Miswar, S.Si, M.Si.NIP. 197908162006041003",
+    "ruang": "RKU 13.02.001",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT306",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "TPT308",
+    "nama": "METEOROLOGI LAUT",
+    "kelas": "01",
+    "koordinator": "Junaidi M. Affan, S.Si., M.SiNIP. 197805172003121003",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "44",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT308",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "TPT308",
+    "nama": "METEOROLOGI LAUT",
+    "kelas": "02",
+    "koordinator": "Junaidi M. Affan, S.Si., M.SiNIP. 197805172003121003",
+    "ruang": "RKU 13.02.001",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT308",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "TPT310",
+    "nama": "TEKNOLOGI PENANGKAPAN IKAN BERTANGGUNG JAWAB",
+    "kelas": "01",
+    "koordinator": "Edy Miswar, S.Si, M.Si.NIP. 197908162006041003",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "48",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT310",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "TPT310",
+    "nama": "TEKNOLOGI PENANGKAPAN IKAN BERTANGGUNG JAWAB",
+    "kelas": "02",
+    "koordinator": "Edy Miswar, S.Si, M.Si.NIP. 197908162006041003",
+    "ruang": "RKU 13.02.002",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT310",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "TPT509",
+    "nama": "PERMESINAN KAPAL PERIKANAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Ahmad Syuhada, M.ScNIP. 196108201987031002",
+    "ruang": "RKU 13.02.001",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "24",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT509",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "TPT510",
+    "nama": "GALANGAN KAPAL",
+    "kelas": "01",
+    "koordinator": "Rizwan, S.T., M.T.NIP. 197609062008011008",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT510",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "TPT511",
+    "nama": "KONSERVASI SUMBERDAYA KELAUTAN DAN PERIKANAN",
+    "kelas": "01",
+    "koordinator": "Ilham Zulfahmi, S.Kel., M.Si.NIP. 198807162020121002",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "61",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT511",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "TPT512",
+    "nama": "DINAMIKA KAPAL PERIKANAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Muhammad Irham, S.Si, M.Si.NIP. 197108211999031001",
+    "ruang": "RKU 13.02.008",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "45",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT512",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "TPT512",
+    "nama": "DINAMIKA KAPAL PERIKANAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Muhammad Irham, S.Si, M.Si.NIP. 197108211999031001",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "20",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT512",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "TPT513",
+    "nama": "PEMETAAN SUMBERDAYA HAYATI LAUT",
+    "kelas": "01",
+    "koordinator": "Ratna Mutia Aprilla, S.Kel., M.Si.NIP. 198804222019032016",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "53",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT513",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "TPT513",
+    "nama": "PEMETAAN SUMBERDAYA HAYATI LAUT",
+    "kelas": "02",
+    "koordinator": "Ratna Mutia Aprilla, S.Kel., M.Si.NIP. 198804222019032016",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "28",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT513",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "TPT514",
+    "nama": "MANAJEMEN SUMBERDAYA PERIKANAN",
+    "kelas": "01",
+    "koordinator": "Dr. Chaliluddin, S.Pi., M.Si.NIP. 197002052008121004",
+    "ruang": "RKU 13.02.001",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "56",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT514",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "TPT515",
+    "nama": "OSEONOGRAFI PERIKANAN",
+    "kelas": "01",
+    "koordinator": "Ilham Zulfahmi, S.Kel., M.Si.NIP. 198807162020121002",
+    "ruang": "RKU 13.02.001",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "53",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT515",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "TPT515",
+    "nama": "OSEONOGRAFI PERIKANAN",
+    "kelas": "02",
+    "koordinator": "Ilham Zulfahmi, S.Kel., M.Si.NIP. 198807162020121002",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "39",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPT515",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "TPTP01",
+    "nama": "PRAKTEK KERJA LAPANGAN (PKL)",
+    "kelas": "01",
+    "koordinator": "Rizwan, S.T., M.T.NIP. 197609062008011008",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "14",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPTP01",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "TPTP03",
+    "nama": "SEMINAR",
+    "kelas": "01",
+    "koordinator": "Rizwan, S.T., M.T.NIP. 197609062008011008",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "111",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPTP03",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "TPTP04",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Dr. Chaliluddin, S.Pi., M.Si.NIP. 197002052008121004",
+    "ruang": "RKU 13.02.003",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "119",
+    "keterangan": "Kelautan dan PerikananS1Pemanfaatan Sumberdaya Perikanan",
+    "kode-peserta": {
+      "data-kode": "TPTP04",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110301"
+    }
+  }
+]

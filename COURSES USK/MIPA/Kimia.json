@@ -1,0 +1,1237 @@
+[
+  {
+    "no": "1",
+    "kode": "MKM116",
+    "nama": "KIMIA DASAR",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "E.02.05",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "29",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM116",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "MKM116",
+    "nama": "KIMIA DASAR",
+    "kelas": "B",
+    "koordinator": "Prof. Dr. Nurdin, M.SiNIP. 196609151991031005",
+    "ruang": "E.02.06",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "33",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM116",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "MKM122",
+    "nama": "MATEMATIKA SAIN",
+    "kelas": "A",
+    "koordinator": "Irfan Mustafa, S.Si., M.SiNIP. 197411302002121001",
+    "ruang": "E.02.05",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "29",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM122",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "MKM122",
+    "nama": "MATEMATIKA SAIN",
+    "kelas": "B",
+    "koordinator": "Kartika MZ, S.Si., M.SiNIP. 199401212022032010",
+    "ruang": "E.02.05",
+    "hari": "Kamis",
+    "waktu": "8:15-9:55",
+    "peserta": "33",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM122",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "MKM124",
+    "nama": "FISIKA DASAR",
+    "kelas": "A",
+    "koordinator": "Zulfalina, S.Si., M.SiNIP. 197507072002122001",
+    "ruang": "E.02.05",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "30",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM124",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "MKM124",
+    "nama": "FISIKA DASAR",
+    "kelas": "B",
+    "koordinator": "Dr. Mursal, S.Si., M.SiNIP. 197012201997021001",
+    "ruang": "E.02.06",
+    "hari": "Senin",
+    "waktu": "10:00-12:30",
+    "peserta": "32",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM124",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "MKM126",
+    "nama": "MANAJEMEN LABORATORIUM",
+    "kelas": "A",
+    "koordinator": "Prof. Dr. Teuku Mohamad Iqbalsyah, S.Si, M.Sc.NIP. 197110101997031003",
+    "ruang": "E.02.05",
+    "hari": "Jumat",
+    "waktu": "8:15-9:55",
+    "peserta": "31",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM126",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "MKM126",
+    "nama": "MANAJEMEN LABORATORIUM",
+    "kelas": "B",
+    "koordinator": "Dr. Surya Lubis, S.Si, M.SiNIP. 196905101999032001",
+    "ruang": "E.02.06",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "40",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM126",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "MKM128",
+    "nama": "DASAR-DASAR PEMISAHAN",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "E.02.05",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "49",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM128",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "MKM128",
+    "nama": "DASAR-DASAR PEMISAHAN",
+    "kelas": "B",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "E.02.06",
+    "hari": "Jumat",
+    "waktu": "8:15-9:55",
+    "peserta": "48",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM128",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "MKM202",
+    "nama": "KIMIA ORGANIK II",
+    "kelas": "A",
+    "koordinator": "Prof. Dr. Mustanir, M.ScNIP. 196605101993031002",
+    "ruang": "E.02.05",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "35",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM202",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "MKM202",
+    "nama": "KIMIA ORGANIK II",
+    "kelas": "B",
+    "koordinator": "Prof. Dr. Ir. Rosnani Nasution, M.SiNIP. 195712241991022001",
+    "ruang": "E.02.06",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "34",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM202",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "MKM204",
+    "nama": "KIMIA FISIKA II",
+    "kelas": "A",
+    "koordinator": "Irfan Mustafa, S.Si., M.SiNIP. 197411302002121001",
+    "ruang": "E.02.05",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "35",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM204",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "MKM204",
+    "nama": "KIMIA FISIKA II",
+    "kelas": "B",
+    "koordinator": "Irfan Mustafa, S.Si., M.SiNIP. 197411302002121001",
+    "ruang": "E.02.06",
+    "hari": "Rabu",
+    "waktu": "10:00-12:30",
+    "peserta": "32",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM204",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "MKM214",
+    "nama": "KIMIA ANORGANIK II",
+    "kelas": "A",
+    "koordinator": "Dr.rer.nat. Ilham Maulana, S.SiNIP. 197503061998021001",
+    "ruang": "E.02.05",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "34",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM214",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "MKM214",
+    "nama": "KIMIA ANORGANIK II",
+    "kelas": "B",
+    "koordinator": "Dr. Muliadi Ramli, S.Si., M.SiNIP. 197303011998021001",
+    "ruang": "E.02.06",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "33",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM214",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "MKM216",
+    "nama": "KIMIA ANALITIK II",
+    "kelas": "A",
+    "koordinator": "Dr. Saiful, S.Si., M.SiNIP. 196909221994121001",
+    "ruang": "E.02.05",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "34",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM216",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "MKM216",
+    "nama": "KIMIA ANALITIK II",
+    "kelas": "B",
+    "koordinator": "Dr. Eka Safitri, S.Si., M.SiNIP. 197001052000032001",
+    "ruang": "E.02.06",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "32",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM216",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "MKM218",
+    "nama": "BIOKIMIA II",
+    "kelas": "A",
+    "koordinator": "Dr. Febriani, S.Si, M.SiNIP. 197202171999032001",
+    "ruang": "E.02.05",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "35",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM218",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "MKM218",
+    "nama": "BIOKIMIA II",
+    "kelas": "B",
+    "koordinator": "Dr. Nurhaida, S.Si, M.SiNIP. 197003301999032005",
+    "ruang": "E.02.06",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "37",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM218",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "MKM302",
+    "nama": "KOLOKIUM",
+    "kelas": "A",
+    "koordinator": "Dr. Eka Safitri, S.Si., M.SiNIP. 197001052000032001",
+    "ruang": "B.01.02",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "65",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM302",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "MKM316",
+    "nama": "KIMIA FISIKA IV",
+    "kelas": "A",
+    "koordinator": "Dr. Julinawati, S.Si., M.SiNIP. 197107011997022001",
+    "ruang": "E.02.06",
+    "hari": "Selasa",
+    "waktu": "10:00-12:30",
+    "peserta": "40",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM316",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "MKM316",
+    "nama": "KIMIA FISIKA IV",
+    "kelas": "B",
+    "koordinator": "Dr. Julinawati, S.Si., M.SiNIP. 197107011997022001",
+    "ruang": "B.01.02",
+    "hari": "Senin",
+    "waktu": "10:00-12:30",
+    "peserta": "30",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM316",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "MKM318",
+    "nama": "ORGANOLOGAM",
+    "kelas": "A",
+    "koordinator": "Dr. Surya Lubis, S.Si, M.SiNIP. 196905101999032001",
+    "ruang": "E.02.06",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "42",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM318",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "MKM318",
+    "nama": "ORGANOLOGAM",
+    "kelas": "B",
+    "koordinator": "Dr.rer.nat. Ilham Maulana, S.SiNIP. 197503061998021001",
+    "ruang": "B.01.02",
+    "hari": "Kamis",
+    "waktu": "8:15-9:55",
+    "peserta": "30",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM318",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "MKM322",
+    "nama": "TEKNIK PENELITIAN BIOKIMIA",
+    "kelas": "A",
+    "koordinator": "Dr. Nazaruddin, S.Si, M.SiNIP. 197006211997031002",
+    "ruang": "E.02.05",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "45",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM322",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "MKM322",
+    "nama": "TEKNIK PENELITIAN BIOKIMIA",
+    "kelas": "B",
+    "koordinator": "Dr. Nurhaida, S.Si, M.SiNIP. 197003301999032005",
+    "ruang": "E.02.06",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "30",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM322",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "MKM324",
+    "nama": "KIMIA ORGANIK BAHAN ALAM",
+    "kelas": "A",
+    "koordinator": "Dra. Murniana, M.SiNIP. 196005121990022001",
+    "ruang": "E.02.05",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "41",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM324",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "MKM324",
+    "nama": "KIMIA ORGANIK BAHAN ALAM",
+    "kelas": "B",
+    "koordinator": "Prof. Dr. Ir. Rosnani Nasution, M.SiNIP. 195712241991022001",
+    "ruang": "E.02.06",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "29",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM324",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "MKM326",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "A",
+    "koordinator": "Dr. Saiful, S.Si., M.SiNIP. 196909221994121001",
+    "ruang": "E.02.06",
+    "hari": "Kamis",
+    "waktu": "8:15-9:55",
+    "peserta": "42",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM326",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "MKM326",
+    "nama": "METODOLOGI PENELITIAN",
+    "kelas": "B",
+    "koordinator": "Dr.rer.nat. Ilham Maulana, S.SiNIP. 197503061998021001",
+    "ruang": "B.01.02",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "29",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM326",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "MKM504",
+    "nama": "STEREO KIMIA ORGANIK",
+    "kelas": "A",
+    "koordinator": "Prof. Dr. Ir. Rosnani Nasution, M.SiNIP. 195712241991022001",
+    "ruang": "B.01.02",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "14",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM504",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "MKM508",
+    "nama": "KIMIA ZAT PADAT",
+    "kelas": "A",
+    "koordinator": "Kartika MZ, S.Si., M.SiNIP. 199401212022032010",
+    "ruang": "B.01.02",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "1",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM508",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "MKM510",
+    "nama": "KIMIA INDUSTRI",
+    "kelas": "A",
+    "koordinator": "Prof. Dr. Ir. Rosnani Nasution, M.SiNIP. 195712241991022001",
+    "ruang": "B.01.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM510",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "MKM512",
+    "nama": "MIKROBIOLOGI",
+    "kelas": "A",
+    "koordinator": "Dr. Nurhaida, S.Si, M.SiNIP. 197003301999032005",
+    "ruang": "E.02.06",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "19",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM512",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "MKM520",
+    "nama": "KEMOMETRI",
+    "kelas": "A",
+    "koordinator": "Elly Sufriadi, S.Si., M.SiNIP. 197103302000121001",
+    "ruang": "E.02.05",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "27",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM520",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "MKM526",
+    "nama": "KAPITA SELEKTA KIMIA ANORGANIK",
+    "kelas": "A",
+    "koordinator": "Dr.rer.nat. Ilham Maulana, S.SiNIP. 197503061998021001",
+    "ruang": "E.02.06",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "19",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM526",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "MKM536",
+    "nama": "ANALISIS MENGENAI DAMPAK LINGKUNGAN",
+    "kelas": "A",
+    "koordinator": "Dr. Saiful, S.Si., M.SiNIP. 196909221994121001",
+    "ruang": "B.01.02",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "30",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM536",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "MKM538",
+    "nama": "ANALISIS METABOLIT SEKUNDER",
+    "kelas": "A",
+    "koordinator": "Prof. Dr. Nurdin, M.SiNIP. 196609151991031005",
+    "ruang": "B.01.02",
+    "hari": "Jumat",
+    "waktu": "8:15-9:55",
+    "peserta": "15",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM538",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "MKM540",
+    "nama": "KIMIA POLIMER",
+    "kelas": "A",
+    "koordinator": "Irfan Mustafa, S.Si., M.SiNIP. 197411302002121001",
+    "ruang": "B.01.02",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "29",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM540",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "MKM542",
+    "nama": "BIOTEKNOLOGI",
+    "kelas": "A",
+    "koordinator": "Dr. Febriani, S.Si, M.SiNIP. 197202171999032001",
+    "ruang": "B.01.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "18",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM542",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "MKM546",
+    "nama": "KIMIA ANALISIS DAN PENGOLAHAN LIMBAH",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "B.01.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM546",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "MKM548",
+    "nama": "KIMIA KOLOID",
+    "kelas": "A",
+    "koordinator": "Dr. Julinawati, S.Si., M.SiNIP. 197107011997022001",
+    "ruang": "B.01.02",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "16",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM548",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "MKM550",
+    "nama": "TEKNIK PEMISAHAN LANJUT",
+    "kelas": "A",
+    "koordinator": "Dr. Lelifajri, S.Si, M.SiNIP. 197002212000032002",
+    "ruang": "B.01.02",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "27",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM550",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "MKM552",
+    "nama": "ANALISIS ELEKTROMETRI",
+    "kelas": "A",
+    "koordinator": "Dr. Eka Safitri, S.Si., M.SiNIP. 197001052000032001",
+    "ruang": "E.02.05",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "20",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM552",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "MKM554",
+    "nama": "SINTESIS KIMIA ANORGANIK",
+    "kelas": "A",
+    "koordinator": "Dr. Surya Lubis, S.Si, M.SiNIP. 196905101999032001",
+    "ruang": "E.02.06",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "5",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM554",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "MKM556",
+    "nama": "TEKNOLOGI FERMENTASI",
+    "kelas": "A",
+    "koordinator": "Sitti Saleha, S.Si., M.SiNIP. 197009281995122001",
+    "ruang": "B.01.02",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "9",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM556",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "MKM558",
+    "nama": "KIMIA KOORDINASI",
+    "kelas": "A",
+    "koordinator": "Dr. Muliadi Ramli, S.Si., M.SiNIP. 197303011998021001",
+    "ruang": "B.01.02",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "16",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKM558",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "-",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "26",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "MPAP01",
+    "nama": "PENGANTAR TIK",
+    "kelas": "A",
+    "koordinator": "Razief Perucha Fauzie Afidh, S.Si., M.ScNIP. 198408062012121002",
+    "ruang": "-",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "64",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP01",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "MPAP03",
+    "nama": "KEWIRAUSAHAAN",
+    "kelas": "A",
+    "koordinator": "Elly Sufriadi, S.Si., M.SiNIP. 197103302000121001",
+    "ruang": "-",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP03",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "MPAP04",
+    "nama": "KULIAH KERJA PRAKTIK",
+    "kelas": "A",
+    "koordinator": "Dr. Julinawati, S.Si., M.SiNIP. 197107011997022001",
+    "ruang": "B.01.02",
+    "hari": "Rabu",
+    "waktu": "10:00-12:30",
+    "peserta": "5",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP04",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "MPAP05",
+    "nama": "PRAKTIK WIRAUSAHA",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP05",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "MPAP06",
+    "nama": "PUBLIKASI ILMIAH",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP06",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "MPAP07",
+    "nama": "MAGANG INDUSTRI A",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP07",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "MPAP08",
+    "nama": "MAGANG INDUSTRI B",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP08",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "MPAP09",
+    "nama": "MAGANG INDUSTRI C",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP09",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "MPAP10",
+    "nama": "PROYEK DESA A",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP10",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "MPAP11",
+    "nama": "PROYEK DESA B",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP11",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "MPAP12",
+    "nama": "PROYEK DESA C",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP12",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "MPAP13",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS A",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP13",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "MPAP14",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS B",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP14",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "MPAP15",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS C",
+    "kelas": "A",
+    "koordinator": "Dr. Khairi, S.Si., M.Si.NIP. 196906141999031002",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAP15",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "MPAPA1",
+    "nama": "PROPOSAL PENELITIAN",
+    "kelas": "A",
+    "koordinator": "Dr. Febriani, S.Si, M.SiNIP. 197202171999032001",
+    "ruang": "B.01.02",
+    "hari": "Selasa",
+    "waktu": "10:00-12:30",
+    "peserta": "39",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAPA1",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "MPAPA2",
+    "nama": "TUGAS AKHIR",
+    "kelas": "A",
+    "koordinator": "Dr. Febriani, S.Si, M.SiNIP. 197202171999032001",
+    "ruang": "B.01.02",
+    "hari": "Selasa",
+    "waktu": "10:00-12:30",
+    "peserta": "78",
+    "keterangan": "MIPAS1Kimia",
+    "kode-peserta": {
+      "data-kode": "MPAPA2",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810301"
+    }
+  }
+]

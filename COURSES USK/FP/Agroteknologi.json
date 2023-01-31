@@ -1,0 +1,1408 @@
+[
+  {
+    "no": "1",
+    "kode": "AGE102",
+    "nama": "DASAR - DASAR MANAJEMEN",
+    "kelas": "01",
+    "koordinator": "Ir. T. Makmur, M.SiNIP. 196011071988111002",
+    "ruang": "B.03.05",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "28",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "AGE102",
+    "nama": "DASAR - DASAR MANAJEMEN",
+    "kelas": "02",
+    "koordinator": "Mujiburrahmad, SP., M.SiNIP. 198810282015041003",
+    "ruang": "D. 03.05",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "34",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "AGE102",
+    "nama": "DASAR - DASAR MANAJEMEN",
+    "kelas": "03",
+    "koordinator": "Widyawati, S.E, M.SiNIP. 197707302005012001",
+    "ruang": "D. 03.01",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "25",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE102",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "AGE104",
+    "nama": "SUMBERDAYA PERTANIAN LOKAL",
+    "kelas": "01",
+    "koordinator": "Dr. Zaitun, S.P., M.SiNIP. 197209132006042001",
+    "ruang": "B.03.05",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "27",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "AGE104",
+    "nama": "SUMBERDAYA PERTANIAN LOKAL",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "B.03.13",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "29",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "AGE104",
+    "nama": "SUMBERDAYA PERTANIAN LOKAL",
+    "kelas": "03",
+    "koordinator": "Ir. Agus Halim S., M.SiNIP. 195908081987021001",
+    "ruang": "B.03.02",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "33",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE104",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "AGE106",
+    "nama": "BOTANI",
+    "kelas": "01",
+    "koordinator": "Nanda Mayani, SP., MPNIP. 197906152012122002",
+    "ruang": "B. 03.02",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "31",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "AGE106",
+    "nama": "BOTANI",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Elly Kesumawati, M.Agric.ScNIP. 196603111993032002",
+    "ruang": "B.03.08",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "33",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "AGE106",
+    "nama": "BOTANI",
+    "kelas": "03",
+    "koordinator": "Ir. Erita Hayati, M.P.NIP. 196608101993032002",
+    "ruang": "B.03.12",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "23",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE106",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "AGE108",
+    "nama": "BIOKIMIA",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Syamsuddin, M.SiNIP. 196107041988031006",
+    "ruang": "D.01.01",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "34",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "AGE108",
+    "nama": "BIOKIMIA",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "B. 03.10",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "AGE108",
+    "nama": "BIOKIMIA",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Zuyasna, M.ScNIP. 196205091988032001",
+    "ruang": "D. 01.02",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "29",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE108",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "AGE110",
+    "nama": "FISIOLOGI TUMBUHAN",
+    "kelas": "01",
+    "koordinator": "Ir. Ainun Marliah, M.P.NIP. 196712311993032006",
+    "ruang": "B.03.04",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "AGE110",
+    "nama": "FISIOLOGI TUMBUHAN",
+    "kelas": "02",
+    "koordinator": "Ir. Jumini, M.P.NIP. 195910101985032003",
+    "ruang": "B.03.05",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "31",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "AGE110",
+    "nama": "FISIOLOGI TUMBUHAN",
+    "kelas": "03",
+    "koordinator": "Ir. Erida Nurahmi, M.P.NIP. 196903041993032016",
+    "ruang": "B.03.04",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "AGE112",
+    "nama": "GENETIKA DASAR",
+    "kelas": "01",
+    "koordinator": "Dr. Bakhtiar, S.P, M.SiNIP. 196811011996031003",
+    "ruang": "B. 03.13",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "AGE112",
+    "nama": "GENETIKA DASAR",
+    "kelas": "02",
+    "koordinator": "Dr. Siti Hafsah, S.P, M.SiNIP. 197008121996032004",
+    "ruang": "B.01.01",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "32",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "AGE112",
+    "nama": "GENETIKA DASAR",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Efendi, M.Agric.Sc.NIP. 196412311990031246",
+    "ruang": "B. 03.10",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE112",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "AGE202",
+    "nama": "DASAR-DASAR PERLINDUNGAN TANAMAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Hasanuddin, M.S.NIP. 196011141986031001",
+    "ruang": "B.03.05",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "32",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "AGE202",
+    "nama": "DASAR-DASAR PERLINDUNGAN TANAMAN",
+    "kelas": "02",
+    "koordinator": "Dr. Siti Hafsah, S.P, M.SiNIP. 197008121996032004",
+    "ruang": "D. 03.02",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "AGE202",
+    "nama": "DASAR-DASAR PERLINDUNGAN TANAMAN",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Gina Erida, M.SiNIP. 196306261989032002",
+    "ruang": "B.03.11",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "11",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "AGE204",
+    "nama": "MEKANISASI PERTANIAN",
+    "kelas": "01",
+    "koordinator": "Dr. Muhammad Idkham, S.TP., M.SiNIP. 197911212005011004",
+    "ruang": "D. 03.02",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "27",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "AGE204",
+    "nama": "MEKANISASI PERTANIAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Syahrul, M.ScNIP. 196312111990021001",
+    "ruang": "D. 01.02",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "21",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "AGE204",
+    "nama": "MEKANISASI PERTANIAN",
+    "kelas": "03",
+    "koordinator": "Dr. Sri Hartuti, S.TP., M.T.NIP. 198101212005012003",
+    "ruang": "D. 03.01",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE204",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "AGE206",
+    "nama": "KESUBURAN TANAH DAN PEMUPUKAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Cut Nur Ichsan, M.P.NIP. 196401211988112001",
+    "ruang": "B.03.05",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "AGE206",
+    "nama": "KESUBURAN TANAH DAN PEMUPUKAN",
+    "kelas": "02",
+    "koordinator": "Ir. Nurhayati, M.P.NIP. 195911221987022001",
+    "ruang": "B.03.07",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "AGE206",
+    "nama": "KESUBURAN TANAH DAN PEMUPUKAN",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Mardhiah Hayati, M.S.NIP. 196207081987022001",
+    "ruang": "D.01.02",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "14",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE206",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "AGE208",
+    "nama": "DASAR -DASAR PEMULIAAN TANAMAN",
+    "kelas": "01",
+    "koordinator": "Dr. Siti Hafsah, S.P, M.SiNIP. 197008121996032004",
+    "ruang": "B. 03.13",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "31",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "AGE208",
+    "nama": "DASAR -DASAR PEMULIAAN TANAMAN",
+    "kelas": "02",
+    "koordinator": "Dr. Bakhtiar, S.P, M.SiNIP. 196811011996031003",
+    "ruang": "D.01.02",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "17",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE208",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "AGE208",
+    "nama": "DASAR -DASAR PEMULIAAN TANAMAN",
+    "kelas": "03",
+    "koordinator": "Nura, SP., M.SiNIP. 198708302016012101",
+    "ruang": "B.03.04",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE208",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "AGE210",
+    "nama": "DASAR-DASAR TEKNOLOGI BENIH",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Syamsuddin, M.SiNIP. 196107041988031006",
+    "ruang": "D. 01.02",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "31",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE210",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "AGE210",
+    "nama": "DASAR-DASAR TEKNOLOGI BENIH",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Ir. Sabaruddin, M.Agr.ScNIP. 196806101993031002",
+    "ruang": "B.03.09",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "12",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE210",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "AGE210",
+    "nama": "DASAR-DASAR TEKNOLOGI BENIH",
+    "kelas": "03",
+    "koordinator": "Halimursyadah, SP. M.SiNIP. 197002241997022001",
+    "ruang": "B. 03.02",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "30",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE210",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "AGE212",
+    "nama": "IRIGASI DAN DRAINASE",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Hairul Basri, M.ScNIP. 196702101991021001",
+    "ruang": "B.03.04",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "AGE212",
+    "nama": "IRIGASI DAN DRAINASE",
+    "kelas": "02",
+    "koordinator": "Ir. Manfarizah, M.SiNIP. 196809081993032003",
+    "ruang": "B.03.13",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "18",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "AGE212",
+    "nama": "IRIGASI DAN DRAINASE",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Syakur, M.P.NIP. 196803041993031003",
+    "ruang": "D. 03.03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE212",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "AGE302",
+    "nama": "PENGELOLAAN TANAMAN PANGAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Cut Nur Ichsan, M.P.NIP. 196401211988112001",
+    "ruang": "B.03.09",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "1",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "AGE302",
+    "nama": "PENGELOLAAN TANAMAN PANGAN",
+    "kelas": "02",
+    "koordinator": "Ir. Jumini, M.P.NIP. 195910101985032003",
+    "ruang": "B. 03.09",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "1",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "AGE302",
+    "nama": "PENGELOLAAN TANAMAN PANGAN",
+    "kelas": "03",
+    "koordinator": "Halimursyadah, SP. M.SiNIP. 197002241997022001",
+    "ruang": "B.03.11",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "11",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE302",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "AGE304",
+    "nama": "PENGELOLAAN TANAMAN PERKEBUNAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Ashabul Anhar, M.ScNIP. 196606291990031002",
+    "ruang": "B.03.07",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE304",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "AGE304",
+    "nama": "PENGELOLAAN TANAMAN PERKEBUNAN",
+    "kelas": "02",
+    "koordinator": "Nanda Mayani, SP., MPNIP. 197906152012122002",
+    "ruang": "B.03.03",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "32",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE304",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "AGE304",
+    "nama": "PENGELOLAAN TANAMAN PERKEBUNAN",
+    "kelas": "03",
+    "koordinator": "Rika Husna, S.P., M.P.NIP. 198412312015042002",
+    "ruang": "B.03.13",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "27",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE304",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "AGE306",
+    "nama": "METODE PENELITIAN DAN PENULISAN ILMIAH",
+    "kelas": "01",
+    "koordinator": "Prof. Dr.nat.techn. Syafruddin, SP., M.P.NIP. 196801061997031002",
+    "ruang": "D. 01.01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "31",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE306",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "AGE306",
+    "nama": "METODE PENELITIAN DAN PENULISAN ILMIAH",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Ir. Hasanuddin, M.S.NIP. 196011141986031001",
+    "ruang": "B.03.04",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "29",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE306",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "AGE306",
+    "nama": "METODE PENELITIAN DAN PENULISAN ILMIAH",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "D. 03.01",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "24",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE306",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "AGE308",
+    "nama": "PELESTARIAN SUMBERDAYA HAYATI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Efendi, M.Agric.Sc.NIP. 196412311990031246",
+    "ruang": "B.03.04",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE308",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "AGE308",
+    "nama": "PELESTARIAN SUMBERDAYA HAYATI",
+    "kelas": "02",
+    "koordinator": "Prof. Dr.nat.techn. Syafruddin, SP., M.P.NIP. 196801061997031002",
+    "ruang": "D. 01.03",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE308",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "AGE308",
+    "nama": "PELESTARIAN SUMBERDAYA HAYATI",
+    "kelas": "03",
+    "koordinator": "Dr. Ir. Mardhiah Hayati, M.S.NIP. 196207081987022001",
+    "ruang": "B.03.04",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE308",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "AGE310",
+    "nama": "PERTANIAN BERKELANJUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Ashabul Anhar, M.ScNIP. 196606291990031002",
+    "ruang": "D. 01.03",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE310",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "AGE310",
+    "nama": "PERTANIAN BERKELANJUTAN",
+    "kelas": "02",
+    "koordinator": "Prof. Dr.nat.techn. Syafruddin, SP., M.P.NIP. 196801061997031002",
+    "ruang": "D. 01.02",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "32",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE310",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "AGE310",
+    "nama": "PERTANIAN BERKELANJUTAN",
+    "kelas": "03",
+    "koordinator": "Marai Rahmawati, S.P., M.Sc.NIP. 198106132006042001",
+    "ruang": "B.03.05",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "28",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE310",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "AGE312",
+    "nama": "TEKNOLOGI PASCAPANEN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "B.03.03",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "27",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE312",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "AGE312",
+    "nama": "TEKNOLOGI PASCAPANEN",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "B.03.11",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE312",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "AGE312",
+    "nama": "TEKNOLOGI PASCAPANEN",
+    "kelas": "03",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "B.03.07",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "10",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGE312",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "AGEP01",
+    "nama": "PERTANIAN  PRESISI DAN CERDAS IKLIM",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Sabaruddin, M.Agr.ScNIP. 196806101993031002",
+    "ruang": "D. 03.05",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "7",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP01",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "AGEP02",
+    "nama": "PRAKTEK LAPANG",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "Jurusan Agroteknolog",
+    "hari": "Sabtu",
+    "waktu": "8:00-16:00",
+    "peserta": "60",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "AGEP03",
+    "nama": "MODIFIKASI IKLIM MIKRO",
+    "kelas": "01",
+    "koordinator": "Dr. Taufan Hidayat, S.Si., M.SiNIP. 197805102006041001",
+    "ruang": "B.03.05",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "3",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP03",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "AGEP04",
+    "nama": "SEMINAR",
+    "kelas": "01",
+    "koordinator": "Ir. Nurhayati, M.P.NIP. 195911221987022001",
+    "ruang": "Jurusan Agroteknolog",
+    "hari": "Sabtu",
+    "waktu": "8:00-16:00",
+    "peserta": "47",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP04",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "AGEP05",
+    "nama": "KUANTIFIKASI METABOLISME BENIH",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Syamsuddin, M.SiNIP. 196107041988031006",
+    "ruang": "D. 01.03",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "24",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP05",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "AGEP07",
+    "nama": "ETNOBOTANI",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Hasanuddin, M.S.NIP. 196011141986031001",
+    "ruang": "B.03.10",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "12",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "AGEP09",
+    "nama": "PRODUKSI TANAMAN HIAS",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Elly Kesumawati, M.Agric.ScNIP. 196603111993032002",
+    "ruang": "B.03.03",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "9",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP09",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "AGEP11",
+    "nama": "TEKNIK PENYIMPANAN HASIL PERTANIAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "D. 03.05",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "30",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP11",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "AGEP13",
+    "nama": "PENGENALAN BIOHERBISIDA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Hasanuddin, M.S.NIP. 196011141986031001",
+    "ruang": "D. 03.04",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "30",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP13",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "AGEP15",
+    "nama": "PENGENALAN KULTUR  JARINGAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Elly Kesumawati, M.Agric.ScNIP. 196603111993032002",
+    "ruang": "D. 03.05",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "3",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP15",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "AGEP17",
+    "nama": "TEKNIK UJI ORGANOLEPTIK",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "B.03.04",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "11",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP17",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "AGEP19",
+    "nama": "SISTEM PERTANIAN TERPADU",
+    "kelas": "01",
+    "koordinator": "Prof. Dr.nat.techn. Syafruddin, SP., M.P.NIP. 196801061997031002",
+    "ruang": "D. 01.03",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP19",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "AGEP21",
+    "nama": "KETAHANAN PANGAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Ir. Sabaruddin, M.Agr.ScNIP. 196806101993031002",
+    "ruang": "D. 03.03",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "13",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP21",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "AGEP23",
+    "nama": "PANGAN DAN GIZI",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "D. 03.05",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "22",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP23",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "AGEP25",
+    "nama": "NUTRISI TANAMAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr.nat.techn. Syafruddin, SP., M.P.NIP. 196801061997031002",
+    "ruang": "D. 01.02",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "17",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEP25",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "AGEPA1",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Dr. Siti Hafsah, S.P, M.SiNIP. 197008121996032004",
+    "ruang": "Jurusan Agroteknolog",
+    "hari": "Sabtu",
+    "waktu": "8:00-16:00",
+    "peserta": "102",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "AGEPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Taufik Fuadi Abidin, S.Si., M.TechNIP. 197010081994031002",
+    "ruang": "Bapel KKN",
+    "hari": "Sabtu",
+    "waktu": "8:00-16:00",
+    "peserta": "13",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "10",
+    "koordinator": "Prof. Dr.nat.techn. Syafruddin, SP., M.P.NIP. 196801061997031002",
+    "ruang": "D.01.01",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "10",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "11",
+    "koordinator": "Prof. Dr.nat.techn. Syafruddin, SP., M.P.NIP. 196801061997031002",
+    "ruang": "D.01.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "34",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "12",
+    "koordinator": "Prof. Dr.nat.techn. Syafruddin, SP., M.P.NIP. 196801061997031002",
+    "ruang": "D.01.02",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "30",
+    "keterangan": "PertanianS1Agroteknologi",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510105"
+    }
+  }
+]

@@ -1,0 +1,1161 @@
+[
+  {
+    "no": "1",
+    "kode": "MBI106",
+    "nama": "BIOLOGI SEL",
+    "kelas": "A",
+    "koordinator": "Essy Harnelly, S.Si., M.Si., Ph.D.NIP. 197501092000122002",
+    "ruang": "E.02.03",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "32",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI106",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "MBI106",
+    "nama": "BIOLOGI SEL",
+    "kelas": "B",
+    "koordinator": "Dr. Rosnizar, M.ScNIP. 197103092005012001",
+    "ruang": "E.02.03",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "33",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI106",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "MBI108",
+    "nama": "STUDI LAPANGAN",
+    "kelas": "A",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "E.02.04",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "32",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI108",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "MBI108",
+    "nama": "STUDI LAPANGAN",
+    "kelas": "B",
+    "koordinator": "Dr. Muhammad Nasir, S.Si., M.ScNIP. 197303311998021001",
+    "ruang": "E.02.03",
+    "hari": "Jumat",
+    "waktu": "8:15-9:55",
+    "peserta": "32",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI108",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "MBI110",
+    "nama": "BIOKIMIA",
+    "kelas": "A",
+    "koordinator": "Dr. Suhartono, S.Si., M.Sc.NIP. 198203142006041002",
+    "ruang": "E.02.03",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI110",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "MBI110",
+    "nama": "BIOKIMIA",
+    "kelas": "B",
+    "koordinator": "Dr. Suhartono, S.Si., M.Sc.NIP. 198203142006041002",
+    "ruang": "E.02.04",
+    "hari": "Jumat",
+    "waktu": "10:00-11:50",
+    "peserta": "42",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI110",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "MBI114",
+    "nama": "GENETIKA",
+    "kelas": "A",
+    "koordinator": "Essy Harnelly, S.Si., M.Si., Ph.D.NIP. 197501092000122002",
+    "ruang": "E.02.03",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "34",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI114",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "MBI114",
+    "nama": "GENETIKA",
+    "kelas": "B",
+    "koordinator": "Essy Harnelly, S.Si., M.Si., Ph.D.NIP. 197501092000122002",
+    "ruang": "E.02.03",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "32",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI114",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "MBI214",
+    "nama": "BIOSISTEMATIKA TUMBUHAN",
+    "kelas": "A",
+    "koordinator": "Dr. Zumaidar, S.Si., M.SiNIP. 197201291997022001",
+    "ruang": "E.02.04",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "37",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI214",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "MBI214",
+    "nama": "BIOSISTEMATIKA TUMBUHAN",
+    "kelas": "B",
+    "koordinator": "Dr. Zumaidar, S.Si., M.SiNIP. 197201291997022001",
+    "ruang": "E.02.03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "39",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI214",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "MBI216",
+    "nama": "BIOSISTEMATIKA HEWAN",
+    "kelas": "A",
+    "koordinator": "Dr. Suwarno, M.SiNIP. 196905161993031001",
+    "ruang": "E.02.04",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "36",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI216",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "MBI216",
+    "nama": "BIOSISTEMATIKA HEWAN",
+    "kelas": "B",
+    "koordinator": "Dr. Alia Rizki, S.Si, M.Sc.NIP. 198202032008122001",
+    "ruang": "E.02.03",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "39",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI216",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "MBI218",
+    "nama": "FISIOLOGI TUMBUHAN",
+    "kelas": "A",
+    "koordinator": "Dr. Amalia, M.SiNIP. 197801122006042003",
+    "ruang": "E.02.04",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "38",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI218",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "MBI218",
+    "nama": "FISIOLOGI TUMBUHAN",
+    "kelas": "B",
+    "koordinator": "Dr. Amalia, M.SiNIP. 197801122006042003",
+    "ruang": "E.02.03",
+    "hari": "Kamis",
+    "waktu": "8:15-9:55",
+    "peserta": "38",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI218",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "MBI222",
+    "nama": "FISIOLOGI MIKROBA",
+    "kelas": "A",
+    "koordinator": "Dr. Suhartono, S.Si., M.Sc.NIP. 198203142006041002",
+    "ruang": "E.02.04",
+    "hari": "Kamis",
+    "waktu": "8:15-9:55",
+    "peserta": "45",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI222",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "MBI222",
+    "nama": "FISIOLOGI MIKROBA",
+    "kelas": "B",
+    "koordinator": "Dr. Lenni Fitri, S.Si.,MPNIP. 198207282006042002",
+    "ruang": "E.02.03",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "44",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI222",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "MBI224",
+    "nama": "BIOLOGI KONSERVASI",
+    "kelas": "A",
+    "koordinator": "Dalil Sutekad, S.Pd., M.SiNIP. 197008172000031014",
+    "ruang": "E.02.04",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "41",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI224",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "MBI224",
+    "nama": "BIOLOGI KONSERVASI",
+    "kelas": "B",
+    "koordinator": "Dalil Sutekad, S.Pd., M.SiNIP. 197008172000031014",
+    "ruang": "E.02.03",
+    "hari": "Jumat",
+    "waktu": "10:00-11:50",
+    "peserta": "38",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI224",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "MBI226",
+    "nama": "PENGANTAR BIOINFORMATIKA",
+    "kelas": "A",
+    "koordinator": "Essy Harnelly, S.Si., M.Si., Ph.D.NIP. 197501092000122002",
+    "ruang": "E.02.03",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "45",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI226",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "MBI226",
+    "nama": "PENGANTAR BIOINFORMATIKA",
+    "kelas": "B",
+    "koordinator": "Essy Harnelly, S.Si., M.Si., Ph.D.NIP. 197501092000122002",
+    "ruang": "E.02.04",
+    "hari": "Jumat",
+    "waktu": "8:15-9:55",
+    "peserta": "44",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI226",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "MBI226",
+    "nama": "PENGANTAR BIOINFORMATIKA",
+    "kelas": "C",
+    "koordinator": "Essy Harnelly, S.Si., M.Si., Ph.D.NIP. 197501092000122002",
+    "ruang": "E.02.03",
+    "hari": "Senin",
+    "waktu": "16:00-17:40",
+    "peserta": "30",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI226",
+      "data-kelas": "C",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "MBI228",
+    "nama": "FISIOLOGI HEWAN",
+    "kelas": "A",
+    "koordinator": "Fauziah, S.Si., M.Si.NIP. 197411241999032003",
+    "ruang": "E.02.04",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "39",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI228",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "MBI228",
+    "nama": "FISIOLOGI HEWAN",
+    "kelas": "B",
+    "koordinator": "Fauziah, S.Si., M.Si.NIP. 197411241999032003",
+    "ruang": "E.02.04",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "37",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI228",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "MBI508",
+    "nama": "BIOSISTEMATIKA MIKROBA",
+    "kelas": "A",
+    "koordinator": "Dr. Lenni Fitri, S.Si.,MPNIP. 198207282006042002",
+    "ruang": "B.03.01",
+    "hari": "Rabu",
+    "waktu": "8:15-9:55",
+    "peserta": "26",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI508",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "MBI560",
+    "nama": "TOKSIKOLOGI",
+    "kelas": "A",
+    "koordinator": "Fauziah, S.Si., M.Si.NIP. 197411241999032003",
+    "ruang": "B.03.01",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "28",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI560",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "MBI562",
+    "nama": "BIOTEKNOLOGI HEWAN LANJUT",
+    "kelas": "A",
+    "koordinator": "Dr. Kartini Eriani, S.Si., M.SiNIP. 197004211999032001",
+    "ruang": "B.03.01",
+    "hari": "Selasa",
+    "waktu": "8:15-9:55",
+    "peserta": "18",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI562",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "MBI564",
+    "nama": "MIKROBIOLOGI KESEHATAN",
+    "kelas": "A",
+    "koordinator": "Dr. Yulia Sari Ismail, S.Si., M.SiNIP. 197507172000122001",
+    "ruang": "B.03.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI564",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "MBI564",
+    "nama": "MIKROBIOLOGI KESEHATAN",
+    "kelas": "B",
+    "koordinator": "Dr. Yulia Sari Ismail, S.Si., M.SiNIP. 197507172000122001",
+    "ruang": "E.02.03",
+    "hari": "Selasa",
+    "waktu": "16:00-17:40",
+    "peserta": "16",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI564",
+      "data-kelas": "B",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "MBI566",
+    "nama": "FISIOLOGI LINGKUNGAN",
+    "kelas": "A",
+    "koordinator": "Dr. Firdus, S.Pd., M.SiNIP. 196904061999031002",
+    "ruang": "E.02.04",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI566",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "MBI568",
+    "nama": "BIOLOGI LUMUT DAN PAKU",
+    "kelas": "A",
+    "koordinator": "Dr. Saida Rasnovi, S.Si, M.SiNIP. 197111131997022002",
+    "ruang": "B.03.01",
+    "hari": "Senin",
+    "waktu": "8:15-9:55",
+    "peserta": "24",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI568",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "MBI570",
+    "nama": "KIMIA ORGANIK BAHAN ALAM",
+    "kelas": "A",
+    "koordinator": "Yunita, S.Si., M.ScNIP. 198006072005012001",
+    "ruang": "E.02.04",
+    "hari": "Kamis",
+    "waktu": "16:15-18:00",
+    "peserta": "14",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI570",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "MBI572",
+    "nama": "MORFOMETRIK TUMBUHAN",
+    "kelas": "A",
+    "koordinator": "Dr. Zumaidar, S.Si., M.SiNIP. 197201291997022001",
+    "ruang": "E.02.04",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI572",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "MBI576",
+    "nama": "AMDAL",
+    "kelas": "A",
+    "koordinator": "Irvianty, S.Si., M.SiNIP. 197107121996032001",
+    "ruang": "E.02.03",
+    "hari": "Rabu",
+    "waktu": "16:15-18:00",
+    "peserta": "40",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI576",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "MBI580",
+    "nama": "ENTOMOLOGI",
+    "kelas": "A",
+    "koordinator": "Dr. Suwarno, M.SiNIP. 196905161993031001",
+    "ruang": "B.03.01",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "9",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI580",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "MBI582",
+    "nama": "GENETIKA MOLEKULER",
+    "kelas": "A",
+    "koordinator": "Essy Harnelly, S.Si., M.Si., Ph.D.NIP. 197501092000122002",
+    "ruang": "E.02.03",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI582",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "MBI584",
+    "nama": "LIMNOLOGI",
+    "kelas": "A",
+    "koordinator": "Irvianty, S.Si., M.SiNIP. 197107121996032001",
+    "ruang": "B.03.01",
+    "hari": "Kamis",
+    "waktu": "8:15-9:55",
+    "peserta": "27",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI584",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "MBI586",
+    "nama": "MIKROBIOLOGI LINGKUNGAN",
+    "kelas": "A",
+    "koordinator": "Cut Yulvizar, S.Si, M.ScNIP. 198101182006042001",
+    "ruang": "B.03.01",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI586",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "MBI588",
+    "nama": "PARASITOLOGI",
+    "kelas": "A",
+    "koordinator": "Fauziah, S.Si., M.Si.NIP. 197411241999032003",
+    "ruang": "B.03.01",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "25",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI588",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "MBI590",
+    "nama": "PENGENDALIAN BIOLOGIS",
+    "kelas": "A",
+    "koordinator": "Yekki Yasmin, S.Si, M.SiNIP. 197109221998022001",
+    "ruang": "B.03.01",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "23",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI590",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "MBI592",
+    "nama": "TEKNIK ANALISA BAHAN HAYATI",
+    "kelas": "A",
+    "koordinator": "Yunita, S.Si., M.ScNIP. 198006072005012001",
+    "ruang": "B.03.01",
+    "hari": "Jumat",
+    "waktu": "10:00-11:50",
+    "peserta": "45",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI592",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "MBI594",
+    "nama": "TEKNIK KOLEKSI DAN PENATAAN SPESIMEN",
+    "kelas": "A",
+    "koordinator": "Dr. Alia Rizki, S.Si, M.Sc.NIP. 198202032008122001",
+    "ruang": "B.03.01",
+    "hari": "Jumat",
+    "waktu": "8:15-9:55",
+    "peserta": "49",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI594",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "MBI596",
+    "nama": "ORNITOLOGI",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Aida Fithri, M.ScNIP. 196402161991022001",
+    "ruang": "B.03.01",
+    "hari": "Jumat",
+    "waktu": "16:15-18:00",
+    "peserta": "17",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI596",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "MBI598",
+    "nama": "PENGANTAR GENETIKA TUMBUHAN HUTAN TROPIS",
+    "kelas": "A",
+    "koordinator": "Essy Harnelly, S.Si., M.Si., Ph.D.NIP. 197501092000122002",
+    "ruang": "B.03.01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MBI598",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "10",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "MPAP01",
+    "nama": "PENGANTAR TIK",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "E.02.04",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP01",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "MPAP02",
+    "nama": "PENGANTAR STATISTIKA",
+    "kelas": "A",
+    "koordinator": "Fitriana AR, S.Si., M.SiNIP. 197410152006042002",
+    "ruang": "E.02.03",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "67",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP02",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "MPAP03",
+    "nama": "KEWIRAUSAHAAN",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "3",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP03",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "MPAP04",
+    "nama": "KULIAH KERJA PRAKTIK",
+    "kelas": "A",
+    "koordinator": "Dr. Amalia, M.SiNIP. 197801122006042003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "16",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP04",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "MPAP05",
+    "nama": "PRAKTIK WIRAUSAHA",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "0",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP05",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "MPAP06",
+    "nama": "PUBLIKASI ILMIAH",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "0",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP06",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "MPAP07",
+    "nama": "MAGANG INDUSTRI A",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "2",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP07",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "MPAP08",
+    "nama": "MAGANG INDUSTRI B",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "0",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP08",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "MPAP09",
+    "nama": "MAGANG INDUSTRI C",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "0",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP09",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "MPAP10",
+    "nama": "PROYEK DESA A",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "0",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP10",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "MPAP11",
+    "nama": "PROYEK DESA B",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "0",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP11",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "MPAP12",
+    "nama": "PROYEK DESA C",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "0",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP12",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "MPAP13",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS A",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "5",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP13",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "MPAP14",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS B",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "1",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP14",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "MPAP15",
+    "nama": "PRAKTIK PEMBELAJARAN SAINS C",
+    "kelas": "A",
+    "koordinator": "Dr. Ir. Dahlan, S.Hut., M.Si., IPUNIP. 197610062006041003",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "0",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAP15",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "MPAPA1",
+    "nama": "PROPOSAL PENELITIAN",
+    "kelas": "A",
+    "koordinator": "Yunita, S.Si., M.ScNIP. 198006072005012001",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "28",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAPA1",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "MPAPA2",
+    "nama": "TUGAS AKHIR",
+    "kelas": "A",
+    "koordinator": "Yunita, S.Si., M.ScNIP. 198006072005012001",
+    "ruang": "-",
+    "hari": "Sabtu",
+    "waktu": "10:00-11:45",
+    "peserta": "78",
+    "keterangan": "MIPAS1Biologi",
+    "kode-peserta": {
+      "data-kode": "MPAPA2",
+      "data-kelas": "A",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0810401"
+    }
+  }
+]

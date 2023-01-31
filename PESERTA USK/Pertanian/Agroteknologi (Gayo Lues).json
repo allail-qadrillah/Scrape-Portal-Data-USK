@@ -1,0 +1,2497 @@
+[
+  {
+    "no": "1",
+    "kode": "ADK102",
+    "nama kelas": "DASAR-DASAR MANAJEMEN",
+    "kelas": "1",
+    "koordinator": "Trisda Kurniawan, S.P., M.PNIP. 197707282008011006",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "11:00-12:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK102",
+        "kelas": "1",
+        "npm": "2205150010001",
+        "nama": "AY NAYA YARIS KHAIRA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK102",
+        "kelas": "1",
+        "npm": "2205150010002",
+        "nama": "WAHYU",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK102",
+        "kelas": "1",
+        "npm": "2205150010003",
+        "nama": "SISKA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK102",
+        "kelas": "1",
+        "npm": "2205150010004",
+        "nama": "HANITA PRADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK102",
+        "kelas": "1",
+        "npm": "2205150010005",
+        "nama": "JOEY SARAH BR. NAINGGOLAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK102",
+        "kelas": "1",
+        "npm": "2205150010006",
+        "nama": "NAUFAL ZIKRULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "ADK102",
+        "kelas": "1",
+        "npm": "2205150010007",
+        "nama": "ALI SADIKIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "ADK102",
+        "kelas": "1",
+        "npm": "2205150010008",
+        "nama": "YUSNITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADK102",
+        "kelas": "1",
+        "npm": "2205150010010",
+        "nama": "AL-BUKHORI FIKRI",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "ADK102",
+        "kelas": "1",
+        "npm": "2205150010011",
+        "nama": "FAUZA RIZLI RAMADAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "2",
+    "kode": "ADK104",
+    "nama kelas": "SUMBERDAYA PERTANIAN LOKAL",
+    "kelas": "1",
+    "koordinator": "Dr. Siti Hafsah, S.P, M.SiNIP. 197008121996032004",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "11:00-12:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK104",
+        "kelas": "1",
+        "npm": "2205150010001",
+        "nama": "AY NAYA YARIS KHAIRA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK104",
+        "kelas": "1",
+        "npm": "2205150010002",
+        "nama": "WAHYU",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK104",
+        "kelas": "1",
+        "npm": "2205150010003",
+        "nama": "SISKA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK104",
+        "kelas": "1",
+        "npm": "2205150010004",
+        "nama": "HANITA PRADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK104",
+        "kelas": "1",
+        "npm": "2205150010005",
+        "nama": "JOEY SARAH BR. NAINGGOLAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK104",
+        "kelas": "1",
+        "npm": "2205150010006",
+        "nama": "NAUFAL ZIKRULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "ADK104",
+        "kelas": "1",
+        "npm": "2205150010007",
+        "nama": "ALI SADIKIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "ADK104",
+        "kelas": "1",
+        "npm": "2205150010008",
+        "nama": "YUSNITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADK104",
+        "kelas": "1",
+        "npm": "2205150010010",
+        "nama": "AL-BUKHORI FIKRI",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "ADK104",
+        "kelas": "1",
+        "npm": "2205150010011",
+        "nama": "FAUZA RIZLI RAMADAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "3",
+    "kode": "ADK106",
+    "nama kelas": "BOTANI",
+    "kelas": "1",
+    "koordinator": "Ir. Ainun Marliah, M.P.NIP. 196712311993032006",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "09:00-10:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK106",
+        "kelas": "1",
+        "npm": "2205150010001",
+        "nama": "AY NAYA YARIS KHAIRA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK106",
+        "kelas": "1",
+        "npm": "2205150010002",
+        "nama": "WAHYU",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK106",
+        "kelas": "1",
+        "npm": "2205150010003",
+        "nama": "SISKA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK106",
+        "kelas": "1",
+        "npm": "2205150010004",
+        "nama": "HANITA PRADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK106",
+        "kelas": "1",
+        "npm": "2205150010005",
+        "nama": "JOEY SARAH BR. NAINGGOLAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK106",
+        "kelas": "1",
+        "npm": "2205150010006",
+        "nama": "NAUFAL ZIKRULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "ADK106",
+        "kelas": "1",
+        "npm": "2205150010007",
+        "nama": "ALI SADIKIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "ADK106",
+        "kelas": "1",
+        "npm": "2205150010008",
+        "nama": "YUSNITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADK106",
+        "kelas": "1",
+        "npm": "2205150010010",
+        "nama": "AL-BUKHORI FIKRI",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "ADK106",
+        "kelas": "1",
+        "npm": "2205150010011",
+        "nama": "FAUZA RIZLI RAMADAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "4",
+    "kode": "ADK108",
+    "nama kelas": "BIOKIMIA",
+    "kelas": "1",
+    "koordinator": "Dr. Ir. Syamsuddin, M.SiNIP. 196107041988031006",
+    "ruang": "1",
+    "hari": "Rabu",
+    "waktu": "09:00-10:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK108",
+        "kelas": "1",
+        "npm": "2205150010001",
+        "nama": "AY NAYA YARIS KHAIRA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK108",
+        "kelas": "1",
+        "npm": "2205150010002",
+        "nama": "WAHYU",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK108",
+        "kelas": "1",
+        "npm": "2205150010003",
+        "nama": "SISKA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK108",
+        "kelas": "1",
+        "npm": "2205150010004",
+        "nama": "HANITA PRADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK108",
+        "kelas": "1",
+        "npm": "2205150010005",
+        "nama": "JOEY SARAH BR. NAINGGOLAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK108",
+        "kelas": "1",
+        "npm": "2205150010006",
+        "nama": "NAUFAL ZIKRULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "ADK108",
+        "kelas": "1",
+        "npm": "2205150010007",
+        "nama": "ALI SADIKIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "ADK108",
+        "kelas": "1",
+        "npm": "2205150010008",
+        "nama": "YUSNITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADK108",
+        "kelas": "1",
+        "npm": "2205150010010",
+        "nama": "AL-BUKHORI FIKRI",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "ADK108",
+        "kelas": "1",
+        "npm": "2205150010011",
+        "nama": "FAUZA RIZLI RAMADAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "5",
+    "kode": "ADK110",
+    "nama kelas": "FISIOLOGI TUMBUHAN",
+    "kelas": "1",
+    "koordinator": "Dr. Ir. Mardhiah Hayati, M.S.NIP. 196207081987022001",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "09:00-10:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK110",
+        "kelas": "1",
+        "npm": "2205150010001",
+        "nama": "AY NAYA YARIS KHAIRA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK110",
+        "kelas": "1",
+        "npm": "2205150010002",
+        "nama": "WAHYU",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK110",
+        "kelas": "1",
+        "npm": "2205150010003",
+        "nama": "SISKA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK110",
+        "kelas": "1",
+        "npm": "2205150010004",
+        "nama": "HANITA PRADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK110",
+        "kelas": "1",
+        "npm": "2205150010005",
+        "nama": "JOEY SARAH BR. NAINGGOLAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK110",
+        "kelas": "1",
+        "npm": "2205150010006",
+        "nama": "NAUFAL ZIKRULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "ADK110",
+        "kelas": "1",
+        "npm": "2205150010007",
+        "nama": "ALI SADIKIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "ADK110",
+        "kelas": "1",
+        "npm": "2205150010008",
+        "nama": "YUSNITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADK110",
+        "kelas": "1",
+        "npm": "2205150010010",
+        "nama": "AL-BUKHORI FIKRI",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "ADK110",
+        "kelas": "1",
+        "npm": "2205150010011",
+        "nama": "FAUZA RIZLI RAMADAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "6",
+    "kode": "ADK112",
+    "nama kelas": "GENETIKA DASAR",
+    "kelas": "1",
+    "koordinator": "Dr. Ir. Zuyasna, M.ScNIP. 196205091988032001",
+    "ruang": "1",
+    "hari": "Kamis",
+    "waktu": "09:00-10:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK112",
+        "kelas": "1",
+        "npm": "2205150010001",
+        "nama": "AY NAYA YARIS KHAIRA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK112",
+        "kelas": "1",
+        "npm": "2205150010002",
+        "nama": "WAHYU",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK112",
+        "kelas": "1",
+        "npm": "2205150010003",
+        "nama": "SISKA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK112",
+        "kelas": "1",
+        "npm": "2205150010004",
+        "nama": "HANITA PRADILA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK112",
+        "kelas": "1",
+        "npm": "2205150010005",
+        "nama": "JOEY SARAH BR. NAINGGOLAN",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK112",
+        "kelas": "1",
+        "npm": "2205150010006",
+        "nama": "NAUFAL ZIKRULLAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "7",
+        "kode": "ADK112",
+        "kelas": "1",
+        "npm": "2205150010007",
+        "nama": "ALI SADIKIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "ADK112",
+        "kelas": "1",
+        "npm": "2205150010008",
+        "nama": "YUSNITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADK112",
+        "kelas": "1",
+        "npm": "2205150010010",
+        "nama": "AL-BUKHORI FIKRI",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "ADK112",
+        "kelas": "1",
+        "npm": "2205150010011",
+        "nama": "FAUZA RIZLI RAMADAN",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "7",
+    "kode": "ADK202",
+    "nama kelas": "DASAR-DASAR PERLINDUNGAN TANAMAN",
+    "kelas": "1",
+    "koordinator": "Dr. Siti Hafsah, S.P, M.SiNIP. 197008121996032004",
+    "ruang": "1",
+    "hari": "Rabu",
+    "waktu": "09:00-10:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK202",
+        "kelas": "1",
+        "npm": "2105150010002",
+        "nama": "SALMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK202",
+        "kelas": "1",
+        "npm": "2105150010004",
+        "nama": "JULIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK202",
+        "kelas": "1",
+        "npm": "2105150010005",
+        "nama": "HAFIFAH HAFNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK202",
+        "kelas": "1",
+        "npm": "2105150010006",
+        "nama": "FITRIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK202",
+        "kelas": "1",
+        "npm": "2105150010007",
+        "nama": "ROHANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK202",
+        "kelas": "1",
+        "npm": "2105150010009",
+        "nama": "SRI WIJAYA",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "8",
+    "kode": "ADK204",
+    "nama kelas": "MEKANISASI PERTANIAN",
+    "kelas": "1",
+    "koordinator": "Trisda Kurniawan, S.P., M.PNIP. 197707282008011006",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "09:00-10:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK204",
+        "kelas": "1",
+        "npm": "1805150010034",
+        "nama": "MUHAMMAD HAEKAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "ADK204",
+        "kelas": "1",
+        "npm": "2105150010002",
+        "nama": "SALMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK204",
+        "kelas": "1",
+        "npm": "2105150010004",
+        "nama": "JULIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK204",
+        "kelas": "1",
+        "npm": "2105150010005",
+        "nama": "HAFIFAH HAFNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK204",
+        "kelas": "1",
+        "npm": "2105150010006",
+        "nama": "FITRIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK204",
+        "kelas": "1",
+        "npm": "2105150010007",
+        "nama": "ROHANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "ADK204",
+        "kelas": "1",
+        "npm": "2105150010009",
+        "nama": "SRI WIJAYA",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "9",
+    "kode": "ADK206",
+    "nama kelas": "KESUBURAN TANAH DAN PEMUPUKAN",
+    "kelas": "1",
+    "koordinator": "Ir. Nurhayati, M.P.NIP. 195911221987022001",
+    "ruang": "1",
+    "hari": "Kamis",
+    "waktu": "09:00-10:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK206",
+        "kelas": "1",
+        "npm": "2105150010002",
+        "nama": "SALMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK206",
+        "kelas": "1",
+        "npm": "2105150010004",
+        "nama": "JULIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK206",
+        "kelas": "1",
+        "npm": "2105150010005",
+        "nama": "HAFIFAH HAFNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK206",
+        "kelas": "1",
+        "npm": "2105150010006",
+        "nama": "FITRIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK206",
+        "kelas": "1",
+        "npm": "2105150010007",
+        "nama": "ROHANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK206",
+        "kelas": "1",
+        "npm": "2105150010009",
+        "nama": "SRI WIJAYA",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "10",
+    "kode": "ADK208",
+    "nama kelas": "DASAR-DASAR PEMULIAAN TANAMAN",
+    "kelas": "1",
+    "koordinator": "Ir. Erita Hayati, M.P.NIP. 196608101993032002",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "11:00-12:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK208",
+        "kelas": "1",
+        "npm": "2105150010002",
+        "nama": "SALMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK208",
+        "kelas": "1",
+        "npm": "2105150010004",
+        "nama": "JULIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK208",
+        "kelas": "1",
+        "npm": "2105150010005",
+        "nama": "HAFIFAH HAFNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK208",
+        "kelas": "1",
+        "npm": "2105150010006",
+        "nama": "FITRIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK208",
+        "kelas": "1",
+        "npm": "2105150010007",
+        "nama": "ROHANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK208",
+        "kelas": "1",
+        "npm": "2105150010009",
+        "nama": "SRI WIJAYA",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "11",
+    "kode": "ADK210",
+    "nama kelas": "DASAR-DASAR TEKNOLOGI BENIH",
+    "kelas": "1",
+    "koordinator": "Hasanuddin, S.P., M.Si.NIP. 197208052000031003",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "9:00-10:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK210",
+        "kelas": "1",
+        "npm": "2105150010002",
+        "nama": "SALMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK210",
+        "kelas": "1",
+        "npm": "2105150010004",
+        "nama": "JULIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK210",
+        "kelas": "1",
+        "npm": "2105150010005",
+        "nama": "HAFIFAH HAFNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK210",
+        "kelas": "1",
+        "npm": "2105150010006",
+        "nama": "FITRIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK210",
+        "kelas": "1",
+        "npm": "2105150010007",
+        "nama": "ROHANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK210",
+        "kelas": "1",
+        "npm": "2105150010009",
+        "nama": "SRI WIJAYA",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "12",
+    "kode": "ADK212",
+    "nama kelas": "IRIGASI DAN DRAINASE",
+    "kelas": "1",
+    "koordinator": "Dr. Taufan Hidayat, S.Si., M.SiNIP. 197805102006041001",
+    "ruang": "1",
+    "hari": "Rabu",
+    "waktu": "11:00-12:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK212",
+        "kelas": "1",
+        "npm": "2105150010002",
+        "nama": "SALMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK212",
+        "kelas": "1",
+        "npm": "2105150010004",
+        "nama": "JULIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK212",
+        "kelas": "1",
+        "npm": "2105150010005",
+        "nama": "HAFIFAH HAFNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK212",
+        "kelas": "1",
+        "npm": "2105150010006",
+        "nama": "FITRIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK212",
+        "kelas": "1",
+        "npm": "2105150010007",
+        "nama": "ROHANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK212",
+        "kelas": "1",
+        "npm": "2105150010009",
+        "nama": "SRI WIJAYA",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "13",
+    "kode": "ADK302",
+    "nama kelas": "PENGELOLAAN TANAMAN PANGAN",
+    "kelas": "1",
+    "koordinator": "Hasanuddin, S.P., M.Si.NIP. 197208052000031003",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK302",
+        "kelas": "1",
+        "npm": "1805150010034",
+        "nama": "MUHAMMAD HAEKAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "ADK302",
+        "kelas": "1",
+        "npm": "2005150010012",
+        "nama": "SUHADA",
+        "kelamin": "L"
+      }
+    ]
+  },
+  {
+    "no": "14",
+    "kode": "ADK304",
+    "nama kelas": "PENGELOLAAN TANAMAN PERKEBUNAN",
+    "kelas": "1",
+    "koordinator": "Ir. Ainun Marliah, M.P.NIP. 196712311993032006",
+    "ruang": "1",
+    "hari": "Selasa",
+    "waktu": "11:00-12:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010001",
+        "nama": "INDRI AULIA VITALOKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010002",
+        "nama": "AGUNG PRADANA",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010003",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010004",
+        "nama": "WAHYU FITRI MAULIDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010005",
+        "nama": "HANIFAH LUTHFIYAH M",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010006",
+        "nama": "NUR ASWAHYUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010007",
+        "nama": "DEWI SEKAR SARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010009",
+        "nama": "SISKA TRI RAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010010",
+        "nama": "AFNI BERUTU",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010011",
+        "nama": "SUSENO ANGGI SAPUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010012",
+        "nama": "SUHADA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010013",
+        "nama": "RIZKI YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "ADK304",
+        "kelas": "1",
+        "npm": "2005150010017",
+        "nama": "ELSA IRAWATI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "15",
+    "kode": "ADK306",
+    "nama kelas": "METODE PENELITIAN DAN PENULISAN ILMIAH",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Ir. Hasanuddin, M.S.NIP. 196011141986031001",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "11:00-12:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "1705150010027",
+        "nama": "MUHAMMAD ARIFIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "1805150010034",
+        "nama": "MUHAMMAD HAEKAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010001",
+        "nama": "INDRI AULIA VITALOKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010002",
+        "nama": "AGUNG PRADANA",
+        "kelamin": "L"
+      },
+      {
+        "no": "5",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010003",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010004",
+        "nama": "WAHYU FITRI MAULIDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010005",
+        "nama": "HANIFAH LUTHFIYAH M",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010006",
+        "nama": "NUR ASWAHYUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010007",
+        "nama": "DEWI SEKAR SARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010009",
+        "nama": "SISKA TRI RAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010010",
+        "nama": "AFNI BERUTU",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010011",
+        "nama": "SUSENO ANGGI SAPUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010012",
+        "nama": "SUHADA",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010013",
+        "nama": "RIZKI YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "ADK306",
+        "kelas": "1",
+        "npm": "2005150010017",
+        "nama": "ELSA IRAWATI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "16",
+    "kode": "ADK308",
+    "nama kelas": "PELESTARIAN SUMBERDAYA HAYATI",
+    "kelas": "1",
+    "koordinator": "Ir. Jumini, M.P.NIP. 195910101985032003",
+    "ruang": "1",
+    "hari": "Rabu",
+    "waktu": "11:00-12:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010001",
+        "nama": "INDRI AULIA VITALOKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010002",
+        "nama": "AGUNG PRADANA",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010003",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010004",
+        "nama": "WAHYU FITRI MAULIDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010005",
+        "nama": "HANIFAH LUTHFIYAH M",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010006",
+        "nama": "NUR ASWAHYUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010007",
+        "nama": "DEWI SEKAR SARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010009",
+        "nama": "SISKA TRI RAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010010",
+        "nama": "AFNI BERUTU",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010011",
+        "nama": "SUSENO ANGGI SAPUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010012",
+        "nama": "SUHADA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010013",
+        "nama": "RIZKI YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "ADK308",
+        "kelas": "1",
+        "npm": "2005150010017",
+        "nama": "ELSA IRAWATI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "17",
+    "kode": "ADK310",
+    "nama kelas": "PERTANIAN BERKELANJUTAN",
+    "kelas": "1",
+    "koordinator": "Prof. Dr.nat.techn. Syafruddin, SP., M.P.NIP. 196801061997031002",
+    "ruang": "1",
+    "hari": "Sabtu",
+    "waktu": "09:00-10:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK310",
+        "kelas": "1",
+        "npm": "1805150010034",
+        "nama": "MUHAMMAD HAEKAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "ADK310",
+        "kelas": "1",
+        "npm": "2005150010003",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADK310",
+        "kelas": "1",
+        "npm": "2005150010004",
+        "nama": "WAHYU FITRI MAULIDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK310",
+        "kelas": "1",
+        "npm": "2005150010006",
+        "nama": "NUR ASWAHYUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK310",
+        "kelas": "1",
+        "npm": "2005150010009",
+        "nama": "SISKA TRI RAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK310",
+        "kelas": "1",
+        "npm": "2005150010011",
+        "nama": "SUSENO ANGGI SAPUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "ADK310",
+        "kelas": "1",
+        "npm": "2005150010012",
+        "nama": "SUHADA",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "ADK310",
+        "kelas": "1",
+        "npm": "2005150010013",
+        "nama": "RIZKI YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADK310",
+        "kelas": "1",
+        "npm": "2005150010017",
+        "nama": "ELSA IRAWATI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "18",
+    "kode": "ADK312",
+    "nama kelas": "TEKNOLOGI PASCAPANEN",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "1",
+    "hari": "Sabtu",
+    "waktu": "09:00-10:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010001",
+        "nama": "INDRI AULIA VITALOKA",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010002",
+        "nama": "AGUNG PRADANA",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010003",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010004",
+        "nama": "WAHYU FITRI MAULIDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010005",
+        "nama": "HANIFAH LUTHFIYAH M",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010006",
+        "nama": "NUR ASWAHYUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010007",
+        "nama": "DEWI SEKAR SARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010009",
+        "nama": "SISKA TRI RAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010010",
+        "nama": "AFNI BERUTU",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010011",
+        "nama": "SUSENO ANGGI SAPUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010012",
+        "nama": "SUHADA",
+        "kelamin": "L"
+      },
+      {
+        "no": "12",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010013",
+        "nama": "RIZKI YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "ADK312",
+        "kelas": "1",
+        "npm": "2005150010017",
+        "nama": "ELSA IRAWATI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "19",
+    "kode": "ADKP02",
+    "nama kelas": "PRAKTEK LAPANG",
+    "kelas": "1",
+    "koordinator": "Dr. Siti Hafsah, S.P, M.SiNIP. 197008121996032004",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADKP02",
+        "kelas": "1",
+        "npm": "1605150010011",
+        "nama": "SUNDARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADKP02",
+        "kelas": "1",
+        "npm": "1805150010001",
+        "nama": "RAMIDIN WAHYUDIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "ADKP02",
+        "kelas": "1",
+        "npm": "1805150010036",
+        "nama": "FIRMAN AZHAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "ADKP02",
+        "kelas": "1",
+        "npm": "1905150010016",
+        "nama": "LAILATUL RAHMI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADKP02",
+        "kelas": "1",
+        "npm": "1905150010018",
+        "nama": "DONNI NASRIYANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "ADKP02",
+        "kelas": "1",
+        "npm": "1905150010019",
+        "nama": "SETIA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "ADKP02",
+        "kelas": "1",
+        "npm": "1905150010021",
+        "nama": "SYABRI YANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "8",
+        "kode": "ADKP02",
+        "kelas": "1",
+        "npm": "1905150010022",
+        "nama": "ZAHRO",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADKP02",
+        "kelas": "1",
+        "npm": "1905150010026",
+        "nama": "ALI UMAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "ADKP02",
+        "kelas": "1",
+        "npm": "1905150010034",
+        "nama": "ARFAN EFENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "11",
+        "kode": "ADKP02",
+        "kelas": "1",
+        "npm": "1905150010035",
+        "nama": "HAYATUN NUFUS",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "20",
+    "kode": "ADKP04",
+    "nama kelas": "SEMINAR",
+    "kelas": "1",
+    "koordinator": "Ir. Ainun Marliah, M.P.NIP. 196712311993032006",
+    "ruang": "1",
+    "hari": "Sabtu",
+    "waktu": "14:00-15:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1605150010011",
+        "nama": "SUNDARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1805150010001",
+        "nama": "RAMIDIN WAHYUDIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "3",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1805150010003",
+        "nama": "NURUL HUDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1805150010006",
+        "nama": "MAIMUNAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1805150010016",
+        "nama": "ARIYATI BR BERUTU",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1805150010017",
+        "nama": "HERMIATI BR BERUTU",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1805150010029",
+        "nama": "ELIA MUTIARA",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1805150010030",
+        "nama": "MUHAMMAD IKBAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "9",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1805150010036",
+        "nama": "FIRMAN AZHAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "10",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010001",
+        "nama": "CUT DELIA RAMADANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010005",
+        "nama": "SRI WAHYUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010006",
+        "nama": "MASIDAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010010",
+        "nama": "SALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "14",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010012",
+        "nama": "ELIA RAMADANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010013",
+        "nama": "KARTINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010014",
+        "nama": "PIRTA DAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010015",
+        "nama": "METTY RAHAYU",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010017",
+        "nama": "YUSRIJAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "19",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010018",
+        "nama": "DONNI NASRIYANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "20",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010019",
+        "nama": "SETIA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "21",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010020",
+        "nama": "LIA SUDARTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "22",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010021",
+        "nama": "SYABRI YANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "23",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010023",
+        "nama": "ILHAM FAUZAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "24",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010024",
+        "nama": "ALDI PURNADI PADANG",
+        "kelamin": "L"
+      },
+      {
+        "no": "25",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010026",
+        "nama": "ALI UMAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "26",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010027",
+        "nama": "MARIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "27",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010029",
+        "nama": "TUAH HIDAYAT",
+        "kelamin": "L"
+      },
+      {
+        "no": "28",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010030",
+        "nama": "SERI WAHYUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "29",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010032",
+        "nama": "SARITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "30",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010033",
+        "nama": "RITA YENI ADHA",
+        "kelamin": "P"
+      },
+      {
+        "no": "31",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010034",
+        "nama": "ARFAN EFENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "32",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010035",
+        "nama": "HAYATUN NUFUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "33",
+        "kode": "ADKP04",
+        "kelas": "1",
+        "npm": "1905150010037",
+        "nama": "KASTRI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "21",
+    "kode": "ADKPA1",
+    "nama kelas": "SKRIPSI",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "1",
+    "hari": "Sabtu",
+    "waktu": "15:00-18:00",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1605150010011",
+        "nama": "SUNDARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1605150010020",
+        "nama": "RIZKY RIDHANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1705150010027",
+        "nama": "MUHAMMAD ARIFIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "4",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010002",
+        "nama": "JANATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010003",
+        "nama": "NURUL HUDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "6",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010004",
+        "nama": "NURLELA",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010005",
+        "nama": "MARIANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010006",
+        "nama": "MAIMUNAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010007",
+        "nama": "NURHIKMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010010",
+        "nama": "SITI RAHMAH",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010011",
+        "nama": "DELA PUTRI ANA",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010012",
+        "nama": "AULAN SARIDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "13",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010016",
+        "nama": "ARIYATI BR BERUTU",
+        "kelamin": "P"
+      },
+      {
+        "no": "14",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010017",
+        "nama": "HERMIATI BR BERUTU",
+        "kelamin": "P"
+      },
+      {
+        "no": "15",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010019",
+        "nama": "MAULINDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "16",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010021",
+        "nama": "INDAH PURNAMA SARI",
+        "kelamin": "P"
+      },
+      {
+        "no": "17",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010022",
+        "nama": "NURUL IKHWANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "18",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010023",
+        "nama": "MAISARAH.B",
+        "kelamin": "P"
+      },
+      {
+        "no": "19",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010025",
+        "nama": "SAID ALHUDAYA",
+        "kelamin": "L"
+      },
+      {
+        "no": "20",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010026",
+        "nama": "TEDI IRWANSYAH",
+        "kelamin": "L"
+      },
+      {
+        "no": "21",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010028",
+        "nama": "MUHAMMAD HAEKAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "22",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010029",
+        "nama": "ELIA MUTIARA",
+        "kelamin": "P"
+      },
+      {
+        "no": "23",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010030",
+        "nama": "MUHAMMAD IKBAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "24",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010035",
+        "nama": "SALINA",
+        "kelamin": "P"
+      },
+      {
+        "no": "25",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1805150010040",
+        "nama": "DILLA SAFIRA PELIS",
+        "kelamin": "P"
+      },
+      {
+        "no": "26",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010001",
+        "nama": "CUT DELIA RAMADANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "27",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010005",
+        "nama": "SRI WAHYUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "28",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010006",
+        "nama": "MASIDAR",
+        "kelamin": "P"
+      },
+      {
+        "no": "29",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010010",
+        "nama": "SALIHIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "30",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010012",
+        "nama": "ELIA RAMADANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "31",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010013",
+        "nama": "KARTINI",
+        "kelamin": "P"
+      },
+      {
+        "no": "32",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010014",
+        "nama": "PIRTA DAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "33",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010015",
+        "nama": "METTY RAHAYU",
+        "kelamin": "P"
+      },
+      {
+        "no": "34",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010017",
+        "nama": "YUSRIJAL",
+        "kelamin": "L"
+      },
+      {
+        "no": "35",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010018",
+        "nama": "DONNI NASRIYANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "36",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010019",
+        "nama": "SETIA WATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "37",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010020",
+        "nama": "LIA SUDARTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "38",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010021",
+        "nama": "SYABRI YANDA",
+        "kelamin": "L"
+      },
+      {
+        "no": "39",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010023",
+        "nama": "ILHAM FAUZAN",
+        "kelamin": "L"
+      },
+      {
+        "no": "40",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010024",
+        "nama": "ALDI PURNADI PADANG",
+        "kelamin": "L"
+      },
+      {
+        "no": "41",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010026",
+        "nama": "ALI UMAR",
+        "kelamin": "L"
+      },
+      {
+        "no": "42",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010027",
+        "nama": "MARIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "43",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010029",
+        "nama": "TUAH HIDAYAT",
+        "kelamin": "L"
+      },
+      {
+        "no": "44",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010030",
+        "nama": "SERI WAHYUNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "45",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010031",
+        "nama": "SAPARUDIN",
+        "kelamin": "L"
+      },
+      {
+        "no": "46",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010032",
+        "nama": "SARITA",
+        "kelamin": "P"
+      },
+      {
+        "no": "47",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010033",
+        "nama": "RITA YENI ADHA",
+        "kelamin": "P"
+      },
+      {
+        "no": "48",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010034",
+        "nama": "ARFAN EFENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "49",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010035",
+        "nama": "HAYATUN NUFUS",
+        "kelamin": "P"
+      },
+      {
+        "no": "50",
+        "kode": "ADKPA1",
+        "kelas": "1",
+        "npm": "1905150010037",
+        "nama": "KASTRI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "22",
+    "kode": "MKS101",
+    "nama kelas": "BAHASA INDONESIA",
+    "kelas": "1",
+    "koordinator": "Dr. Drs. Razali, M.PdNIP. 196112211987031002",
+    "ruang": "1",
+    "hari": "Senin",
+    "waktu": "09:00-10:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": []
+  },
+  {
+    "no": "23",
+    "kode": "MKS105",
+    "nama kelas": "PENDIDIKAN AGAMA",
+    "kelas": "1",
+    "koordinator": "Zamzami, S.Thi., M.AgNIP. 198707042020021101",
+    "ruang": "1",
+    "hari": "Sabtu",
+    "waktu": "11:00-12:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": null
+  },
+  {
+    "no": "24",
+    "kode": "MKS106",
+    "nama kelas": "PENGETAHUAN KEBENCANAAN DAN LINGKUNGAN",
+    "kelas": "1",
+    "koordinator": "Dr. Taufan Hidayat, S.Si., M.SiNIP. 197805102006041001",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "09:00-10:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": []
+  },
+  {
+    "no": "25",
+    "kode": "MKSP02",
+    "nama kelas": "KULIAH KERJA NYATA",
+    "kelas": "1",
+    "koordinator": "Dr. Ir. Syamsuddin, M.SiNIP. 196107041988031006",
+    "ruang": "1",
+    "hari": "Jumat",
+    "waktu": "16:00-17:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "MKSP02",
+        "kelas": "1",
+        "npm": "1905150010034",
+        "nama": "ARFAN EFENDI",
+        "kelamin": "L"
+      },
+      {
+        "no": "2",
+        "kode": "MKSP02",
+        "kelas": "1",
+        "npm": "1905150010037",
+        "nama": "KASTRI",
+        "kelamin": "P"
+      }
+    ]
+  },
+  {
+    "no": "26",
+    "kode": "PEN302",
+    "nama kelas": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "1",
+    "koordinator": "Prof. Dr. Rita Hayati, S.P., M.Si.NIP. 197101091998022001",
+    "ruang": "1",
+    "hari": "Kamis",
+    "waktu": "11:00-12:40",
+    "keterangan": "PertanianS1Agroteknologi (Gayo Lues)",
+    "peserta": [
+      {
+        "no": "1",
+        "kode": "PEN302",
+        "kelas": "1",
+        "npm": "2005150010003",
+        "nama": "SANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "2",
+        "kode": "PEN302",
+        "kelas": "1",
+        "npm": "2005150010004",
+        "nama": "WAHYU FITRI MAULIDA",
+        "kelamin": "P"
+      },
+      {
+        "no": "3",
+        "kode": "PEN302",
+        "kelas": "1",
+        "npm": "2005150010009",
+        "nama": "SISKA TRI RAMAYANTI",
+        "kelamin": "P"
+      },
+      {
+        "no": "4",
+        "kode": "PEN302",
+        "kelas": "1",
+        "npm": "2005150010011",
+        "nama": "SUSENO ANGGI SAPUTRI",
+        "kelamin": "P"
+      },
+      {
+        "no": "5",
+        "kode": "PEN302",
+        "kelas": "1",
+        "npm": "2005150010012",
+        "nama": "SUHADA",
+        "kelamin": "L"
+      },
+      {
+        "no": "6",
+        "kode": "PEN302",
+        "kelas": "1",
+        "npm": "2005150010013",
+        "nama": "RIZKI YANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "7",
+        "kode": "PEN302",
+        "kelas": "1",
+        "npm": "2005150010017",
+        "nama": "ELSA IRAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "8",
+        "kode": "PEN302",
+        "kelas": "1",
+        "npm": "2105150010002",
+        "nama": "SALMAWATI",
+        "kelamin": "P"
+      },
+      {
+        "no": "9",
+        "kode": "PEN302",
+        "kelas": "1",
+        "npm": "2105150010004",
+        "nama": "JULIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "10",
+        "kode": "PEN302",
+        "kelas": "1",
+        "npm": "2105150010005",
+        "nama": "HAFIFAH HAFNI",
+        "kelamin": "P"
+      },
+      {
+        "no": "11",
+        "kode": "PEN302",
+        "kelas": "1",
+        "npm": "2105150010006",
+        "nama": "FITRIANI",
+        "kelamin": "P"
+      },
+      {
+        "no": "12",
+        "kode": "PEN302",
+        "kelas": "1",
+        "npm": "2105150010009",
+        "nama": "SRI WIJAYA",
+        "kelamin": "P"
+      }
+    ]
+  }
+]

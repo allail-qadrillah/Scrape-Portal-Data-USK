@@ -2,6 +2,12 @@ from timer import Timer
 from ScrapePesertaKelas import MiningPortalUSK
 from config import *
 
+def getTime():
+    from datetime import datetime
+    from pytz import timezone
+    jakarta = timezone('Asia/Jakarta')
+    return datetime.now(jakarta)
+  
 @Timer
 def MiningAllPesertaUSKS1():
     pathCourses = './COURSES USK'
@@ -15,7 +21,7 @@ def MiningAllPesertaUSKS1():
     )
     FT.getAllMataKuliahProdi(URUTAN_FAKULTAS['Teknik'])
     FT.getAllPesertaThread()
-    FT.write_txt_file('log.txt', "===================== FT COMPLETE =====================")
+    FT.write_txt_file('log.txt', f"===================== FT COMPLETE {getTime()} =====================")
     FT.moveFolder('Teknik', pathPeserta + '/Teknik')
 
     # KIP
@@ -26,10 +32,10 @@ def MiningAllPesertaUSKS1():
     )
     KIP.getAllMataKuliahProdi(URUTAN_FAKULTAS['KIP'])
     KIP.getAllPesertaThread()
-    KIP.write_txt_file('log.txt', "===================== KIP COMPLETE =====================")
+    KIP.write_txt_file('log.txt', f"===================== KIP COMPLETE {getTime()} =====================")
     KIP.moveFolder('KIP', pathPeserta + '/KIP')
 
-    # KEDOKTERAN
+    KEDOKTERAN
     FK = MiningPortalUSK(
         pathLoad=pathCourses + '/FK',
         pathSave='Kedokteran',
@@ -37,7 +43,7 @@ def MiningAllPesertaUSKS1():
     )
     FK.getAllMataKuliahProdi(URUTAN_FAKULTAS['Kedokteran'])
     FK.getAllPesertaThread()
-    FK.write_txt_file('log.txt', "===================== FK COMPLETE =====================")
+    FK.write_txt_file('log.txt', f"===================== FK COMPLETE {getTime()} =====================")
     FK.moveFolder('Kedokteran', pathPeserta + '/Kedokteran')
     
     # EKONOMI
@@ -48,7 +54,7 @@ def MiningAllPesertaUSKS1():
     )
     FEB.getAllMataKuliahProdi(URUTAN_FAKULTAS['Ekonomi'])
     FEB.getAllPesertaThread()
-    FEB.write_txt_file('log.txt', "===================== FEB COMPLETE =====================")
+    FEB.write_txt_file('log.txt', f"===================== FEB COMPLETE {getTime()} =====================")
     FEB.moveFolder('Ekonomi dan Bisnis', pathPeserta)
 
     # KEDOKTERAN HEWAN
@@ -59,7 +65,7 @@ def MiningAllPesertaUSKS1():
     )
     FKH.getAllMataKuliahProdi(URUTAN_FAKULTAS['Kedokteran Hewan'])
     FKH.getAllPesertaThread()
-    FKH.write_txt_file('log.txt', "===================== FKH COMPLETE =====================")
+    FKH.write_txt_file('log.txt', f"===================== FKH COMPLETE {getTime()} =====================")
     FKH.moveFolder('Kedokteran Hewan', pathPeserta)
 
     # KEDOKTERAN HUKUM
@@ -70,7 +76,7 @@ def MiningAllPesertaUSKS1():
     )
     FH.getAllMataKuliahProdi(URUTAN_FAKULTAS['Hukum'])
     FH.getAllPesertaThread()
-    FH.write_txt_file('log.txt', "===================== FH COMPLETE =====================")
+    FH.write_txt_file('log.txt', f"===================== FH COMPLETE {getTime()}  =====================")
     FH.moveFolder('Hukum', pathPeserta)
 
     # PERTANIAN
@@ -81,7 +87,7 @@ def MiningAllPesertaUSKS1():
     )
     FP.getAllMataKuliahProdi(URUTAN_FAKULTAS['Pertanian'])
     FP.getAllPesertaThread()
-    FP.write_txt_file('log.txt', "===================== FP COMPLETE =====================")
+    FP.write_txt_file('log.txt', f"===================== FP COMPLETE {getTime()} =====================")
     FP.moveFolder('Pertanian', pathPeserta)
 
     # MIPA
@@ -92,7 +98,7 @@ def MiningAllPesertaUSKS1():
     )
     MIPA.getAllMataKuliahProdi(URUTAN_FAKULTAS['Mipa'])
     MIPA.getAllPesertaThread()
-    MIPA.write_txt_file('log.txt', "===================== MIPA COMPLETE =====================")
+    MIPA.write_txt_file('log.txt', f"===================== MIPA COMPLETE {getTime()} =====================")
     MIPA.moveFolder('MIPA', pathPeserta)
 
     # ISIP
@@ -103,7 +109,7 @@ def MiningAllPesertaUSKS1():
     )
     ISIP.getAllMataKuliahProdi(URUTAN_FAKULTAS['Isip'])
     ISIP.getAllPesertaThread()
-    ISIP.write_txt_file('log.txt', "===================== ISIP COMPLETE =====================")
+    ISIP.write_txt_file('log.txt', f"===================== ISIP COMPLETE {getTime()} =====================")
     ISIP.moveFolder('ISIP', pathPeserta)
 
     # KELAUTAN DAN PERIKANAN
@@ -114,7 +120,7 @@ def MiningAllPesertaUSKS1():
     )
     KP.getAllMataKuliahProdi(URUTAN_FAKULTAS['Kelautan dan Perikanan'])
     KP.getAllPesertaThread()
-    KP.write_txt_file('log.txt', "===================== KP COMPLETE =====================")
+    KP.write_txt_file('log.txt', f"===================== KP COMPLETE {getTime()} =====================")
     KP.moveFolder('Kelautan dan Perikanan', pathPeserta)
 
     # Keperawatan
@@ -125,16 +131,16 @@ def MiningAllPesertaUSKS1():
     )
     FKP.getAllMataKuliahProdi(URUTAN_FAKULTAS['Keperawatan'])
     FKP.getAllPesertaThread()
-    FKP.write_txt_file('log.txt', "===================== FKP COMPLETE =====================")
+    FKP.write_txt_file('log.txt', f"===================== FKP COMPLETE {getTime()}  =====================")
     FKP.moveFolder('Keperawatan', pathPeserta)
 
     # Kedokteran Gigi
     FKG = MiningPortalUSK(
         pathLoad=pathCourses + '/FKG',
         pathSave='Kedokteran Gigi',
-        urutanCode= JURUSAN_FISIP,
+        urutanCode= JURUSAN_FKG,
     )
     FKG.getAllMataKuliahProdi(URUTAN_FAKULTAS['Kedokteran Gigi'])
     FKG.getAllPesertaThread()
-    FKG.write_txt_file('log.txt', "===================== FKG COMPLETE =====================")
+    FKG.write_txt_file('log.txt', f"===================== FKG COMPLETE {getTime()} =====================")
     FKG.moveFolder('Kedokteran Gigi', pathPeserta)

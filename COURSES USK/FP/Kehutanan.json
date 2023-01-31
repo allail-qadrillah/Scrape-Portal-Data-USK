@@ -1,0 +1,1560 @@
+[
+  {
+    "no": "1",
+    "kode": "FOR102",
+    "nama": "DASAR-DASAR MANAJEMEN",
+    "kelas": "01",
+    "koordinator": "Akhmad Baihaqi, S.P., M.M.NIP. 197406142008121001",
+    "ruang": "B.03.05",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "30",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "FOR102",
+    "nama": "DASAR-DASAR MANAJEMEN",
+    "kelas": "02",
+    "koordinator": "Akhmad Baihaqi, S.P., M.M.NIP. 197406142008121001",
+    "ruang": "D. 03.01",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "FOR104",
+    "nama": "KIMIA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Nurdin, M.SiNIP. 196609151991031005",
+    "ruang": "B. 03.04",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "28",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "FOR104",
+    "nama": "KIMIA",
+    "kelas": "02",
+    "koordinator": "Dr. Julinawati, S.Si., M.SiNIP. 197107011997022001",
+    "ruang": "B.03.07",
+    "hari": "Rabu",
+    "waktu": "8:00-8:50",
+    "peserta": "24",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "FOR106",
+    "nama": "PRAKTIKUM KIMIA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Nurdin, M.SiNIP. 196609151991031005",
+    "ruang": "Lab.Hut",
+    "hari": "Selasa",
+    "waktu": "8:00-8:50",
+    "peserta": "27",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "FOR106",
+    "nama": "PRAKTIKUM KIMIA",
+    "kelas": "02",
+    "koordinator": "Dr. Julinawati, S.Si., M.SiNIP. 197107011997022001",
+    "ruang": "Lab. Hut",
+    "hari": "Jumat",
+    "waktu": "14:00-14:50",
+    "peserta": "25",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "FOR108",
+    "nama": "ILMU TANAH HUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Teti Arabia, MS.NIP. 196109141986022001",
+    "ruang": "B.03.12",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "32",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "FOR108",
+    "nama": "ILMU TANAH HUTAN",
+    "kelas": "02",
+    "koordinator": "Raichan Izzati, M.P.NIP. 199408292022032019",
+    "ruang": "D, 03.01",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "19",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "FOR110",
+    "nama": "PRAKTIKUM ILMU TANAH HUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Teti Arabia, MS.NIP. 196109141986022001",
+    "ruang": "Lab. HUt",
+    "hari": "Jumat",
+    "waktu": "16:20-17:10",
+    "peserta": "32",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "FOR110",
+    "nama": "PRAKTIKUM ILMU TANAH HUTAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Teti Arabia, MS.NIP. 196109141986022001",
+    "ruang": "Lab. Hut",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "19",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "FOR112",
+    "nama": "KLIMATOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Gina Erida, M.SiNIP. 196306261989032002",
+    "ruang": "B.03.07",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "32",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "FOR112",
+    "nama": "KLIMATOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Gina Erida, M.SiNIP. 196306261989032002",
+    "ruang": "D. 03.05",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "17",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "FOR114",
+    "nama": "PRAKTIKUM KLIMATOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Gina Erida, M.SiNIP. 196306261989032002",
+    "ruang": "Lab. Hut",
+    "hari": "Jumat",
+    "waktu": "8:00-8:50",
+    "peserta": "32",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR114",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "FOR114",
+    "nama": "PRAKTIKUM KLIMATOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Gina Erida, M.SiNIP. 196306261989032002",
+    "ruang": "Lab.Hut",
+    "hari": "Selasa",
+    "waktu": "10:00-10:50",
+    "peserta": "17",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR114",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "FOR116",
+    "nama": " DENDROLOGI",
+    "kelas": "01",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "B..03.12",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "31",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR116",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "FOR116",
+    "nama": " DENDROLOGI",
+    "kelas": "02",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "B. 03.07",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR116",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "FOR118",
+    "nama": "PRAKTIKUM DENDROLOGI",
+    "kelas": "01",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "Lab.Hut",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR118",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "FOR118",
+    "nama": "PRAKTIKUM DENDROLOGI",
+    "kelas": "02",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "Lab.Hut",
+    "hari": "Senin",
+    "waktu": "14:00-14:50",
+    "peserta": "27",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR118",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "FOR120",
+    "nama": "SUMBER DAYA KEHUTANAN LOKAL",
+    "kelas": "01",
+    "koordinator": "Ryan Moulana, S.TP., M.ScNIP. 197901182003121004",
+    "ruang": "D. 03.02",
+    "hari": "Selasa",
+    "waktu": "16:20-17:10",
+    "peserta": "32",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR120",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "FOR120",
+    "nama": "SUMBER DAYA KEHUTANAN LOKAL",
+    "kelas": "02",
+    "koordinator": "Ryan Moulana, S.TP., M.ScNIP. 197901182003121004",
+    "ruang": "B.03.07",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "19",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR120",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "FOR202",
+    "nama": "KEBIJAKAN  KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Tuti Arlita, S.Pi., M.SiNIP. 197310112006042001",
+    "ruang": "B. 03.08",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "18",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "FOR202",
+    "nama": "KEBIJAKAN  KEHUTANAN",
+    "kelas": "02",
+    "koordinator": "Tuti Arlita, S.Pi., M.SiNIP. 197310112006042001",
+    "ruang": "B.03.10",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "36",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "FOR204",
+    "nama": "ILMU UKUR KAYU",
+    "kelas": "01",
+    "koordinator": "Martunis, S.TP., M.ScNIP. 197905052003121002",
+    "ruang": "D. 03.06",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "FOR204",
+    "nama": "ILMU UKUR KAYU",
+    "kelas": "02",
+    "koordinator": "Martunis, S.TP., M.ScNIP. 197905052003121002",
+    "ruang": "D. 03.05",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "33",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "FOR206",
+    "nama": "PRAKTIKUM ILMU UKUR KAYU",
+    "kelas": "01",
+    "koordinator": "Martunis, S.TP., M.ScNIP. 197905052003121002",
+    "ruang": "Lab. HUt",
+    "hari": "Jumat",
+    "waktu": "16:20-17:10",
+    "peserta": "31",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "FOR206",
+    "nama": "PRAKTIKUM ILMU UKUR KAYU",
+    "kelas": "02",
+    "koordinator": "Martunis, S.TP., M.ScNIP. 197905052003121002",
+    "ruang": "Lab. Hut",
+    "hari": "Kamis",
+    "waktu": "16:20-17:10",
+    "peserta": "22",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "FOR208",
+    "nama": "INVENTARISASI HUTAN",
+    "kelas": "01",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "B.03.13",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "34",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "FOR208",
+    "nama": "INVENTARISASI HUTAN",
+    "kelas": "02",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "D. 03.04",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR208",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "FOR210",
+    "nama": "PRAKTIKUM INVENTARISASI HUTAN",
+    "kelas": "01",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "Lab. Hut",
+    "hari": "Kamis",
+    "waktu": "16:20-17:10",
+    "peserta": "23",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR210",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "FOR210",
+    "nama": "PRAKTIKUM INVENTARISASI HUTAN",
+    "kelas": "02",
+    "koordinator": "Iqbar, S.Si, M.ScNIP. 197407032005011001",
+    "ruang": "Lab.Hut",
+    "hari": "Senin",
+    "waktu": "16:20-17:10",
+    "peserta": "32",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR210",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "FOR212",
+    "nama": "SILVIKULTUR",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Ashabul Anhar, M.ScNIP. 196606291990031002",
+    "ruang": "B. 03.12",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "32",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR212",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "FOR212",
+    "nama": "SILVIKULTUR",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Ashabul Anhar, M.ScNIP. 196606291990031002",
+    "ruang": "B.03.10",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "21",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR212",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "FOR214",
+    "nama": "PRAKTIKUM SILVIKULTUR",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Ashabul Anhar, M.ScNIP. 196606291990031002",
+    "ruang": "Lab. Hut",
+    "hari": "Jumat",
+    "waktu": "8:00-8:50",
+    "peserta": "20",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR214",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "FOR214",
+    "nama": "PRAKTIKUM SILVIKULTUR",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Ashabul Anhar, M.ScNIP. 196606291990031002",
+    "ruang": "Lab. Hut",
+    "hari": "Kamis",
+    "waktu": "14:00-14:50",
+    "peserta": "32",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR214",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "FOR216",
+    "nama": "HIDROLOGI HUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Hairul Basri, M.ScNIP. 196702101991021001",
+    "ruang": "D.03.03",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "18",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "FOR216",
+    "nama": "HIDROLOGI HUTAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Hairul Basri, M.ScNIP. 196702101991021001",
+    "ruang": "D.03-02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "34",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR216",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "FOR218",
+    "nama": "PRAKTIKUM HIDROLOGI HUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Hairul Basri, M.ScNIP. 196702101991021001",
+    "ruang": "Lab. Hut",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "27",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR218",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "FOR218",
+    "nama": "PRAKTIKUM HIDROLOGI HUTAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Hairul Basri, M.ScNIP. 196702101991021001",
+    "ruang": "Lab.Hut",
+    "hari": "Kamis",
+    "waktu": "8:00-8:50",
+    "peserta": "25",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR218",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "FOR220",
+    "nama": "ILMU UKUR DAN PEMETAAN HUTAN",
+    "kelas": "01",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "B. 03.10",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "35",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR220",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "FOR220",
+    "nama": "ILMU UKUR DAN PEMETAAN HUTAN",
+    "kelas": "02",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "D. 03.02",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "20",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR220",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "FOR222",
+    "nama": "PRAKTIKUM ILMU UKUR DAN PEMETAAN HUTAN",
+    "kelas": "01",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "Lab. Hut",
+    "hari": "Jumat",
+    "waktu": "10:00-10:50",
+    "peserta": "34",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR222",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "FOR222",
+    "nama": "PRAKTIKUM ILMU UKUR DAN PEMETAAN HUTAN",
+    "kelas": "02",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "Lab. Hut",
+    "hari": "Kamis",
+    "waktu": "10:00-10:50",
+    "peserta": "22",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR222",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "FOR502",
+    "nama": "PENGINDERAAN JARAK JAUH",
+    "kelas": "01",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "B. 03.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:50",
+    "peserta": "32",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR502",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "FOR502",
+    "nama": "PENGINDERAAN JARAK JAUH",
+    "kelas": "02",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "B.03.03",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR502",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "FOR504",
+    "nama": "PRAKTIKUM PENGINDERAAN JARAK JAUH",
+    "kelas": "01",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "Lab. Hut",
+    "hari": "Senin",
+    "waktu": "12:00-9:00",
+    "peserta": "33",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR504",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "FOR504",
+    "nama": "PRAKTIKUM PENGINDERAAN JARAK JAUH",
+    "kelas": "02",
+    "koordinator": "Muhammad Rusdi, S.P, M.Si, Ph.DNIP. 197704012006041001",
+    "ruang": "Lab. Hut",
+    "hari": "Kamis",
+    "waktu": "8:00-8:50",
+    "peserta": "24",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR504",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "FOR506",
+    "nama": "PERUBAHAN IKLIM",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Ashabul Anhar, M.ScNIP. 196606291990031002",
+    "ruang": "B.03.08",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "34",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR506",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "FOR506",
+    "nama": "PERUBAHAN IKLIM",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Ashabul Anhar, M.ScNIP. 196606291990031002",
+    "ruang": "D. 03.04",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "29",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR506",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "FOR508",
+    "nama": "MANAJEMEN REHABILITASI  HUTAN DAN LAHAN",
+    "kelas": "01",
+    "koordinator": "Tuti Arlita, S.Pi., M.SiNIP. 197310112006042001",
+    "ruang": "D. 03.01",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "17",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR508",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "FOR510",
+    "nama": "PRAKTIKUM MANAJEMEN REHABILITASI HUTAN  DAN LAHAN",
+    "kelas": "01",
+    "koordinator": "Tuti Arlita, S.Pi., M.SiNIP. 197310112006042001",
+    "ruang": "Lab.Hut",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "17",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR510",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "FOR512",
+    "nama": "JASA EKOSISTEM HUTAN DAN LINGKUNGAN HIDUP",
+    "kelas": "01",
+    "koordinator": "Ryan Moulana, S.TP., M.ScNIP. 197901182003121004",
+    "ruang": "D. 03.01",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "15",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR512",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "FOR514",
+    "nama": "PRAKTIKUM JASA EKOSISTEM HUTAN DAN LINGKUNGAN HIDUP",
+    "kelas": "01",
+    "koordinator": "Ryan Moulana, S.TP., M.ScNIP. 197901182003121004",
+    "ruang": "Lab. Hut",
+    "hari": "Rabu",
+    "waktu": "10:00-10:50",
+    "peserta": "14",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR514",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "FOR516",
+    "nama": "BIOTEKNOLOGI DAN KONSERVASI KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Essy Harnelly, S.Si., M.Si., Ph.D.NIP. 197501092000122002",
+    "ruang": "B. 03.05",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "11",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR516",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "FOR518",
+    "nama": "PRAKTIKUM BIOTEKNOLOGI DAN KONSERVASI KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Essy Harnelly, S.Si., M.Si., Ph.D.NIP. 197501092000122002",
+    "ruang": "Lab. Hut",
+    "hari": "Rabu",
+    "waktu": "16:20-17:10",
+    "peserta": "11",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR518",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "FOR520",
+    "nama": "EKOLOGI SATWA LIAR",
+    "kelas": "01",
+    "koordinator": "Irma Dewiyanti, S.Pi., M.ScNIP. 198112212005012001",
+    "ruang": "D.03.01",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "12",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR520",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "FOR522",
+    "nama": "PRAKTIKUM EKOLOGI SATWA LIAR",
+    "kelas": "01",
+    "koordinator": "Irma Dewiyanti, S.Pi., M.ScNIP. 198112212005012001",
+    "ruang": "Lab. Hut",
+    "hari": "Kamis",
+    "waktu": "10:00-10:50",
+    "peserta": "11",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR522",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "FOR524",
+    "nama": "BIOLOGI TANAH",
+    "kelas": "01",
+    "koordinator": "Lola Adres Yanti, S.Hut., M.Si.NIP. 199001292019032017",
+    "ruang": "B. 03.09",
+    "hari": "Selasa",
+    "waktu": "16:20-18:10",
+    "peserta": "7",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR524",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "FOR526",
+    "nama": "PRAKTIKUM BIOLOGI TANAH",
+    "kelas": "01",
+    "koordinator": "Lola Adres Yanti, S.Hut., M.Si.NIP. 199001292019032017",
+    "ruang": "Lab.Hut",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "7",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR526",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "FOR528",
+    "nama": "RANCANGAN PERCOBAAN",
+    "kelas": "01",
+    "koordinator": "Lola Adres Yanti, S.Hut., M.Si.NIP. 199001292019032017",
+    "ruang": "B. 03.08",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "6",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR528",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "FOR530",
+    "nama": "PRAKTIKUM RANCANGAN PERCOBAAN",
+    "kelas": "01",
+    "koordinator": "Lola Adres Yanti, S.Hut., M.Si.NIP. 199001292019032017",
+    "ruang": "Lab. Hut",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "6",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR530",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "FOR532",
+    "nama": "PENYULUHAN HUTAN",
+    "kelas": "01",
+    "koordinator": "Mujiburrahmad, SP., M.SiNIP. 198810282015041003",
+    "ruang": "D. 03.04",
+    "hari": "Jumat",
+    "waktu": "14:00-14:50",
+    "peserta": "2",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR532",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "FOR534",
+    "nama": "PEMASARAN HASIL HUTAN",
+    "kelas": "01",
+    "koordinator": "Ryan Moulana, S.TP., M.ScNIP. 197901182003121004",
+    "ruang": "D.03.04",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "14",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR534",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "FOR536",
+    "nama": "ANALISIS KEBIJAKAN KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Tuti Arlita, S.Pi., M.SiNIP. 197310112006042001",
+    "ruang": "B.03.08",
+    "hari": "Rabu",
+    "waktu": "8:00-8:50",
+    "peserta": "9",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR536",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "FOR538",
+    "nama": "REKLAMASI LAHAN PASCA TAMBANG DAN RESTORASI",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "B.03.13",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "16",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR538",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "FOR540",
+    "nama": "TENURIAL  KEHUTANAN",
+    "kelas": "01",
+    "koordinator": "Tuti Arlita, S.Pi., M.SiNIP. 197310112006042001",
+    "ruang": "B. 03.08",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR540",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "FOR542",
+    "nama": "PERHITUNGAN KARBON",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "D.03.04",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "19",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR542",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "FOR544",
+    "nama": "PRAKTIKUM PERHITUNGAN KARBON",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "Lab. Hut",
+    "hari": "Senin",
+    "waktu": "10:00-10:50",
+    "peserta": "14",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR544",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "FOR546",
+    "nama": "UNIT MANAJEMEN HUTAN",
+    "kelas": "01",
+    "koordinator": "Tuti Arlita, S.Pi., M.SiNIP. 197310112006042001",
+    "ruang": "B. 03.09",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "5",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR546",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "FOR548",
+    "nama": "PRAKTIKUM UNIT MANAJEMEN HUTAN",
+    "kelas": "01",
+    "koordinator": "Tuti Arlita, S.Pi., M.SiNIP. 197310112006042001",
+    "ruang": "Lab. Hut",
+    "hari": "Selasa",
+    "waktu": "16:20-17:10",
+    "peserta": "3",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR548",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "FOR550",
+    "nama": "PENGELOLAAN KAWASAN KONSERVASI",
+    "kelas": "01",
+    "koordinator": "Irma Dewiyanti, S.Pi., M.ScNIP. 198112212005012001",
+    "ruang": "D. 03.02",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "12",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR550",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "FOR552",
+    "nama": "PRAKTIKUM PENGELOLAAN KAWASAN KONSERVASI",
+    "kelas": "01",
+    "koordinator": "Irma Dewiyanti, S.Pi., M.ScNIP. 198112212005012001",
+    "ruang": "Lab. Hut",
+    "hari": "Kamis",
+    "waktu": "14:00-14:50",
+    "peserta": "10",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR552",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "FOR554",
+    "nama": "REKREASI ALAM DAN EKOWISATA",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "D. 03.05",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "33",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR554",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "FOR556",
+    "nama": "PRAKTIKUM REKREASI ALAM DAN EKOWISATA",
+    "kelas": "01",
+    "koordinator": "Ir. Ali M. Muslih, S.Hut., M.Si.NIP. 198910282019031018",
+    "ruang": "Lab. Hut",
+    "hari": "Jumat",
+    "waktu": "14:00-14:50",
+    "peserta": "31",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FOR556",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "FORP02",
+    "nama": "SEMINAR REGULER",
+    "kelas": "01",
+    "koordinator": "Ulfa Hansri Ar Rasyid, S.Pd., M.SiNIP. 199203022019032021",
+    "ruang": "Jurusan Kehutanan",
+    "hari": "Sabtu",
+    "waktu": "8:00-16:00",
+    "peserta": "61",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FORP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "FORP04",
+    "nama": "PRAKTIK KETERAMPILAN",
+    "kelas": "01",
+    "koordinator": "Ir. Subhan, S.Hut., M.Si., IPU.NIP. 197411222000031003",
+    "ruang": "Jurusan Kehutanan",
+    "hari": "Sabtu",
+    "waktu": "8:00-16:00",
+    "peserta": "66",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FORP04",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "FORP05",
+    "nama": "MAGANG /PRAKTIK KERJA DI INDUSTRI / INSTANSI",
+    "kelas": "01",
+    "koordinator": "Ulfa Hansri Ar Rasyid, S.Pd., M.SiNIP. 199203022019032021",
+    "ruang": "Jurusan Kehutanan",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "31",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FORP05",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "FORP06",
+    "nama": "PENELITIAAN / RISET DI LUAR USK",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Ashabul Anhar, M.ScNIP. 196606291990031002",
+    "ruang": "Jurusan Kehutanan",
+    "hari": "Sabtu",
+    "waktu": "16:20-18:00",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FORP06",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "FORP07",
+    "nama": "PROYEK KEMANUSIAAN",
+    "kelas": "01",
+    "koordinator": "Durrah Hayati, S.Pd., M.Sc.NIP. 199106122022032010",
+    "ruang": "Jurusan Kehutanan",
+    "hari": "Sabtu",
+    "waktu": "16:20-18:00",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FORP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "FORP08",
+    "nama": "PROYEK WIRAUSAHA",
+    "kelas": "01",
+    "koordinator": "Ida Rosita, M.Si.NIP. 198904282022032008",
+    "ruang": "Jurusan Kehutanan",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FORP08",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "FORP09",
+    "nama": "MEMBANGUN DESA / KKN TEMATIK",
+    "kelas": "01",
+    "koordinator": "Lola Adres Yanti, S.Hut., M.Si.NIP. 199001292019032017",
+    "ruang": "Jurusan Kehutanan",
+    "hari": "Sabtu",
+    "waktu": "16:20-18:00",
+    "peserta": "0",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FORP09",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "FORPA1",
+    "nama": "PENELITIAN / SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Ashabul Anhar, M.ScNIP. 196606291990031002",
+    "ruang": "Jurusan Kehutanan",
+    "hari": "Sabtu",
+    "waktu": "8:00-16:50",
+    "peserta": "75",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "FORPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Taufik Fuadi Abidin, S.Si., M.TechNIP. 197010081994031002",
+    "ruang": "Babel KKN",
+    "hari": "Sabtu",
+    "waktu": "16:20-18:00",
+    "peserta": "13",
+    "keterangan": "PertanianS1Kehutanan",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0511001"
+    }
+  }
+]

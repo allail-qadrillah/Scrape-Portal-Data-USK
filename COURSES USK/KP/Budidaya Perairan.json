@@ -1,0 +1,819 @@
+[
+  {
+    "no": "1",
+    "kode": "AQU102",
+    "nama": "IKTIOLOGI",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Muchlisin Z.A, S.Pi, M.ScNIP. 197109111999031003",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "AQU102",
+    "nama": "IKTIOLOGI",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. Muchlisin Z.A, S.Pi, M.ScNIP. 197109111999031003",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "38",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "AQU104",
+    "nama": "BIOKIMIA",
+    "kelas": "01",
+    "koordinator": "Sari Afriani, S.Kel., M.Si.NIP. 198604282020012101",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "AQU104",
+    "nama": "BIOKIMIA",
+    "kelas": "02",
+    "koordinator": "Sari Afriani, S.Kel., M.Si.NIP. 198604282020012101",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "37",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "AQU106",
+    "nama": "STATISTIKA PERIKANAN",
+    "kelas": "01",
+    "koordinator": "Adrian Damora, S.Pi., M.Si.NIP. 198711012018031001",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "AQU106",
+    "nama": "STATISTIKA PERIKANAN",
+    "kelas": "02",
+    "koordinator": "Adrian Damora, S.Pi., M.Si.NIP. 198711012018031001",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "41",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "AQU108",
+    "nama": "AVERTEBRATA AIR",
+    "kelas": "01",
+    "koordinator": "Irma Dewiyanti, S.Pi., M.ScNIP. 198112212005012001",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "AQU108",
+    "nama": "AVERTEBRATA AIR",
+    "kelas": "02",
+    "koordinator": "Irma Dewiyanti, S.Pi., M.ScNIP. 198112212005012001",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "41",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "AQU202",
+    "nama": "HAMA DAN PENYAKIT IKAN",
+    "kelas": "01",
+    "koordinator": "Iko Imelda Arisa, S.Kel., M.Si.NIP. 198601242020122002",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "42",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "AQU202",
+    "nama": "HAMA DAN PENYAKIT IKAN",
+    "kelas": "02",
+    "koordinator": "Iko Imelda Arisa, S.Kel., M.Si.NIP. 198601242020122002",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "52",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "AQU204",
+    "nama": "BUDIDAYA PAKAN ALAMI",
+    "kelas": "01",
+    "koordinator": "Nurfadillah, S.Si., M.SiNIP. 198409072019032017",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "47",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "AQU204",
+    "nama": "BUDIDAYA PAKAN ALAMI",
+    "kelas": "02",
+    "koordinator": "Nurfadillah, S.Si., M.SiNIP. 198409072019032017",
+    "ruang": "RKU 13.02.009",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "AQU206",
+    "nama": "MANAJEMEN KUALITAS AIR",
+    "kelas": "01",
+    "koordinator": "Kavinta Melanie, S.Kel., M.Sc.NIP. 198906042019032017",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "AQU206",
+    "nama": "MANAJEMEN KUALITAS AIR",
+    "kelas": "02",
+    "koordinator": "Kavinta Melanie, S.Kel., M.Sc.NIP. 198906042019032017",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "AQU208",
+    "nama": "PENGEMBANGAN AKUAKULTUR IKAN LOKAL",
+    "kelas": "01",
+    "koordinator": "Siska Mellisa, S.Kel., M.Sc.NIP. 198703052015042001",
+    "ruang": "RKU 13.02.009",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "46",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU208",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "AQU208",
+    "nama": "PENGEMBANGAN AKUAKULTUR IKAN LOKAL",
+    "kelas": "02",
+    "koordinator": "Siska Mellisa, S.Kel., M.Sc.NIP. 198703052015042001",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "51",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU208",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "AQU302",
+    "nama": "METODE ILMIAH",
+    "kelas": "01",
+    "koordinator": "Nurfadillah, S.Si., M.SiNIP. 198409072019032017",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "41",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU302",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "AQU302",
+    "nama": "METODE ILMIAH",
+    "kelas": "02",
+    "koordinator": "Nurfadillah, S.Si., M.SiNIP. 198409072019032017",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU302",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "AQU304",
+    "nama": "TEKNOLOGI PEMBESARAN IKAN",
+    "kelas": "01",
+    "koordinator": "Adli Waliul Perdana, S.Kel., M.Si.NIP. 198912122019031013",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "43",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU304",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "AQU304",
+    "nama": "TEKNOLOGI PEMBESARAN IKAN",
+    "kelas": "02",
+    "koordinator": "Adli Waliul Perdana, S.Kel., M.Si.NIP. 198912122019031013",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "48",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU304",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "AQU304",
+    "nama": "TEKNOLOGI PEMBESARAN IKAN",
+    "kelas": "03",
+    "koordinator": "Adli Waliul Perdana, S.Kel., M.Si.NIP. 198912122019031013",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "12",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU304",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "AQU306",
+    "nama": "TEKNOLOGI DAN MANAJEMEN PEMBENIHAN IKAN",
+    "kelas": "01",
+    "koordinator": "Dedi Fazriansyah Putra, S.St.Pi., M.Sc.NIP. 198406272015041001",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "30",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU306",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "AQU306",
+    "nama": "TEKNOLOGI DAN MANAJEMEN PEMBENIHAN IKAN",
+    "kelas": "02",
+    "koordinator": "Dedi Fazriansyah Putra, S.St.Pi., M.Sc.NIP. 198406272015041001",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "45",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU306",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "AQU306",
+    "nama": "TEKNOLOGI DAN MANAJEMEN PEMBENIHAN IKAN",
+    "kelas": "03",
+    "koordinator": "Dedi Fazriansyah Putra, S.St.Pi., M.Sc.NIP. 198406272015041001",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "39",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU306",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "AQU502",
+    "nama": "KOMPUTASI DAN PENGOLAHAN DATA PERIKANAN",
+    "kelas": "01",
+    "koordinator": "Adrian Damora, S.Pi., M.Si.NIP. 198711012018031001",
+    "ruang": "RKU 13.02.009",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU502",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "AQU504",
+    "nama": "BIOLOGI AKUATIK",
+    "kelas": "01",
+    "koordinator": "Kavinta Melanie, S.Kel., M.Sc.NIP. 198906042019032017",
+    "ruang": "RKU 13.02.009",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "52",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU504",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "AQU504",
+    "nama": "BIOLOGI AKUATIK",
+    "kelas": "02",
+    "koordinator": "Kavinta Melanie, S.Kel., M.Sc.NIP. 198906042019032017",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "23",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU504",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "AQU506",
+    "nama": "FISIOLOGI REPRODUKSI IKAN",
+    "kelas": "02",
+    "koordinator": "Dr. Muhammadar, S.T., M.P.NIP. 197210061999031003",
+    "ruang": "RKU 13.0.009",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "47",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU506",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "AQU508",
+    "nama": "HISTOLOGI DASAR",
+    "kelas": "01",
+    "koordinator": "Dedi Fazriansyah Putra, S.St.Pi., M.Sc.NIP. 198406272015041001",
+    "ruang": "RKU 13.02.009",
+    "hari": "Senin",
+    "waktu": "10:45-12:25",
+    "peserta": "55",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU508",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "AQU508",
+    "nama": "HISTOLOGI DASAR",
+    "kelas": "02",
+    "koordinator": "Dedi Fazriansyah Putra, S.St.Pi., M.Sc.NIP. 198406272015041001",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "11",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU508",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "AQU510",
+    "nama": "PERENCANAAN INDUSTRI AKUAKULTUR",
+    "kelas": "01",
+    "koordinator": "Adli Waliul Perdana, S.Kel., M.Si.NIP. 198912122019031013",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "55",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU510",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "AQU510",
+    "nama": "PERENCANAAN INDUSTRI AKUAKULTUR",
+    "kelas": "02",
+    "koordinator": "Adli Waliul Perdana, S.Kel., M.Si.NIP. 198912122019031013",
+    "ruang": "Ruang 1A FKP",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "46",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU510",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "AQU512",
+    "nama": "SISTEM LOGISTIK AKUAKULTUR",
+    "kelas": "01",
+    "koordinator": "Sari Afriani, S.Kel., M.Si.NIP. 198604282020012101",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU512",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "AQU512",
+    "nama": "SISTEM LOGISTIK AKUAKULTUR",
+    "kelas": "02",
+    "koordinator": "Sari Afriani, S.Kel., M.Si.NIP. 198604282020012101",
+    "ruang": "Ruang 1B FKP",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "29",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU512",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "AQU514",
+    "nama": "TEKNOLOGI PRODUKSI IKAN HIAS",
+    "kelas": "01",
+    "koordinator": "Ismarica, S.Pi., M.Si.NIP. 199101222021022101",
+    "ruang": "RKU 13.02.003",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU514",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "AQU514",
+    "nama": "TEKNOLOGI PRODUKSI IKAN HIAS",
+    "kelas": "02",
+    "koordinator": "Ismarica, S.Pi., M.Si.NIP. 199101222021022101",
+    "ruang": "RKU 13.02.008",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "27",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU514",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "AQU516",
+    "nama": "TEKNOLOGI PRODUKSI UDANG",
+    "kelas": "01",
+    "koordinator": "Dedi Fazriansyah Putra, S.St.Pi., M.Sc.NIP. 198406272015041001",
+    "ruang": "RKU 13.02.003",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "46",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQU516",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "AQUP01",
+    "nama": "SEMINAR",
+    "kelas": "01",
+    "koordinator": "Siska Mellisa, S.Kel., M.Sc.NIP. 198703052015042001",
+    "ruang": "G.FKP Lt.2 R.2A",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "87",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQUP01",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "AQUP02",
+    "nama": "KULIAH KERJA PRAKTEK",
+    "kelas": "01",
+    "koordinator": "Siska Mellisa, S.Kel., M.Sc.NIP. 198703052015042001",
+    "ruang": "RKU 13.02.008",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "52",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQUP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "AQUPA1",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Siska Mellisa, S.Kel., M.Sc.NIP. 198703052015042001",
+    "ruang": "RKU 13.02.002",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "128",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "AQUPA1",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "FKP104",
+    "nama": "EKOLOGI PERAIRAN",
+    "kelas": "01",
+    "koordinator": "Nurfadillah, S.Si., M.SiNIP. 198409072019032017",
+    "ruang": "G.FKP Lt.2 R.2B",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "36",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "FKP104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "FKP104",
+    "nama": "EKOLOGI PERAIRAN",
+    "kelas": "02",
+    "koordinator": "Nurfadillah, S.Si., M.SiNIP. 198409072019032017",
+    "ruang": "G.FKP Lt.3 R.3B",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "50",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "FKP104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Siska Mellisa, S.Kel., M.Sc.NIP. 198703052015042001",
+    "ruang": "RKU 13.02.009",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "54",
+    "keterangan": "Kelautan dan PerikananS1Budidaya Perairan",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1110201"
+    }
+  }
+]

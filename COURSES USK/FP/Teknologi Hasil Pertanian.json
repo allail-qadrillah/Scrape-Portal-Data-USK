@@ -1,0 +1,1712 @@
+[
+  {
+    "no": "1",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. Taufik Fuadi Abidin, S.Si., M.TechNIP. 197010081994031002",
+    "ruang": "Bapel KKN",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "17",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "04",
+    "koordinator": "Yulia Annisa, M.Si., M.AppIn&ENIP. 199107052022032015",
+    "ruang": "B.03.13",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "37",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "05",
+    "koordinator": "Yulia Annisa, M.Si., M.AppIn&ENIP. 199107052022032015",
+    "ruang": "B.03.06",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "17",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "PEN302",
+    "nama": "PRAKTEK AGROTECHNOPRENEURSHIP",
+    "kelas": "06",
+    "koordinator": "Yulia Annisa, M.Si., M.AppIn&ENIP. 199107052022032015",
+    "ruang": "B.03.14",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "22",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "PEN302",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "TPI102",
+    "nama": "KIMIA ORGANIK",
+    "kelas": "01",
+    "koordinator": "Dr. Cut Erika, S.TP., M.Sc.NIP. 197803012002122002",
+    "ruang": "B.03.09",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "24",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI102",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "TPI102",
+    "nama": "KIMIA ORGANIK",
+    "kelas": "02",
+    "koordinator": "Dr. Cut Erika, S.TP., M.Sc.NIP. 197803012002122002",
+    "ruang": "D.03.01",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "26",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI102",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "TPI104",
+    "nama": "KALKULUS",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Juanda, S.TP., M.Sc.NIP. 197902242002121001",
+    "ruang": "B.03.01",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "20",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI104",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "TPI104",
+    "nama": "KALKULUS",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Juanda, S.TP., M.Sc.NIP. 197902242002121001",
+    "ruang": "B.03.02",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "29",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI104",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "TPI106",
+    "nama": "STATISTIKA DASAR",
+    "kelas": "01",
+    "koordinator": "Dr. Satriana, S.TP., M.T.NIP. 197210272000032005",
+    "ruang": "B.03.02",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "23",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI106",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "TPI106",
+    "nama": "STATISTIKA DASAR",
+    "kelas": "02",
+    "koordinator": "Dr. Satriana, S.TP., M.T.NIP. 197210272000032005",
+    "ruang": "D.03.05",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "27",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI106",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "TPI108",
+    "nama": "MIKROBIOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Dewi Yunita, S.TP, M.ResNIP. 198205142006042002",
+    "ruang": "D.01.01",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "35",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "TPI108",
+    "nama": "MIKROBIOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Dewi Yunita, S.TP, M.ResNIP. 198205142006042002",
+    "ruang": "D.03.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "TPI110",
+    "nama": "PRAKTIKUM MIKROBIOLOGI",
+    "kelas": "01",
+    "koordinator": "Dr. Dewi Yunita, S.TP, M.ResNIP. 198205142006042002",
+    "ruang": "Lab. THP",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "20",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "TPI110",
+    "nama": "PRAKTIKUM MIKROBIOLOGI",
+    "kelas": "02",
+    "koordinator": "Dr. Dewi Yunita, S.TP, M.ResNIP. 198205142006042002",
+    "ruang": "Lab. THP",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "20",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "TPI110",
+    "nama": "PRAKTIKUM MIKROBIOLOGI",
+    "kelas": "03",
+    "koordinator": "Dr. Dewi Yunita, S.TP, M.ResNIP. 198205142006042002",
+    "ruang": "Lab. THP",
+    "hari": "Jumat",
+    "waktu": "14:00-14:50",
+    "peserta": "12",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "TPI110",
+    "nama": "PRAKTIKUM MIKROBIOLOGI",
+    "kelas": "04",
+    "koordinator": "Dr. Dewi Yunita, S.TP, M.ResNIP. 198205142006042002",
+    "ruang": "Lab. THP",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "1",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI110",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "TPI112",
+    "nama": "DASAR KOMPUTER",
+    "kelas": "01",
+    "koordinator": "Ir. Fahrizal, S.TP., M.Sc., IPM.NIP. 197902202003121002",
+    "ruang": "D.03.01",
+    "hari": "Senin",
+    "waktu": "16:20-17:10",
+    "peserta": "19",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "TPI112",
+    "nama": "DASAR KOMPUTER",
+    "kelas": "02",
+    "koordinator": "Ir. Fahrizal, S.TP., M.Sc., IPM.NIP. 197902202003121002",
+    "ruang": "D.03.04",
+    "hari": "Kamis",
+    "waktu": "16:20-17:10",
+    "peserta": "30",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "TPI112",
+    "nama": "DASAR KOMPUTER",
+    "kelas": "03",
+    "koordinator": "Ir. Fahrizal, S.TP., M.Sc., IPM.NIP. 197902202003121002",
+    "ruang": "Lab. THP",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "0",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI112",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "TPI114",
+    "nama": "TEKNOLOGI PENGEMASAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Ismail Sulaiman, S.TP., Maitrise., M.Sc., IPUNIP. 198006252003121001",
+    "ruang": "B.03.08",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "33",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI114",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "TPI114",
+    "nama": "TEKNOLOGI PENGEMASAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Ismail Sulaiman, S.TP., Maitrise., M.Sc., IPUNIP. 198006252003121001",
+    "ruang": "B.03.08",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "32",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI114",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "TPI116",
+    "nama": "PRAKTIKUM TEKNOLOGI PENGEMASAN",
+    "kelas": "01",
+    "koordinator": "Ir. Syarifah Rohaya, M.P.NIP. 196604121998022001",
+    "ruang": "Lab. THP",
+    "hari": "Kamis",
+    "waktu": "14:00-14:50",
+    "peserta": "31",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI116",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "TPI116",
+    "nama": "PRAKTIKUM TEKNOLOGI PENGEMASAN",
+    "kelas": "02",
+    "koordinator": "Ir. Syarifah Rohaya, M.P.NIP. 196604121998022001",
+    "ruang": "Lab. THP",
+    "hari": "Senin",
+    "waktu": "16:20-17:10",
+    "peserta": "32",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI116",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "TPI116",
+    "nama": "PRAKTIKUM TEKNOLOGI PENGEMASAN",
+    "kelas": "03",
+    "koordinator": "Ir. Syarifah Rohaya, M.P.NIP. 196604121998022001",
+    "ruang": "Lab. THP",
+    "hari": "Rabu",
+    "waktu": "08:00-08:50",
+    "peserta": "3",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI116",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "TPI116",
+    "nama": "PRAKTIKUM TEKNOLOGI PENGEMASAN",
+    "kelas": "04",
+    "koordinator": "Ir. Syarifah Rohaya, M.P.NIP. 196604121998022001",
+    "ruang": "Lab. THP",
+    "hari": "Selasa",
+    "waktu": "8:00-8:40",
+    "peserta": "33",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI116",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "TPI118",
+    "nama": "KIMIA DASAR II",
+    "kelas": "01",
+    "koordinator": "Dr. Asmawati, S.TP., M.Sc.NIP. 197903052002122004",
+    "ruang": "B.03.05",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "24",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI118",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "TPI118",
+    "nama": "KIMIA DASAR II",
+    "kelas": "02",
+    "koordinator": "Dr. Asmawati, S.TP., M.Sc.NIP. 197903052002122004",
+    "ruang": "B.03.11",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI118",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "TPI202",
+    "nama": "SATUAN OPERASI II",
+    "kelas": "01",
+    "koordinator": "Dr. Satriana, S.TP., M.T.NIP. 197210272000032005",
+    "ruang": "B.03.10",
+    "hari": "Jumat",
+    "waktu": "10:00-12:30",
+    "peserta": "17",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI202",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "TPI202",
+    "nama": "SATUAN OPERASI II",
+    "kelas": "02",
+    "koordinator": "Dr. Satriana, S.TP., M.T.NIP. 197210272000032005",
+    "ruang": "B.03.06",
+    "hari": "Rabu",
+    "waktu": "10:00-12:30",
+    "peserta": "36",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI202",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "TPI202",
+    "nama": "SATUAN OPERASI II",
+    "kelas": "03",
+    "koordinator": "Dr. Satriana, S.TP., M.T.NIP. 197210272000032005",
+    "ruang": "B.03.08",
+    "hari": "Selasa",
+    "waktu": "10:00-12:30",
+    "peserta": "30",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI202",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "TPI204",
+    "nama": "ANALISIS HASIL PERTANIAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Eti Indarti, M.ScNIP. 196901021999032006",
+    "ruang": "B.03.09",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "38",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI204",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "TPI204",
+    "nama": "ANALISIS HASIL PERTANIAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Eti Indarti, M.ScNIP. 196901021999032006",
+    "ruang": "B.03.10",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI204",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "TPI206",
+    "nama": "PRAKTIKUM ANALISIS HASIL PERTANIAN",
+    "kelas": "01",
+    "koordinator": "Zaidiyah, S.TP., M.ScNIP. 198102022015042001",
+    "ruang": "Lab. THP",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI206",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "TPI206",
+    "nama": "PRAKTIKUM ANALISIS HASIL PERTANIAN",
+    "kelas": "02",
+    "koordinator": "Zaidiyah, S.TP., M.ScNIP. 198102022015042001",
+    "ruang": "Lab. THP",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "19",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI206",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "TPI206",
+    "nama": "PRAKTIKUM ANALISIS HASIL PERTANIAN",
+    "kelas": "03",
+    "koordinator": "Zaidiyah, S.TP., M.ScNIP. 198102022015042001",
+    "ruang": "Lab. THP",
+    "hari": "Jumat",
+    "waktu": "14:00-14:50",
+    "peserta": "21",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI206",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "TPI206",
+    "nama": "PRAKTIKUM ANALISIS HASIL PERTANIAN",
+    "kelas": "04",
+    "koordinator": "Zaidiyah, S.TP., M.ScNIP. 198102022015042001",
+    "ruang": "Lab. THP",
+    "hari": "Rabu",
+    "waktu": "8:00-8:50",
+    "peserta": "20",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI206",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "TPI262",
+    "nama": "TEKNOLOGI PENGOLAHAN I",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. -Ing. Sri Haryani, S.TP., M.Sc.NIP. 197201151999032001",
+    "ruang": "B.03.11",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "12",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI262",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "TPI262",
+    "nama": "TEKNOLOGI PENGOLAHAN I",
+    "kelas": "02",
+    "koordinator": "Prof. Dr. -Ing. Sri Haryani, S.TP., M.Sc.NIP. 197201151999032001",
+    "ruang": "B.03.13",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "31",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI262",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "TPI264",
+    "nama": "PRAKTIKUM TEKNOLOGI PENGOLAHAN I",
+    "kelas": "01",
+    "koordinator": "Yanti Meldasari Lubis, S.TP., MPNIP. 197201172002122001",
+    "ruang": "Lab. THP",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "20",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI264",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "TPI264",
+    "nama": "PRAKTIKUM TEKNOLOGI PENGOLAHAN I",
+    "kelas": "02",
+    "koordinator": "Yanti Meldasari Lubis, S.TP., MPNIP. 197201172002122001",
+    "ruang": "Lab. THP",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "11",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI264",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "TPI264",
+    "nama": "PRAKTIKUM TEKNOLOGI PENGOLAHAN I",
+    "kelas": "03",
+    "koordinator": "Yanti Meldasari Lubis, S.TP., MPNIP. 197201172002122001",
+    "ruang": "Lab. THP",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "8",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI264",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "TPI266",
+    "nama": "KEAMANAN PANGAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Normalina Arpi, M.ScNIP. 195804151982032001",
+    "ruang": "D.01.01",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "25",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI266",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "TPI266",
+    "nama": "KEAMANAN PANGAN",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Normalina Arpi, M.ScNIP. 195804151982032001",
+    "ruang": "B.03.09",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "21",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI266",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "TPI268",
+    "nama": "PRAKTIKUM KEAMANAN PANGAN",
+    "kelas": "01",
+    "koordinator": "Dr. Dewi Yunita, S.TP, M.ResNIP. 198205142006042002",
+    "ruang": "Lab. THP",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "20",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI268",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "TPI268",
+    "nama": "PRAKTIKUM KEAMANAN PANGAN",
+    "kelas": "02",
+    "koordinator": "Dr. Asmawati, S.TP., M.Sc.NIP. 197903052002122004",
+    "ruang": "Lab. THP",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "17",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI268",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "TPI268",
+    "nama": "PRAKTIKUM KEAMANAN PANGAN",
+    "kelas": "03",
+    "koordinator": "Cut Nilda, S.TP., M.Sc.NIP. 198110032014042001",
+    "ruang": "Lab. THP",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "1",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI268",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "TPI268",
+    "nama": "PRAKTIKUM KEAMANAN PANGAN",
+    "kelas": "04",
+    "koordinator": "Dr. Cut Erika, S.TP., M.Sc.NIP. 197803012002122002",
+    "ruang": "Lab. THP",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "12",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI268",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "TPI282",
+    "nama": "PEMODELAN DAN SIMULASI SISTEM",
+    "kelas": "01",
+    "koordinator": "Dr. Yusriana, S.P., M.Si.NIP. 197504102005012003",
+    "ruang": "B.03.03",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "50",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI282",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "TPI284",
+    "nama": "EKONOMI TEKNIK",
+    "kelas": "01",
+    "koordinator": "Dr. Yusriana, S.P., M.Si.NIP. 197504102005012003",
+    "ruang": "B.03.05",
+    "hari": "Kamis",
+    "waktu": "10:00-11:40",
+    "peserta": "29",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI284",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "TPI284",
+    "nama": "EKONOMI TEKNIK",
+    "kelas": "02",
+    "koordinator": "Dr. Yusriana, S.P., M.Si.NIP. 197504102005012003",
+    "ruang": "D.03.02",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "16",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI284",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "TPI286",
+    "nama": "RISET OPERASI DAN ANALISIS KEPUTUSAN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Juanda, S.TP., M.Sc.NIP. 197902242002121001",
+    "ruang": "D.03.02",
+    "hari": "Selasa",
+    "waktu": "8:00-9:40",
+    "peserta": "47",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI286",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "TPI514",
+    "nama": "TEKNOLOGI BUAH DAN SAYUR",
+    "kelas": "01",
+    "koordinator": "Dr. Cut Erika, S.TP., M.Sc.NIP. 197803012002122002",
+    "ruang": "D.03.03",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "18",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI514",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "TPI520",
+    "nama": "TEKNOLOGI KOPI DAN BARISTA",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Yusya Abubakar, M.Sc., IPU.NIP. 196212241988031004",
+    "ruang": "B.03.02",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "22",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI520",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "TPI524",
+    "nama": "TEKNOLOGI SUSU DAN PRODUK SUSU",
+    "kelas": "01",
+    "koordinator": "Dr. Dewi Yunita, S.TP, M.ResNIP. 198205142006042002",
+    "ruang": "D.03.02",
+    "hari": "Selasa",
+    "waktu": "10:00-11:40",
+    "peserta": "10",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI524",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "TPI526",
+    "nama": "TEKNOLOGI BAKERI",
+    "kelas": "01",
+    "koordinator": "Zaidiyah, S.TP., M.ScNIP. 198102022015042001",
+    "ruang": "D.03.01",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "20",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI526",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "TPI530",
+    "nama": "TEKNOLOGI POLIMER",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. -Ing. Sri Haryani, S.TP., M.Sc.NIP. 197201151999032001",
+    "ruang": "B.03.03",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "9",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI530",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "TPI532",
+    "nama": "TEKNOLOGI PATI",
+    "kelas": "01",
+    "koordinator": "Dr. Santi Noviasari, S.TP., M.Si.NIP. 198111152006042002",
+    "ruang": "D.03.03",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "4",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI532",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "TPI534",
+    "nama": "INDUSTRI JASA BOGA",
+    "kelas": "01",
+    "koordinator": "Cut Nilda, S.TP., M.Sc.NIP. 198110032014042001",
+    "ruang": "D.01.02",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "9",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI534",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "TPI536",
+    "nama": "NANOTEKNOLOGI PANGAN",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. -Ing. Sri Haryani, S.TP., M.Sc.NIP. 197201151999032001",
+    "ruang": "B.03.08",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "8",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI536",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "TPI538",
+    "nama": "TEKNOLOGI MINYAK ATSIRI",
+    "kelas": "01",
+    "koordinator": "Dr. Yuliani Aisyah, S.TP., M.SiNIP. 197307151999032001",
+    "ruang": "D.01.01",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "15",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI538",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "TPI540",
+    "nama": "KECERDASAN BUATAN",
+    "kelas": "01",
+    "koordinator": "Dr. Yusriana, S.P., M.Si.NIP. 197504102005012003",
+    "ruang": "D.03.05",
+    "hari": "Kamis",
+    "waktu": "16:20-18:00",
+    "peserta": "16",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI540",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "TPI542",
+    "nama": "PANGAN UNTUK KEBUTUHAN KHUSUS",
+    "kelas": "01",
+    "koordinator": "Prof. Dr. -Ing. Sri Haryani, S.TP., M.Sc.NIP. 197201151999032001",
+    "ruang": "B.03.12",
+    "hari": "Jumat",
+    "waktu": "10:00-11:40",
+    "peserta": "9",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPI542",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "TPIP01",
+    "nama": "MAGANG",
+    "kelas": "01",
+    "koordinator": "Ir. Fahrizal, S.TP., M.Sc., IPM.NIP. 197902202003121002",
+    "ruang": "Prodi THP",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "2",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP01",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "TPIP02",
+    "nama": "KEWIRAUSAHAAN",
+    "kelas": "01",
+    "koordinator": "Zaidiyah, S.TP., M.ScNIP. 198102022015042001",
+    "ruang": "Prodi THP",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "0",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "TPIP03",
+    "nama": "MEMBANGUN DESA",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Juanda, S.TP., M.Sc.NIP. 197902242002121001",
+    "ruang": "Prodi THP",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "0",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP03",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "TPIP04",
+    "nama": "PROYEK INDEPENDEN",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Ismail Sulaiman, S.TP., Maitrise., M.Sc.,NIP. 198006252003121001",
+    "ruang": "Prodi THP",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "0",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP04",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "TPIP05",
+    "nama": "PROYEK KEMANUSIAAN",
+    "kelas": "01",
+    "koordinator": "Rasdiansyah, S.T., M.T.NIP. 197012122001121002",
+    "ruang": "Prodi THP",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "0",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP05",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "TPIP06",
+    "nama": "ASISTEN MENGAJAR DI SATUAN PENDIDIKAN",
+    "kelas": "01",
+    "koordinator": "Martunis, S.TP., M.ScNIP. 197905052003121002",
+    "ruang": "Prodi THP",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "0",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP06",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "TPIP07",
+    "nama": "KOMUNIKASI INDUSTRI",
+    "kelas": "01",
+    "koordinator": "Yulia Annisa, M.Si., M.AppIn&ENIP. 199107052022032015",
+    "ruang": "B.03.03",
+    "hari": "Jumat",
+    "waktu": "10:00-10:50",
+    "peserta": "53",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP07",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "TPIP07",
+    "nama": "KOMUNIKASI INDUSTRI",
+    "kelas": "02",
+    "koordinator": "Yulia Annisa, M.Si., M.AppIn&ENIP. 199107052022032015",
+    "ruang": "RM.D.01.01",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "28",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP07",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "TPIP08",
+    "nama": "TEKNOLOGI PENGOLAHAN LIMBAH",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Irfan, M.ScNIP. 196706011991021001",
+    "ruang": "B.03.07",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "44",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP08",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "TPIP08",
+    "nama": "TEKNOLOGI PENGOLAHAN LIMBAH",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Irfan, M.ScNIP. 196706011991021001",
+    "ruang": "B.03.04",
+    "hari": "Rabu",
+    "waktu": "16:20-18:00",
+    "peserta": "49",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP08",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "TPIP09",
+    "nama": "TEKNOLOGI PENGEMBANGAN PRODUK",
+    "kelas": "01",
+    "koordinator": "Dian Hasni, S.TP., M.ScNIP. 198410022012122003",
+    "ruang": "D.01.03",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "23",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP09",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "TPIP09",
+    "nama": "TEKNOLOGI PENGEMBANGAN PRODUK",
+    "kelas": "02",
+    "koordinator": "Dian Hasni, S.TP., M.ScNIP. 198410022012122003",
+    "ruang": "B.03.11",
+    "hari": "Senin",
+    "waktu": "16:20-18:00",
+    "peserta": "28",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP09",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "TPIP10",
+    "nama": "PRAKTIKUM TEKNOLOGI PENGEMBANGAN PRODUK",
+    "kelas": "01",
+    "koordinator": "Dian Hasni, S.TP., M.ScNIP. 198410022012122003",
+    "ruang": "Lab. THP",
+    "hari": "Selasa",
+    "waktu": "10:00-10:50",
+    "peserta": "28",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP10",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "TPIP10",
+    "nama": "PRAKTIKUM TEKNOLOGI PENGEMBANGAN PRODUK",
+    "kelas": "02",
+    "koordinator": "Dian Hasni, S.TP., M.ScNIP. 198410022012122003",
+    "ruang": "Lab. THP",
+    "hari": "Rabu",
+    "waktu": "10:00-11:50",
+    "peserta": "27",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP10",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "TPIP11",
+    "nama": "PERENCANAAN PROYEK INDUSTRI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Juanda, S.TP., M.Sc.NIP. 197902242002121001",
+    "ruang": "B.03.13",
+    "hari": "Jumat",
+    "waktu": "14:00-14:50",
+    "peserta": "30",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP11",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "TPIP11",
+    "nama": "PERENCANAAN PROYEK INDUSTRI",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Juanda, S.TP., M.Sc.NIP. 197902242002121001",
+    "ruang": "D.03.03",
+    "hari": "Jumat",
+    "waktu": "16:20-18:00",
+    "peserta": "28",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP11",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "TPIP12",
+    "nama": "PRAKTIKUM PERENCANAAN PROYEK INDUSTRI",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Juanda, S.TP., M.Sc.NIP. 197902242002121001",
+    "ruang": "Lab. THP",
+    "hari": "Kamis",
+    "waktu": "8:00-8:50",
+    "peserta": "33",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP12",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "TPIP12",
+    "nama": "PRAKTIKUM PERENCANAAN PROYEK INDUSTRI",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Juanda, S.TP., M.Sc.NIP. 197902242002121001",
+    "ruang": "Lab. THP",
+    "hari": "Senin",
+    "waktu": "10:00-10:50",
+    "peserta": "30",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP12",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "TPIP13",
+    "nama": "MANAJEMEN RANTAI PASOK DAN LOGISTIK",
+    "kelas": "01",
+    "koordinator": "Dr. Yusriana, S.P., M.Si.NIP. 197504102005012003",
+    "ruang": "D.03.04",
+    "hari": "Senin",
+    "waktu": "10:00-11:40",
+    "peserta": "66",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP13",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "TPIP14",
+    "nama": "MANAJEMEN PROYEK DAN PENGENDALIAN RISIKO",
+    "kelas": "01",
+    "koordinator": "Dr. Ir. Yusya Abubakar, M.Sc., IPU.NIP. 196212241988031004",
+    "ruang": "B.03.10",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "63",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP14",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "TPIP14",
+    "nama": "MANAJEMEN PROYEK DAN PENGENDALIAN RISIKO",
+    "kelas": "02",
+    "koordinator": "Dr. Ir. Yusya Abubakar, M.Sc., IPU.NIP. 196212241988031004",
+    "ruang": "D.03.05",
+    "hari": "Selasa",
+    "waktu": "16:20-18:00",
+    "peserta": "0",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP14",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "TPIP15",
+    "nama": "SISTEM MANAJEMEN MUTU",
+    "kelas": "01",
+    "koordinator": "Dian Hasni, S.TP., M.ScNIP. 198410022012122003",
+    "ruang": "D.01.02",
+    "hari": "Senin",
+    "waktu": "8:10-9:50",
+    "peserta": "38",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP15",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "TPIP15",
+    "nama": "SISTEM MANAJEMEN MUTU",
+    "kelas": "02",
+    "koordinator": "Dian Hasni, S.TP., M.ScNIP. 198410022012122003",
+    "ruang": "D.03.06",
+    "hari": "Rabu",
+    "waktu": "10:00-11:40",
+    "peserta": "32",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP15",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "TPIP16",
+    "nama": "PRAKTEK LAPANGAN",
+    "kelas": "01",
+    "koordinator": "Yanti Meldasari Lubis, S.TP., MPNIP. 197201172002122001",
+    "ruang": "Prodi THP",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "40",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP16",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "TPIP17",
+    "nama": "PROFESIONALISME DAN KEPEMIMPINAN",
+    "kelas": "01",
+    "koordinator": "Dr. Mhd. Ikhsan Sulaiman, S.TP., M.ScNIP. 197006211995031004",
+    "ruang": "Prodi THP",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "73",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP17",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "TPIP18",
+    "nama": "SEMINAR PROPOSAL PENELITIAN",
+    "kelas": "01",
+    "koordinator": "Zaidiyah, S.TP., M.ScNIP. 198102022015042001",
+    "ruang": "Prodi THP",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "83",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP18",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "TPIP19",
+    "nama": "SEMINAR HASIL PENELITIAN",
+    "kelas": "01",
+    "koordinator": "Zaidiyah, S.TP., M.ScNIP. 198102022015042001",
+    "ruang": "Prodi THP",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "90",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP19",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "TPIP20",
+    "nama": "TUGAS AKHIR",
+    "kelas": "01",
+    "koordinator": "Dr. Murna Muzaifa, S.TP., MPNIP. 197812072002122001",
+    "ruang": "Prodi THP",
+    "hari": "Sabtu",
+    "waktu": "9:00-16:00",
+    "peserta": "92",
+    "keterangan": "PertanianS1Teknologi Hasil Pertanian",
+    "kode-peserta": {
+      "data-kode": "TPIP20",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0510501"
+    }
+  }
+]

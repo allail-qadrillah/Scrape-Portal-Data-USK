@@ -11,7 +11,7 @@ URUTAN_FAKULTAS = {
     'Isip': '10',
     'Kelautan dan Perikanan': '11',
     'Keperawatan': '12',
-    'kedokteran Gigi': '13'
+    'Kedokteran Gigi': '13'
 }
 
 

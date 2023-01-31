@@ -1,0 +1,1769 @@
+[
+  {
+    "no": "1",
+    "kode": "ISP102",
+    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
+    "kelas": "04",
+    "koordinator": "Novi Susilawati, S.I.Kom., M.Ikom.NIP. 198911162019032018",
+    "ruang": "Fisip 02.04",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "46",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "ISP102",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "2",
+    "kode": "ISP102",
+    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
+    "kelas": "05",
+    "koordinator": "Novi Susilawati, S.I.Kom., M.Ikom.NIP. 198911162019032018",
+    "ruang": "Fisip 02.04",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "46",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "ISP102",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "3",
+    "kode": "ISP102",
+    "nama": "SISTEM SOSIAL,BUDAYA DAN POLITIK MASYARAKAT ACEH",
+    "kelas": "06",
+    "koordinator": "Novi Susilawati, S.I.Kom., M.Ikom.NIP. 198911162019032018",
+    "ruang": "Fisip 03.02",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "45",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "ISP102",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "4",
+    "kode": "ISP202",
+    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
+    "kelas": "04",
+    "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "45",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "ISP202",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "5",
+    "kode": "ISP202",
+    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
+    "kelas": "05",
+    "koordinator": "Dr. Effendi Hasan, M.A.NIP. 197510012009121005",
+    "ruang": "Fisip 02.04",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "38",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "ISP202",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "6",
+    "kode": "ISP202",
+    "nama": "RESOLUSI KONFLIK DAN PERDAMAIAN",
+    "kelas": "06",
+    "koordinator": "Aryos Nivada, S.P., M.ANIP. 198307072017011101",
+    "ruang": "Fisip 02.02",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "43",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "ISP202",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "7",
+    "kode": "KOM108",
+    "nama": "DASAR-DASAR JURNALISTIK",
+    "kelas": "01",
+    "koordinator": "Nisa Ul Hikmah, S.Sos.I., M.SosNIP. 199211192021022101",
+    "ruang": "Fisip 02.03",
+    "hari": "Senin",
+    "waktu": "10:30-13:00",
+    "peserta": "45",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM108",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "8",
+    "kode": "KOM108",
+    "nama": "DASAR-DASAR JURNALISTIK",
+    "kelas": "02",
+    "koordinator": "Novi Susilawati, S.I.Kom., M.Ikom.NIP. 198911162019032018",
+    "ruang": "Fisip 03.02",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "45",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM108",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "9",
+    "kode": "KOM108",
+    "nama": "DASAR-DASAR JURNALISTIK",
+    "kelas": "03",
+    "koordinator": "Novi Susilawati, S.I.Kom., M.Ikom.NIP. 198911162019032018",
+    "ruang": "Fisip 02.04",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "46",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM108",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "10",
+    "kode": "KOM108",
+    "nama": "DASAR-DASAR JURNALISTIK",
+    "kelas": "04",
+    "koordinator": "Nisa Ul Hikmah, S.Sos.I., M.SosNIP. 199211192021022101",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Selasa",
+    "waktu": "08:00-10:30",
+    "peserta": "40",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM108",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "11",
+    "kode": "KOM110",
+    "nama": "KOMUNIKASI DALAM PERSPEKTIF ISLAM",
+    "kelas": "01",
+    "koordinator": "Rahmat Saleh, S.Sos., M.ComnNIP. 198009142010121001",
+    "ruang": "Fisip 03.02",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "54",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM110",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "12",
+    "kode": "KOM110",
+    "nama": "KOMUNIKASI DALAM PERSPEKTIF ISLAM",
+    "kelas": "02",
+    "koordinator": "Rahmat Saleh, S.Sos., M.ComnNIP. 198009142010121001",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "55",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM110",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "13",
+    "kode": "KOM110",
+    "nama": "KOMUNIKASI DALAM PERSPEKTIF ISLAM",
+    "kelas": "03",
+    "koordinator": "Zakirah Azman, M.HScNIP. 198801122022032005",
+    "ruang": "Fisip 02.04",
+    "hari": "Senin",
+    "waktu": "9:45-11:20",
+    "peserta": "58",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM110",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "14",
+    "kode": "KOM110",
+    "nama": "KOMUNIKASI DALAM PERSPEKTIF ISLAM",
+    "kelas": "04",
+    "koordinator": "Zakirah Azman, M.HScNIP. 198801122022032005",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Kamis",
+    "waktu": "10:45-13:00",
+    "peserta": "55",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM110",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "15",
+    "kode": "KOM110",
+    "nama": "KOMUNIKASI DALAM PERSPEKTIF ISLAM",
+    "kelas": "05",
+    "koordinator": "Zakirah Azman, M.HScNIP. 198801122022032005",
+    "ruang": "Fisip 02.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "22",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM110",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "16",
+    "kode": "KOM112",
+    "nama": "TEORI KOMUNIKASI",
+    "kelas": "01",
+    "koordinator": "Nur Anisah, M.SiNIP. 197801192009122003",
+    "ruang": "Fisip 02.03",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "33",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM112",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "17",
+    "kode": "KOM112",
+    "nama": "TEORI KOMUNIKASI",
+    "kelas": "02",
+    "koordinator": "Nur Anisah, M.SiNIP. 197801192009122003",
+    "ruang": "Fisip 02.04",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "48",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM112",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "18",
+    "kode": "KOM112",
+    "nama": "TEORI KOMUNIKASI",
+    "kelas": "03",
+    "koordinator": "Nur Anisah, M.SiNIP. 197801192009122003",
+    "ruang": "Fisip 02.03",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "20",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM112",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "19",
+    "kode": "KOM112",
+    "nama": "TEORI KOMUNIKASI",
+    "kelas": "04",
+    "koordinator": "Nisa Ul Hikmah, S.Sos.I., M.SosNIP. 199211192021022101",
+    "ruang": "Fisip 02.04",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "47",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM112",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "20",
+    "kode": "KOM114",
+    "nama": "KOMUNIKASI ANTARPRIBADI",
+    "kelas": "01",
+    "koordinator": "Dr. Rahmawati, M.SiNIP. 196209022000122003",
+    "ruang": "Fisip 02.04",
+    "hari": "Kamis",
+    "waktu": "10:30-13:00",
+    "peserta": "50",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM114",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "21",
+    "kode": "KOM114",
+    "nama": "KOMUNIKASI ANTARPRIBADI",
+    "kelas": "02",
+    "koordinator": "Nisa Ul Hikmah, S.Sos.I., M.SosNIP. 199211192021022101",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Selasa",
+    "waktu": "10:30-13:00",
+    "peserta": "51",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM114",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "22",
+    "kode": "KOM114",
+    "nama": "KOMUNIKASI ANTARPRIBADI",
+    "kelas": "03",
+    "koordinator": "Novi Susilawati, S.I.Kom., M.Ikom.NIP. 198911162019032018",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "51",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM114",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "23",
+    "kode": "KOM114",
+    "nama": "KOMUNIKASI ANTARPRIBADI",
+    "kelas": "04",
+    "koordinator": "Dr. Rahmawati, M.SiNIP. 196209022000122003",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Senin",
+    "waktu": "10:30-13:00",
+    "peserta": "50",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM114",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "24",
+    "kode": "KOM116",
+    "nama": "KEBIJAKAN KOMUNIKASI",
+    "kelas": "01",
+    "koordinator": "Maini Sartika, M.ANIP. 198005012017012101",
+    "ruang": "Fisip 02.03",
+    "hari": "Selasa",
+    "waktu": "10:30-13:00",
+    "peserta": "50",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM116",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "25",
+    "kode": "KOM116",
+    "nama": "KEBIJAKAN KOMUNIKASI",
+    "kelas": "02",
+    "koordinator": "Maini Sartika, M.ANIP. 198005012017012101",
+    "ruang": "Fisip 02.03",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "54",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM116",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "26",
+    "kode": "KOM116",
+    "nama": "KEBIJAKAN KOMUNIKASI",
+    "kelas": "03",
+    "koordinator": "Uswatun Nisa, M.A.NIP. 199107202022032012",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "51",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM116",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "27",
+    "kode": "KOM116",
+    "nama": "KEBIJAKAN KOMUNIKASI",
+    "kelas": "04",
+    "koordinator": "Dr. Rahmawati, M.SiNIP. 196209022000122003",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Senin",
+    "waktu": "08:00-10:30",
+    "peserta": "39",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM116",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "28",
+    "kode": "KOM116",
+    "nama": "KEBIJAKAN KOMUNIKASI",
+    "kelas": "05",
+    "koordinator": "Maini Sartika, M.ANIP. 198005012017012101",
+    "ruang": "Fisip 02.02",
+    "hari": "Kamis",
+    "waktu": "10:30-13:00",
+    "peserta": "28",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM116",
+      "data-kelas": "05",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "29",
+    "kode": "KOM118",
+    "nama": "MEDIA PENYIARAN",
+    "kelas": "01",
+    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
+    "ruang": "Fisip 02.04",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "40",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM118",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "30",
+    "kode": "KOM118",
+    "nama": "MEDIA PENYIARAN",
+    "kelas": "02",
+    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "39",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM118",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "31",
+    "kode": "KOM118",
+    "nama": "MEDIA PENYIARAN",
+    "kelas": "03",
+    "koordinator": "Maini Sartika, M.ANIP. 198005012017012101",
+    "ruang": "Fisip 03.02",
+    "hari": "Senin",
+    "waktu": "16:30-18:10",
+    "peserta": "25",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM118",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "32",
+    "kode": "KOM118",
+    "nama": "MEDIA PENYIARAN",
+    "kelas": "04",
+    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
+    "ruang": "Fisip 02.05",
+    "hari": "Selasa",
+    "waktu": "16:30-18:10",
+    "peserta": "40",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM118",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "33",
+    "kode": "KOM216",
+    "nama": "METODOLOGI PENELITIAN KUANTITATIF",
+    "kelas": "01",
+    "koordinator": "Sari Rahmani, S.Sos., M.SiNIP. 199203062019032024",
+    "ruang": "Fisip 02.03",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "51",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM216",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "34",
+    "kode": "KOM216",
+    "nama": "METODOLOGI PENELITIAN KUANTITATIF",
+    "kelas": "02",
+    "koordinator": "Sari Rahmani, S.Sos., M.SiNIP. 199203062019032024",
+    "ruang": "Fisip 02.02",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "44",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM216",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "35",
+    "kode": "KOM216",
+    "nama": "METODOLOGI PENELITIAN KUANTITATIF",
+    "kelas": "03",
+    "koordinator": "Sari Rahmani, S.Sos., M.SiNIP. 199203062019032024",
+    "ruang": "Fisip 03.02",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "50",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM216",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "36",
+    "kode": "KOM218",
+    "nama": "JURNALISME DAMAI",
+    "kelas": "01",
+    "koordinator": "Dr. Hamdani M. Syam, M.ANIP. 197808162008011012",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "47",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM218",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "37",
+    "kode": "KOM218",
+    "nama": "JURNALISME DAMAI",
+    "kelas": "02",
+    "koordinator": "Dr. Hamdani M. Syam, M.ANIP. 197808162008011012",
+    "ruang": "Fisip 02.02",
+    "hari": "Senin",
+    "waktu": "10:30-13:00",
+    "peserta": "46",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM218",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "38",
+    "kode": "KOM218",
+    "nama": "JURNALISME DAMAI",
+    "kelas": "03",
+    "koordinator": "Dr. Hamdani M. Syam, M.ANIP. 197808162008011012",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Kamis",
+    "waktu": "8:00-10:30",
+    "peserta": "46",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM218",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "39",
+    "kode": "KOM220",
+    "nama": "PRAKTEK PRODUKSI SIARAN RADIO",
+    "kelas": "01",
+    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
+    "ruang": "Fisip 02.03",
+    "hari": "Kamis",
+    "waktu": "10:30-13:00",
+    "peserta": "53",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM220",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "40",
+    "kode": "KOM220",
+    "nama": "PRAKTEK PRODUKSI SIARAN RADIO",
+    "kelas": "02",
+    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
+    "ruang": "Fisip 02.02",
+    "hari": "Selasa",
+    "waktu": "10:30-13:00",
+    "peserta": "55",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM220",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "41",
+    "kode": "KOM220",
+    "nama": "PRAKTEK PRODUKSI SIARAN RADIO",
+    "kelas": "03",
+    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "55",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM220",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "42",
+    "kode": "KOM220",
+    "nama": "PRAKTEK PRODUKSI SIARAN RADIO",
+    "kelas": "04",
+    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Jumat",
+    "waktu": "08:00-10:30",
+    "peserta": "3",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM220",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "43",
+    "kode": "KOM222",
+    "nama": "PSIKOLOGI KOMUNIKASI",
+    "kelas": "01",
+    "koordinator": "Dr. Rahmawati, M.SiNIP. 196209022000122003",
+    "ruang": "Fisip 02.04",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "50",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM222",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "44",
+    "kode": "KOM222",
+    "nama": "PSIKOLOGI KOMUNIKASI",
+    "kelas": "02",
+    "koordinator": "Dr. Rahmawati, M.SiNIP. 196209022000122003",
+    "ruang": "Fisip 02.03",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "48",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM222",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "45",
+    "kode": "KOM222",
+    "nama": "PSIKOLOGI KOMUNIKASI",
+    "kelas": "03",
+    "koordinator": "Nisa Ul Hikmah, S.Sos.I., M.SosNIP. 199211192021022101",
+    "ruang": "Fisip 02.03",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "49",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM222",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "KOM224",
+    "nama": "KOMUNIKASI LINTAS BUDAYA",
+    "kelas": "01",
+    "koordinator": "Nur Anisah, M.SiNIP. 197801192009122003",
+    "ruang": "Fisip 02.04",
+    "hari": "Selasa",
+    "waktu": "10:30-13:00",
+    "peserta": "43",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM224",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "47",
+    "kode": "KOM224",
+    "nama": "KOMUNIKASI LINTAS BUDAYA",
+    "kelas": "02",
+    "koordinator": "Nur Anisah, M.SiNIP. 197801192009122003",
+    "ruang": "Fisip 02.03",
+    "hari": "Senin",
+    "waktu": "14:00-16:30",
+    "peserta": "41",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM224",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "48",
+    "kode": "KOM224",
+    "nama": "KOMUNIKASI LINTAS BUDAYA",
+    "kelas": "03",
+    "koordinator": "Nur Anisah, M.SiNIP. 197801192009122003",
+    "ruang": "Fisip 02.04",
+    "hari": "Rabu",
+    "waktu": "10:45-13:00",
+    "peserta": "45",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM224",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "49",
+    "kode": "KOM226",
+    "nama": "FOTOGRAFI",
+    "kelas": "01",
+    "koordinator": "Andri Suriansyah, S.E.,M.SiNIP. 000000000000202301",
+    "ruang": "Fisip 02.02",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "44",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM226",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "50",
+    "kode": "KOM226",
+    "nama": "FOTOGRAFI",
+    "kelas": "02",
+    "koordinator": "Heri Juanda, S.I.KomNIP. 000000000000920003",
+    "ruang": "Fisip 03.02",
+    "hari": "Senin",
+    "waktu": "8:00-10:30",
+    "peserta": "54",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM226",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "51",
+    "kode": "KOM226",
+    "nama": "FOTOGRAFI",
+    "kelas": "03",
+    "koordinator": "Heri Juanda, S.I.KomNIP. 000000000000920003",
+    "ruang": "Fisip 03.02",
+    "hari": "Senin",
+    "waktu": "10:30-13:00",
+    "peserta": "50",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM226",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "52",
+    "kode": "KOM226",
+    "nama": "FOTOGRAFI",
+    "kelas": "04",
+    "koordinator": "Andri Suriansyah, S.E.,M.SiNIP. 000000000000202301",
+    "ruang": "Fisip 03.02",
+    "hari": "Jumat",
+    "waktu": "14:00-16:30",
+    "peserta": "20",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM226",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "53",
+    "kode": "KOM308",
+    "nama": "MEDIA BARU",
+    "kelas": "01",
+    "koordinator": "Uswatun Nisa, M.A.NIP. 199107202022032012",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "43",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM308",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "54",
+    "kode": "KOM308",
+    "nama": "MEDIA BARU",
+    "kelas": "02",
+    "koordinator": "Uswatun Nisa, M.A.NIP. 199107202022032012",
+    "ruang": "Fisip 02.02",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM308",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "55",
+    "kode": "KOM308",
+    "nama": "MEDIA BARU",
+    "kelas": "03",
+    "koordinator": "Uswatun Nisa, M.A.NIP. 199107202022032012",
+    "ruang": "Fisip 02.04",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "43",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM308",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "56",
+    "kode": "KOM310",
+    "nama": "KOMUNIKASI KESEHATAN",
+    "kelas": "01",
+    "koordinator": "Rizanna Rosemary, S.Sos., M.Si, MHC., PhDNIP. 197505142008012021",
+    "ruang": "Fisip 02.02",
+    "hari": "Rabu",
+    "waktu": "8:00-10:30",
+    "peserta": "40",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM310",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "57",
+    "kode": "KOM310",
+    "nama": "KOMUNIKASI KESEHATAN",
+    "kelas": "02",
+    "koordinator": "Rizanna Rosemary, S.Sos., M.Si, MHC., PhDNIP. 197505142008012021",
+    "ruang": "Fisip 02.02",
+    "hari": "Selasa",
+    "waktu": "14:00-16:30",
+    "peserta": "46",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM310",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "58",
+    "kode": "KOM310",
+    "nama": "KOMUNIKASI KESEHATAN",
+    "kelas": "03",
+    "koordinator": "Rizanna Rosemary, S.Sos., M.Si, MHC., PhDNIP. 197505142008012021",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "44",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM310",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "59",
+    "kode": "KOM312",
+    "nama": "KOMUNIKASI RESIKO, KRISIS DAN REPUTASI",
+    "kelas": "01",
+    "koordinator": "Deni Yanuar, S.IP., M.IKom.NIP. 198801262015041002",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Senin",
+    "waktu": "10:30-13:00",
+    "peserta": "46",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM312",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "60",
+    "kode": "KOM312",
+    "nama": "KOMUNIKASI RESIKO, KRISIS DAN REPUTASI",
+    "kelas": "02",
+    "koordinator": "Deni Yanuar, S.IP., M.IKom.NIP. 198801262015041002",
+    "ruang": "Fisip 03.02",
+    "hari": "Kamis",
+    "waktu": "10:30-13:00",
+    "peserta": "50",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM312",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "61",
+    "kode": "KOM312",
+    "nama": "KOMUNIKASI RESIKO, KRISIS DAN REPUTASI",
+    "kelas": "03",
+    "koordinator": "Deni Yanuar, S.IP., M.IKom.NIP. 198801262015041002",
+    "ruang": "Fisip 03.02",
+    "hari": "Jumat",
+    "waktu": "8:00-10:30",
+    "peserta": "43",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM312",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "62",
+    "kode": "KOM314",
+    "nama": "PERIKLANAN",
+    "kelas": "01",
+    "koordinator": "Deni Yanuar, S.IP., M.IKom.NIP. 198801262015041002",
+    "ruang": "Fisip 03.02",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "45",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM314",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "63",
+    "kode": "KOM314",
+    "nama": "PERIKLANAN",
+    "kelas": "02",
+    "koordinator": "Deni Yanuar, S.IP., M.IKom.NIP. 198801262015041002",
+    "ruang": "Fisip 02.03",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "42",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM314",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "64",
+    "kode": "KOM314",
+    "nama": "PERIKLANAN",
+    "kelas": "03",
+    "koordinator": "Deni Yanuar, S.IP., M.IKom.NIP. 198801262015041002",
+    "ruang": "Fisip 03.02",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "48",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM314",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "65",
+    "kode": "KOM316",
+    "nama": "ISU KOMUNIKASI GLOBAL KONTEMPORER",
+    "kelas": "01",
+    "koordinator": "Rahmat Saleh, S.Sos., M.ComnNIP. 198009142010121001",
+    "ruang": "Fisip 02.03",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "47",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM316",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "66",
+    "kode": "KOM316",
+    "nama": "ISU KOMUNIKASI GLOBAL KONTEMPORER",
+    "kelas": "02",
+    "koordinator": "Rahmat Saleh, S.Sos., M.ComnNIP. 198009142010121001",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Jumat",
+    "waktu": "8:00-9:40",
+    "peserta": "36",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM316",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "67",
+    "kode": "KOM316",
+    "nama": "ISU KOMUNIKASI GLOBAL KONTEMPORER",
+    "kelas": "03",
+    "koordinator": "Rahmat Saleh, S.Sos., M.ComnNIP. 198009142010121001",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Rabu",
+    "waktu": "14:00-15:40",
+    "peserta": "49",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM316",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "68",
+    "kode": "KOM320",
+    "nama": "KOMUNIKASI DAN RESOLUSI KONFLIK",
+    "kelas": "01",
+    "koordinator": "Dr. Hamdani M. Syam, M.ANIP. 197808162008011012",
+    "ruang": "Fisip 02.02",
+    "hari": "Senin",
+    "waktu": "8:00-9:40",
+    "peserta": "0",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM320",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "69",
+    "kode": "KOM320",
+    "nama": "KOMUNIKASI DAN RESOLUSI KONFLIK",
+    "kelas": "02",
+    "koordinator": "Dr. Hamdani M. Syam, M.ANIP. 197808162008011012",
+    "ruang": "Fisip 02.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "12",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM320",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "KOM320",
+    "nama": "KOMUNIKASI DAN RESOLUSI KONFLIK",
+    "kelas": "03",
+    "koordinator": "Dr. Hamdani M. Syam, M.ANIP. 197808162008011012",
+    "ruang": "Fisip 02.04",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOM320",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "KOMP18",
+    "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
+    "kelas": "01",
+    "koordinator": "Maini Sartika, M.ANIP. 198005012017012101",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Rabu",
+    "waktu": "10:30-13:00",
+    "peserta": "44",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP18",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "72",
+    "kode": "KOMP18",
+    "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
+    "kelas": "02",
+    "koordinator": "Maini Sartika, M.ANIP. 198005012017012101",
+    "ruang": "Fisip 02.02",
+    "hari": "Rabu",
+    "waktu": "14:00-16:30",
+    "peserta": "33",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP18",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "73",
+    "kode": "KOMP18",
+    "nama": "SEMINAR PENYUSUNAN USULAN PENELITIAN",
+    "kelas": "03",
+    "koordinator": "Maini Sartika, M.ANIP. 198005012017012101",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Kamis",
+    "waktu": "14:00-16:30",
+    "peserta": "39",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP18",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "74",
+    "kode": "KOMP19",
+    "nama": "MAGANG",
+    "kelas": "01",
+    "koordinator": "Rahmat Saleh, S.Sos., M.ComnNIP. 198009142010121001",
+    "ruang": "Fisip 01.04",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "26",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP19",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "75",
+    "kode": "KOMP19",
+    "nama": "MAGANG",
+    "kelas": "02",
+    "koordinator": "Zakirah Azman, M.HScNIP. 198801122022032005",
+    "ruang": "Fisip 01.04",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "19",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP19",
+      "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "76",
+    "kode": "KOMP19",
+    "nama": "MAGANG",
+    "kelas": "03",
+    "koordinator": "Zakirah Azman, M.HScNIP. 198801122022032005",
+    "ruang": "Fisip 01.04",
+    "hari": "Sabtu",
+    "waktu": "8:00-9:40",
+    "peserta": "10",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP19",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "77",
+    "kode": "KOMP20",
+    "nama": "SKRIPSI",
+    "kelas": "01",
+    "koordinator": "Rahmat Saleh, S.Sos., M.ComnNIP. 198009142010121001",
+    "ruang": "Prodi Ilmu Komunikas",
+    "hari": "Sabtu",
+    "waktu": "8:00-12:00",
+    "peserta": "173",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP20",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "KOMP21",
+    "nama": "PROTOKOLER",
+    "kelas": "01",
+    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
+    "ruang": "Fisip 02.02",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "23",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP21",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "79",
+    "kode": "KOMP22",
+    "nama": "JURNALISTIK ONLINE",
+    "kelas": "01",
+    "koordinator": "Rahmat Saleh, S.Sos., M.ComnNIP. 198009142010121001",
+    "ruang": "Fisip 03.02",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "22",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP22",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "KOMP23",
+    "nama": "KOMUNIKASI INDUSTRI PARIWISATA",
+    "kelas": "01",
+    "koordinator": "Nisa Ul Hikmah, S.Sos.I., M.SosNIP. 199211192021022101",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Kamis",
+    "waktu": "10:45-12:25",
+    "peserta": "27",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP23",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "KOMP24",
+    "nama": "TEKNIK WAWANCARA CETAK DAN ELEKTRONIK",
+    "kelas": "01",
+    "koordinator": "Rizanna Rosemary, S.Sos., M.Si, MHC., PhDNIP. 197505142008012021",
+    "ruang": "Fisip 03.02",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "0",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP24",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "82",
+    "kode": "KOMP25",
+    "nama": "TEKNIK PENULISAN KREATIF",
+    "kelas": "01",
+    "koordinator": "Sari Rahmani, S.Sos., M.SiNIP. 199203062019032024",
+    "ruang": "Fisip 02.04",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "1",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP25",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "83",
+    "kode": "KOMP26",
+    "nama": "LITERASI MEDIA",
+    "kelas": "01",
+    "koordinator": "Zakirah Azman, M.HScNIP. 198801122022032005",
+    "ruang": "Fisip 02.02",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "23",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP26",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "84",
+    "kode": "KOMP27",
+    "nama": "PROFESSIONAL IMAGE",
+    "kelas": "01",
+    "koordinator": "Zakirah Azman, M.HScNIP. 198801122022032005",
+    "ruang": "Fisip 02.03",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "27",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP27",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "85",
+    "kode": "KOMP28",
+    "nama": "REPORTASE BERITA",
+    "kelas": "01",
+    "koordinator": "Uswatun Nisa, M.A.NIP. 199107202022032012",
+    "ruang": "RKU IV 14.02.010",
+    "hari": "Kamis",
+    "waktu": "14:00-15:40",
+    "peserta": "0",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP28",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "86",
+    "kode": "KOMP29",
+    "nama": "BERPIKIR KREATIF",
+    "kelas": "01",
+    "koordinator": "Rizanna Rosemary, S.Sos., M.Si, MHC., PhDNIP. 197505142008012021",
+    "ruang": "Fisip 02.02",
+    "hari": "Rabu",
+    "waktu": "10:45-12:25",
+    "peserta": "18",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP29",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "87",
+    "kode": "KOMP30",
+    "nama": "TEKNIK LOBI & NEGOSIASI",
+    "kelas": "01",
+    "koordinator": "Deni Yanuar, S.IP., M.IKom.NIP. 198801262015041002",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
+    "peserta": "38",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP30",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "88",
+    "kode": "KOMP31",
+    "nama": "ANALISIS KHALAYAK KOMUNIKASI",
+    "kelas": "01",
+    "koordinator": "Maini Sartika, M.ANIP. 198005012017012101",
+    "ruang": "Fisip 03.02",
+    "hari": "Senin",
+    "waktu": "14:00-15:00",
+    "peserta": "1",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP31",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "89",
+    "kode": "KOMP32",
+    "nama": "BISNIS MEDIA KREATIF",
+    "kelas": "01",
+    "koordinator": "Nisa Ul Hikmah, S.Sos.I., M.SosNIP. 199211192021022101",
+    "ruang": "RKU V 15.02.003",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "16",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP32",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "90",
+    "kode": "KOMP33",
+    "nama": "SINEMATOGRAFI",
+    "kelas": "01",
+    "koordinator": "Nova Misdayanti Mandasari, S.I.KomNIP. 000000000000920005",
+    "ruang": "Fisip 02.03",
+    "hari": "Rabu",
+    "waktu": "8:00-9:40",
+    "peserta": "11",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP33",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "91",
+    "kode": "KOMP34",
+    "nama": "NEWS CASTING AND ANNOUNCING",
+    "kelas": "01",
+    "koordinator": "Nadia Muharman, M.A.NIP. 198410082014012101",
+    "ruang": "Fisip 02.02",
+    "hari": "Kamis",
+    "waktu": "8:00-9:40",
+    "peserta": "10",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP34",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "92",
+    "kode": "KOMP35",
+    "nama": "KAJIAN MEDIA HIBURAN",
+    "kelas": "01",
+    "koordinator": "Rizanna Rosemary, S.Sos., M.Si, MHC., PhDNIP. 197505142008012021",
+    "ruang": "Fisip 02.03",
+    "hari": "Rabu",
+    "waktu": "16:30-18:10",
+    "peserta": "15",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "KOMP35",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  },
+  {
+    "no": "93",
+    "kode": "MKSP02",
+    "nama": "KULIAH KERJA NYATA",
+    "kelas": "01",
+    "koordinator": "Rahmat Saleh, S.Sos., M.ComnNIP. 198009142010121001",
+    "ruang": "Lab Prodi Ilmu Komun",
+    "hari": "Sabtu",
+    "waktu": "14:00-16:00",
+    "peserta": "16",
+    "keterangan": "Ilmu Sosial dan Ilmu PolitikS1Ilmu Komunikasi",
+    "kode-peserta": {
+      "data-kode": "MKSP02",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "1010201"
+    }
+  }
+]
