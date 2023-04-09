@@ -8,7 +8,7 @@
     "ruang": "2.06",
     "hari": "Senin",
     "waktu": "08:00-09:45",
-    "peserta": "28",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "EDU101",
@@ -236,7 +236,7 @@
     "ruang": "MTL 4 A",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "3",
+    "peserta": "0",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "EDU302",
@@ -252,10 +252,10 @@
     "nama": "PENGAJARAN MIKRO",
     "kelas": "02",
     "koordinator": "Dr. Nana Suraiya, S.Pd., M.Pd.NIP. 197608262002122002",
-    "ruang": "MTL 4 A",
+    "ruang": "MTL 2 A",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "7",
+    "peserta": "9",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "EDU302",
@@ -271,10 +271,10 @@
     "nama": "PENGAJARAN MIKRO",
     "kelas": "03",
     "koordinator": "Dra. Ruaida, M.SiNIP. 196112311989032003",
-    "ruang": "MTL 4 A",
+    "ruang": "MTL 1 A",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "7",
+    "peserta": "8",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "EDU302",
@@ -289,11 +289,11 @@
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "01",
-    "koordinator": "Dr. Ismail, S.Pd., M.Pd.NIP. 197507062006041007",
+    "koordinator": "Dr. Nana Suraiya, S.Pd., M.Pd.NIP. 197608262002122002",
     "ruang": "MTL 1",
     "hari": "Senin",
     "waktu": "08:00-12:00",
-    "peserta": "2",
+    "peserta": "3",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "EDUP07",
@@ -308,11 +308,11 @@
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "01",
-    "koordinator": "Dr. Ismail, S.Pd., M.Pd.NIP. 197507062006041007",
+    "koordinator": "Dr. Nana Suraiya, S.Pd., M.Pd.NIP. 197608262002122002",
     "ruang": "MTL 2",
     "hari": "Senin",
     "waktu": "08:00-12:00",
-    "peserta": "7",
+    "peserta": "9",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "EDUP09",
@@ -350,7 +350,7 @@
     "ruang": "RKU 4 14.02.009",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "47",
+    "peserta": "48",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "EDUPA1",
@@ -369,7 +369,7 @@
     "ruang": "1.08",
     "hari": "Senin",
     "waktu": "08:00-09:45",
-    "peserta": "6",
+    "peserta": "7",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "MKSP02",
@@ -426,7 +426,7 @@
     "ruang": "1.03",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "16",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE106",
@@ -445,7 +445,7 @@
     "ruang": "2.06",
     "hari": "Selasa",
     "waktu": "10:45-12:25",
-    "peserta": "24",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE112",
@@ -464,7 +464,7 @@
     "ruang": "1.08 Lab",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "20",
+    "peserta": "21",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE112",
@@ -483,7 +483,7 @@
     "ruang": "1.03",
     "hari": "Senin",
     "waktu": "08:00-09:45",
-    "peserta": "32",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE112",
@@ -502,7 +502,7 @@
     "ruang": "3.06",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "20",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE114",
@@ -521,7 +521,7 @@
     "ruang": "14.02.009",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "28",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE114",
@@ -654,7 +654,7 @@
     "ruang": "2.06",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE212",
@@ -730,7 +730,7 @@
     "ruang": "1.03",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE218",
@@ -749,7 +749,7 @@
     "ruang": "RKU 4 14.02.006",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "25",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE218",
@@ -768,7 +768,7 @@
     "ruang": "3.06",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "22",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE220",
@@ -806,7 +806,7 @@
     "ruang": "1.08",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE224",
@@ -825,7 +825,7 @@
     "ruang": "3.06",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "16",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE224",
@@ -844,7 +844,7 @@
     "ruang": "2.06",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "30",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE224",
@@ -863,7 +863,7 @@
     "ruang": "1.03",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "17",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE224",
@@ -935,11 +935,11 @@
     "kode": "PDE228",
     "nama": "EKONOMI PENDIDIKAN",
     "kelas": "02",
-    "koordinator": "Dr. Amiruddin, S.Pd., M.SiNIP. 197101062000121001",
+    "koordinator": "Achmad Mustofa, S.Pd.,M.Pd.NIP. 199305282019031015",
     "ruang": "2.06",
     "hari": "Jumat",
     "waktu": "08:00-09:45",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE228",
@@ -977,7 +977,7 @@
     "ruang": "RKU 4 14.02.006",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "17",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE228",
@@ -1053,7 +1053,7 @@
     "ruang": "2.08 Lab. Kom",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "19",
+    "peserta": "21",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE230",
@@ -1091,7 +1091,7 @@
     "ruang": "1.08",
     "hari": "Selasa",
     "waktu": "16:30-19:00",
-    "peserta": "21",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE232",
@@ -1110,7 +1110,7 @@
     "ruang": "2.06",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "12",
+    "peserta": "11",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE232",
@@ -1148,7 +1148,7 @@
     "ruang": "1.03",
     "hari": "Kamis",
     "waktu": "16:30-19:00",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE232",
@@ -1205,7 +1205,7 @@
     "ruang": "2.06",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "30",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE308",
@@ -1224,7 +1224,7 @@
     "ruang": "14.02.009",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE308",
@@ -1236,6 +1236,25 @@
   },
   {
     "no": "66",
+    "kode": "PDE308",
+    "nama": "EKONOMI INDUSTRI",
+    "kelas": "03",
+    "koordinator": "Dr. Amiruddin, S.Pd., M.SiNIP. 197101062000121001",
+    "ruang": "14.02.009",
+    "hari": "Senin",
+    "waktu": "08:00-09:40",
+    "peserta": "22",
+    "keterangan": "KIPS1Pendidikan Ekonomi",
+    "kode-peserta": {
+      "data-kode": "PDE308",
+      "data-kelas": "03",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610103"
+    }
+  },
+  {
+    "no": "67",
     "kode": "PDE310",
     "nama": "EKONOMI PUBLIK",
     "kelas": "01",
@@ -1243,7 +1262,7 @@
     "ruang": "14.02.009",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE310",
@@ -1254,13 +1273,13 @@
     }
   },
   {
-    "no": "67",
+    "no": "68",
     "kode": "PDE310",
     "nama": "EKONOMI PUBLIK",
     "kelas": "02",
     "koordinator": "Raihani, S.Pd, M.SiNIP. 196904221994042001",
-    "ruang": "3.06",
-    "hari": "Kamis",
+    "ruang": "1.03",
+    "hari": "Sabtu",
     "waktu": "14:00-15:40",
     "peserta": "12",
     "keterangan": "KIPS1Pendidikan Ekonomi",
@@ -1273,7 +1292,7 @@
     }
   },
   {
-    "no": "68",
+    "no": "69",
     "kode": "PDE312",
     "nama": "PERBANKAN ISLAM",
     "kelas": "01",
@@ -1292,7 +1311,7 @@
     }
   },
   {
-    "no": "69",
+    "no": "70",
     "kode": "PDE312",
     "nama": "PERBANKAN ISLAM",
     "kelas": "02",
@@ -1311,7 +1330,7 @@
     }
   },
   {
-    "no": "70",
+    "no": "71",
     "kode": "PDE312",
     "nama": "PERBANKAN ISLAM",
     "kelas": "03",
@@ -1319,7 +1338,7 @@
     "ruang": "1.08",
     "hari": "Selasa",
     "waktu": "08:00-09:45",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE312",
@@ -1330,7 +1349,7 @@
     }
   },
   {
-    "no": "71",
+    "no": "72",
     "kode": "PDE314",
     "nama": "PENELITIAN PENDIDIKAN",
     "kelas": "01",
@@ -1349,7 +1368,7 @@
     }
   },
   {
-    "no": "72",
+    "no": "73",
     "kode": "PDE314",
     "nama": "PENELITIAN PENDIDIKAN",
     "kelas": "02",
@@ -1368,7 +1387,7 @@
     }
   },
   {
-    "no": "73",
+    "no": "74",
     "kode": "PDE314",
     "nama": "PENELITIAN PENDIDIKAN",
     "kelas": "03",
@@ -1376,7 +1395,7 @@
     "ruang": "2.06",
     "hari": "Sabtu",
     "waktu": "11:30-13:10",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE314",
@@ -1387,7 +1406,7 @@
     }
   },
   {
-    "no": "74",
+    "no": "75",
     "kode": "PDE316",
     "nama": "AKUNTANSI MANAJEMEN",
     "kelas": "01",
@@ -1395,30 +1414,11 @@
     "ruang": "1.08",
     "hari": "Jumat",
     "waktu": "10:00-12:30",
-    "peserta": "22",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE316",
       "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610103"
-    }
-  },
-  {
-    "no": "75",
-    "kode": "PDE316",
-    "nama": "AKUNTANSI MANAJEMEN",
-    "kelas": "02",
-    "koordinator": "Raihani, S.Pd, M.SiNIP. 196904221994042001",
-    "ruang": "14.02.009",
-    "hari": "Sabtu",
-    "waktu": "08:00-10:30",
-    "peserta": "21",
-    "keterangan": "KIPS1Pendidikan Ekonomi",
-    "kode-peserta": {
-      "data-kode": "PDE316",
-      "data-kelas": "02",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610103"
@@ -1426,18 +1426,18 @@
   },
   {
     "no": "76",
-    "kode": "PDE318",
-    "nama": "PERPAJAKAN",
-    "kelas": "01",
-    "koordinator": "Irma Anggraini, S.Pd, M.PdNIP. 198201092005012001",
-    "ruang": "1.03",
-    "hari": "Rabu",
-    "waktu": "16:35-18:15",
-    "peserta": "34",
+    "kode": "PDE316",
+    "nama": "AKUNTANSI MANAJEMEN",
+    "kelas": "02",
+    "koordinator": "Raihani, S.Pd, M.SiNIP. 196904221994042001",
+    "ruang": "14.02.009",
+    "hari": "Sabtu",
+    "waktu": "08:00-10:30",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
-      "data-kode": "PDE318",
-      "data-kelas": "01",
+      "data-kode": "PDE316",
+      "data-kelas": "02",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610103"
@@ -1447,12 +1447,31 @@
     "no": "77",
     "kode": "PDE318",
     "nama": "PERPAJAKAN",
+    "kelas": "01",
+    "koordinator": "Irma Anggraini, S.Pd, M.PdNIP. 198201092005012001",
+    "ruang": "2.06",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Ekonomi",
+    "kode-peserta": {
+      "data-kode": "PDE318",
+      "data-kelas": "01",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610103"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "PDE318",
+    "nama": "PERPAJAKAN",
     "kelas": "02",
     "koordinator": "Irma Anggraini, S.Pd, M.PdNIP. 198201092005012001",
     "ruang": "2.06",
     "hari": "Jumat",
     "waktu": "09:50-11:30",
-    "peserta": "21",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE318",
@@ -1463,7 +1482,7 @@
     }
   },
   {
-    "no": "78",
+    "no": "79",
     "kode": "PDE318",
     "nama": "PERPAJAKAN",
     "kelas": "03",
@@ -1471,7 +1490,7 @@
     "ruang": "RKU 4 14.02.009",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "25",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE318",
@@ -1482,7 +1501,7 @@
     }
   },
   {
-    "no": "79",
+    "no": "80",
     "kode": "PDE318",
     "nama": "PERPAJAKAN",
     "kelas": "04",
@@ -1501,7 +1520,7 @@
     }
   },
   {
-    "no": "80",
+    "no": "81",
     "kode": "PDE320",
     "nama": "SEMINAR PROPOSAL",
     "kelas": "01",
@@ -1520,7 +1539,7 @@
     }
   },
   {
-    "no": "81",
+    "no": "82",
     "kode": "PDE320",
     "nama": "SEMINAR PROPOSAL",
     "kelas": "02",
@@ -1528,7 +1547,7 @@
     "ruang": "1.08",
     "hari": "Sabtu",
     "waktu": "08:00-12:05",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDE320",
@@ -1539,15 +1558,15 @@
     }
   },
   {
-    "no": "82",
+    "no": "83",
     "kode": "PDEP01",
     "nama": "EKONOMI SDA DAN LINGKUNGAN",
     "kelas": "01",
-    "koordinator": "Dr. Amiruddin, S.Pd., M.SiNIP. 197101062000121001",
+    "koordinator": "Achmad Mustofa, S.Pd.,M.Pd.NIP. 199305282019031015",
     "ruang": "3.06",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDEP01",
@@ -1558,7 +1577,7 @@
     }
   },
   {
-    "no": "83",
+    "no": "84",
     "kode": "PDEP01",
     "nama": "EKONOMI SDA DAN LINGKUNGAN",
     "kelas": "02",
@@ -1577,7 +1596,7 @@
     }
   },
   {
-    "no": "84",
+    "no": "85",
     "kode": "PDEP05",
     "nama": "PERILAKU ORGANISASI",
     "kelas": "01",
@@ -1596,7 +1615,7 @@
     }
   },
   {
-    "no": "85",
+    "no": "86",
     "kode": "PDEP05",
     "nama": "PERILAKU ORGANISASI",
     "kelas": "02",
@@ -1604,7 +1623,7 @@
     "ruang": "14.02.009",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "29",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDEP05",
@@ -1615,7 +1634,7 @@
     }
   },
   {
-    "no": "86",
+    "no": "87",
     "kode": "PDEP05",
     "nama": "PERILAKU ORGANISASI",
     "kelas": "03",
@@ -1623,7 +1642,7 @@
     "ruang": "1.08 Lab",
     "hari": "Senin",
     "waktu": "08:00-09:45",
-    "peserta": "27",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDEP05",
@@ -1634,7 +1653,7 @@
     }
   },
   {
-    "no": "87",
+    "no": "88",
     "kode": "PDEP06",
     "nama": "PENELITIAN TINDAKAN KELAS (PTK)",
     "kelas": "01",
@@ -1653,7 +1672,7 @@
     }
   },
   {
-    "no": "88",
+    "no": "89",
     "kode": "PDEP06",
     "nama": "PENELITIAN TINDAKAN KELAS (PTK)",
     "kelas": "02",
@@ -1672,7 +1691,7 @@
     }
   },
   {
-    "no": "89",
+    "no": "90",
     "kode": "PDEP06",
     "nama": "PENELITIAN TINDAKAN KELAS (PTK)",
     "kelas": "03",
@@ -1691,7 +1710,7 @@
     }
   },
   {
-    "no": "90",
+    "no": "91",
     "kode": "PDEP08",
     "nama": "HUKUM BISNIS",
     "kelas": "01",
@@ -1710,7 +1729,7 @@
     }
   },
   {
-    "no": "91",
+    "no": "92",
     "kode": "PDEP08",
     "nama": "HUKUM BISNIS",
     "kelas": "02",
@@ -1718,7 +1737,7 @@
     "ruang": "14.02.006",
     "hari": "Senin",
     "waktu": "11:30-13:10",
-    "peserta": "28",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDEP08",
@@ -1729,7 +1748,7 @@
     }
   },
   {
-    "no": "92",
+    "no": "93",
     "kode": "PDEP11",
     "nama": "DEMOGRAFI",
     "kelas": "01",
@@ -1748,7 +1767,7 @@
     }
   },
   {
-    "no": "93",
+    "no": "94",
     "kode": "PDEP11",
     "nama": "DEMOGRAFI",
     "kelas": "02",
@@ -1767,7 +1786,7 @@
     }
   },
   {
-    "no": "94",
+    "no": "95",
     "kode": "PDEP11",
     "nama": "DEMOGRAFI",
     "kelas": "03",
@@ -1786,7 +1805,7 @@
     }
   },
   {
-    "no": "95",
+    "no": "96",
     "kode": "PDEP17",
     "nama": "BAHASA INGGRIS BISNIS",
     "kelas": "01",
@@ -1794,7 +1813,7 @@
     "ruang": "3.06",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "29",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDEP17",
@@ -1805,7 +1824,7 @@
     }
   },
   {
-    "no": "96",
+    "no": "97",
     "kode": "PDEP17",
     "nama": "BAHASA INGGRIS BISNIS",
     "kelas": "02",
@@ -1813,7 +1832,7 @@
     "ruang": "3.06",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "12",
+    "peserta": "10",
     "keterangan": "KIPS1Pendidikan Ekonomi",
     "kode-peserta": {
       "data-kode": "PDEP17",
@@ -1824,7 +1843,7 @@
     }
   },
   {
-    "no": "97",
+    "no": "98",
     "kode": "PDEP18",
     "nama": "AKUNTANSI SEKTOR PUBLIK",
     "kelas": "01",
@@ -1843,7 +1862,7 @@
     }
   },
   {
-    "no": "98",
+    "no": "99",
     "kode": "PDEP19",
     "nama": "PEREKONOMIAN INDONESIA",
     "kelas": "01",
@@ -1862,7 +1881,7 @@
     }
   },
   {
-    "no": "99",
+    "no": "100",
     "kode": "PDEP19",
     "nama": "PEREKONOMIAN INDONESIA",
     "kelas": "02",

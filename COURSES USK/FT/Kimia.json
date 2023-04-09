@@ -483,7 +483,7 @@
     "ruang": "JTK",
     "hari": "Selasa",
     "waktu": "10:45-13:15",
-    "peserta": "20",
+    "peserta": "18",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK204",
@@ -540,7 +540,7 @@
     "ruang": "Jurusan T.Kimia",
     "hari": "Selasa",
     "waktu": "08:00-10:40",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK206",
@@ -559,7 +559,7 @@
     "ruang": "RKTK",
     "hari": "Rabu",
     "waktu": "08:00-10:40",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK206",
@@ -578,7 +578,7 @@
     "ruang": "A23-205",
     "hari": "Senin",
     "waktu": "10:45-13:45",
-    "peserta": "24",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK208",
@@ -635,7 +635,7 @@
     "ruang": "A21-201",
     "hari": "Jumat",
     "waktu": "8:00-10:30",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK210",
@@ -692,7 +692,7 @@
     "ruang": "Jurusan T.Kimia",
     "hari": "Selasa",
     "waktu": "10:30-12:00",
-    "peserta": "76",
+    "peserta": "77",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK212",
@@ -863,7 +863,7 @@
     "ruang": "RKTK",
     "hari": "Rabu",
     "waktu": "08:00-10:30",
-    "peserta": "30",
+    "peserta": "33",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK304",
@@ -901,7 +901,7 @@
     "ruang": "RKTK",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "14",
+    "peserta": "15",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK306",
@@ -958,7 +958,7 @@
     "ruang": "A12-303",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "25",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK308",
@@ -996,7 +996,7 @@
     "ruang": "A14-303",
     "hari": "Kamis",
     "waktu": "8:00-10:30",
-    "peserta": "22",
+    "peserta": "24",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK310",
@@ -1091,7 +1091,7 @@
     "ruang": "RKTK",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "15",
+    "peserta": "16",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK312",
@@ -1129,7 +1129,7 @@
     "ruang": "RKGB1",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "20",
+    "peserta": "21",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK314",
@@ -1167,7 +1167,7 @@
     "ruang": "A23-205",
     "hari": "Senin",
     "waktu": "16:35-18:15",
-    "peserta": "43",
+    "peserta": "44",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK316",
@@ -1186,7 +1186,7 @@
     "ruang": "A23-205",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "9",
+    "peserta": "8",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK318",
@@ -1205,7 +1205,7 @@
     "ruang": "RKTK",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "18",
+    "peserta": "19",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK320",
@@ -1224,7 +1224,7 @@
     "ruang": "A23-205",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "13",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEK322",
@@ -1300,7 +1300,7 @@
     "ruang": "Jurusan T.Kimia",
     "hari": "Rabu",
     "waktu": "10:00-12:30",
-    "peserta": "20",
+    "peserta": "22",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEKP04",
@@ -1338,7 +1338,7 @@
     "ruang": "Jurusan T.Kimia",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "88",
+    "peserta": "92",
     "keterangan": "TeknikS1Teknik Kimia",
     "kode-peserta": {
       "data-kode": "TEKPA2",

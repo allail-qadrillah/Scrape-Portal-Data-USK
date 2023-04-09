@@ -122,7 +122,7 @@
     "ruang": "2.03",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "6",
+    "peserta": "7",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -141,7 +141,7 @@
     "ruang": "2.03",
     "hari": "Senin",
     "waktu": "16:35-18:10",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -331,7 +331,7 @@
     "ruang": "dissimination",
     "hari": "Sabtu",
     "waktu": "9:30-13:30",
-    "peserta": "111",
+    "peserta": "112",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "EDUPA1",
@@ -350,7 +350,7 @@
     "ruang": "3.14",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "40",
+    "peserta": "39",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MGP361",
@@ -369,7 +369,7 @@
     "ruang": "2.03",
     "hari": "Sabtu",
     "waktu": "08:00-09:40",
-    "peserta": "18",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MGP361",
@@ -388,7 +388,7 @@
     "ruang": "lab geografi",
     "hari": "Selasa",
     "waktu": "11:30-13:10",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MGP502",
@@ -426,7 +426,7 @@
     "ruang": "2.03",
     "hari": "Sabtu",
     "waktu": "11:30-13:20",
-    "peserta": "8",
+    "peserta": "7",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MGP502",
@@ -445,7 +445,7 @@
     "ruang": "lab geo",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "4",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MGP506",
@@ -464,7 +464,7 @@
     "ruang": "3.12",
     "hari": "Jumat",
     "waktu": "10:40-12:20",
-    "peserta": "20",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MGP515",
@@ -502,7 +502,7 @@
     "ruang": "2.03",
     "hari": "Kamis",
     "waktu": "8:00-10:40",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG102",
@@ -596,7 +596,7 @@
     "koordinator": "Dr. Alamsyah, M.SiNIP. 195804041986021005",
     "ruang": "3.14",
     "hari": "Selasa",
-    "waktu": "9:40-10:40",
+    "waktu": "9:40-11:30",
     "peserta": "29",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
@@ -673,7 +673,7 @@
     "ruang": "2.03",
     "hari": "Selasa",
     "waktu": "10:45-13:10",
-    "peserta": "22",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG110",
@@ -692,7 +692,7 @@
     "ruang": "2.03",
     "hari": "Senin",
     "waktu": "10:45-13:10",
-    "peserta": "22",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG110",
@@ -730,7 +730,7 @@
     "ruang": "3.14",
     "hari": "Kamis",
     "waktu": "11:30-13:10",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG121",
@@ -1015,7 +1015,7 @@
     "ruang": "3.12",
     "hari": "Sabtu",
     "waktu": "08:00-09:40",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG207",
@@ -1110,7 +1110,7 @@
     "ruang": "lab geografi",
     "hari": "Jumat",
     "waktu": "16:30-18:10",
-    "peserta": "21",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG212",
@@ -1125,7 +1125,7 @@
     "kode": "MKG212",
     "nama": "PRAKTIKUM ILMU UKUR TANAH",
     "kelas": "03",
-    "koordinator": "Mice Putri Afriyani, S.Pd., M.Sc.NIP. 198802182020082101",
+    "koordinator": "Husna Diah, S.Pd., M.Sc.NIP. 199312102022032017",
     "ruang": "lab geografi",
     "hari": "Rabu",
     "waktu": "09:40-11:20",
@@ -1148,7 +1148,7 @@
     "ruang": "lab geografi",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG212",
@@ -1243,7 +1243,7 @@
     "ruang": "lab geografi",
     "hari": "Rabu",
     "waktu": "11:30-13:10",
-    "peserta": "19",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG216",
@@ -1281,7 +1281,7 @@
     "ruang": "lab geografi",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG216",
@@ -1433,7 +1433,7 @@
     "ruang": "3.12",
     "hari": "Rabu",
     "waktu": "10:45-13:10",
-    "peserta": "35",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG304",
@@ -1452,7 +1452,7 @@
     "ruang": "3.12",
     "hari": "Jumat",
     "waktu": "08:00-10:40",
-    "peserta": "13",
+    "peserta": "15",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG304",
@@ -1604,7 +1604,7 @@
     "ruang": "3.12",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "4",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG311",
@@ -1661,7 +1661,7 @@
     "ruang": "3.14",
     "hari": "Selasa",
     "waktu": "16:35-18:10",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG312",
@@ -1680,7 +1680,7 @@
     "ruang": "3.14",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "19",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG312",
@@ -1699,7 +1699,7 @@
     "ruang": "lab geografi",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG314",
@@ -1737,7 +1737,7 @@
     "ruang": "lab geografi",
     "hari": "Senin",
     "waktu": "16:35-18:10",
-    "peserta": "19",
+    "peserta": "21",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG314",
@@ -1756,7 +1756,7 @@
     "ruang": "lab geografi",
     "hari": "Jumat",
     "waktu": "09:40-11:30",
-    "peserta": "14",
+    "peserta": "13",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG314",
@@ -1775,7 +1775,7 @@
     "ruang": "3.14",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG405",
@@ -1794,7 +1794,7 @@
     "ruang": "2.03",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG405",
@@ -1851,7 +1851,7 @@
     "ruang": "3.14",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG407",
@@ -1870,7 +1870,7 @@
     "ruang": "3.14",
     "hari": "Rabu",
     "waktu": "09:40-11:30",
-    "peserta": "12",
+    "peserta": "14",
     "keterangan": "KIPS1Pendidikan Geografi",
     "kode-peserta": {
       "data-kode": "MKG407",

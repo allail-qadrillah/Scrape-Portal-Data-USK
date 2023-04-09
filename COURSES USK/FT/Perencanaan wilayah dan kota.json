@@ -27,7 +27,7 @@
     "ruang": "A34-202",
     "hari": "Jumat",
     "waktu": "10:00-12:25",
-    "peserta": "43",
+    "peserta": "44",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -46,7 +46,7 @@
     "ruang": "Universitas",
     "hari": "Minggu",
     "waktu": "08:00-12:00",
-    "peserta": "8",
+    "peserta": "9",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "MKSP02",
@@ -958,7 +958,7 @@
     "ruang": "A34-201",
     "hari": "Selasa",
     "waktu": "16:45-18:15",
-    "peserta": "4",
+    "peserta": "3",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPWP02",
@@ -996,7 +996,7 @@
     "ruang": "A34-201",
     "hari": "Rabu",
     "waktu": "14:00-15:45",
-    "peserta": "8",
+    "peserta": "6",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPWP04",
@@ -1015,7 +1015,7 @@
     "ruang": "Prodi PWK",
     "hari": "Selasa",
     "waktu": "10:45-12:25",
-    "peserta": "5",
+    "peserta": "7",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPWP05",
@@ -1034,7 +1034,7 @@
     "ruang": "A34-202",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "3",
+    "peserta": "0",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPWP06",
@@ -1129,7 +1129,7 @@
     "ruang": "Prodi PWK",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPWP11",
@@ -1167,7 +1167,7 @@
     "ruang": "Prodi PWK",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPWP13",
@@ -1224,7 +1224,7 @@
     "ruang": "A34-202",
     "hari": "Kamis",
     "waktu": "14:00-15:45",
-    "peserta": "28",
+    "peserta": "27",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPWP16",
@@ -1281,7 +1281,7 @@
     "ruang": "Prodi PWK",
     "hari": "Sabtu",
     "waktu": "08:00-12:25",
-    "peserta": "55",
+    "peserta": "60",
     "keterangan": "TeknikS1Perencanaan Wilayah dan Kota",
     "kode-peserta": {
       "data-kode": "TPWPA1",

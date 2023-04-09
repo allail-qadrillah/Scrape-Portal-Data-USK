@@ -217,7 +217,7 @@
     "ruang": "LAPANGAN",
     "hari": "Rabu",
     "waktu": "8:00-10:30",
-    "peserta": "2",
+    "peserta": "1",
     "keterangan": "KIPS1Pendidikan Sejarah",
     "kode-peserta": {
       "data-kode": "EDUP07",
@@ -369,7 +369,7 @@
     "ruang": "2.05",
     "hari": "Selasa",
     "waktu": "9:40-11:30",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Sejarah",
     "kode-peserta": {
       "data-kode": "SJPP03",
@@ -445,7 +445,7 @@
     "ruang": "2.09",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Sejarah",
     "kode-peserta": {
       "data-kode": "SJPP05",
@@ -464,7 +464,7 @@
     "ruang": "2.05",
     "hari": "Jumat",
     "waktu": "16:20-18:00",
-    "peserta": "32",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Sejarah",
     "kode-peserta": {
       "data-kode": "SJPP06",
@@ -502,7 +502,7 @@
     "ruang": "2.05",
     "hari": "Selasa",
     "waktu": "16:20-18:00",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Sejarah",
     "kode-peserta": {
       "data-kode": "SJPP07",
@@ -521,7 +521,7 @@
     "ruang": "14.02.008",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "33",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Sejarah",
     "kode-peserta": {
       "data-kode": "SJPP07",
@@ -711,7 +711,7 @@
     "ruang": "2.09",
     "hari": "Sabtu",
     "waktu": "9:40-11:30",
-    "peserta": "18",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Sejarah",
     "kode-peserta": {
       "data-kode": "SJPP16",
@@ -1509,7 +1509,7 @@
     "ruang": "2.09",
     "hari": "Selasa",
     "waktu": "14:00-16:30",
-    "peserta": "15",
+    "peserta": "14",
     "keterangan": "KIPS1Pendidikan Sejarah",
     "kode-peserta": {
       "data-kode": "SJW216",
@@ -1528,7 +1528,7 @@
     "ruang": "3.15",
     "hari": "Senin",
     "waktu": "10:40-13:10",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Sejarah",
     "kode-peserta": {
       "data-kode": "SJW216",
@@ -1756,7 +1756,7 @@
     "ruang": "3.15",
     "hari": "Kamis",
     "waktu": "16:20-18:00",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Sejarah",
     "kode-peserta": {
       "data-kode": "SJW320",
@@ -1794,7 +1794,7 @@
     "ruang": "3.15",
     "hari": "Sabtu",
     "waktu": "11:30-13:10",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Sejarah",
     "kode-peserta": {
       "data-kode": "SJW320",

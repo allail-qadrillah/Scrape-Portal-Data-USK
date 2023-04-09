@@ -8,7 +8,7 @@
     "ruang": "RKTG1",
     "hari": "Senin",
     "waktu": "15:35-18:15",
-    "peserta": "46",
+    "peserta": "44",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -27,7 +27,7 @@
     "ruang": "RKTG1",
     "hari": "Senin",
     "waktu": "16:35-18:15",
-    "peserta": "42",
+    "peserta": "49",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -350,7 +350,7 @@
     "ruang": "rktg1",
     "hari": "Sabtu",
     "waktu": "8:00-8:00",
-    "peserta": "22",
+    "peserta": "25",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL204",
@@ -369,7 +369,7 @@
     "ruang": "rktg1",
     "hari": "Kamis",
     "waktu": "8:00-9:40",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL204",
@@ -407,7 +407,7 @@
     "ruang": "TKTG1",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "25",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL206",
@@ -426,7 +426,7 @@
     "ruang": "rktg1",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "22",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL206",
@@ -445,7 +445,7 @@
     "ruang": "rktg1",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "2",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL206",
@@ -483,7 +483,7 @@
     "ruang": "rktg 2",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "5",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL208",
@@ -502,7 +502,7 @@
     "ruang": "rktg 2",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "17",
+    "peserta": "20",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL208",
@@ -521,7 +521,7 @@
     "ruang": "rktg1",
     "hari": "Selasa",
     "waktu": "8:00-9:40",
-    "peserta": "10",
+    "peserta": "7",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL210",
@@ -540,7 +540,7 @@
     "ruang": "rktg 1",
     "hari": "Sabtu",
     "waktu": "16:35-18:15",
-    "peserta": "23",
+    "peserta": "25",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL210",
@@ -559,7 +559,7 @@
     "ruang": "rktg 2",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "13",
+    "peserta": "15",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL210",
@@ -578,7 +578,7 @@
     "ruang": "rktg1",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "18",
+    "peserta": "19",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL212",
@@ -597,7 +597,7 @@
     "ruang": "rktg2",
     "hari": "Selasa",
     "waktu": "8:00-9:40",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL212",
@@ -616,7 +616,7 @@
     "ruang": "rktg2",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "3",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL212",
@@ -635,7 +635,7 @@
     "ruang": "rktg1",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL214",
@@ -654,7 +654,7 @@
     "ruang": "rktg1",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "31",
+    "peserta": "35",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL214",
@@ -730,7 +730,7 @@
     "ruang": "RKRG1",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "25",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL216",
@@ -749,7 +749,7 @@
     "ruang": "RKTG1",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "25",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL218",
@@ -768,7 +768,7 @@
     "ruang": "RKTG1",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL218",
@@ -787,7 +787,7 @@
     "ruang": "RKTG",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL218",
@@ -863,7 +863,7 @@
     "ruang": "RKTG1",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL306",
@@ -899,8 +899,8 @@
     "kelas": "12",
     "koordinator": "Dr. Halida Yunita, S.T., M.T.NIP. 197806132002122002",
     "ruang": "RKTG1",
-    "hari": "Sabtu",
-    "waktu": "08:00-09:40",
+    "hari": "Selasa",
+    "waktu": "10:45-12:25",
     "peserta": "27",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
@@ -920,7 +920,7 @@
     "ruang": "RKTG1",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL310",
@@ -939,7 +939,7 @@
     "ruang": "RKTG1",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL310",
@@ -958,7 +958,7 @@
     "ruang": "RKTG1",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "18",
+    "peserta": "19",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL312",
@@ -1034,7 +1034,7 @@
     "ruang": "RKTG1",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL316",
@@ -1053,7 +1053,7 @@
     "ruang": "RKTG1",
     "hari": "Senin",
     "waktu": "16:35-18:15",
-    "peserta": "18",
+    "peserta": "17",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL504",
@@ -1072,7 +1072,7 @@
     "ruang": "RKTG1",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "4",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL506",
@@ -1110,7 +1110,7 @@
     "ruang": "RKTG1",
     "hari": "Rabu",
     "waktu": "10:00-11:35",
-    "peserta": "4",
+    "peserta": "8",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL510",
@@ -1129,7 +1129,7 @@
     "ruang": "RKTG1",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "5",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGL514",
@@ -1167,7 +1167,7 @@
     "ruang": "RKTG1",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "54",
+    "peserta": "55",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGLP01",
@@ -1186,7 +1186,7 @@
     "ruang": "RKTG1",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "18",
+    "peserta": "16",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGLP02",
@@ -1205,7 +1205,7 @@
     "ruang": "RKTG1",
     "hari": "Senin",
     "waktu": "10:45-12:25",
-    "peserta": "1",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGLP12",
@@ -1224,7 +1224,7 @@
     "ruang": "RKTG1",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "16",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGLP16",
@@ -1243,7 +1243,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "10:45-12:40",
-    "peserta": "1",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGLP18",
@@ -1262,7 +1262,7 @@
     "ruang": "RKTG1",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "1",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGLP22",
@@ -1300,7 +1300,7 @@
     "ruang": "RKTG1",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "62",
+    "peserta": "63",
     "keterangan": "TeknikS1Teknik Geologi",
     "kode-peserta": {
       "data-kode": "TGLPA2",

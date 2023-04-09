@@ -8,7 +8,7 @@
     "ruang": "A25-203",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "27",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -65,7 +65,7 @@
     "ruang": "JTS",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "22",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -84,7 +84,7 @@
     "ruang": "Jts",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -122,7 +122,7 @@
     "ruang": "JTS",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "19",
+    "peserta": "24",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -141,7 +141,7 @@
     "ruang": "JTS",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "MKSP02",
@@ -174,25 +174,6 @@
     "no": "10",
     "kode": "PTS102",
     "nama": "MATEMATIKA II",
-    "kelas": "12",
-    "koordinator": "Prof. Dr. Azmeri, S.T, M.T.NIP. 197308201998032001",
-    "ruang": "A12-301",
-    "hari": "Senin",
-    "waktu": "8:00-10:30",
-    "peserta": "1",
-    "keterangan": "TeknikS1Teknik Sipil",
-    "kode-peserta": {
-      "data-kode": "PTS102",
-      "data-kelas": "12",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0410101"
-    }
-  },
-  {
-    "no": "11",
-    "kode": "PTS102",
-    "nama": "MATEMATIKA II",
     "kelas": "13",
     "koordinator": "Febriyanti Maulina, S.T., MT.NIP. 197802242008122002",
     "ruang": "A23-203",
@@ -209,7 +190,7 @@
     }
   },
   {
-    "no": "12",
+    "no": "11",
     "kode": "PTS102",
     "nama": "MATEMATIKA II",
     "kelas": "14",
@@ -228,7 +209,7 @@
     }
   },
   {
-    "no": "13",
+    "no": "12",
     "kode": "PTS102",
     "nama": "MATEMATIKA II",
     "kelas": "15",
@@ -247,7 +228,7 @@
     }
   },
   {
-    "no": "14",
+    "no": "13",
     "kode": "PTS102",
     "nama": "MATEMATIKA II",
     "kelas": "16",
@@ -266,7 +247,7 @@
     }
   },
   {
-    "no": "15",
+    "no": "14",
     "kode": "PTS102",
     "nama": "MATEMATIKA II",
     "kelas": "17",
@@ -285,7 +266,7 @@
     }
   },
   {
-    "no": "16",
+    "no": "15",
     "kode": "PTS102",
     "nama": "MATEMATIKA II",
     "kelas": "18",
@@ -304,7 +285,7 @@
     }
   },
   {
-    "no": "17",
+    "no": "16",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "11",
@@ -323,7 +304,7 @@
     }
   },
   {
-    "no": "18",
+    "no": "17",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "12",
@@ -342,7 +323,7 @@
     }
   },
   {
-    "no": "19",
+    "no": "18",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "13",
@@ -361,7 +342,7 @@
     }
   },
   {
-    "no": "20",
+    "no": "19",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "14",
@@ -380,7 +361,7 @@
     }
   },
   {
-    "no": "21",
+    "no": "20",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "15",
@@ -399,7 +380,7 @@
     }
   },
   {
-    "no": "22",
+    "no": "21",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "16",
@@ -418,7 +399,7 @@
     }
   },
   {
-    "no": "23",
+    "no": "22",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "17",
@@ -437,7 +418,7 @@
     }
   },
   {
-    "no": "24",
+    "no": "23",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "18",
@@ -445,7 +426,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "10",
+    "peserta": "9",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS106",
@@ -456,7 +437,7 @@
     }
   },
   {
-    "no": "25",
+    "no": "24",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "19",
@@ -475,7 +456,7 @@
     }
   },
   {
-    "no": "26",
+    "no": "25",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "20",
@@ -494,26 +475,7 @@
     }
   },
   {
-    "no": "27",
-    "kode": "PTS106",
-    "nama": "PRAKTIKUM BAHAN BANGUNAN",
-    "kelas": "21",
-    "koordinator": "Dr. Teuku Budi Aulia, S.T.Dipl,IngNIP. 196705291994031001",
-    "ruang": "LAB",
-    "hari": "Sabtu",
-    "waktu": "10:45-12:25",
-    "peserta": "0",
-    "keterangan": "TeknikS1Teknik Sipil",
-    "kode-peserta": {
-      "data-kode": "PTS106",
-      "data-kelas": "21",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0410101"
-    }
-  },
-  {
-    "no": "28",
+    "no": "26",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "22",
@@ -532,7 +494,7 @@
     }
   },
   {
-    "no": "29",
+    "no": "27",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "23",
@@ -551,7 +513,7 @@
     }
   },
   {
-    "no": "30",
+    "no": "28",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "24",
@@ -570,7 +532,7 @@
     }
   },
   {
-    "no": "31",
+    "no": "29",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "25",
@@ -589,7 +551,7 @@
     }
   },
   {
-    "no": "32",
+    "no": "30",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "26",
@@ -608,7 +570,7 @@
     }
   },
   {
-    "no": "33",
+    "no": "31",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "27",
@@ -627,7 +589,7 @@
     }
   },
   {
-    "no": "34",
+    "no": "32",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "28",
@@ -646,7 +608,7 @@
     }
   },
   {
-    "no": "35",
+    "no": "33",
     "kode": "PTS106",
     "nama": "PRAKTIKUM BAHAN BANGUNAN",
     "kelas": "29",
@@ -665,7 +627,7 @@
     }
   },
   {
-    "no": "36",
+    "no": "34",
     "kode": "PTS108",
     "nama": "MEKANIKA TANAH I",
     "kelas": "11",
@@ -684,7 +646,7 @@
     }
   },
   {
-    "no": "37",
+    "no": "35",
     "kode": "PTS108",
     "nama": "MEKANIKA TANAH I",
     "kelas": "12",
@@ -703,7 +665,7 @@
     }
   },
   {
-    "no": "38",
+    "no": "36",
     "kode": "PTS108",
     "nama": "MEKANIKA TANAH I",
     "kelas": "13",
@@ -722,7 +684,7 @@
     }
   },
   {
-    "no": "39",
+    "no": "37",
     "kode": "PTS108",
     "nama": "MEKANIKA TANAH I",
     "kelas": "14",
@@ -741,7 +703,7 @@
     }
   },
   {
-    "no": "40",
+    "no": "38",
     "kode": "PTS108",
     "nama": "MEKANIKA TANAH I",
     "kelas": "15",
@@ -749,7 +711,7 @@
     "ruang": "D3-Z",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "31",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS108",
@@ -760,7 +722,7 @@
     }
   },
   {
-    "no": "41",
+    "no": "39",
     "kode": "PTS110",
     "nama": "MEKANIKA BAHAN",
     "kelas": "11",
@@ -779,7 +741,7 @@
     }
   },
   {
-    "no": "42",
+    "no": "40",
     "kode": "PTS110",
     "nama": "MEKANIKA BAHAN",
     "kelas": "12",
@@ -787,7 +749,7 @@
     "ruang": "A25-203",
     "hari": "Selasa",
     "waktu": "8:00-10:30",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS110",
@@ -798,7 +760,7 @@
     }
   },
   {
-    "no": "43",
+    "no": "41",
     "kode": "PTS110",
     "nama": "MEKANIKA BAHAN",
     "kelas": "13",
@@ -817,7 +779,7 @@
     }
   },
   {
-    "no": "44",
+    "no": "42",
     "kode": "PTS110",
     "nama": "MEKANIKA BAHAN",
     "kelas": "14",
@@ -836,7 +798,7 @@
     }
   },
   {
-    "no": "45",
+    "no": "43",
     "kode": "PTS110",
     "nama": "MEKANIKA BAHAN",
     "kelas": "15",
@@ -855,7 +817,7 @@
     }
   },
   {
-    "no": "46",
+    "no": "44",
     "kode": "PTS112",
     "nama": "ANALISIS STRUKTUR II",
     "kelas": "11",
@@ -863,7 +825,7 @@
     "ruang": "JTS",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS112",
@@ -874,7 +836,7 @@
     }
   },
   {
-    "no": "47",
+    "no": "45",
     "kode": "PTS112",
     "nama": "ANALISIS STRUKTUR II",
     "kelas": "12",
@@ -882,7 +844,7 @@
     "ruang": "A25-203",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "31",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS112",
@@ -893,7 +855,7 @@
     }
   },
   {
-    "no": "48",
+    "no": "46",
     "kode": "PTS112",
     "nama": "ANALISIS STRUKTUR II",
     "kelas": "13",
@@ -901,7 +863,7 @@
     "ruang": "A23-203",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS112",
@@ -912,7 +874,7 @@
     }
   },
   {
-    "no": "49",
+    "no": "47",
     "kode": "PTS112",
     "nama": "ANALISIS STRUKTUR II",
     "kelas": "14",
@@ -931,7 +893,7 @@
     }
   },
   {
-    "no": "50",
+    "no": "48",
     "kode": "PTS112",
     "nama": "ANALISIS STRUKTUR II",
     "kelas": "16",
@@ -950,7 +912,7 @@
     }
   },
   {
-    "no": "51",
+    "no": "49",
     "kode": "PTS114",
     "nama": "REKAYASA LALU LINTAS",
     "kelas": "11",
@@ -969,7 +931,7 @@
     }
   },
   {
-    "no": "52",
+    "no": "50",
     "kode": "PTS114",
     "nama": "REKAYASA LALU LINTAS",
     "kelas": "12",
@@ -988,7 +950,7 @@
     }
   },
   {
-    "no": "53",
+    "no": "51",
     "kode": "PTS114",
     "nama": "REKAYASA LALU LINTAS",
     "kelas": "13",
@@ -1007,7 +969,7 @@
     }
   },
   {
-    "no": "54",
+    "no": "52",
     "kode": "PTS114",
     "nama": "REKAYASA LALU LINTAS",
     "kelas": "14",
@@ -1026,7 +988,7 @@
     }
   },
   {
-    "no": "55",
+    "no": "53",
     "kode": "PTS114",
     "nama": "REKAYASA LALU LINTAS",
     "kelas": "15",
@@ -1045,7 +1007,7 @@
     }
   },
   {
-    "no": "56",
+    "no": "54",
     "kode": "PTS114",
     "nama": "REKAYASA LALU LINTAS",
     "kelas": "16",
@@ -1053,7 +1015,7 @@
     "ruang": "A25-201",
     "hari": "Rabu",
     "waktu": "9:50-11:30",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS114",
@@ -1064,7 +1026,7 @@
     }
   },
   {
-    "no": "57",
+    "no": "55",
     "kode": "PTS116",
     "nama": "TEKNOLOGI BAHAN",
     "kelas": "11",
@@ -1083,7 +1045,7 @@
     }
   },
   {
-    "no": "58",
+    "no": "56",
     "kode": "PTS116",
     "nama": "TEKNOLOGI BAHAN",
     "kelas": "13",
@@ -1102,7 +1064,7 @@
     }
   },
   {
-    "no": "59",
+    "no": "57",
     "kode": "PTS116",
     "nama": "TEKNOLOGI BAHAN",
     "kelas": "14",
@@ -1110,7 +1072,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS116",
@@ -1121,7 +1083,7 @@
     }
   },
   {
-    "no": "60",
+    "no": "58",
     "kode": "PTS116",
     "nama": "TEKNOLOGI BAHAN",
     "kelas": "15",
@@ -1140,7 +1102,7 @@
     }
   },
   {
-    "no": "61",
+    "no": "59",
     "kode": "PTS116",
     "nama": "TEKNOLOGI BAHAN",
     "kelas": "16",
@@ -1159,7 +1121,7 @@
     }
   },
   {
-    "no": "62",
+    "no": "60",
     "kode": "PTS202",
     "nama": "HIDRAULIKA",
     "kelas": "11",
@@ -1178,7 +1140,7 @@
     }
   },
   {
-    "no": "63",
+    "no": "61",
     "kode": "PTS202",
     "nama": "HIDRAULIKA",
     "kelas": "12",
@@ -1186,7 +1148,7 @@
     "ruang": "A25-203",
     "hari": "Rabu",
     "waktu": "8:00-9:40",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS202",
@@ -1197,7 +1159,7 @@
     }
   },
   {
-    "no": "64",
+    "no": "62",
     "kode": "PTS202",
     "nama": "HIDRAULIKA",
     "kelas": "13",
@@ -1216,7 +1178,7 @@
     }
   },
   {
-    "no": "65",
+    "no": "63",
     "kode": "PTS202",
     "nama": "HIDRAULIKA",
     "kelas": "14",
@@ -1224,7 +1186,7 @@
     "ruang": "A12-301",
     "hari": "Rabu",
     "waktu": "8:00-9:40",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS202",
@@ -1235,7 +1197,7 @@
     }
   },
   {
-    "no": "66",
+    "no": "64",
     "kode": "PTS202",
     "nama": "HIDRAULIKA",
     "kelas": "15",
@@ -1243,7 +1205,7 @@
     "ruang": "RK MTS III",
     "hari": "Rabu",
     "waktu": "8:00-9:40",
-    "peserta": "24",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS202",
@@ -1254,7 +1216,7 @@
     }
   },
   {
-    "no": "67",
+    "no": "65",
     "kode": "PTS202",
     "nama": "HIDRAULIKA",
     "kelas": "16",
@@ -1273,7 +1235,7 @@
     }
   },
   {
-    "no": "68",
+    "no": "66",
     "kode": "PTS204",
     "nama": "PRAKTIKUM MEKANIKA FLUIDA",
     "kelas": "11",
@@ -1292,7 +1254,7 @@
     }
   },
   {
-    "no": "69",
+    "no": "67",
     "kode": "PTS204",
     "nama": "PRAKTIKUM MEKANIKA FLUIDA",
     "kelas": "12",
@@ -1311,7 +1273,7 @@
     }
   },
   {
-    "no": "70",
+    "no": "68",
     "kode": "PTS204",
     "nama": "PRAKTIKUM MEKANIKA FLUIDA",
     "kelas": "13",
@@ -1330,7 +1292,7 @@
     }
   },
   {
-    "no": "71",
+    "no": "69",
     "kode": "PTS204",
     "nama": "PRAKTIKUM MEKANIKA FLUIDA",
     "kelas": "14",
@@ -1338,7 +1300,7 @@
     "ruang": "Lab",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "14",
+    "peserta": "13",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS204",
@@ -1349,7 +1311,7 @@
     }
   },
   {
-    "no": "72",
+    "no": "70",
     "kode": "PTS204",
     "nama": "PRAKTIKUM MEKANIKA FLUIDA",
     "kelas": "15",
@@ -1368,7 +1330,7 @@
     }
   },
   {
-    "no": "73",
+    "no": "71",
     "kode": "PTS204",
     "nama": "PRAKTIKUM MEKANIKA FLUIDA",
     "kelas": "16",
@@ -1387,7 +1349,7 @@
     }
   },
   {
-    "no": "74",
+    "no": "72",
     "kode": "PTS204",
     "nama": "PRAKTIKUM MEKANIKA FLUIDA",
     "kelas": "17",
@@ -1406,7 +1368,7 @@
     }
   },
   {
-    "no": "75",
+    "no": "73",
     "kode": "PTS204",
     "nama": "PRAKTIKUM MEKANIKA FLUIDA",
     "kelas": "18",
@@ -1425,7 +1387,7 @@
     }
   },
   {
-    "no": "76",
+    "no": "74",
     "kode": "PTS204",
     "nama": "PRAKTIKUM MEKANIKA FLUIDA",
     "kelas": "19",
@@ -1444,7 +1406,7 @@
     }
   },
   {
-    "no": "77",
+    "no": "75",
     "kode": "PTS204",
     "nama": "PRAKTIKUM MEKANIKA FLUIDA",
     "kelas": "20",
@@ -1463,7 +1425,7 @@
     }
   },
   {
-    "no": "78",
+    "no": "76",
     "kode": "PTS204",
     "nama": "PRAKTIKUM MEKANIKA FLUIDA",
     "kelas": "21",
@@ -1482,7 +1444,7 @@
     }
   },
   {
-    "no": "79",
+    "no": "77",
     "kode": "PTS204",
     "nama": "PRAKTIKUM MEKANIKA FLUIDA",
     "kelas": "22",
@@ -1501,7 +1463,7 @@
     }
   },
   {
-    "no": "80",
+    "no": "78",
     "kode": "PTS206",
     "nama": "HIDROLOGI",
     "kelas": "11",
@@ -1520,7 +1482,7 @@
     }
   },
   {
-    "no": "81",
+    "no": "79",
     "kode": "PTS206",
     "nama": "HIDROLOGI",
     "kelas": "12",
@@ -1539,7 +1501,7 @@
     }
   },
   {
-    "no": "82",
+    "no": "80",
     "kode": "PTS206",
     "nama": "HIDROLOGI",
     "kelas": "13",
@@ -1558,7 +1520,7 @@
     }
   },
   {
-    "no": "83",
+    "no": "81",
     "kode": "PTS206",
     "nama": "HIDROLOGI",
     "kelas": "14",
@@ -1577,7 +1539,7 @@
     }
   },
   {
-    "no": "84",
+    "no": "82",
     "kode": "PTS206",
     "nama": "HIDROLOGI",
     "kelas": "15",
@@ -1596,7 +1558,7 @@
     }
   },
   {
-    "no": "85",
+    "no": "83",
     "kode": "PTS206",
     "nama": "HIDROLOGI",
     "kelas": "16",
@@ -1604,7 +1566,7 @@
     "ruang": "RB 3A",
     "hari": "Kamis",
     "waktu": "8:00-9:40",
-    "peserta": "22",
+    "peserta": "21",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS206",
@@ -1615,7 +1577,7 @@
     }
   },
   {
-    "no": "86",
+    "no": "84",
     "kode": "PTS208",
     "nama": "STRUKTUR BETON II",
     "kelas": "11",
@@ -1634,7 +1596,7 @@
     }
   },
   {
-    "no": "87",
+    "no": "85",
     "kode": "PTS208",
     "nama": "STRUKTUR BETON II",
     "kelas": "12",
@@ -1653,7 +1615,7 @@
     }
   },
   {
-    "no": "88",
+    "no": "86",
     "kode": "PTS208",
     "nama": "STRUKTUR BETON II",
     "kelas": "13",
@@ -1672,7 +1634,7 @@
     }
   },
   {
-    "no": "89",
+    "no": "87",
     "kode": "PTS208",
     "nama": "STRUKTUR BETON II",
     "kelas": "14",
@@ -1691,7 +1653,7 @@
     }
   },
   {
-    "no": "90",
+    "no": "88",
     "kode": "PTS208",
     "nama": "STRUKTUR BETON II",
     "kelas": "15",
@@ -1710,7 +1672,7 @@
     }
   },
   {
-    "no": "91",
+    "no": "89",
     "kode": "PTS208",
     "nama": "STRUKTUR BETON II",
     "kelas": "16",
@@ -1729,7 +1691,7 @@
     }
   },
   {
-    "no": "92",
+    "no": "90",
     "kode": "PTS210",
     "nama": "ANALISIS STRUKTUR IV",
     "kelas": "11",
@@ -1748,7 +1710,7 @@
     }
   },
   {
-    "no": "93",
+    "no": "91",
     "kode": "PTS210",
     "nama": "ANALISIS STRUKTUR IV",
     "kelas": "12",
@@ -1767,7 +1729,7 @@
     }
   },
   {
-    "no": "94",
+    "no": "92",
     "kode": "PTS210",
     "nama": "ANALISIS STRUKTUR IV",
     "kelas": "13",
@@ -1786,7 +1748,7 @@
     }
   },
   {
-    "no": "95",
+    "no": "93",
     "kode": "PTS210",
     "nama": "ANALISIS STRUKTUR IV",
     "kelas": "14",
@@ -1794,7 +1756,7 @@
     "ruang": "RK TDMRC",
     "hari": "Senin",
     "waktu": "16:35-18:15",
-    "peserta": "27",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS210",
@@ -1805,7 +1767,7 @@
     }
   },
   {
-    "no": "96",
+    "no": "94",
     "kode": "PTS210",
     "nama": "ANALISIS STRUKTUR IV",
     "kelas": "15",
@@ -1824,7 +1786,7 @@
     }
   },
   {
-    "no": "97",
+    "no": "95",
     "kode": "PTS210",
     "nama": "ANALISIS STRUKTUR IV",
     "kelas": "16",
@@ -1843,7 +1805,7 @@
     }
   },
   {
-    "no": "98",
+    "no": "96",
     "kode": "PTS212",
     "nama": "STRUKTUR BAJA II",
     "kelas": "11",
@@ -1862,7 +1824,7 @@
     }
   },
   {
-    "no": "99",
+    "no": "97",
     "kode": "PTS212",
     "nama": "STRUKTUR BAJA II",
     "kelas": "12",
@@ -1881,7 +1843,7 @@
     }
   },
   {
-    "no": "100",
+    "no": "98",
     "kode": "PTS212",
     "nama": "STRUKTUR BAJA II",
     "kelas": "13",
@@ -1900,7 +1862,7 @@
     }
   },
   {
-    "no": "101",
+    "no": "99",
     "kode": "PTS212",
     "nama": "STRUKTUR BAJA II",
     "kelas": "14",
@@ -1919,7 +1881,7 @@
     }
   },
   {
-    "no": "102",
+    "no": "100",
     "kode": "PTS212",
     "nama": "STRUKTUR BAJA II",
     "kelas": "15",
@@ -1938,7 +1900,7 @@
     }
   },
   {
-    "no": "103",
+    "no": "101",
     "kode": "PTS212",
     "nama": "STRUKTUR BAJA II",
     "kelas": "16",
@@ -1946,7 +1908,7 @@
     "ruang": "RK MTS III",
     "hari": "Jumat",
     "waktu": "8:00-10:30",
-    "peserta": "22",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS212",
@@ -1957,7 +1919,7 @@
     }
   },
   {
-    "no": "104",
+    "no": "102",
     "kode": "PTS216",
     "nama": "DESAIN PONDASI I",
     "kelas": "11",
@@ -1976,7 +1938,7 @@
     }
   },
   {
-    "no": "105",
+    "no": "103",
     "kode": "PTS216",
     "nama": "DESAIN PONDASI I",
     "kelas": "12",
@@ -1984,7 +1946,7 @@
     "ruang": "A34-201",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "30",
+    "peserta": "32",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS216",
@@ -1995,7 +1957,7 @@
     }
   },
   {
-    "no": "106",
+    "no": "104",
     "kode": "PTS216",
     "nama": "DESAIN PONDASI I",
     "kelas": "13",
@@ -2003,7 +1965,7 @@
     "ruang": "A14-301",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "31",
+    "peserta": "35",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS216",
@@ -2014,7 +1976,7 @@
     }
   },
   {
-    "no": "107",
+    "no": "105",
     "kode": "PTS216",
     "nama": "DESAIN PONDASI I",
     "kelas": "14",
@@ -2033,7 +1995,7 @@
     }
   },
   {
-    "no": "108",
+    "no": "106",
     "kode": "PTS216",
     "nama": "DESAIN PONDASI I",
     "kelas": "15",
@@ -2052,7 +2014,7 @@
     }
   },
   {
-    "no": "109",
+    "no": "107",
     "kode": "PTS218",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "11",
@@ -2071,7 +2033,7 @@
     }
   },
   {
-    "no": "110",
+    "no": "108",
     "kode": "PTS218",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "12",
@@ -2090,7 +2052,7 @@
     }
   },
   {
-    "no": "111",
+    "no": "109",
     "kode": "PTS218",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "13",
@@ -2109,7 +2071,7 @@
     }
   },
   {
-    "no": "112",
+    "no": "110",
     "kode": "PTS218",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "14",
@@ -2128,7 +2090,7 @@
     }
   },
   {
-    "no": "113",
+    "no": "111",
     "kode": "PTS218",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "15",
@@ -2147,7 +2109,7 @@
     }
   },
   {
-    "no": "114",
+    "no": "112",
     "kode": "PTS218",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "16",
@@ -2166,7 +2128,7 @@
     }
   },
   {
-    "no": "115",
+    "no": "113",
     "kode": "PTS220",
     "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
     "kelas": "11",
@@ -2174,7 +2136,7 @@
     "ruang": "RK MTS III",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "25",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS220",
@@ -2185,7 +2147,7 @@
     }
   },
   {
-    "no": "116",
+    "no": "114",
     "kode": "PTS220",
     "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
     "kelas": "12",
@@ -2204,7 +2166,7 @@
     }
   },
   {
-    "no": "117",
+    "no": "115",
     "kode": "PTS220",
     "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
     "kelas": "13",
@@ -2223,7 +2185,7 @@
     }
   },
   {
-    "no": "118",
+    "no": "116",
     "kode": "PTS220",
     "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
     "kelas": "14",
@@ -2242,7 +2204,7 @@
     }
   },
   {
-    "no": "119",
+    "no": "117",
     "kode": "PTS220",
     "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
     "kelas": "15",
@@ -2261,7 +2223,7 @@
     }
   },
   {
-    "no": "120",
+    "no": "118",
     "kode": "PTS220",
     "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
     "kelas": "16",
@@ -2280,7 +2242,7 @@
     }
   },
   {
-    "no": "121",
+    "no": "119",
     "kode": "PTS220",
     "nama": "METODE PELAKSANAAN DAN PEMBONGKARAN KONSTRUKSI",
     "kelas": "17",
@@ -2299,7 +2261,7 @@
     }
   },
   {
-    "no": "122",
+    "no": "120",
     "kode": "PTS224",
     "nama": "DINAMIKA STRUKTUR DAN TEKNIK GEMPA",
     "kelas": "11",
@@ -2318,7 +2280,7 @@
     }
   },
   {
-    "no": "123",
+    "no": "121",
     "kode": "PTS224",
     "nama": "DINAMIKA STRUKTUR DAN TEKNIK GEMPA",
     "kelas": "12",
@@ -2337,7 +2299,7 @@
     }
   },
   {
-    "no": "124",
+    "no": "122",
     "kode": "PTS224",
     "nama": "DINAMIKA STRUKTUR DAN TEKNIK GEMPA",
     "kelas": "13",
@@ -2356,7 +2318,7 @@
     }
   },
   {
-    "no": "125",
+    "no": "123",
     "kode": "PTS224",
     "nama": "DINAMIKA STRUKTUR DAN TEKNIK GEMPA",
     "kelas": "14",
@@ -2375,7 +2337,7 @@
     }
   },
   {
-    "no": "126",
+    "no": "124",
     "kode": "PTS224",
     "nama": "DINAMIKA STRUKTUR DAN TEKNIK GEMPA",
     "kelas": "15",
@@ -2394,7 +2356,7 @@
     }
   },
   {
-    "no": "127",
+    "no": "125",
     "kode": "PTS224",
     "nama": "DINAMIKA STRUKTUR DAN TEKNIK GEMPA",
     "kelas": "16",
@@ -2402,7 +2364,7 @@
     "ruang": "A12-301",
     "hari": "Sabtu",
     "waktu": "8:00-9:40",
-    "peserta": "24",
+    "peserta": "26",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS224",
@@ -2413,7 +2375,7 @@
     }
   },
   {
-    "no": "128",
+    "no": "126",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "11",
@@ -2421,7 +2383,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "14",
+    "peserta": "16",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS302",
@@ -2432,7 +2394,7 @@
     }
   },
   {
-    "no": "129",
+    "no": "127",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "12",
@@ -2451,15 +2413,15 @@
     }
   },
   {
-    "no": "130",
+    "no": "128",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "13",
-    "koordinator": "Dr. Mubarak, S.T., M.T.NIP. 197505062000121001",
+    "koordinator": "Dr. Ir. Mubarak, S.T., M.T.NIP. 197505062000121001",
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "12",
+    "peserta": "13",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS302",
@@ -2470,7 +2432,7 @@
     }
   },
   {
-    "no": "131",
+    "no": "129",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "14",
@@ -2489,7 +2451,7 @@
     }
   },
   {
-    "no": "132",
+    "no": "130",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "15",
@@ -2497,7 +2459,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "10",
+    "peserta": "13",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS302",
@@ -2508,7 +2470,7 @@
     }
   },
   {
-    "no": "133",
+    "no": "131",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "16",
@@ -2516,7 +2478,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "8",
+    "peserta": "9",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS302",
@@ -2527,7 +2489,7 @@
     }
   },
   {
-    "no": "134",
+    "no": "132",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "17",
@@ -2546,7 +2508,7 @@
     }
   },
   {
-    "no": "135",
+    "no": "133",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "18",
@@ -2565,7 +2527,7 @@
     }
   },
   {
-    "no": "136",
+    "no": "134",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "19",
@@ -2584,7 +2546,7 @@
     }
   },
   {
-    "no": "137",
+    "no": "135",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "20",
@@ -2592,7 +2554,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS302",
@@ -2603,7 +2565,7 @@
     }
   },
   {
-    "no": "138",
+    "no": "136",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "21",
@@ -2611,7 +2573,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "14",
+    "peserta": "13",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS302",
@@ -2622,7 +2584,7 @@
     }
   },
   {
-    "no": "139",
+    "no": "137",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "22",
@@ -2641,7 +2603,7 @@
     }
   },
   {
-    "no": "140",
+    "no": "138",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "23",
@@ -2660,7 +2622,7 @@
     }
   },
   {
-    "no": "141",
+    "no": "139",
     "kode": "PTS302",
     "nama": "PERANCANGAN BIAYA DAN JADWAL PROYEK KONSTRUKSI",
     "kelas": "24",
@@ -2679,7 +2641,7 @@
     }
   },
   {
-    "no": "142",
+    "no": "140",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "11",
@@ -2687,7 +2649,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2698,7 +2660,7 @@
     }
   },
   {
-    "no": "143",
+    "no": "141",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "12",
@@ -2706,7 +2668,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2717,11 +2679,11 @@
     }
   },
   {
-    "no": "144",
+    "no": "142",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "13",
-    "koordinator": "Dr. Mubarak, S.T., M.T.NIP. 197505062000121001",
+    "koordinator": "Dr. Ir. Mubarak, S.T., M.T.NIP. 197505062000121001",
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
@@ -2736,7 +2698,7 @@
     }
   },
   {
-    "no": "145",
+    "no": "143",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "14",
@@ -2744,7 +2706,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "10",
+    "peserta": "12",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2755,7 +2717,7 @@
     }
   },
   {
-    "no": "146",
+    "no": "144",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "15",
@@ -2763,7 +2725,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2774,7 +2736,7 @@
     }
   },
   {
-    "no": "147",
+    "no": "145",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "16",
@@ -2782,7 +2744,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "10",
+    "peserta": "12",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2793,7 +2755,7 @@
     }
   },
   {
-    "no": "148",
+    "no": "146",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "17",
@@ -2801,7 +2763,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2812,7 +2774,7 @@
     }
   },
   {
-    "no": "149",
+    "no": "147",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "18",
@@ -2820,7 +2782,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "8",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2831,7 +2793,7 @@
     }
   },
   {
-    "no": "150",
+    "no": "148",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "19",
@@ -2839,7 +2801,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2850,7 +2812,7 @@
     }
   },
   {
-    "no": "151",
+    "no": "149",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "20",
@@ -2858,7 +2820,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2869,7 +2831,7 @@
     }
   },
   {
-    "no": "152",
+    "no": "150",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "21",
@@ -2877,7 +2839,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2888,7 +2850,7 @@
     }
   },
   {
-    "no": "153",
+    "no": "151",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "22",
@@ -2896,7 +2858,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2907,7 +2869,7 @@
     }
   },
   {
-    "no": "154",
+    "no": "152",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "23",
@@ -2915,7 +2877,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2926,7 +2888,7 @@
     }
   },
   {
-    "no": "155",
+    "no": "153",
     "kode": "PTS304",
     "nama": "PRAKTIKUM PERENC. & PENG. PROYEK KONSTRUKSI",
     "kelas": "24",
@@ -2934,7 +2896,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "7",
+    "peserta": "12",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS304",
@@ -2945,7 +2907,7 @@
     }
   },
   {
-    "no": "156",
+    "no": "154",
     "kode": "PTS306",
     "nama": "REKAYASA JALAN REL",
     "kelas": "11",
@@ -2964,7 +2926,7 @@
     }
   },
   {
-    "no": "157",
+    "no": "155",
     "kode": "PTS306",
     "nama": "REKAYASA JALAN REL",
     "kelas": "12",
@@ -2983,7 +2945,7 @@
     }
   },
   {
-    "no": "158",
+    "no": "156",
     "kode": "PTS306",
     "nama": "REKAYASA JALAN REL",
     "kelas": "13",
@@ -2991,7 +2953,7 @@
     "ruang": "A21-203",
     "hari": "Kamis",
     "waktu": "8:00-9:40",
-    "peserta": "32",
+    "peserta": "33",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS306",
@@ -3002,7 +2964,7 @@
     }
   },
   {
-    "no": "159",
+    "no": "157",
     "kode": "PTS306",
     "nama": "REKAYASA JALAN REL",
     "kelas": "14",
@@ -3021,7 +2983,7 @@
     }
   },
   {
-    "no": "160",
+    "no": "158",
     "kode": "PTS306",
     "nama": "REKAYASA JALAN REL",
     "kelas": "15",
@@ -3029,7 +2991,7 @@
     "ruang": "A12-302",
     "hari": "Kamis",
     "waktu": "8:00-9:40",
-    "peserta": "29",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS306",
@@ -3040,7 +3002,7 @@
     }
   },
   {
-    "no": "161",
+    "no": "159",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "11",
@@ -3048,7 +3010,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "5",
+    "peserta": "7",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS307",
@@ -3059,7 +3021,7 @@
     }
   },
   {
-    "no": "162",
+    "no": "160",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "12",
@@ -3067,7 +3029,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "0",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS307",
@@ -3078,7 +3040,7 @@
     }
   },
   {
-    "no": "163",
+    "no": "161",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "13",
@@ -3086,7 +3048,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "4",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS307",
@@ -3097,7 +3059,7 @@
     }
   },
   {
-    "no": "164",
+    "no": "162",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "14",
@@ -3105,7 +3067,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "0",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS307",
@@ -3116,7 +3078,7 @@
     }
   },
   {
-    "no": "165",
+    "no": "163",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "15",
@@ -3124,7 +3086,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "4",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS307",
@@ -3135,7 +3097,7 @@
     }
   },
   {
-    "no": "166",
+    "no": "164",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "16",
@@ -3154,7 +3116,7 @@
     }
   },
   {
-    "no": "167",
+    "no": "165",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "17",
@@ -3173,7 +3135,7 @@
     }
   },
   {
-    "no": "168",
+    "no": "166",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "18",
@@ -3181,7 +3143,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "2",
+    "peserta": "3",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS307",
@@ -3192,7 +3154,7 @@
     }
   },
   {
-    "no": "169",
+    "no": "167",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "19",
@@ -3200,7 +3162,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "5",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS307",
@@ -3211,7 +3173,7 @@
     }
   },
   {
-    "no": "170",
+    "no": "168",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "20",
@@ -3230,7 +3192,7 @@
     }
   },
   {
-    "no": "171",
+    "no": "169",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "21",
@@ -3238,7 +3200,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "5",
+    "peserta": "3",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS307",
@@ -3249,7 +3211,7 @@
     }
   },
   {
-    "no": "172",
+    "no": "170",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "22",
@@ -3268,7 +3230,7 @@
     }
   },
   {
-    "no": "173",
+    "no": "171",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "23",
@@ -3276,7 +3238,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "1",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS307",
@@ -3287,7 +3249,7 @@
     }
   },
   {
-    "no": "174",
+    "no": "172",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "24",
@@ -3295,7 +3257,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "1",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS307",
@@ -3306,7 +3268,7 @@
     }
   },
   {
-    "no": "175",
+    "no": "173",
     "kode": "PTS307",
     "nama": "PERANCANGAN GEOMETRIK JALAN RAYA",
     "kelas": "25",
@@ -3314,7 +3276,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "0",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS307",
@@ -3325,7 +3287,7 @@
     }
   },
   {
-    "no": "176",
+    "no": "174",
     "kode": "PTS308",
     "nama": "REKAYASA PANTAI DAN PELABUHAN",
     "kelas": "11",
@@ -3333,7 +3295,7 @@
     "ruang": "A25-203",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS308",
@@ -3344,7 +3306,7 @@
     }
   },
   {
-    "no": "177",
+    "no": "175",
     "kode": "PTS308",
     "nama": "REKAYASA PANTAI DAN PELABUHAN",
     "kelas": "12",
@@ -3352,7 +3314,7 @@
     "ruang": "A23-203",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS308",
@@ -3363,7 +3325,7 @@
     }
   },
   {
-    "no": "178",
+    "no": "176",
     "kode": "PTS308",
     "nama": "REKAYASA PANTAI DAN PELABUHAN",
     "kelas": "13",
@@ -3371,7 +3333,7 @@
     "ruang": "RK MTS IV",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS308",
@@ -3382,7 +3344,7 @@
     }
   },
   {
-    "no": "179",
+    "no": "177",
     "kode": "PTS308",
     "nama": "REKAYASA PANTAI DAN PELABUHAN",
     "kelas": "14",
@@ -3390,7 +3352,7 @@
     "ruang": "D3-Y",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "32",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS308",
@@ -3401,7 +3363,26 @@
     }
   },
   {
-    "no": "180",
+    "no": "178",
+    "kode": "PTS308",
+    "nama": "REKAYASA PANTAI DAN PELABUHAN",
+    "kelas": "15",
+    "koordinator": "Dr. Ir. Muhammad Fauzi, S.T.,M.T.NIP. 197006271999031005",
+    "ruang": "JTS",
+    "hari": "Kamis",
+    "waktu": "16:35-18:15",
+    "peserta": "42",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS308",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "179",
     "kode": "PTS310",
     "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
     "kelas": "11",
@@ -3409,7 +3390,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "15",
+    "peserta": "16",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS310",
@@ -3420,7 +3401,7 @@
     }
   },
   {
-    "no": "181",
+    "no": "180",
     "kode": "PTS310",
     "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
     "kelas": "12",
@@ -3428,7 +3409,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "9",
+    "peserta": "7",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS310",
@@ -3439,7 +3420,7 @@
     }
   },
   {
-    "no": "182",
+    "no": "181",
     "kode": "PTS310",
     "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
     "kelas": "13",
@@ -3458,15 +3439,15 @@
     }
   },
   {
-    "no": "183",
+    "no": "182",
     "kode": "PTS310",
     "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
     "kelas": "14",
-    "koordinator": "Ziana, S.T., M.TNIP. 197503182000122001",
+    "koordinator": "Ir.. Ziana, S.T., M.TNIP. 197503182000122001",
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "15",
+    "peserta": "17",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS310",
@@ -3477,7 +3458,7 @@
     }
   },
   {
-    "no": "184",
+    "no": "183",
     "kode": "PTS310",
     "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
     "kelas": "15",
@@ -3485,7 +3466,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "15",
+    "peserta": "14",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS310",
@@ -3496,7 +3477,7 @@
     }
   },
   {
-    "no": "185",
+    "no": "184",
     "kode": "PTS310",
     "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
     "kelas": "16",
@@ -3504,7 +3485,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "14",
+    "peserta": "15",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS310",
@@ -3515,7 +3496,7 @@
     }
   },
   {
-    "no": "186",
+    "no": "185",
     "kode": "PTS310",
     "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
     "kelas": "17",
@@ -3523,7 +3504,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "16",
+    "peserta": "18",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS310",
@@ -3534,7 +3515,7 @@
     }
   },
   {
-    "no": "187",
+    "no": "186",
     "kode": "PTS310",
     "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
     "kelas": "18",
@@ -3553,7 +3534,7 @@
     }
   },
   {
-    "no": "188",
+    "no": "187",
     "kode": "PTS310",
     "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
     "kelas": "19",
@@ -3572,15 +3553,15 @@
     }
   },
   {
-    "no": "189",
+    "no": "188",
     "kode": "PTS310",
     "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
     "kelas": "20",
-    "koordinator": "Dr. Muhammad Fauzi, S.T.,M.T.NIP. 197006271999031005",
+    "koordinator": "Dr. Ir. Muhammad Fauzi, S.T.,M.T.NIP. 197006271999031005",
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "16",
+    "peserta": "17",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS310",
@@ -3591,7 +3572,7 @@
     }
   },
   {
-    "no": "190",
+    "no": "189",
     "kode": "PTS310",
     "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
     "kelas": "21",
@@ -3599,7 +3580,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "15",
+    "peserta": "16",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS310",
@@ -3610,7 +3591,7 @@
     }
   },
   {
-    "no": "191",
+    "no": "190",
     "kode": "PTS310",
     "nama": "PERANCANGAN IRIGASI DAN BANGUNAN AIR",
     "kelas": "22",
@@ -3618,7 +3599,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "8:00-10:40",
-    "peserta": "15",
+    "peserta": "14",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS310",
@@ -3629,7 +3610,7 @@
     }
   },
   {
-    "no": "192",
+    "no": "191",
     "kode": "PTS312",
     "nama": "DESAIN PONDASI II",
     "kelas": "11",
@@ -3637,11 +3618,30 @@
     "ruang": "D3-Y",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "25",
+    "peserta": "36",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS312",
       "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "192",
+    "kode": "PTS312",
+    "nama": "DESAIN PONDASI II",
+    "kelas": "12",
+    "koordinator": "Ir. Banta Chairullah M, M.Ing., IPUNIP. 196008151986031004",
+    "ruang": "D3-W",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "36",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS312",
+      "data-kelas": "12",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0410101"
@@ -3651,31 +3651,12 @@
     "no": "193",
     "kode": "PTS312",
     "nama": "DESAIN PONDASI II",
-    "kelas": "12",
-    "koordinator": "Ir. Banta Chairullah M, M.Ing., IPUNIP. 196008151986031004",
-    "ruang": "D3-W",
-    "hari": "Jumat",
-    "waktu": "10:45-12:25",
-    "peserta": "25",
-    "keterangan": "TeknikS1Teknik Sipil",
-    "kode-peserta": {
-      "data-kode": "PTS312",
-      "data-kelas": "12",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0410101"
-    }
-  },
-  {
-    "no": "194",
-    "kode": "PTS312",
-    "nama": "DESAIN PONDASI II",
     "kelas": "13",
     "koordinator": "Devi Sundary, S.T., M.T.NIP. 197302271999032002",
     "ruang": "D3-X",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "25",
+    "peserta": "37",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS312",
@@ -3686,7 +3667,7 @@
     }
   },
   {
-    "no": "195",
+    "no": "194",
     "kode": "PTS312",
     "nama": "DESAIN PONDASI II",
     "kelas": "14",
@@ -3694,7 +3675,7 @@
     "ruang": "D3-Z",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "27",
+    "peserta": "38",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS312",
@@ -3705,7 +3686,7 @@
     }
   },
   {
-    "no": "196",
+    "no": "195",
     "kode": "PTS313",
     "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
     "kelas": "11",
@@ -3713,7 +3694,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS313",
@@ -3724,7 +3705,7 @@
     }
   },
   {
-    "no": "197",
+    "no": "196",
     "kode": "PTS313",
     "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
     "kelas": "12",
@@ -3732,7 +3713,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "5",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS313",
@@ -3743,7 +3724,7 @@
     }
   },
   {
-    "no": "198",
+    "no": "197",
     "kode": "PTS313",
     "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
     "kelas": "13",
@@ -3751,7 +3732,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "5",
+    "peserta": "10",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS313",
@@ -3762,7 +3743,7 @@
     }
   },
   {
-    "no": "199",
+    "no": "198",
     "kode": "PTS313",
     "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
     "kelas": "14",
@@ -3770,7 +3751,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "7",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS313",
@@ -3781,7 +3762,7 @@
     }
   },
   {
-    "no": "200",
+    "no": "199",
     "kode": "PTS313",
     "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
     "kelas": "15",
@@ -3789,7 +3770,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "5",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS313",
@@ -3800,7 +3781,7 @@
     }
   },
   {
-    "no": "201",
+    "no": "200",
     "kode": "PTS313",
     "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
     "kelas": "16",
@@ -3808,7 +3789,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "8",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS313",
@@ -3819,7 +3800,7 @@
     }
   },
   {
-    "no": "202",
+    "no": "201",
     "kode": "PTS313",
     "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
     "kelas": "17",
@@ -3827,7 +3808,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "5",
+    "peserta": "8",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS313",
@@ -3838,7 +3819,7 @@
     }
   },
   {
-    "no": "203",
+    "no": "202",
     "kode": "PTS313",
     "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK I",
     "kelas": "18",
@@ -3857,7 +3838,7 @@
     }
   },
   {
-    "no": "204",
+    "no": "203",
     "kode": "PTS315",
     "nama": "METODE NUMERIK",
     "kelas": "11",
@@ -3865,7 +3846,7 @@
     "ruang": "JTS",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "1",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS315",
@@ -3876,7 +3857,7 @@
     }
   },
   {
-    "no": "205",
+    "no": "204",
     "kode": "PTS316",
     "nama": "STRUKTUR BETON PRATEGANG",
     "kelas": "11",
@@ -3884,7 +3865,7 @@
     "ruang": "A12-302",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "37",
+    "peserta": "36",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS316",
@@ -3895,7 +3876,7 @@
     }
   },
   {
-    "no": "206",
+    "no": "205",
     "kode": "PTS318",
     "nama": "REKAYASA JEMBATAN BAJA",
     "kelas": "11",
@@ -3903,7 +3884,7 @@
     "ruang": "jts",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS318",
@@ -3914,7 +3895,7 @@
     }
   },
   {
-    "no": "207",
+    "no": "206",
     "kode": "PTS320",
     "nama": "PENYELIDIKAN TANAH LAPANGAN",
     "kelas": "11",
@@ -3933,7 +3914,7 @@
     }
   },
   {
-    "no": "208",
+    "no": "207",
     "kode": "PTS322",
     "nama": "AIR TANAH DAN REMBESAN",
     "kelas": "11",
@@ -3941,7 +3922,7 @@
     "ruang": "A21-203",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "2",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS322",
@@ -3952,7 +3933,7 @@
     }
   },
   {
-    "no": "209",
+    "no": "208",
     "kode": "PTS324",
     "nama": "PERANCANGAN KONSTRUKSI GEOTEKNIK II",
     "kelas": "11",
@@ -3971,7 +3952,7 @@
     }
   },
   {
-    "no": "210",
+    "no": "209",
     "kode": "PTS326",
     "nama": "BANGUNAN TENAGA AIR",
     "kelas": "11",
@@ -3990,7 +3971,7 @@
     }
   },
   {
-    "no": "211",
+    "no": "210",
     "kode": "PTS328",
     "nama": "HIDRAULIKA KOMPUTASI",
     "kelas": "11",
@@ -3998,7 +3979,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "08:00-10:40",
-    "peserta": "14",
+    "peserta": "13",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS328",
@@ -4009,7 +3990,7 @@
     }
   },
   {
-    "no": "212",
+    "no": "211",
     "kode": "PTS330",
     "nama": "PENGEMBANGAN SUMBER DAYA AIR",
     "kelas": "11",
@@ -4028,7 +4009,7 @@
     }
   },
   {
-    "no": "213",
+    "no": "212",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "11",
@@ -4036,7 +4017,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4047,7 +4028,7 @@
     }
   },
   {
-    "no": "214",
+    "no": "213",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "12",
@@ -4055,7 +4036,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4066,7 +4047,7 @@
     }
   },
   {
-    "no": "215",
+    "no": "214",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "13",
@@ -4074,7 +4055,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4085,7 +4066,7 @@
     }
   },
   {
-    "no": "216",
+    "no": "215",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "14",
@@ -4093,7 +4074,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4104,7 +4085,7 @@
     }
   },
   {
-    "no": "217",
+    "no": "216",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "15",
@@ -4112,7 +4093,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4123,7 +4104,7 @@
     }
   },
   {
-    "no": "218",
+    "no": "217",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "16",
@@ -4131,7 +4112,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "0",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4142,7 +4123,7 @@
     }
   },
   {
-    "no": "219",
+    "no": "218",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "17",
@@ -4150,7 +4131,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4161,7 +4142,7 @@
     }
   },
   {
-    "no": "220",
+    "no": "219",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "18",
@@ -4169,7 +4150,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4180,7 +4161,7 @@
     }
   },
   {
-    "no": "221",
+    "no": "220",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "19",
@@ -4188,7 +4169,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4199,7 +4180,7 @@
     }
   },
   {
-    "no": "222",
+    "no": "221",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "20",
@@ -4207,7 +4188,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4218,7 +4199,7 @@
     }
   },
   {
-    "no": "223",
+    "no": "222",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "21",
@@ -4226,7 +4207,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4237,7 +4218,7 @@
     }
   },
   {
-    "no": "224",
+    "no": "223",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "22",
@@ -4245,7 +4226,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4256,7 +4237,7 @@
     }
   },
   {
-    "no": "225",
+    "no": "224",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "23",
@@ -4264,7 +4245,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4275,7 +4256,7 @@
     }
   },
   {
-    "no": "226",
+    "no": "225",
     "kode": "PTS332",
     "nama": "PERANCANGAN KONSTRUKSI JALAN RAYA",
     "kelas": "24",
@@ -4283,7 +4264,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS332",
@@ -4294,7 +4275,7 @@
     }
   },
   {
-    "no": "227",
+    "no": "226",
     "kode": "PTS334",
     "nama": "REKAYASA PRASARANA ANTAR MODA",
     "kelas": "11",
@@ -4302,7 +4283,7 @@
     "ruang": "A23-205",
     "hari": "Selasa",
     "waktu": "9:50-11:30",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS334",
@@ -4313,7 +4294,7 @@
     }
   },
   {
-    "no": "228",
+    "no": "227",
     "kode": "PTS334",
     "nama": "REKAYASA PRASARANA ANTAR MODA",
     "kelas": "12",
@@ -4321,7 +4302,7 @@
     "ruang": "LAB. TRANSPORTASI",
     "hari": "Selasa",
     "waktu": "9:50-11:30",
-    "peserta": "23",
+    "peserta": "25",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS334",
@@ -4332,7 +4313,7 @@
     }
   },
   {
-    "no": "229",
+    "no": "228",
     "kode": "PTS338",
     "nama": "ASPEK HUKUM DAN ADM PROYEK KONSTRUKSI",
     "kelas": "11",
@@ -4340,7 +4321,7 @@
     "ruang": "A12-301",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "25",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS338",
@@ -4351,7 +4332,7 @@
     }
   },
   {
-    "no": "230",
+    "no": "229",
     "kode": "PTS340",
     "nama": "EKONOMI REKAYASA",
     "kelas": "11",
@@ -4359,7 +4340,7 @@
     "ruang": "RK MTS I",
     "hari": "Jumat",
     "waktu": "8:00-9:40",
-    "peserta": "24",
+    "peserta": "19",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS340",
@@ -4370,7 +4351,7 @@
     }
   },
   {
-    "no": "231",
+    "no": "230",
     "kode": "PTS340",
     "nama": "EKONOMI REKAYASA",
     "kelas": "12",
@@ -4389,7 +4370,7 @@
     }
   },
   {
-    "no": "232",
+    "no": "231",
     "kode": "PTS340",
     "nama": "EKONOMI REKAYASA",
     "kelas": "13",
@@ -4408,7 +4389,7 @@
     }
   },
   {
-    "no": "233",
+    "no": "232",
     "kode": "PTS342",
     "nama": "SIM PROYEK KONSTRUKSI",
     "kelas": "11",
@@ -4416,7 +4397,7 @@
     "ruang": "A25-202",
     "hari": "Rabu",
     "waktu": "8:00-9:40",
-    "peserta": "20",
+    "peserta": "12",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS342",
@@ -4427,7 +4408,7 @@
     }
   },
   {
-    "no": "234",
+    "no": "233",
     "kode": "PTS342",
     "nama": "SIM PROYEK KONSTRUKSI",
     "kelas": "12",
@@ -4446,7 +4427,7 @@
     }
   },
   {
-    "no": "235",
+    "no": "234",
     "kode": "PTS404",
     "nama": "MEKANIKA KONTINUM",
     "kelas": "11",
@@ -4454,7 +4435,7 @@
     "ruang": "D3-V",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "34",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS404",
@@ -4465,7 +4446,7 @@
     }
   },
   {
-    "no": "236",
+    "no": "235",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "11",
@@ -4473,7 +4454,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "4",
+    "peserta": "8",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS405",
@@ -4484,7 +4465,7 @@
     }
   },
   {
-    "no": "237",
+    "no": "236",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "12",
@@ -4503,7 +4484,7 @@
     }
   },
   {
-    "no": "238",
+    "no": "237",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "13",
@@ -4522,7 +4503,7 @@
     }
   },
   {
-    "no": "239",
+    "no": "238",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "14",
@@ -4530,7 +4511,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "3",
+    "peserta": "5",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS405",
@@ -4541,7 +4522,7 @@
     }
   },
   {
-    "no": "240",
+    "no": "239",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "15",
@@ -4549,7 +4530,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "6",
+    "peserta": "8",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS405",
@@ -4560,7 +4541,7 @@
     }
   },
   {
-    "no": "241",
+    "no": "240",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "16",
@@ -4568,7 +4549,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "2",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS405",
@@ -4579,7 +4560,7 @@
     }
   },
   {
-    "no": "242",
+    "no": "241",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "17",
@@ -4598,7 +4579,7 @@
     }
   },
   {
-    "no": "243",
+    "no": "242",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "18",
@@ -4606,7 +4587,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "3",
+    "peserta": "5",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS405",
@@ -4617,7 +4598,7 @@
     }
   },
   {
-    "no": "244",
+    "no": "243",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "19",
@@ -4625,7 +4606,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "2",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS405",
@@ -4636,7 +4617,7 @@
     }
   },
   {
-    "no": "245",
+    "no": "244",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "20",
@@ -4655,7 +4636,7 @@
     }
   },
   {
-    "no": "246",
+    "no": "245",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "21",
@@ -4663,7 +4644,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "5",
+    "peserta": "6",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS405",
@@ -4674,7 +4655,7 @@
     }
   },
   {
-    "no": "247",
+    "no": "246",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "22",
@@ -4693,7 +4674,7 @@
     }
   },
   {
-    "no": "248",
+    "no": "247",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "23",
@@ -4701,7 +4682,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "3",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS405",
@@ -4712,7 +4693,7 @@
     }
   },
   {
-    "no": "249",
+    "no": "248",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "24",
@@ -4720,7 +4701,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "3",
+    "peserta": "7",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS405",
@@ -4731,7 +4712,7 @@
     }
   },
   {
-    "no": "250",
+    "no": "249",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "25",
@@ -4750,7 +4731,7 @@
     }
   },
   {
-    "no": "251",
+    "no": "250",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "26",
@@ -4758,7 +4739,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "4",
+    "peserta": "8",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS405",
@@ -4769,7 +4750,7 @@
     }
   },
   {
-    "no": "252",
+    "no": "251",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "27",
@@ -4777,7 +4758,7 @@
     "ruang": "LAB",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "2",
+    "peserta": "5",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS405",
@@ -4788,7 +4769,7 @@
     }
   },
   {
-    "no": "253",
+    "no": "252",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "28",
@@ -4807,7 +4788,7 @@
     }
   },
   {
-    "no": "254",
+    "no": "253",
     "kode": "PTS405",
     "nama": "PERANCANGAN KONSTRUKSI GEDUNG",
     "kelas": "29",
@@ -4826,7 +4807,7 @@
     }
   },
   {
-    "no": "255",
+    "no": "254",
     "kode": "PTS406",
     "nama": "METODE ELEMEN HINGGA",
     "kelas": "11",
@@ -4834,7 +4815,7 @@
     "ruang": "A12-302",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "26",
+    "peserta": "17",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS406",
@@ -4845,7 +4826,7 @@
     }
   },
   {
-    "no": "256",
+    "no": "255",
     "kode": "PTS408",
     "nama": "KOMPUTASI GEOTEKNIK",
     "kelas": "11",
@@ -4853,7 +4834,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "08:00-09:45",
-    "peserta": "1",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS408",
@@ -4864,7 +4845,7 @@
     }
   },
   {
-    "no": "257",
+    "no": "256",
     "kode": "PTS409",
     "nama": "KONSTRUKSI BANGUNAN GEDUNG",
     "kelas": "11",
@@ -4872,7 +4853,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "34",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS409",
@@ -4883,7 +4864,7 @@
     }
   },
   {
-    "no": "258",
+    "no": "257",
     "kode": "PTS409",
     "nama": "KONSTRUKSI BANGUNAN GEDUNG",
     "kelas": "12",
@@ -4891,7 +4872,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "9",
+    "peserta": "10",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS409",
@@ -4902,7 +4883,7 @@
     }
   },
   {
-    "no": "259",
+    "no": "258",
     "kode": "PTS410",
     "nama": "REKAYASA PONDASI MESIN",
     "kelas": "11",
@@ -4921,7 +4902,7 @@
     }
   },
   {
-    "no": "260",
+    "no": "259",
     "kode": "PTS411",
     "nama": "PERANCANGAN PANTAI DAN PELABUHAN",
     "kelas": "11",
@@ -4940,7 +4921,7 @@
     }
   },
   {
-    "no": "261",
+    "no": "260",
     "kode": "PTS412",
     "nama": "PENGANTAR DINAMIKA TANAH",
     "kelas": "11",
@@ -4959,7 +4940,7 @@
     }
   },
   {
-    "no": "262",
+    "no": "261",
     "kode": "PTS414",
     "nama": "MEKANIKA BATUAN",
     "kelas": "11",
@@ -4978,7 +4959,7 @@
     }
   },
   {
-    "no": "263",
+    "no": "262",
     "kode": "PTS416",
     "nama": "TOPIK KHUSUS GEOTEKNIK",
     "kelas": "11",
@@ -4997,7 +4978,7 @@
     }
   },
   {
-    "no": "264",
+    "no": "263",
     "kode": "PTS418",
     "nama": "REKAYASA SISTEM AIR BERSIH",
     "kelas": "11",
@@ -5005,7 +4986,7 @@
     "ruang": "RK MTS I",
     "hari": "Senin",
     "waktu": "16:35-18:15",
-    "peserta": "22",
+    "peserta": "21",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS418",
@@ -5016,7 +4997,7 @@
     }
   },
   {
-    "no": "265",
+    "no": "264",
     "kode": "PTS420",
     "nama": "LOGISTIK DAN ANGKUTAN BARANG",
     "kelas": "11",
@@ -5024,7 +5005,7 @@
     "ruang": "RK MTS I",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "19",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS420",
@@ -5035,7 +5016,7 @@
     }
   },
   {
-    "no": "266",
+    "no": "265",
     "kode": "PTS420",
     "nama": "LOGISTIK DAN ANGKUTAN BARANG",
     "kelas": "12",
@@ -5043,11 +5024,30 @@
     "ruang": "RK MTS I",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "26",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS420",
       "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "266",
+    "kode": "PTS421",
+    "nama": "PLATE & SHELL",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Muttaqin, M.T.NIP. 196606151990091001",
+    "ruang": "D3-V",
+    "hari": "Jumat",
+    "waktu": "14:00-15:40",
+    "peserta": "20",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTS421",
+      "data-kelas": "11",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0410101"
@@ -5057,31 +5057,12 @@
     "no": "267",
     "kode": "PTS421",
     "nama": "PLATE & SHELL",
-    "kelas": "11",
-    "koordinator": "Dr. Ir. Muttaqin, M.T.NIP. 196606151990091001",
-    "ruang": "D3-V",
-    "hari": "Jumat",
-    "waktu": "14:00-15:40",
-    "peserta": "34",
-    "keterangan": "TeknikS1Teknik Sipil",
-    "kode-peserta": {
-      "data-kode": "PTS421",
-      "data-kelas": "11",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0410101"
-    }
-  },
-  {
-    "no": "268",
-    "kode": "PTS421",
-    "nama": "PLATE & SHELL",
     "kelas": "12",
     "koordinator": "Dr. Teuku Budi Aulia, S.T.Dipl,IngNIP. 196705291994031001",
     "ruang": "jts",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "22",
+    "peserta": "13",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS421",
@@ -5092,7 +5073,7 @@
     }
   },
   {
-    "no": "269",
+    "no": "268",
     "kode": "PTS422",
     "nama": "KESELAMATAN TRANSPORTASI DAN LINGKUNGAN",
     "kelas": "11",
@@ -5100,7 +5081,7 @@
     "ruang": "D3-X",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "26",
+    "peserta": "28",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS422",
@@ -5111,7 +5092,7 @@
     }
   },
   {
-    "no": "270",
+    "no": "269",
     "kode": "PTS422",
     "nama": "KESELAMATAN TRANSPORTASI DAN LINGKUNGAN",
     "kelas": "12",
@@ -5130,7 +5111,7 @@
     }
   },
   {
-    "no": "271",
+    "no": "270",
     "kode": "PTS424",
     "nama": "TOPIK KHUSUS MRK",
     "kelas": "11",
@@ -5138,7 +5119,7 @@
     "ruang": "A23-203",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "18",
+    "peserta": "5",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTS424",
@@ -5149,7 +5130,7 @@
     }
   },
   {
-    "no": "272",
+    "no": "271",
     "kode": "PTSP01",
     "nama": "KERJA PRAKTEK",
     "kelas": "11",
@@ -5157,7 +5138,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "43",
+    "peserta": "48",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSP01",
@@ -5168,7 +5149,7 @@
     }
   },
   {
-    "no": "273",
+    "no": "272",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "11",
@@ -5176,7 +5157,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5187,7 +5168,7 @@
     }
   },
   {
-    "no": "274",
+    "no": "273",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "12",
@@ -5206,7 +5187,7 @@
     }
   },
   {
-    "no": "275",
+    "no": "274",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "13",
@@ -5214,7 +5195,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "1",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5225,7 +5206,7 @@
     }
   },
   {
-    "no": "276",
+    "no": "275",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "14",
@@ -5244,7 +5225,7 @@
     }
   },
   {
-    "no": "277",
+    "no": "276",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "15",
@@ -5252,7 +5233,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5263,7 +5244,7 @@
     }
   },
   {
-    "no": "278",
+    "no": "277",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "16",
@@ -5271,7 +5252,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "2",
+    "peserta": "3",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5282,7 +5263,7 @@
     }
   },
   {
-    "no": "279",
+    "no": "278",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "17",
@@ -5290,7 +5271,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "1",
+    "peserta": "5",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5301,7 +5282,7 @@
     }
   },
   {
-    "no": "280",
+    "no": "279",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "18",
@@ -5309,7 +5290,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5320,7 +5301,7 @@
     }
   },
   {
-    "no": "281",
+    "no": "280",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "19",
@@ -5328,7 +5309,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "6",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5339,7 +5320,7 @@
     }
   },
   {
-    "no": "282",
+    "no": "281",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "20",
@@ -5347,7 +5328,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "5",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5358,7 +5339,7 @@
     }
   },
   {
-    "no": "283",
+    "no": "282",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "21",
@@ -5366,7 +5347,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5377,7 +5358,7 @@
     }
   },
   {
-    "no": "284",
+    "no": "283",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "22",
@@ -5385,7 +5366,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "3",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5396,7 +5377,7 @@
     }
   },
   {
-    "no": "285",
+    "no": "284",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "23",
@@ -5404,7 +5385,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5415,7 +5396,7 @@
     }
   },
   {
-    "no": "286",
+    "no": "285",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "24",
@@ -5423,7 +5404,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "1",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5434,7 +5415,7 @@
     }
   },
   {
-    "no": "287",
+    "no": "286",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "25",
@@ -5442,7 +5423,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "3",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5453,7 +5434,7 @@
     }
   },
   {
-    "no": "288",
+    "no": "287",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "26",
@@ -5461,7 +5442,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "1",
+    "peserta": "7",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5472,7 +5453,7 @@
     }
   },
   {
-    "no": "289",
+    "no": "288",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "27",
@@ -5480,7 +5461,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5491,7 +5472,7 @@
     }
   },
   {
-    "no": "290",
+    "no": "289",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "28",
@@ -5499,7 +5480,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5510,7 +5491,7 @@
     }
   },
   {
-    "no": "291",
+    "no": "290",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "29",
@@ -5518,7 +5499,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5529,7 +5510,7 @@
     }
   },
   {
-    "no": "292",
+    "no": "291",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "30",
@@ -5537,7 +5518,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "1",
+    "peserta": "6",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5548,7 +5529,7 @@
     }
   },
   {
-    "no": "293",
+    "no": "292",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "31",
@@ -5567,7 +5548,7 @@
     }
   },
   {
-    "no": "294",
+    "no": "293",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "32",
@@ -5575,7 +5556,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "1",
+    "peserta": "5",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5586,7 +5567,7 @@
     }
   },
   {
-    "no": "295",
+    "no": "294",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "33",
@@ -5594,7 +5575,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "5",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5605,7 +5586,7 @@
     }
   },
   {
-    "no": "296",
+    "no": "295",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "34",
@@ -5613,7 +5594,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "1",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5624,7 +5605,7 @@
     }
   },
   {
-    "no": "297",
+    "no": "296",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "35",
@@ -5643,7 +5624,7 @@
     }
   },
   {
-    "no": "298",
+    "no": "297",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "36",
@@ -5662,7 +5643,7 @@
     }
   },
   {
-    "no": "299",
+    "no": "298",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "37",
@@ -5670,7 +5651,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "2",
+    "peserta": "6",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5681,7 +5662,7 @@
     }
   },
   {
-    "no": "300",
+    "no": "299",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "38",
@@ -5689,7 +5670,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5700,7 +5681,7 @@
     }
   },
   {
-    "no": "301",
+    "no": "300",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "39",
@@ -5708,7 +5689,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "6",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5719,7 +5700,7 @@
     }
   },
   {
-    "no": "302",
+    "no": "301",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "40",
@@ -5727,7 +5708,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5738,7 +5719,7 @@
     }
   },
   {
-    "no": "303",
+    "no": "302",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "41",
@@ -5746,7 +5727,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5757,7 +5738,7 @@
     }
   },
   {
-    "no": "304",
+    "no": "303",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "42",
@@ -5765,7 +5746,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5776,7 +5757,7 @@
     }
   },
   {
-    "no": "305",
+    "no": "304",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "43",
@@ -5784,7 +5765,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "3",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5795,7 +5776,7 @@
     }
   },
   {
-    "no": "306",
+    "no": "305",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "44",
@@ -5814,7 +5795,7 @@
     }
   },
   {
-    "no": "307",
+    "no": "306",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "45",
@@ -5822,7 +5803,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5833,7 +5814,7 @@
     }
   },
   {
-    "no": "308",
+    "no": "307",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "46",
@@ -5841,7 +5822,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5852,7 +5833,7 @@
     }
   },
   {
-    "no": "309",
+    "no": "308",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "47",
@@ -5871,7 +5852,7 @@
     }
   },
   {
-    "no": "310",
+    "no": "309",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "48",
@@ -5879,7 +5860,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5890,7 +5871,7 @@
     }
   },
   {
-    "no": "311",
+    "no": "310",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "49",
@@ -5909,7 +5890,7 @@
     }
   },
   {
-    "no": "312",
+    "no": "311",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "50",
@@ -5917,7 +5898,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5928,7 +5909,7 @@
     }
   },
   {
-    "no": "313",
+    "no": "312",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "52",
@@ -5947,7 +5928,7 @@
     }
   },
   {
-    "no": "314",
+    "no": "313",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "53",
@@ -5966,7 +5947,7 @@
     }
   },
   {
-    "no": "315",
+    "no": "314",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "54",
@@ -5974,7 +5955,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -5985,7 +5966,7 @@
     }
   },
   {
-    "no": "316",
+    "no": "315",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "55",
@@ -5993,7 +5974,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "2",
+    "peserta": "5",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -6004,7 +5985,7 @@
     }
   },
   {
-    "no": "317",
+    "no": "316",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "57",
@@ -6012,7 +5993,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "1",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -6023,7 +6004,7 @@
     }
   },
   {
-    "no": "318",
+    "no": "317",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "58",
@@ -6031,7 +6012,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "2",
+    "peserta": "7",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -6042,7 +6023,7 @@
     }
   },
   {
-    "no": "319",
+    "no": "318",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "59",
@@ -6050,7 +6031,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -6061,7 +6042,7 @@
     }
   },
   {
-    "no": "320",
+    "no": "319",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "60",
@@ -6080,7 +6061,7 @@
     }
   },
   {
-    "no": "321",
+    "no": "320",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "61",
@@ -6088,7 +6069,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -6099,7 +6080,7 @@
     }
   },
   {
-    "no": "322",
+    "no": "321",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "62",
@@ -6107,7 +6088,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -6118,7 +6099,7 @@
     }
   },
   {
-    "no": "323",
+    "no": "322",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "63",
@@ -6126,7 +6107,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -6137,7 +6118,7 @@
     }
   },
   {
-    "no": "324",
+    "no": "323",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "64",
@@ -6145,7 +6126,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -6156,7 +6137,7 @@
     }
   },
   {
-    "no": "325",
+    "no": "324",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "65",
@@ -6164,7 +6145,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -6175,7 +6156,7 @@
     }
   },
   {
-    "no": "326",
+    "no": "325",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "66",
@@ -6183,7 +6164,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "1",
+    "peserta": "6",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -6194,7 +6175,7 @@
     }
   },
   {
-    "no": "327",
+    "no": "326",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "67",
@@ -6202,7 +6183,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "3",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -6213,7 +6194,7 @@
     }
   },
   {
-    "no": "328",
+    "no": "327",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "68",
@@ -6232,7 +6213,7 @@
     }
   },
   {
-    "no": "329",
+    "no": "328",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "69",
@@ -6251,7 +6232,7 @@
     }
   },
   {
-    "no": "330",
+    "no": "329",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "70",
@@ -6270,7 +6251,7 @@
     }
   },
   {
-    "no": "331",
+    "no": "330",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "71",
@@ -6289,7 +6270,7 @@
     }
   },
   {
-    "no": "332",
+    "no": "331",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "72",
@@ -6308,7 +6289,7 @@
     }
   },
   {
-    "no": "333",
+    "no": "332",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "73",
@@ -6327,7 +6308,7 @@
     }
   },
   {
-    "no": "334",
+    "no": "333",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "74",
@@ -6335,7 +6316,7 @@
     "ruang": "JTS",
     "hari": "Sabtu",
     "waktu": "10:45-13:15",
-    "peserta": "0",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Sipil",
     "kode-peserta": {
       "data-kode": "PTSPA1",
@@ -6346,7 +6327,7 @@
     }
   },
   {
-    "no": "335",
+    "no": "334",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "75",
@@ -6365,7 +6346,7 @@
     }
   },
   {
-    "no": "336",
+    "no": "335",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "76",
@@ -6384,7 +6365,7 @@
     }
   },
   {
-    "no": "337",
+    "no": "336",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "78",
@@ -6403,7 +6384,7 @@
     }
   },
   {
-    "no": "338",
+    "no": "337",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "79",
@@ -6422,7 +6403,7 @@
     }
   },
   {
-    "no": "339",
+    "no": "338",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "80",
@@ -6441,7 +6422,7 @@
     }
   },
   {
-    "no": "340",
+    "no": "339",
     "kode": "PTSPA1",
     "nama": "TUGAS AKHIR",
     "kelas": "81",
@@ -6454,6 +6435,25 @@
     "kode-peserta": {
       "data-kode": "PTSPA1",
       "data-kelas": "81",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410101"
+    }
+  },
+  {
+    "no": "340",
+    "kode": "PTSPA1",
+    "nama": "TUGAS AKHIR",
+    "kelas": "82",
+    "koordinator": "Dr. Yusria Darma, ST, M.Eng.ScNIP. 197301301999031002",
+    "ruang": "JTS",
+    "hari": "Sabtu",
+    "waktu": "10:45-13:15",
+    "peserta": "1",
+    "keterangan": "TeknikS1Teknik Sipil",
+    "kode-peserta": {
+      "data-kode": "PTSPA1",
+      "data-kelas": "82",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0410101"

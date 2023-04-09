@@ -46,7 +46,7 @@
     "ruang": "RKU 15.03.002",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "EDU101",
@@ -103,7 +103,7 @@
     "ruang": "Agussalim 4",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "27",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "EDU201",
@@ -141,7 +141,7 @@
     "ruang": "RKU 15.03.002",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "EDU201",
@@ -217,7 +217,7 @@
     "ruang": "Agussalim 1",
     "hari": "Selasa",
     "waktu": "09:40-11:30",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "EDU301",
@@ -267,25 +267,6 @@
   },
   {
     "no": "15",
-    "kode": "EDU302",
-    "nama": "PENGAJARAN MIKRO",
-    "kelas": "3",
-    "koordinator": "Dr. Drs. Mansur, M.KesNIP. 196911261994031001",
-    "ruang": "SCU",
-    "hari": "Senin",
-    "waktu": "14:00-17:10",
-    "peserta": "0",
-    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
-    "kode-peserta": {
-      "data-kode": "EDU302",
-      "data-kelas": "3",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610402"
-    }
-  },
-  {
-    "no": "16",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "1",
@@ -293,7 +274,7 @@
     "ruang": "SCU",
     "hari": "Sabtu",
     "waktu": "08:00-09:00",
-    "peserta": "33",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "EDUP07",
@@ -304,7 +285,7 @@
     }
   },
   {
-    "no": "17",
+    "no": "16",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "1",
@@ -312,7 +293,7 @@
     "ruang": "SCU",
     "hari": "Sabtu",
     "waktu": "16:35-18:15",
-    "peserta": "9",
+    "peserta": "8",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "EDUP09",
@@ -323,7 +304,7 @@
     }
   },
   {
-    "no": "18",
+    "no": "17",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "1",
@@ -331,7 +312,7 @@
     "ruang": "SCU",
     "hari": "Sabtu",
     "waktu": "14:00-18:15",
-    "peserta": "108",
+    "peserta": "113",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "EDUPA1",
@@ -342,7 +323,7 @@
     }
   },
   {
-    "no": "19",
+    "no": "18",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "1",
@@ -361,7 +342,7 @@
     }
   },
   {
-    "no": "20",
+    "no": "19",
     "kode": "PJS102",
     "nama": "PEMBELAJARAN ATLETIK DASAR",
     "kelas": "1",
@@ -380,7 +361,7 @@
     }
   },
   {
-    "no": "21",
+    "no": "20",
     "kode": "PJS102",
     "nama": "PEMBELAJARAN ATLETIK DASAR",
     "kelas": "2",
@@ -399,7 +380,7 @@
     }
   },
   {
-    "no": "22",
+    "no": "21",
     "kode": "PJS102",
     "nama": "PEMBELAJARAN ATLETIK DASAR",
     "kelas": "3",
@@ -407,7 +388,7 @@
     "ruang": "SKU",
     "hari": "Rabu",
     "waktu": "11:30-13:10",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS102",
@@ -418,7 +399,7 @@
     }
   },
   {
-    "no": "23",
+    "no": "22",
     "kode": "PJS102",
     "nama": "PEMBELAJARAN ATLETIK DASAR",
     "kelas": "4",
@@ -437,7 +418,7 @@
     }
   },
   {
-    "no": "24",
+    "no": "23",
     "kode": "PJS104",
     "nama": "PEMBELAJARAN SENAM DAN RITMIK DASAR",
     "kelas": "1",
@@ -456,7 +437,7 @@
     }
   },
   {
-    "no": "25",
+    "no": "24",
     "kode": "PJS104",
     "nama": "PEMBELAJARAN SENAM DAN RITMIK DASAR",
     "kelas": "2",
@@ -475,7 +456,7 @@
     }
   },
   {
-    "no": "26",
+    "no": "25",
     "kode": "PJS104",
     "nama": "PEMBELAJARAN SENAM DAN RITMIK DASAR",
     "kelas": "3",
@@ -494,7 +475,7 @@
     }
   },
   {
-    "no": "27",
+    "no": "26",
     "kode": "PJS104",
     "nama": "PEMBELAJARAN SENAM DAN RITMIK DASAR",
     "kelas": "4",
@@ -502,7 +483,7 @@
     "ruang": "SCU",
     "hari": "Kamis",
     "waktu": "16:35-18:10",
-    "peserta": "16",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS104",
@@ -513,7 +494,7 @@
     }
   },
   {
-    "no": "28",
+    "no": "27",
     "kode": "PJS106",
     "nama": "PEMBELAJARAN AQUATIK DASAR",
     "kelas": "1",
@@ -521,7 +502,7 @@
     "ruang": "Kolam Renang",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS106",
@@ -532,7 +513,7 @@
     }
   },
   {
-    "no": "29",
+    "no": "28",
     "kode": "PJS106",
     "nama": "PEMBELAJARAN AQUATIK DASAR",
     "kelas": "2",
@@ -540,7 +521,7 @@
     "ruang": "Kolam Renang",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "18",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS106",
@@ -551,7 +532,7 @@
     }
   },
   {
-    "no": "30",
+    "no": "29",
     "kode": "PJS106",
     "nama": "PEMBELAJARAN AQUATIK DASAR",
     "kelas": "3",
@@ -559,7 +540,7 @@
     "ruang": "Kolam Renang",
     "hari": "Selasa",
     "waktu": "09:50-11:30",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS106",
@@ -570,7 +551,7 @@
     }
   },
   {
-    "no": "31",
+    "no": "30",
     "kode": "PJS106",
     "nama": "PEMBELAJARAN AQUATIK DASAR",
     "kelas": "4",
@@ -589,7 +570,7 @@
     }
   },
   {
-    "no": "32",
+    "no": "31",
     "kode": "PJS108",
     "nama": "MOTOR DEVELOPMENT",
     "kelas": "1",
@@ -597,7 +578,7 @@
     "ruang": "RKU 15.03.002",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS108",
@@ -608,7 +589,7 @@
     }
   },
   {
-    "no": "33",
+    "no": "32",
     "kode": "PJS108",
     "nama": "MOTOR DEVELOPMENT",
     "kelas": "2",
@@ -616,7 +597,7 @@
     "ruang": "RKU 15.03.002",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS108",
@@ -627,7 +608,7 @@
     }
   },
   {
-    "no": "34",
+    "no": "33",
     "kode": "PJS108",
     "nama": "MOTOR DEVELOPMENT",
     "kelas": "3",
@@ -646,7 +627,7 @@
     }
   },
   {
-    "no": "35",
+    "no": "34",
     "kode": "PJS108",
     "nama": "MOTOR DEVELOPMENT",
     "kelas": "4",
@@ -654,7 +635,7 @@
     "ruang": "Agussalim 3",
     "hari": "Rabu",
     "waktu": "11:30-13:10",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS108",
@@ -665,7 +646,7 @@
     }
   },
   {
-    "no": "36",
+    "no": "35",
     "kode": "PJS108",
     "nama": "MOTOR DEVELOPMENT",
     "kelas": "5",
@@ -684,7 +665,7 @@
     }
   },
   {
-    "no": "37",
+    "no": "36",
     "kode": "PJS108",
     "nama": "MOTOR DEVELOPMENT",
     "kelas": "6",
@@ -692,7 +673,7 @@
     "ruang": "RKU 15.03.002",
     "hari": "Jumat",
     "waktu": "16:35-18:10",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS108",
@@ -703,7 +684,7 @@
     }
   },
   {
-    "no": "38",
+    "no": "37",
     "kode": "PJS110",
     "nama": "PEMBELAJARAN BULUTANGKIS",
     "kelas": "1",
@@ -722,7 +703,7 @@
     }
   },
   {
-    "no": "39",
+    "no": "38",
     "kode": "PJS110",
     "nama": "PEMBELAJARAN BULUTANGKIS",
     "kelas": "2",
@@ -730,7 +711,7 @@
     "ruang": "SCU",
     "hari": "Senin",
     "waktu": "09:50-11:30",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS110",
@@ -741,7 +722,7 @@
     }
   },
   {
-    "no": "40",
+    "no": "39",
     "kode": "PJS110",
     "nama": "PEMBELAJARAN BULUTANGKIS",
     "kelas": "3",
@@ -749,7 +730,7 @@
     "ruang": "SCU",
     "hari": "Senin",
     "waktu": "11:30-13:10",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS110",
@@ -760,7 +741,7 @@
     }
   },
   {
-    "no": "41",
+    "no": "40",
     "kode": "PJS110",
     "nama": "PEMBELAJARAN BULUTANGKIS",
     "kelas": "4",
@@ -768,7 +749,7 @@
     "ruang": "SCU",
     "hari": "Selasa",
     "waktu": "09:50-11:30",
-    "peserta": "17",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS110",
@@ -779,7 +760,7 @@
     }
   },
   {
-    "no": "42",
+    "no": "41",
     "kode": "PJS112",
     "nama": "SOSIOLOGI OLAHRAGA",
     "kelas": "1",
@@ -787,7 +768,7 @@
     "ruang": "Agussalim 4",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "18",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS112",
@@ -798,7 +779,7 @@
     }
   },
   {
-    "no": "43",
+    "no": "42",
     "kode": "PJS112",
     "nama": "SOSIOLOGI OLAHRAGA",
     "kelas": "2",
@@ -817,7 +798,7 @@
     }
   },
   {
-    "no": "44",
+    "no": "43",
     "kode": "PJS112",
     "nama": "SOSIOLOGI OLAHRAGA",
     "kelas": "3",
@@ -836,7 +817,7 @@
     }
   },
   {
-    "no": "45",
+    "no": "44",
     "kode": "PJS112",
     "nama": "SOSIOLOGI OLAHRAGA",
     "kelas": "4",
@@ -855,7 +836,7 @@
     }
   },
   {
-    "no": "46",
+    "no": "45",
     "kode": "PJS202",
     "nama": "ILMU GIZI OLAHRAGA",
     "kelas": "1",
@@ -863,11 +844,30 @@
     "ruang": "Agussalim 1",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS202",
       "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610402"
+    }
+  },
+  {
+    "no": "46",
+    "kode": "PJS202",
+    "nama": "ILMU GIZI OLAHRAGA",
+    "kelas": "2",
+    "koordinator": "Dr. Dra. Miskalena, M.KesNIP. 196512131992032001",
+    "ruang": "Agussalim 1",
+    "hari": "Jumat",
+    "waktu": "16:35-18:15",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
+    "kode-peserta": {
+      "data-kode": "PJS202",
+      "data-kelas": "2",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -877,16 +877,16 @@
     "no": "47",
     "kode": "PJS202",
     "nama": "ILMU GIZI OLAHRAGA",
-    "kelas": "2",
+    "kelas": "3",
     "koordinator": "Dr. Dra. Miskalena, M.KesNIP. 196512131992032001",
     "ruang": "Agussalim 1",
-    "hari": "Jumat",
-    "waktu": "16:35-18:15",
+    "hari": "Sabtu",
+    "waktu": "09:50-11:30",
     "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS202",
-      "data-kelas": "2",
+      "data-kelas": "3",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -896,16 +896,16 @@
     "no": "48",
     "kode": "PJS202",
     "nama": "ILMU GIZI OLAHRAGA",
-    "kelas": "3",
-    "koordinator": "Dr. Dra. Miskalena, M.KesNIP. 196512131992032001",
+    "kelas": "4",
+    "koordinator": "Dr. Drs. Syamsulrizal, M.KesNIP. 196701301992031003",
     "ruang": "Agussalim 1",
     "hari": "Sabtu",
-    "waktu": "09:50-11:30",
-    "peserta": "30",
+    "waktu": "11:30-13:10",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS202",
-      "data-kelas": "3",
+      "data-kelas": "4",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -913,18 +913,18 @@
   },
   {
     "no": "49",
-    "kode": "PJS202",
-    "nama": "ILMU GIZI OLAHRAGA",
-    "kelas": "4",
-    "koordinator": "Dr. Drs. Syamsulrizal, M.KesNIP. 196701301992031003",
-    "ruang": "Agussalim 1",
-    "hari": "Sabtu",
-    "waktu": "11:30-13:10",
-    "peserta": "25",
+    "kode": "PJS204",
+    "nama": "PEMBELAJARAN BOLAVOLI",
+    "kelas": "1",
+    "koordinator": "Drs. Alfian Rinaldy, M.Pd.NIP. 196810311993031001",
+    "ruang": "Lap. Voli",
+    "hari": "Selasa",
+    "waktu": "09:50-11:30",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
-      "data-kode": "PJS202",
-      "data-kelas": "4",
+      "data-kode": "PJS204",
+      "data-kelas": "1",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -934,16 +934,16 @@
     "no": "50",
     "kode": "PJS204",
     "nama": "PEMBELAJARAN BOLAVOLI",
-    "kelas": "1",
+    "kelas": "2",
     "koordinator": "Drs. Alfian Rinaldy, M.Pd.NIP. 196810311993031001",
     "ruang": "Lap. Voli",
     "hari": "Selasa",
-    "waktu": "09:50-11:30",
+    "waktu": "08:00-09:40",
     "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS204",
-      "data-kelas": "1",
+      "data-kelas": "2",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -953,16 +953,16 @@
     "no": "51",
     "kode": "PJS204",
     "nama": "PEMBELAJARAN BOLAVOLI",
-    "kelas": "2",
+    "kelas": "3",
     "koordinator": "Drs. Alfian Rinaldy, M.Pd.NIP. 196810311993031001",
     "ruang": "Lap. Voli",
-    "hari": "Selasa",
+    "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "30",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS204",
-      "data-kelas": "2",
+      "data-kelas": "3",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -972,16 +972,16 @@
     "no": "52",
     "kode": "PJS204",
     "nama": "PEMBELAJARAN BOLAVOLI",
-    "kelas": "3",
+    "kelas": "4",
     "koordinator": "Drs. Alfian Rinaldy, M.Pd.NIP. 196810311993031001",
     "ruang": "Lap. Voli",
     "hari": "Senin",
-    "waktu": "08:00-09:40",
-    "peserta": "27",
+    "waktu": "09:50-11:30",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS204",
-      "data-kelas": "3",
+      "data-kelas": "4",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -989,18 +989,18 @@
   },
   {
     "no": "53",
-    "kode": "PJS204",
-    "nama": "PEMBELAJARAN BOLAVOLI",
-    "kelas": "4",
-    "koordinator": "Drs. Alfian Rinaldy, M.Pd.NIP. 196810311993031001",
-    "ruang": "Lap. Voli",
-    "hari": "Senin",
-    "waktu": "09:50-11:30",
-    "peserta": "23",
+    "kode": "PJS206",
+    "nama": "PEMBELAJARAN BOLABASKET",
+    "kelas": "1",
+    "koordinator": "Ifwandi, S.Pd., M.PdNIP. 197506132000031001",
+    "ruang": "Lap. Basket",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
-      "data-kode": "PJS204",
-      "data-kelas": "4",
+      "data-kode": "PJS206",
+      "data-kelas": "1",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -1010,16 +1010,16 @@
     "no": "54",
     "kode": "PJS206",
     "nama": "PEMBELAJARAN BOLABASKET",
-    "kelas": "1",
+    "kelas": "2",
     "koordinator": "Ifwandi, S.Pd., M.PdNIP. 197506132000031001",
     "ruang": "Lap. Basket",
     "hari": "Selasa",
-    "waktu": "08:00-09:40",
-    "peserta": "29",
+    "waktu": "09:50-11:30",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS206",
-      "data-kelas": "1",
+      "data-kelas": "2",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -1029,16 +1029,16 @@
     "no": "55",
     "kode": "PJS206",
     "nama": "PEMBELAJARAN BOLABASKET",
-    "kelas": "2",
+    "kelas": "3",
     "koordinator": "Ifwandi, S.Pd., M.PdNIP. 197506132000031001",
     "ruang": "Lap. Basket",
-    "hari": "Selasa",
+    "hari": "Senin",
     "waktu": "09:50-11:30",
-    "peserta": "30",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS206",
-      "data-kelas": "2",
+      "data-kelas": "3",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -1048,16 +1048,16 @@
     "no": "56",
     "kode": "PJS206",
     "nama": "PEMBELAJARAN BOLABASKET",
-    "kelas": "3",
+    "kelas": "4",
     "koordinator": "Ifwandi, S.Pd., M.PdNIP. 197506132000031001",
     "ruang": "Lap. Basket",
     "hari": "Senin",
-    "waktu": "09:50-11:30",
-    "peserta": "27",
+    "waktu": "08:00-09:40",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS206",
-      "data-kelas": "3",
+      "data-kelas": "4",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -1065,18 +1065,18 @@
   },
   {
     "no": "57",
-    "kode": "PJS206",
-    "nama": "PEMBELAJARAN BOLABASKET",
-    "kelas": "4",
-    "koordinator": "Ifwandi, S.Pd., M.PdNIP. 197506132000031001",
-    "ruang": "Lap. Basket",
-    "hari": "Senin",
-    "waktu": "08:00-09:40",
-    "peserta": "23",
+    "kode": "PJS208",
+    "nama": "KINESIOLOGI & BIOMEKANIKA OLAHRAGA",
+    "kelas": "1",
+    "koordinator": "Dr. Drs. Sukardi Putra, M.KesNIP. 196404101992031001",
+    "ruang": "Agussalim 2",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
-      "data-kode": "PJS206",
-      "data-kelas": "4",
+      "data-kode": "PJS208",
+      "data-kelas": "1",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -1086,31 +1086,12 @@
     "no": "58",
     "kode": "PJS208",
     "nama": "KINESIOLOGI & BIOMEKANIKA OLAHRAGA",
-    "kelas": "1",
-    "koordinator": "Dr. Drs. Sukardi Putra, M.KesNIP. 196404101992031001",
-    "ruang": "Agussalim 2",
-    "hari": "Selasa",
-    "waktu": "14:00-15:40",
-    "peserta": "25",
-    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
-    "kode-peserta": {
-      "data-kode": "PJS208",
-      "data-kelas": "1",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610402"
-    }
-  },
-  {
-    "no": "59",
-    "kode": "PJS208",
-    "nama": "KINESIOLOGI & BIOMEKANIKA OLAHRAGA",
     "kelas": "2",
     "koordinator": "Dr. Drs. Sukardi Putra, M.KesNIP. 196404101992031001",
     "ruang": "Agussalim 2",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "30",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS208",
@@ -1121,7 +1102,7 @@
     }
   },
   {
-    "no": "60",
+    "no": "59",
     "kode": "PJS208",
     "nama": "KINESIOLOGI & BIOMEKANIKA OLAHRAGA",
     "kelas": "3",
@@ -1129,7 +1110,7 @@
     "ruang": "Agussalim 1",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "25",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS208",
@@ -1140,7 +1121,7 @@
     }
   },
   {
-    "no": "61",
+    "no": "60",
     "kode": "PJS208",
     "nama": "KINESIOLOGI & BIOMEKANIKA OLAHRAGA",
     "kelas": "4",
@@ -1148,7 +1129,7 @@
     "ruang": "Agussalim 1",
     "hari": "Rabu",
     "waktu": "11:30-13:10",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS208",
@@ -1159,7 +1140,7 @@
     }
   },
   {
-    "no": "62",
+    "no": "61",
     "kode": "PJS210",
     "nama": "PENGEMBANGAN KURIKULUM PENJAS",
     "kelas": "1",
@@ -1167,7 +1148,7 @@
     "ruang": "Agussalim 4",
     "hari": "Kamis",
     "waktu": "09:50-11:30",
-    "peserta": "28",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS210",
@@ -1178,7 +1159,7 @@
     }
   },
   {
-    "no": "63",
+    "no": "62",
     "kode": "PJS210",
     "nama": "PENGEMBANGAN KURIKULUM PENJAS",
     "kelas": "2",
@@ -1197,7 +1178,7 @@
     }
   },
   {
-    "no": "64",
+    "no": "63",
     "kode": "PJS210",
     "nama": "PENGEMBANGAN KURIKULUM PENJAS",
     "kelas": "3",
@@ -1216,7 +1197,7 @@
     }
   },
   {
-    "no": "65",
+    "no": "64",
     "kode": "PJS210",
     "nama": "PENGEMBANGAN KURIKULUM PENJAS",
     "kelas": "4",
@@ -1235,7 +1216,7 @@
     }
   },
   {
-    "no": "66",
+    "no": "65",
     "kode": "PJS212",
     "nama": "PERENCANAAN PEMBELAJARAN PENJAS",
     "kelas": "1",
@@ -1243,7 +1224,7 @@
     "ruang": "Agussalim 1",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "25",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS212",
@@ -1254,7 +1235,7 @@
     }
   },
   {
-    "no": "67",
+    "no": "66",
     "kode": "PJS212",
     "nama": "PERENCANAAN PEMBELAJARAN PENJAS",
     "kelas": "2",
@@ -1273,7 +1254,7 @@
     }
   },
   {
-    "no": "68",
+    "no": "67",
     "kode": "PJS212",
     "nama": "PERENCANAAN PEMBELAJARAN PENJAS",
     "kelas": "3",
@@ -1292,7 +1273,7 @@
     }
   },
   {
-    "no": "69",
+    "no": "68",
     "kode": "PJS212",
     "nama": "PERENCANAAN PEMBELAJARAN PENJAS",
     "kelas": "4",
@@ -1311,7 +1292,7 @@
     }
   },
   {
-    "no": "70",
+    "no": "69",
     "kode": "PJS214",
     "nama": "PEMBELAJARAN TENIS MEJA",
     "kelas": "1",
@@ -1319,11 +1300,30 @@
     "ruang": "SCU",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS214",
       "data-kelas": "1",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610402"
+    }
+  },
+  {
+    "no": "70",
+    "kode": "PJS214",
+    "nama": "PEMBELAJARAN TENIS MEJA",
+    "kelas": "2",
+    "koordinator": "Masri, S.Pd., M.Pd.NIP. 198211082006041003",
+    "ruang": "SCU",
+    "hari": "Senin",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
+    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
+    "kode-peserta": {
+      "data-kode": "PJS214",
+      "data-kelas": "2",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -1333,16 +1333,16 @@
     "no": "71",
     "kode": "PJS214",
     "nama": "PEMBELAJARAN TENIS MEJA",
-    "kelas": "2",
+    "kelas": "3",
     "koordinator": "Masri, S.Pd., M.Pd.NIP. 198211082006041003",
     "ruang": "SCU",
-    "hari": "Senin",
-    "waktu": "16:35-18:15",
+    "hari": "Rabu",
+    "waktu": "11:30-13:10",
     "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS214",
-      "data-kelas": "2",
+      "data-kelas": "3",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -1352,31 +1352,12 @@
     "no": "72",
     "kode": "PJS214",
     "nama": "PEMBELAJARAN TENIS MEJA",
-    "kelas": "3",
-    "koordinator": "Masri, S.Pd., M.Pd.NIP. 198211082006041003",
-    "ruang": "SCU",
-    "hari": "Rabu",
-    "waktu": "11:30-13:10",
-    "peserta": "30",
-    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
-    "kode-peserta": {
-      "data-kode": "PJS214",
-      "data-kelas": "3",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610402"
-    }
-  },
-  {
-    "no": "73",
-    "kode": "PJS214",
-    "nama": "PEMBELAJARAN TENIS MEJA",
     "kelas": "4",
     "koordinator": "Masri, S.Pd., M.Pd.NIP. 198211082006041003",
     "ruang": "SCU",
     "hari": "Rabu",
     "waktu": "09:50-11:30",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS214",
@@ -1387,7 +1368,7 @@
     }
   },
   {
-    "no": "74",
+    "no": "73",
     "kode": "PJS214",
     "nama": "PEMBELAJARAN TENIS MEJA",
     "kelas": "5",
@@ -1395,7 +1376,7 @@
     "ruang": "SCU",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "20",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS214",
@@ -1406,7 +1387,7 @@
     }
   },
   {
-    "no": "75",
+    "no": "74",
     "kode": "PJS216",
     "nama": "PSIKOLOGI OLAHRAGA",
     "kelas": "1",
@@ -1425,7 +1406,7 @@
     }
   },
   {
-    "no": "76",
+    "no": "75",
     "kode": "PJS216",
     "nama": "PSIKOLOGI OLAHRAGA",
     "kelas": "2",
@@ -1444,7 +1425,7 @@
     }
   },
   {
-    "no": "77",
+    "no": "76",
     "kode": "PJS216",
     "nama": "PSIKOLOGI OLAHRAGA",
     "kelas": "3",
@@ -1463,7 +1444,7 @@
     }
   },
   {
-    "no": "78",
+    "no": "77",
     "kode": "PJS216",
     "nama": "PSIKOLOGI OLAHRAGA",
     "kelas": "4",
@@ -1482,15 +1463,15 @@
     }
   },
   {
-    "no": "79",
+    "no": "78",
     "kode": "PJS216",
     "nama": "PSIKOLOGI OLAHRAGA",
     "kelas": "5",
     "koordinator": "Dr. Drs. Mansur, M.KesNIP. 196911261994031001",
     "ruang": "Agussalim 1",
     "hari": "Selasa",
-    "waktu": "14:00-15:40",
-    "peserta": "27",
+    "waktu": "16:35-18:15",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS216",
@@ -1501,7 +1482,7 @@
     }
   },
   {
-    "no": "80",
+    "no": "79",
     "kode": "PJS302",
     "nama": "PENCEGAHAN & PERAWATAN CEDERA",
     "kelas": "1",
@@ -1520,7 +1501,7 @@
     }
   },
   {
-    "no": "81",
+    "no": "80",
     "kode": "PJS302",
     "nama": "PENCEGAHAN & PERAWATAN CEDERA",
     "kelas": "2",
@@ -1528,7 +1509,7 @@
     "ruang": "RKU 15.03.002",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS302",
@@ -1539,7 +1520,7 @@
     }
   },
   {
-    "no": "82",
+    "no": "81",
     "kode": "PJS302",
     "nama": "PENCEGAHAN & PERAWATAN CEDERA",
     "kelas": "3",
@@ -1547,7 +1528,7 @@
     "ruang": "Agussalim 3",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS302",
@@ -1558,7 +1539,7 @@
     }
   },
   {
-    "no": "83",
+    "no": "82",
     "kode": "PJS302",
     "nama": "PENCEGAHAN & PERAWATAN CEDERA",
     "kelas": "4",
@@ -1566,7 +1547,7 @@
     "ruang": "Agussalim 3",
     "hari": "Senin",
     "waktu": "09:50-11:30",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS302",
@@ -1577,7 +1558,7 @@
     }
   },
   {
-    "no": "84",
+    "no": "83",
     "kode": "PJS304",
     "nama": "SPORT MEDICINE",
     "kelas": "1",
@@ -1596,7 +1577,7 @@
     }
   },
   {
-    "no": "85",
+    "no": "84",
     "kode": "PJS304",
     "nama": "SPORT MEDICINE",
     "kelas": "2",
@@ -1615,7 +1596,7 @@
     }
   },
   {
-    "no": "86",
+    "no": "85",
     "kode": "PJS304",
     "nama": "SPORT MEDICINE",
     "kelas": "3",
@@ -1634,7 +1615,7 @@
     }
   },
   {
-    "no": "87",
+    "no": "86",
     "kode": "PJS304",
     "nama": "SPORT MEDICINE",
     "kelas": "4",
@@ -1642,7 +1623,7 @@
     "ruang": "Agussalim 1",
     "hari": "Rabu",
     "waktu": "09:50-11:30",
-    "peserta": "28",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS304",
@@ -1653,7 +1634,7 @@
     }
   },
   {
-    "no": "88",
+    "no": "87",
     "kode": "PJS306",
     "nama": "PEMBELAJARAN PENJAS ADAPTIF",
     "kelas": "1",
@@ -1672,7 +1653,7 @@
     }
   },
   {
-    "no": "89",
+    "no": "88",
     "kode": "PJS306",
     "nama": "PEMBELAJARAN PENJAS ADAPTIF",
     "kelas": "2",
@@ -1691,7 +1672,7 @@
     }
   },
   {
-    "no": "90",
+    "no": "89",
     "kode": "PJS306",
     "nama": "PEMBELAJARAN PENJAS ADAPTIF",
     "kelas": "3",
@@ -1699,7 +1680,7 @@
     "ruang": "RKU 15.03.002",
     "hari": "Selasa",
     "waktu": "09:40-11:30",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS306",
@@ -1710,7 +1691,7 @@
     }
   },
   {
-    "no": "91",
+    "no": "90",
     "kode": "PJS306",
     "nama": "PEMBELAJARAN PENJAS ADAPTIF",
     "kelas": "4",
@@ -1729,7 +1710,7 @@
     }
   },
   {
-    "no": "92",
+    "no": "91",
     "kode": "PJS308",
     "nama": "METODE PENELITIAN OLAHRAGA",
     "kelas": "1",
@@ -1737,7 +1718,7 @@
     "ruang": "SCU",
     "hari": "Selasa",
     "waktu": "14:00-17:10",
-    "peserta": "21",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS308",
@@ -1748,7 +1729,7 @@
     }
   },
   {
-    "no": "93",
+    "no": "92",
     "kode": "PJS308",
     "nama": "METODE PENELITIAN OLAHRAGA",
     "kelas": "2",
@@ -1767,7 +1748,7 @@
     }
   },
   {
-    "no": "94",
+    "no": "93",
     "kode": "PJS308",
     "nama": "METODE PENELITIAN OLAHRAGA",
     "kelas": "3",
@@ -1786,7 +1767,7 @@
     }
   },
   {
-    "no": "95",
+    "no": "94",
     "kode": "PJS308",
     "nama": "METODE PENELITIAN OLAHRAGA",
     "kelas": "4",
@@ -1805,7 +1786,7 @@
     }
   },
   {
-    "no": "96",
+    "no": "95",
     "kode": "PJS310",
     "nama": "FIELD WORK DAN PERWASITAN OLAHRAGA",
     "kelas": "1",
@@ -1824,7 +1805,7 @@
     }
   },
   {
-    "no": "97",
+    "no": "96",
     "kode": "PJS310",
     "nama": "FIELD WORK DAN PERWASITAN OLAHRAGA",
     "kelas": "2",
@@ -1832,7 +1813,7 @@
     "ruang": "Agussalim 3",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "27",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS310",
@@ -1843,7 +1824,7 @@
     }
   },
   {
-    "no": "98",
+    "no": "97",
     "kode": "PJS310",
     "nama": "FIELD WORK DAN PERWASITAN OLAHRAGA",
     "kelas": "3",
@@ -1851,7 +1832,7 @@
     "ruang": "Agussalim 4",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "25",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS310",
@@ -1862,7 +1843,7 @@
     }
   },
   {
-    "no": "99",
+    "no": "98",
     "kode": "PJS310",
     "nama": "FIELD WORK DAN PERWASITAN OLAHRAGA",
     "kelas": "4",
@@ -1870,7 +1851,7 @@
     "ruang": "RKU 15.03.002",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "26",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS310",
@@ -1881,7 +1862,7 @@
     }
   },
   {
-    "no": "100",
+    "no": "99",
     "kode": "PJS502",
     "nama": "SPORT TECHNOLOGY AND INDUSTRY",
     "kelas": "1",
@@ -1889,7 +1870,7 @@
     "ruang": "Agussalim 2",
     "hari": "Selasa",
     "waktu": "11:30-13:10",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS502",
@@ -1900,7 +1881,7 @@
     }
   },
   {
-    "no": "101",
+    "no": "100",
     "kode": "PJS502",
     "nama": "SPORT TECHNOLOGY AND INDUSTRY",
     "kelas": "2",
@@ -1908,11 +1889,30 @@
     "ruang": "Agussalim 2",
     "hari": "Rabu",
     "waktu": "09:50-11:30",
-    "peserta": "14",
+    "peserta": "13",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS502",
       "data-kelas": "2",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610402"
+    }
+  },
+  {
+    "no": "101",
+    "kode": "PJS504",
+    "nama": "DAYUNG",
+    "kelas": "1",
+    "koordinator": "Amanda Syukriadi, S.Pd.,M.Pd.NIP. 199205132019031013",
+    "ruang": "Krueng Lamnyong",
+    "hari": "Rabu",
+    "waktu": "16:35-18:15",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
+    "kode-peserta": {
+      "data-kode": "PJS504",
+      "data-kelas": "1",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610402"
@@ -1922,31 +1922,12 @@
     "no": "102",
     "kode": "PJS504",
     "nama": "DAYUNG",
-    "kelas": "1",
-    "koordinator": "Amanda Syukriadi, S.Pd.,M.Pd.NIP. 199205132019031013",
-    "ruang": "Krueng Lamnyong",
-    "hari": "Rabu",
-    "waktu": "16:35-18:15",
-    "peserta": "28",
-    "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
-    "kode-peserta": {
-      "data-kode": "PJS504",
-      "data-kelas": "1",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610402"
-    }
-  },
-  {
-    "no": "103",
-    "kode": "PJS504",
-    "nama": "DAYUNG",
     "kelas": "2",
     "koordinator": "Amanda Syukriadi, S.Pd.,M.Pd.NIP. 199205132019031013",
     "ruang": "Krueng Lamnyong",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "38",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS504",
@@ -1957,7 +1938,7 @@
     }
   },
   {
-    "no": "104",
+    "no": "103",
     "kode": "PJS504",
     "nama": "DAYUNG",
     "kelas": "3",
@@ -1965,7 +1946,7 @@
     "ruang": "Krueng Lamnyong",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "8",
+    "peserta": "0",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS504",
@@ -1976,7 +1957,7 @@
     }
   },
   {
-    "no": "105",
+    "no": "104",
     "kode": "PJS506",
     "nama": "PEMBELAJARAN PENJAS DAN OLAHRAGA USIA DINI",
     "kelas": "1",
@@ -1995,7 +1976,7 @@
     }
   },
   {
-    "no": "106",
+    "no": "105",
     "kode": "PJS506",
     "nama": "PEMBELAJARAN PENJAS DAN OLAHRAGA USIA DINI",
     "kelas": "2",
@@ -2003,7 +1984,7 @@
     "ruang": "SCU",
     "hari": "Senin",
     "waktu": "16:35-18:15",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS506",
@@ -2014,7 +1995,7 @@
     }
   },
   {
-    "no": "107",
+    "no": "106",
     "kode": "PJS506",
     "nama": "PEMBELAJARAN PENJAS DAN OLAHRAGA USIA DINI",
     "kelas": "3",
@@ -2033,7 +2014,7 @@
     }
   },
   {
-    "no": "108",
+    "no": "107",
     "kode": "PJS508",
     "nama": "POLITIK DAN JURNALISTIK OLAHRAGA",
     "kelas": "1",
@@ -2041,7 +2022,7 @@
     "ruang": "Agussalim 2",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "16",
+    "peserta": "14",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS508",
@@ -2052,7 +2033,7 @@
     }
   },
   {
-    "no": "109",
+    "no": "108",
     "kode": "PJS508",
     "nama": "POLITIK DAN JURNALISTIK OLAHRAGA",
     "kelas": "2",
@@ -2060,7 +2041,7 @@
     "ruang": "Agussalim 2",
     "hari": "Selasa",
     "waktu": "09:50-11:30",
-    "peserta": "13",
+    "peserta": "12",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS508",
@@ -2071,7 +2052,7 @@
     }
   },
   {
-    "no": "110",
+    "no": "109",
     "kode": "PJS510",
     "nama": "KEMPO",
     "kelas": "1",
@@ -2079,7 +2060,7 @@
     "ruang": "SCU",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS510",
@@ -2090,7 +2071,7 @@
     }
   },
   {
-    "no": "111",
+    "no": "110",
     "kode": "PJS510",
     "nama": "KEMPO",
     "kelas": "2",
@@ -2109,7 +2090,7 @@
     }
   },
   {
-    "no": "112",
+    "no": "111",
     "kode": "PJS510",
     "nama": "KEMPO",
     "kelas": "3",
@@ -2117,7 +2098,7 @@
     "ruang": "SCU",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "15",
+    "peserta": "13",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS510",
@@ -2128,7 +2109,7 @@
     }
   },
   {
-    "no": "113",
+    "no": "112",
     "kode": "PJS512",
     "nama": "PETANQUE",
     "kelas": "1",
@@ -2147,7 +2128,7 @@
     }
   },
   {
-    "no": "114",
+    "no": "113",
     "kode": "PJS512",
     "nama": "PETANQUE",
     "kelas": "2",
@@ -2155,7 +2136,7 @@
     "ruang": "Lap. Petanque FKIP",
     "hari": "Selasa",
     "waktu": "09:50-11:30",
-    "peserta": "21",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Jasmani, Kesehatan dan Rekreasi",
     "kode-peserta": {
       "data-kode": "PJS512",
@@ -2166,7 +2147,7 @@
     }
   },
   {
-    "no": "115",
+    "no": "114",
     "kode": "PJS512",
     "nama": "PETANQUE",
     "kelas": "3",

@@ -65,7 +65,7 @@
     "ruang": "2.03A",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE104",
@@ -103,7 +103,7 @@
     "ruang": "2.03A",
     "hari": "Kamis",
     "waktu": "16:20-18:10",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE104",
@@ -141,7 +141,7 @@
     "ruang": "2.03A",
     "hari": "Senin",
     "waktu": "10:40-13:10",
-    "peserta": "33",
+    "peserta": "32",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE106",
@@ -160,7 +160,7 @@
     "ruang": "1.04",
     "hari": "Sabtu",
     "waktu": "10:40-13:10",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE106",
@@ -198,7 +198,7 @@
     "ruang": "2.3A",
     "hari": "Selasa",
     "waktu": "14:00-17:10",
-    "peserta": "28",
+    "peserta": "25",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE108",
@@ -217,7 +217,7 @@
     "ruang": "2.03A",
     "hari": "Rabu",
     "waktu": "10:40-13:10",
-    "peserta": "28",
+    "peserta": "31",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE108",
@@ -882,7 +882,7 @@
     "ruang": "1.04",
     "hari": "Selasa",
     "waktu": "8:00-10:30",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE306",
@@ -901,7 +901,7 @@
     "ruang": "1.04",
     "hari": "Selasa",
     "waktu": "10:40-13:10",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE306",
@@ -1110,7 +1110,7 @@
     "ruang": "LAB. PAUD",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "15",
+    "peserta": "13",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE504",
@@ -1148,7 +1148,7 @@
     "ruang": "LAB. PAUD",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE508",
@@ -1186,7 +1186,7 @@
     "ruang": "LAB PAUD",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "2",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECE512",
@@ -1243,7 +1243,7 @@
     "ruang": "RKU 14. 02. 007",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "22",
+    "peserta": "21",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECEP02",
@@ -1262,7 +1262,7 @@
     "ruang": "RKU 14. 02. 007",
     "hari": "Kamis",
     "waktu": "09:40-11:30",
-    "peserta": "19",
+    "peserta": "20",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "ECEP02",
@@ -1281,7 +1281,7 @@
     "ruang": "1.04",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "38",
+    "peserta": "39",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "EDU102",
@@ -1319,7 +1319,7 @@
     "ruang": "1.04",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "EDU102",
@@ -1395,7 +1395,7 @@
     "ruang": "RKU 14. 02. 007",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -1414,7 +1414,7 @@
     "ruang": "RKU 14. 02. 007",
     "hari": "Kamis",
     "waktu": "16:20-18:00",
-    "peserta": "25",
+    "peserta": "23",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -1433,7 +1433,7 @@
     "ruang": "RKU 14. 02. 007",
     "hari": "Jumat",
     "waktu": "10:40-12:10",
-    "peserta": "20",
+    "peserta": "23",
     "keterangan": "KIPS1PG PAUD",
     "kode-peserta": {
       "data-kode": "EDU204",

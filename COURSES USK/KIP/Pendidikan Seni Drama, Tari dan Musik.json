@@ -84,7 +84,7 @@
     "ruang": "01",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "34",
+    "peserta": "38",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "EDU202",
@@ -103,7 +103,7 @@
     "ruang": "02",
     "hari": "Senin",
     "waktu": "10:45-12:25",
-    "peserta": "39",
+    "peserta": "21",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "EDU202",
@@ -122,7 +122,7 @@
     "ruang": "03",
     "hari": "Senin",
     "waktu": "09:50-11:30",
-    "peserta": "31",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "EDU202",
@@ -134,6 +134,25 @@
   },
   {
     "no": "8",
+    "kode": "EDU202",
+    "nama": "KURIKULUM DAN PEMBELAJARAN",
+    "kelas": "04",
+    "koordinator": "Yuli Astuti, S.Pd., M.Pd.NIP. 199007202019032019",
+    "ruang": "04",
+    "hari": "Selasa",
+    "waktu": "16:35-18:15",
+    "peserta": "20",
+    "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
+    "kode-peserta": {
+      "data-kode": "EDU202",
+      "data-kelas": "04",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610203"
+    }
+  },
+  {
+    "no": "9",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "01",
@@ -141,7 +160,7 @@
     "ruang": "01",
     "hari": "Selasa",
     "waktu": "10:45-12:25",
-    "peserta": "13",
+    "peserta": "14",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -152,7 +171,7 @@
     }
   },
   {
-    "no": "9",
+    "no": "10",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "02",
@@ -160,7 +179,7 @@
     "ruang": "02",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "30",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -171,7 +190,7 @@
     }
   },
   {
-    "no": "10",
+    "no": "11",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "03",
@@ -190,7 +209,7 @@
     }
   },
   {
-    "no": "11",
+    "no": "12",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "04",
@@ -198,7 +217,7 @@
     "ruang": "04",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "25",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -209,7 +228,7 @@
     }
   },
   {
-    "no": "12",
+    "no": "13",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "01",
@@ -217,7 +236,7 @@
     "ruang": "01",
     "hari": "Rabu",
     "waktu": "08:00-10:30",
-    "peserta": "5",
+    "peserta": "6",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "EDU302",
@@ -228,7 +247,7 @@
     }
   },
   {
-    "no": "13",
+    "no": "14",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "02",
@@ -236,30 +255,11 @@
     "ruang": "02",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "1",
+    "peserta": "3",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "EDU302",
       "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610203"
-    }
-  },
-  {
-    "no": "14",
-    "kode": "EDU302",
-    "nama": "PENGAJARAN MIKRO",
-    "kelas": "03",
-    "koordinator": "Ismawan, S.Sn, M.SnNIP. 196808151995121002",
-    "ruang": "03",
-    "hari": "Selasa",
-    "waktu": "08:00-10:30",
-    "peserta": "2",
-    "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
-    "kode-peserta": {
-      "data-kode": "EDU302",
-      "data-kelas": "03",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610203"
@@ -274,7 +274,7 @@
     "ruang": "02",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "66",
+    "peserta": "74",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "EDUPA1",
@@ -483,7 +483,7 @@
     "ruang": "01",
     "hari": "Selasa",
     "waktu": "11:00-13:10",
-    "peserta": "17",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI106",
@@ -540,7 +540,7 @@
     "ruang": "04",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI106",
@@ -559,7 +559,7 @@
     "ruang": "01",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "32",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI108",
@@ -578,7 +578,7 @@
     "ruang": "02",
     "hari": "Rabu",
     "waktu": "10:00-12:30",
-    "peserta": "6",
+    "peserta": "4",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI108",
@@ -635,7 +635,7 @@
     "ruang": "DRAMA",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "3",
+    "peserta": "2",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI110",
@@ -730,7 +730,7 @@
     "ruang": "01",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "14",
+    "peserta": "15",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI202",
@@ -768,7 +768,7 @@
     "ruang": "03",
     "hari": "Rabu",
     "waktu": "10:00-12:30",
-    "peserta": "27",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI202",
@@ -787,7 +787,7 @@
     "ruang": "04",
     "hari": "Rabu",
     "waktu": "10:00-12:30",
-    "peserta": "28",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI202",
@@ -844,7 +844,7 @@
     "ruang": "03",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI204",
@@ -863,7 +863,7 @@
     "ruang": "04",
     "hari": "Rabu",
     "waktu": "11:00-13:10",
-    "peserta": "22",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI204",
@@ -920,7 +920,7 @@
     "ruang": "TARI",
     "hari": "Kamis",
     "waktu": "10:00-12:30",
-    "peserta": "37",
+    "peserta": "36",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI206",
@@ -939,7 +939,7 @@
     "ruang": "MUSIK",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "23",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI206",
@@ -958,7 +958,7 @@
     "ruang": "TARI",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "12",
+    "peserta": "16",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI206",
@@ -977,7 +977,7 @@
     "ruang": "DRAMA",
     "hari": "Kamis",
     "waktu": "08:00-09:30",
-    "peserta": "7",
+    "peserta": "9",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI212",
@@ -996,7 +996,7 @@
     "ruang": "RUPA",
     "hari": "Kamis",
     "waktu": "08:00-09:30",
-    "peserta": "24",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI212",
@@ -1015,7 +1015,7 @@
     "ruang": "TARI",
     "hari": "Kamis",
     "waktu": "08:00-09:30",
-    "peserta": "31",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI212",
@@ -1034,7 +1034,7 @@
     "ruang": "MUSIK",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "18",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI212",
@@ -1053,7 +1053,7 @@
     "ruang": "TARI",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "17",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI212",
@@ -1072,7 +1072,7 @@
     "ruang": "01",
     "hari": "Rabu",
     "waktu": "08:00-10:30",
-    "peserta": "36",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI302",
@@ -1091,7 +1091,7 @@
     "ruang": "02",
     "hari": "Rabu",
     "waktu": "10:00-12:30",
-    "peserta": "37",
+    "peserta": "36",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI302",
@@ -1110,7 +1110,7 @@
     "ruang": "03",
     "hari": "Senin",
     "waktu": "10:00-12:30",
-    "peserta": "38",
+    "peserta": "47",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI302",
@@ -1129,7 +1129,7 @@
     "ruang": "01",
     "hari": "Selasa",
     "waktu": "09:50-11:30",
-    "peserta": "42",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI304",
@@ -1167,7 +1167,7 @@
     "ruang": "03",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "43",
+    "peserta": "37",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI304",
@@ -1186,7 +1186,7 @@
     "ruang": "04",
     "hari": "Jumat",
     "waktu": "09:50-11:30",
-    "peserta": "2",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI304",
@@ -1224,7 +1224,7 @@
     "ruang": "02",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "37",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI306",
@@ -1243,7 +1243,7 @@
     "ruang": "03",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "25",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI306",
@@ -1262,7 +1262,7 @@
     "ruang": "04",
     "hari": "Kamis",
     "waktu": "11:00-13:10",
-    "peserta": "6",
+    "peserta": "10",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI306",
@@ -1300,7 +1300,7 @@
     "ruang": "02",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "54",
+    "peserta": "52",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI308",
@@ -1319,7 +1319,7 @@
     "ruang": "03",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "54",
+    "peserta": "58",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI308",
@@ -1337,8 +1337,8 @@
     "koordinator": "Ramdiana, S.Sn, M.SnNIP. 197609162006042001",
     "ruang": "DRAMA",
     "hari": "Selasa",
-    "waktu": "10:45-13:15",
-    "peserta": "10",
+    "waktu": "14:00-16:30",
+    "peserta": "8",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI310",
@@ -1357,7 +1357,7 @@
     "ruang": "RUPA",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "15",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI310",
@@ -1376,7 +1376,7 @@
     "ruang": "TARI",
     "hari": "Selasa",
     "waktu": "10:45-13:15",
-    "peserta": "34",
+    "peserta": "39",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI310",
@@ -1414,7 +1414,7 @@
     "ruang": "TARI",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "27",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI310",
@@ -1426,6 +1426,25 @@
   },
   {
     "no": "76",
+    "kode": "SNI310",
+    "nama": "ARTISTIK DAN TEKNOLOGI PRODUKSI SENI",
+    "kelas": "06",
+    "koordinator": "Dra. Tri Supadmi, M.SnNIP. 196702161993032002",
+    "ruang": "TARI",
+    "hari": "Rabu",
+    "waktu": "08:00-10:30",
+    "peserta": "33",
+    "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
+    "kode-peserta": {
+      "data-kode": "SNI310",
+      "data-kelas": "06",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610203"
+    }
+  },
+  {
+    "no": "77",
     "kode": "SNI312",
     "nama": "PRAKTEK KELAS PEMBELAJARAN SENI USIA ANAK DAN REMAJA",
     "kelas": "01",
@@ -1433,7 +1452,7 @@
     "ruang": "DRAMA",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "21",
+    "peserta": "11",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI312",
@@ -1444,7 +1463,7 @@
     }
   },
   {
-    "no": "77",
+    "no": "78",
     "kode": "SNI312",
     "nama": "PRAKTEK KELAS PEMBELAJARAN SENI USIA ANAK DAN REMAJA",
     "kelas": "02",
@@ -1452,7 +1471,7 @@
     "ruang": "RUPA",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "26",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI312",
@@ -1463,7 +1482,7 @@
     }
   },
   {
-    "no": "78",
+    "no": "79",
     "kode": "SNI312",
     "nama": "PRAKTEK KELAS PEMBELAJARAN SENI USIA ANAK DAN REMAJA",
     "kelas": "03",
@@ -1471,7 +1490,7 @@
     "ruang": "TARI",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "27",
+    "peserta": "38",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI312",
@@ -1482,7 +1501,7 @@
     }
   },
   {
-    "no": "79",
+    "no": "80",
     "kode": "SNI312",
     "nama": "PRAKTEK KELAS PEMBELAJARAN SENI USIA ANAK DAN REMAJA",
     "kelas": "04",
@@ -1490,7 +1509,7 @@
     "ruang": "MUSIK",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "26",
+    "peserta": "21",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI312",
@@ -1501,7 +1520,7 @@
     }
   },
   {
-    "no": "80",
+    "no": "81",
     "kode": "SNI312",
     "nama": "PRAKTEK KELAS PEMBELAJARAN SENI USIA ANAK DAN REMAJA",
     "kelas": "05",
@@ -1509,7 +1528,7 @@
     "ruang": "Tari",
     "hari": "Jumat",
     "waktu": "10:45-13:15",
-    "peserta": "18",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI312",
@@ -1520,7 +1539,7 @@
     }
   },
   {
-    "no": "81",
+    "no": "82",
     "kode": "SNI314",
     "nama": "PRAKTEK KETERAMPILAN SENI VI",
     "kelas": "01",
@@ -1539,7 +1558,7 @@
     }
   },
   {
-    "no": "82",
+    "no": "83",
     "kode": "SNI314",
     "nama": "PRAKTEK KETERAMPILAN SENI VI",
     "kelas": "02",
@@ -1547,7 +1566,7 @@
     "ruang": "RUPA",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "12",
+    "peserta": "11",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI314",
@@ -1558,7 +1577,7 @@
     }
   },
   {
-    "no": "83",
+    "no": "84",
     "kode": "SNI314",
     "nama": "PRAKTEK KETERAMPILAN SENI VI",
     "kelas": "03",
@@ -1577,7 +1596,7 @@
     }
   },
   {
-    "no": "84",
+    "no": "85",
     "kode": "SNI314",
     "nama": "PRAKTEK KETERAMPILAN SENI VI",
     "kelas": "04",
@@ -1585,7 +1604,7 @@
     "ruang": "MUSIK",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "29",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI314",
@@ -1596,7 +1615,7 @@
     }
   },
   {
-    "no": "85",
+    "no": "86",
     "kode": "SNI314",
     "nama": "PRAKTEK KETERAMPILAN SENI VI",
     "kelas": "05",
@@ -1604,7 +1623,7 @@
     "ruang": "TARI",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "27",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI314",
@@ -1615,7 +1634,7 @@
     }
   },
   {
-    "no": "86",
+    "no": "87",
     "kode": "SNI405",
     "nama": "TEKNIK KOMPOSISI DAN PENCIPTAAN KARYA SENI",
     "kelas": "01",
@@ -1623,30 +1642,11 @@
     "ruang": "DRAMA",
     "hari": "Senin",
     "waktu": "08:00-11:29",
-    "peserta": "1",
+    "peserta": "0",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI405",
       "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610203"
-    }
-  },
-  {
-    "no": "87",
-    "kode": "SNI405",
-    "nama": "TEKNIK KOMPOSISI DAN PENCIPTAAN KARYA SENI",
-    "kelas": "03",
-    "koordinator": "Dra. Tri Supadmi, M.SnNIP. 196702161993032002",
-    "ruang": "TARI",
-    "hari": "Kamis",
-    "waktu": "14:00-17:29",
-    "peserta": "16",
-    "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
-    "kode-peserta": {
-      "data-kode": "SNI405",
-      "data-kelas": "03",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610203"
@@ -1661,7 +1661,7 @@
     "ruang": "MUSIK",
     "hari": "Senin",
     "waktu": "14:00-17:29",
-    "peserta": "8",
+    "peserta": "2",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI405",
@@ -1680,7 +1680,7 @@
     "ruang": "06",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "45",
+    "peserta": "39",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI502",
@@ -1692,6 +1692,25 @@
   },
   {
     "no": "90",
+    "kode": "SNI502",
+    "nama": "VOKAL (*)",
+    "kelas": "07",
+    "koordinator": "Samsuri, S.Pd., M.Ed.NIP. 198902062015012101",
+    "ruang": "07",
+    "hari": "Rabu",
+    "waktu": "08:00-09:40",
+    "peserta": "32",
+    "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
+    "kode-peserta": {
+      "data-kode": "SNI502",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610203"
+    }
+  },
+  {
+    "no": "91",
     "kode": "SNI504",
     "nama": "TARI JAWA  (*)",
     "kelas": "07",
@@ -1699,7 +1718,7 @@
     "ruang": "07",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "45",
+    "peserta": "36",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI504",
@@ -1710,7 +1729,45 @@
     }
   },
   {
-    "no": "91",
+    "no": "92",
+    "kode": "SNI504",
+    "nama": "TARI JAWA  (*)",
+    "kelas": "08",
+    "koordinator": "Dra. Tri Supadmi, M.SnNIP. 196702161993032002",
+    "ruang": "08",
+    "hari": "Selasa",
+    "waktu": "08:00-09:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
+    "kode-peserta": {
+      "data-kode": "SNI504",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610203"
+    }
+  },
+  {
+    "no": "93",
+    "kode": "SNI504",
+    "nama": "TARI JAWA  (*)",
+    "kelas": "09",
+    "koordinator": "Dra. Tri Supadmi, M.SnNIP. 196702161993032002",
+    "ruang": "09",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
+    "kode-peserta": {
+      "data-kode": "SNI504",
+      "data-kelas": "09",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610203"
+    }
+  },
+  {
+    "no": "94",
     "kode": "SNI506",
     "nama": "KOREOGRAFI  (*)",
     "kelas": "08",
@@ -1718,7 +1775,7 @@
     "ruang": "08",
     "hari": "Kamis",
     "waktu": "09:50-11:30",
-    "peserta": "37",
+    "peserta": "5",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI506",
@@ -1729,7 +1786,26 @@
     }
   },
   {
-    "no": "92",
+    "no": "95",
+    "kode": "SNI506",
+    "nama": "KOREOGRAFI  (*)",
+    "kelas": "09",
+    "koordinator": "Dra. Tri Supadmi, M.SnNIP. 196702161993032002",
+    "ruang": "09",
+    "hari": "Senin",
+    "waktu": "14:00-15:40",
+    "peserta": "37",
+    "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
+    "kode-peserta": {
+      "data-kode": "SNI506",
+      "data-kelas": "09",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610203"
+    }
+  },
+  {
+    "no": "96",
     "kode": "SNI508",
     "nama": "KERAJINAN  (*)",
     "kelas": "09",
@@ -1737,7 +1813,7 @@
     "ruang": "09",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "64",
+    "peserta": "99",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI508",
@@ -1748,7 +1824,7 @@
     }
   },
   {
-    "no": "93",
+    "no": "97",
     "kode": "SNI510",
     "nama": "DESAIN  (*)",
     "kelas": "10",
@@ -1756,7 +1832,7 @@
     "ruang": "10",
     "hari": "Senin",
     "waktu": "09:50-11:30",
-    "peserta": "65",
+    "peserta": "37",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI510",
@@ -1767,7 +1843,45 @@
     }
   },
   {
-    "no": "94",
+    "no": "98",
+    "kode": "SNI510",
+    "nama": "DESAIN  (*)",
+    "kelas": "11",
+    "koordinator": "Ismawan, S.Sn, M.SnNIP. 196808151995121002",
+    "ruang": "11",
+    "hari": "Jumat",
+    "waktu": "08:00-09:40",
+    "peserta": "29",
+    "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
+    "kode-peserta": {
+      "data-kode": "SNI510",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610203"
+    }
+  },
+  {
+    "no": "99",
+    "kode": "SNI510",
+    "nama": "DESAIN  (*)",
+    "kelas": "12",
+    "koordinator": "Ismawan, S.Sn, M.SnNIP. 196808151995121002",
+    "ruang": "12",
+    "hari": "Jumat",
+    "waktu": "10:45-12:25",
+    "peserta": "26",
+    "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
+    "kode-peserta": {
+      "data-kode": "SNI510",
+      "data-kelas": "12",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610203"
+    }
+  },
+  {
+    "no": "100",
     "kode": "SNI512",
     "nama": "PENYUTRADARAAN  (*)",
     "kelas": "05",
@@ -1775,7 +1889,7 @@
     "ruang": "05",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "20",
+    "peserta": "10",
     "keterangan": "KIPS1Pendidikan Seni Drama, Tari dan Musik",
     "kode-peserta": {
       "data-kode": "SNI512",

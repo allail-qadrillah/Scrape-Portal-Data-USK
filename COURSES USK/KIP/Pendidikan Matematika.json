@@ -84,7 +84,7 @@
     "ruang": "LAB MAT",
     "hari": "Selasa",
     "waktu": "14:40-15:40",
-    "peserta": "23",
+    "peserta": "21",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "EDU202",
@@ -160,7 +160,7 @@
     "ruang": "3:02",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "25",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -274,7 +274,7 @@
     "ruang": "MIKRO",
     "hari": "Sabtu",
     "waktu": "10:30-13:10",
-    "peserta": "3",
+    "peserta": "5",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "EDUP07",
@@ -289,11 +289,11 @@
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "01",
-    "koordinator": "Dra. Suryawati, M.PdNIP. 196307171987032001",
+    "koordinator": "Dra. Erni Maidiyah, M.PdNIP. 196405071989032001",
     "ruang": "MIKRO",
     "hari": "Senin",
     "waktu": "12:00-12:00",
-    "peserta": "3",
+    "peserta": "5",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "EDUP09",
@@ -305,25 +305,6 @@
   },
   {
     "no": "17",
-    "kode": "EDUP09",
-    "nama": "PLP II",
-    "kelas": "03",
-    "koordinator": "Dra. Suryawati, M.PdNIP. 196307171987032001",
-    "ruang": "MIKRO",
-    "hari": "Selasa",
-    "waktu": "13:00-14:00",
-    "peserta": "0",
-    "keterangan": "KIPS1Pendidikan Matematika",
-    "kode-peserta": {
-      "data-kode": "EDUP09",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610302"
-    }
-  },
-  {
-    "no": "18",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "01",
@@ -342,7 +323,7 @@
     }
   },
   {
-    "no": "19",
+    "no": "18",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "01",
@@ -361,7 +342,7 @@
     }
   },
   {
-    "no": "20",
+    "no": "19",
     "kode": "PMA106",
     "nama": "KALKULUS INTEGRAL",
     "kelas": "01",
@@ -380,7 +361,7 @@
     }
   },
   {
-    "no": "21",
+    "no": "20",
     "kode": "PMA106",
     "nama": "KALKULUS INTEGRAL",
     "kelas": "02",
@@ -399,7 +380,7 @@
     }
   },
   {
-    "no": "22",
+    "no": "21",
     "kode": "PMA106",
     "nama": "KALKULUS INTEGRAL",
     "kelas": "03",
@@ -418,7 +399,7 @@
     }
   },
   {
-    "no": "23",
+    "no": "22",
     "kode": "PMA106",
     "nama": "KALKULUS INTEGRAL",
     "kelas": "04",
@@ -437,7 +418,7 @@
     }
   },
   {
-    "no": "24",
+    "no": "23",
     "kode": "PMA108",
     "nama": "TEORI HIMPUNAN",
     "kelas": "01",
@@ -456,7 +437,7 @@
     }
   },
   {
-    "no": "25",
+    "no": "24",
     "kode": "PMA108",
     "nama": "TEORI HIMPUNAN",
     "kelas": "02",
@@ -475,7 +456,7 @@
     }
   },
   {
-    "no": "26",
+    "no": "25",
     "kode": "PMA108",
     "nama": "TEORI HIMPUNAN",
     "kelas": "03",
@@ -494,7 +475,7 @@
     }
   },
   {
-    "no": "27",
+    "no": "26",
     "kode": "PMA108",
     "nama": "TEORI HIMPUNAN",
     "kelas": "04",
@@ -513,7 +494,7 @@
     }
   },
   {
-    "no": "28",
+    "no": "27",
     "kode": "PMA110",
     "nama": "FILSAFAT DAN SEJARAH MATEMATIKA",
     "kelas": "01",
@@ -532,7 +513,7 @@
     }
   },
   {
-    "no": "29",
+    "no": "28",
     "kode": "PMA110",
     "nama": "FILSAFAT DAN SEJARAH MATEMATIKA",
     "kelas": "02",
@@ -551,7 +532,7 @@
     }
   },
   {
-    "no": "30",
+    "no": "29",
     "kode": "PMA110",
     "nama": "FILSAFAT DAN SEJARAH MATEMATIKA",
     "kelas": "03",
@@ -570,7 +551,7 @@
     }
   },
   {
-    "no": "31",
+    "no": "30",
     "kode": "PMA110",
     "nama": "FILSAFAT DAN SEJARAH MATEMATIKA",
     "kelas": "04",
@@ -589,7 +570,7 @@
     }
   },
   {
-    "no": "32",
+    "no": "31",
     "kode": "PMA112",
     "nama": "PENGANTAR APLIKASI KOMPUTER",
     "kelas": "01",
@@ -608,7 +589,7 @@
     }
   },
   {
-    "no": "33",
+    "no": "32",
     "kode": "PMA112",
     "nama": "PENGANTAR APLIKASI KOMPUTER",
     "kelas": "02",
@@ -627,7 +608,7 @@
     }
   },
   {
-    "no": "34",
+    "no": "33",
     "kode": "PMA112",
     "nama": "PENGANTAR APLIKASI KOMPUTER",
     "kelas": "03",
@@ -646,7 +627,7 @@
     }
   },
   {
-    "no": "35",
+    "no": "34",
     "kode": "PMA112",
     "nama": "PENGANTAR APLIKASI KOMPUTER",
     "kelas": "04",
@@ -665,7 +646,7 @@
     }
   },
   {
-    "no": "36",
+    "no": "35",
     "kode": "PMA114",
     "nama": "GEOMETRI ANALITIK",
     "kelas": "01",
@@ -684,7 +665,7 @@
     }
   },
   {
-    "no": "37",
+    "no": "36",
     "kode": "PMA114",
     "nama": "GEOMETRI ANALITIK",
     "kelas": "02",
@@ -703,7 +684,7 @@
     }
   },
   {
-    "no": "38",
+    "no": "37",
     "kode": "PMA114",
     "nama": "GEOMETRI ANALITIK",
     "kelas": "03",
@@ -722,7 +703,7 @@
     }
   },
   {
-    "no": "39",
+    "no": "38",
     "kode": "PMA114",
     "nama": "GEOMETRI ANALITIK",
     "kelas": "04",
@@ -741,7 +722,7 @@
     }
   },
   {
-    "no": "40",
+    "no": "39",
     "kode": "PMA116",
     "nama": "KAJIAN MATEMATIKA SMP",
     "kelas": "01",
@@ -749,7 +730,7 @@
     "ruang": "3:02",
     "hari": "Kamis",
     "waktu": "16:20-18:00",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA116",
@@ -760,7 +741,7 @@
     }
   },
   {
-    "no": "41",
+    "no": "40",
     "kode": "PMA116",
     "nama": "KAJIAN MATEMATIKA SMP",
     "kelas": "02",
@@ -779,7 +760,7 @@
     }
   },
   {
-    "no": "42",
+    "no": "41",
     "kode": "PMA116",
     "nama": "KAJIAN MATEMATIKA SMP",
     "kelas": "03",
@@ -787,7 +768,7 @@
     "ruang": "3:10",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "15",
+    "peserta": "16",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA116",
@@ -798,7 +779,7 @@
     }
   },
   {
-    "no": "43",
+    "no": "42",
     "kode": "PMA116",
     "nama": "KAJIAN MATEMATIKA SMP",
     "kelas": "04",
@@ -817,7 +798,7 @@
     }
   },
   {
-    "no": "44",
+    "no": "43",
     "kode": "PMA208",
     "nama": "PERSAMAAN DIFERENSIAL",
     "kelas": "01",
@@ -825,7 +806,7 @@
     "ruang": "2:04A",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "29",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA208",
@@ -836,7 +817,7 @@
     }
   },
   {
-    "no": "45",
+    "no": "44",
     "kode": "PMA208",
     "nama": "PERSAMAAN DIFERENSIAL",
     "kelas": "02",
@@ -844,7 +825,7 @@
     "ruang": "2:04A",
     "hari": "Selasa",
     "waktu": "14:00-17:10",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA208",
@@ -855,7 +836,7 @@
     }
   },
   {
-    "no": "46",
+    "no": "45",
     "kode": "PMA208",
     "nama": "PERSAMAAN DIFERENSIAL",
     "kelas": "03",
@@ -863,7 +844,7 @@
     "ruang": "3:10",
     "hari": "Rabu",
     "waktu": "08:30-13:10",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA208",
@@ -874,7 +855,7 @@
     }
   },
   {
-    "no": "47",
+    "no": "46",
     "kode": "PMA208",
     "nama": "PERSAMAAN DIFERENSIAL",
     "kelas": "04",
@@ -893,7 +874,7 @@
     }
   },
   {
-    "no": "48",
+    "no": "47",
     "kode": "PMA208",
     "nama": "PERSAMAAN DIFERENSIAL",
     "kelas": "05",
@@ -912,7 +893,7 @@
     }
   },
   {
-    "no": "49",
+    "no": "48",
     "kode": "PMA212",
     "nama": "TEORI PELUANG",
     "kelas": "01",
@@ -920,7 +901,7 @@
     "ruang": "3:02",
     "hari": "Senin",
     "waktu": "14:00-15:45",
-    "peserta": "30",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA212",
@@ -931,7 +912,7 @@
     }
   },
   {
-    "no": "50",
+    "no": "49",
     "kode": "PMA212",
     "nama": "TEORI PELUANG",
     "kelas": "02",
@@ -950,7 +931,7 @@
     }
   },
   {
-    "no": "51",
+    "no": "50",
     "kode": "PMA212",
     "nama": "TEORI PELUANG",
     "kelas": "03",
@@ -969,7 +950,7 @@
     }
   },
   {
-    "no": "52",
+    "no": "51",
     "kode": "PMA212",
     "nama": "TEORI PELUANG",
     "kelas": "04",
@@ -988,7 +969,7 @@
     }
   },
   {
-    "no": "53",
+    "no": "52",
     "kode": "PMA212",
     "nama": "TEORI PELUANG",
     "kelas": "05",
@@ -1007,7 +988,7 @@
     }
   },
   {
-    "no": "54",
+    "no": "53",
     "kode": "PMA212",
     "nama": "TEORI PELUANG",
     "kelas": "06",
@@ -1026,7 +1007,7 @@
     }
   },
   {
-    "no": "55",
+    "no": "54",
     "kode": "PMA214",
     "nama": "GEOMETRI TRANSFORMASI",
     "kelas": "01",
@@ -1034,7 +1015,7 @@
     "ruang": "2:04A",
     "hari": "Selasa",
     "waktu": "10:30-13:10",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA214",
@@ -1045,7 +1026,7 @@
     }
   },
   {
-    "no": "56",
+    "no": "55",
     "kode": "PMA214",
     "nama": "GEOMETRI TRANSFORMASI",
     "kelas": "02",
@@ -1064,7 +1045,7 @@
     }
   },
   {
-    "no": "57",
+    "no": "56",
     "kode": "PMA214",
     "nama": "GEOMETRI TRANSFORMASI",
     "kelas": "03",
@@ -1083,7 +1064,7 @@
     }
   },
   {
-    "no": "58",
+    "no": "57",
     "kode": "PMA214",
     "nama": "GEOMETRI TRANSFORMASI",
     "kelas": "04",
@@ -1102,7 +1083,7 @@
     }
   },
   {
-    "no": "59",
+    "no": "58",
     "kode": "PMA216",
     "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
     "kelas": "01",
@@ -1110,7 +1091,7 @@
     "ruang": "LAB MAT",
     "hari": "Rabu",
     "waktu": "14:30-15:40",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA216",
@@ -1121,7 +1102,7 @@
     }
   },
   {
-    "no": "60",
+    "no": "59",
     "kode": "PMA216",
     "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
     "kelas": "02",
@@ -1140,7 +1121,7 @@
     }
   },
   {
-    "no": "61",
+    "no": "60",
     "kode": "PMA216",
     "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
     "kelas": "03",
@@ -1159,7 +1140,7 @@
     }
   },
   {
-    "no": "62",
+    "no": "61",
     "kode": "PMA216",
     "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
     "kelas": "04",
@@ -1167,7 +1148,7 @@
     "ruang": "LAB MAT",
     "hari": "Senin",
     "waktu": "09:40-11:30",
-    "peserta": "32",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA216",
@@ -1178,7 +1159,7 @@
     }
   },
   {
-    "no": "63",
+    "no": "62",
     "kode": "PMA216",
     "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
     "kelas": "05",
@@ -1197,7 +1178,7 @@
     }
   },
   {
-    "no": "64",
+    "no": "63",
     "kode": "PMA216",
     "nama": "MEDIA PEMBELAJARAN MATEMATIKA",
     "kelas": "06",
@@ -1216,7 +1197,7 @@
     }
   },
   {
-    "no": "65",
+    "no": "64",
     "kode": "PMA218",
     "nama": "ANALISIS VEKTOR",
     "kelas": "01",
@@ -1224,7 +1205,7 @@
     "ruang": "3:02",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA218",
@@ -1235,7 +1216,7 @@
     }
   },
   {
-    "no": "66",
+    "no": "65",
     "kode": "PMA218",
     "nama": "ANALISIS VEKTOR",
     "kelas": "02",
@@ -1243,7 +1224,7 @@
     "ruang": "3:10",
     "hari": "Kamis",
     "waktu": "16:00-18:00",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA218",
@@ -1254,7 +1235,7 @@
     }
   },
   {
-    "no": "67",
+    "no": "66",
     "kode": "PMA218",
     "nama": "ANALISIS VEKTOR",
     "kelas": "03",
@@ -1273,7 +1254,7 @@
     }
   },
   {
-    "no": "68",
+    "no": "67",
     "kode": "PMA218",
     "nama": "ANALISIS VEKTOR",
     "kelas": "04",
@@ -1281,7 +1262,7 @@
     "ruang": "2:04A",
     "hari": "Sabtu",
     "waktu": "09:40-11:30",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA218",
@@ -1292,7 +1273,7 @@
     }
   },
   {
-    "no": "69",
+    "no": "68",
     "kode": "PMA218",
     "nama": "ANALISIS VEKTOR",
     "kelas": "05",
@@ -1311,7 +1292,7 @@
     }
   },
   {
-    "no": "70",
+    "no": "69",
     "kode": "PMA218",
     "nama": "ANALISIS VEKTOR",
     "kelas": "06",
@@ -1330,7 +1311,7 @@
     }
   },
   {
-    "no": "71",
+    "no": "70",
     "kode": "PMA220",
     "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
     "kelas": "01",
@@ -1349,7 +1330,7 @@
     }
   },
   {
-    "no": "72",
+    "no": "71",
     "kode": "PMA220",
     "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
     "kelas": "02",
@@ -1368,7 +1349,7 @@
     }
   },
   {
-    "no": "73",
+    "no": "72",
     "kode": "PMA220",
     "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
     "kelas": "03",
@@ -1387,7 +1368,7 @@
     }
   },
   {
-    "no": "74",
+    "no": "73",
     "kode": "PMA220",
     "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
     "kelas": "04",
@@ -1406,7 +1387,7 @@
     }
   },
   {
-    "no": "75",
+    "no": "74",
     "kode": "PMA220",
     "nama": "PERENCANAAN PENGAJARAN MATEMATIKA",
     "kelas": "05",
@@ -1425,7 +1406,7 @@
     }
   },
   {
-    "no": "76",
+    "no": "75",
     "kode": "PMA222",
     "nama": "ALJABAR LINIER",
     "kelas": "01",
@@ -1433,7 +1414,7 @@
     "ruang": "2:04A",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "17",
+    "peserta": "15",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMA222",
@@ -1444,7 +1425,7 @@
     }
   },
   {
-    "no": "77",
+    "no": "76",
     "kode": "PMA222",
     "nama": "ALJABAR LINIER",
     "kelas": "02",
@@ -1463,7 +1444,7 @@
     }
   },
   {
-    "no": "78",
+    "no": "77",
     "kode": "PMA222",
     "nama": "ALJABAR LINIER",
     "kelas": "03",
@@ -1482,7 +1463,7 @@
     }
   },
   {
-    "no": "79",
+    "no": "78",
     "kode": "PMA222",
     "nama": "ALJABAR LINIER",
     "kelas": "04",
@@ -1501,7 +1482,7 @@
     }
   },
   {
-    "no": "80",
+    "no": "79",
     "kode": "PMAP01",
     "nama": "SEMINAR PENDIDIKAN MATEMATIKA",
     "kelas": "01",
@@ -1509,7 +1490,7 @@
     "ruang": "LAB MAT",
     "hari": "Selasa",
     "waktu": "09:40-11:30",
-    "peserta": "13",
+    "peserta": "11",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP01",
@@ -1520,7 +1501,7 @@
     }
   },
   {
-    "no": "81",
+    "no": "80",
     "kode": "PMAP01",
     "nama": "SEMINAR PENDIDIKAN MATEMATIKA",
     "kelas": "02",
@@ -1528,11 +1509,30 @@
     "ruang": "LABMAT",
     "hari": "Rabu",
     "waktu": "11:30-13:10",
-    "peserta": "15",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP01",
       "data-kelas": "02",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610302"
+    }
+  },
+  {
+    "no": "81",
+    "kode": "PMAP02",
+    "nama": "ANALISIS REAL LANJUTAN",
+    "kelas": "01",
+    "koordinator": "Dr. Usman, S.Pd., M.Pd.NIP. 197412312001121003",
+    "ruang": "15:03:004",
+    "hari": "Rabu",
+    "waktu": "10:40-12:10",
+    "peserta": "11",
+    "keterangan": "KIPS1Pendidikan Matematika",
+    "kode-peserta": {
+      "data-kode": "PMAP02",
+      "data-kelas": "01",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610302"
@@ -1542,31 +1542,12 @@
     "no": "82",
     "kode": "PMAP02",
     "nama": "ANALISIS REAL LANJUTAN",
-    "kelas": "01",
-    "koordinator": "Dr. Usman, S.Pd., M.Pd.NIP. 197412312001121003",
-    "ruang": "15:03:004",
-    "hari": "Rabu",
-    "waktu": "10:40-12:10",
-    "peserta": "10",
-    "keterangan": "KIPS1Pendidikan Matematika",
-    "kode-peserta": {
-      "data-kode": "PMAP02",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610302"
-    }
-  },
-  {
-    "no": "83",
-    "kode": "PMAP02",
-    "nama": "ANALISIS REAL LANJUTAN",
     "kelas": "02",
     "koordinator": "Dr. Usman, S.Pd., M.Pd.NIP. 197412312001121003",
     "ruang": "3:10",
     "hari": "Jumat",
     "waktu": "11:00-12:30",
-    "peserta": "2",
+    "peserta": "0",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP02",
@@ -1577,7 +1558,7 @@
     }
   },
   {
-    "no": "84",
+    "no": "83",
     "kode": "PMAP04",
     "nama": "TEORI GRAPH",
     "kelas": "01",
@@ -1585,7 +1566,7 @@
     "ruang": "3:10",
     "hari": "Senin",
     "waktu": "09:40-11:30",
-    "peserta": "22",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP04",
@@ -1596,7 +1577,7 @@
     }
   },
   {
-    "no": "85",
+    "no": "84",
     "kode": "PMAP04",
     "nama": "TEORI GRAPH",
     "kelas": "02",
@@ -1615,7 +1596,7 @@
     }
   },
   {
-    "no": "86",
+    "no": "85",
     "kode": "PMAP04",
     "nama": "TEORI GRAPH",
     "kelas": "03",
@@ -1634,7 +1615,7 @@
     }
   },
   {
-    "no": "87",
+    "no": "86",
     "kode": "PMAP06",
     "nama": "WORKSHOP PENULISAN ARTIKEL & POSTER",
     "kelas": "01",
@@ -1653,7 +1634,7 @@
     }
   },
   {
-    "no": "88",
+    "no": "87",
     "kode": "PMAP06",
     "nama": "WORKSHOP PENULISAN ARTIKEL & POSTER",
     "kelas": "02",
@@ -1672,7 +1653,7 @@
     }
   },
   {
-    "no": "89",
+    "no": "88",
     "kode": "PMAP06",
     "nama": "WORKSHOP PENULISAN ARTIKEL & POSTER",
     "kelas": "03",
@@ -1680,7 +1661,7 @@
     "ruang": "3:10",
     "hari": "Senin",
     "waktu": "17:10-18:30",
-    "peserta": "29",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP06",
@@ -1691,7 +1672,7 @@
     }
   },
   {
-    "no": "90",
+    "no": "89",
     "kode": "PMAP08",
     "nama": "PENGEMBANGAN KEWIRAUSAHAAN PENDIDIK",
     "kelas": "01",
@@ -1710,7 +1691,7 @@
     }
   },
   {
-    "no": "91",
+    "no": "90",
     "kode": "PMAP08",
     "nama": "PENGEMBANGAN KEWIRAUSAHAAN PENDIDIK",
     "kelas": "02",
@@ -1729,7 +1710,7 @@
     }
   },
   {
-    "no": "92",
+    "no": "91",
     "kode": "PMAP08",
     "nama": "PENGEMBANGAN KEWIRAUSAHAAN PENDIDIK",
     "kelas": "03",
@@ -1737,7 +1718,7 @@
     "ruang": "2:04A",
     "hari": "Sabtu",
     "waktu": "12:00-14:30",
-    "peserta": "26",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP08",
@@ -1748,7 +1729,7 @@
     }
   },
   {
-    "no": "93",
+    "no": "92",
     "kode": "PMAP10",
     "nama": "GEOMETRI MELUKIS",
     "kelas": "01",
@@ -1767,7 +1748,7 @@
     }
   },
   {
-    "no": "94",
+    "no": "93",
     "kode": "PMAP10",
     "nama": "GEOMETRI MELUKIS",
     "kelas": "02",
@@ -1775,7 +1756,7 @@
     "ruang": "LAB MAT",
     "hari": "Jumat",
     "waktu": "16:00-18:40",
-    "peserta": "32",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP10",
@@ -1786,7 +1767,7 @@
     }
   },
   {
-    "no": "95",
+    "no": "94",
     "kode": "PMAP10",
     "nama": "GEOMETRI MELUKIS",
     "kelas": "03",
@@ -1794,7 +1775,7 @@
     "ruang": "LAB",
     "hari": "Jumat",
     "waktu": "12:30-14:30",
-    "peserta": "1",
+    "peserta": "2",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP10",
@@ -1805,7 +1786,7 @@
     }
   },
   {
-    "no": "96",
+    "no": "95",
     "kode": "PMAP12",
     "nama": "SISTEM-SISTEM GEOMETRI",
     "kelas": "01",
@@ -1813,7 +1794,7 @@
     "ruang": "LAB MAT",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "12",
+    "peserta": "11",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP12",
@@ -1824,7 +1805,7 @@
     }
   },
   {
-    "no": "97",
+    "no": "96",
     "kode": "PMAP12",
     "nama": "SISTEM-SISTEM GEOMETRI",
     "kelas": "02",
@@ -1832,7 +1813,7 @@
     "ruang": "LAB MAT",
     "hari": "Sabtu",
     "waktu": "11:30-13:30",
-    "peserta": "16",
+    "peserta": "13",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP12",
@@ -1843,7 +1824,7 @@
     }
   },
   {
-    "no": "98",
+    "no": "97",
     "kode": "PMAP12",
     "nama": "SISTEM-SISTEM GEOMETRI",
     "kelas": "03",
@@ -1862,7 +1843,7 @@
     }
   },
   {
-    "no": "99",
+    "no": "98",
     "kode": "PMAP14",
     "nama": "PENDIDIKAN KARAKTER",
     "kelas": "01",
@@ -1881,7 +1862,7 @@
     }
   },
   {
-    "no": "100",
+    "no": "99",
     "kode": "PMAP14",
     "nama": "PENDIDIKAN KARAKTER",
     "kelas": "02",
@@ -1889,7 +1870,7 @@
     "ruang": "LAB KOM 20:07",
     "hari": "Selasa",
     "waktu": "14:30-15:04",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP14",
@@ -1900,7 +1881,7 @@
     }
   },
   {
-    "no": "101",
+    "no": "100",
     "kode": "PMAP14",
     "nama": "PENDIDIKAN KARAKTER",
     "kelas": "03",
@@ -1908,7 +1889,7 @@
     "ruang": "PROD",
     "hari": "Jumat",
     "waktu": "12:30-14:30",
-    "peserta": "1",
+    "peserta": "2",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP14",
@@ -1919,7 +1900,7 @@
     }
   },
   {
-    "no": "102",
+    "no": "101",
     "kode": "PMAP16",
     "nama": "KOMPUTASI STATISTIK",
     "kelas": "01",
@@ -1938,7 +1919,7 @@
     }
   },
   {
-    "no": "103",
+    "no": "102",
     "kode": "PMAP16",
     "nama": "KOMPUTASI STATISTIK",
     "kelas": "02",
@@ -1946,7 +1927,7 @@
     "ruang": "labkom 20:07",
     "hari": "Rabu",
     "waktu": "16:30-18:04",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP16",
@@ -1957,7 +1938,7 @@
     }
   },
   {
-    "no": "104",
+    "no": "103",
     "kode": "PMAP16",
     "nama": "KOMPUTASI STATISTIK",
     "kelas": "03",
@@ -1965,7 +1946,7 @@
     "ruang": "LABKOM",
     "hari": "Jumat",
     "waktu": "12:30-14:30",
-    "peserta": "0",
+    "peserta": "1",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP16",
@@ -1976,7 +1957,7 @@
     }
   },
   {
-    "no": "105",
+    "no": "104",
     "kode": "PMAP18",
     "nama": "PEMROGRAMAN MATLAB",
     "kelas": "01",
@@ -1984,7 +1965,7 @@
     "ruang": "LAB KOM 20:07",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "28",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP18",
@@ -1995,7 +1976,7 @@
     }
   },
   {
-    "no": "106",
+    "no": "105",
     "kode": "PMAP18",
     "nama": "PEMROGRAMAN MATLAB",
     "kelas": "02",
@@ -2003,7 +1984,7 @@
     "ruang": "LABKOM 20:07",
     "hari": "Selasa",
     "waktu": "09:40-11:30",
-    "peserta": "26",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP18",
@@ -2014,7 +1995,7 @@
     }
   },
   {
-    "no": "107",
+    "no": "106",
     "kode": "PMAP18",
     "nama": "PEMROGRAMAN MATLAB",
     "kelas": "03",
@@ -2022,7 +2003,7 @@
     "ruang": "LABKOM",
     "hari": "Jumat",
     "waktu": "12:30-14:30",
-    "peserta": "11",
+    "peserta": "14",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP18",
@@ -2033,7 +2014,7 @@
     }
   },
   {
-    "no": "108",
+    "no": "107",
     "kode": "PMAP20",
     "nama": "PENDEKATAN MATEMATIKA REALISTIK DENGAN KONTEKS LOKAL",
     "kelas": "01",
@@ -2052,7 +2033,7 @@
     }
   },
   {
-    "no": "109",
+    "no": "108",
     "kode": "PMAP20",
     "nama": "PENDEKATAN MATEMATIKA REALISTIK DENGAN KONTEKS LOKAL",
     "kelas": "02",
@@ -2071,7 +2052,7 @@
     }
   },
   {
-    "no": "110",
+    "no": "109",
     "kode": "PMAP20",
     "nama": "PENDEKATAN MATEMATIKA REALISTIK DENGAN KONTEKS LOKAL",
     "kelas": "03",
@@ -2079,7 +2060,7 @@
     "ruang": "PRODI",
     "hari": "Jumat",
     "waktu": "12:30-14:30",
-    "peserta": "26",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP20",
@@ -2090,7 +2071,7 @@
     }
   },
   {
-    "no": "111",
+    "no": "110",
     "kode": "PMAP22",
     "nama": "MIXED-METHOD DESIGN",
     "kelas": "01",
@@ -2109,7 +2090,7 @@
     }
   },
   {
-    "no": "112",
+    "no": "111",
     "kode": "PMAP22",
     "nama": "MIXED-METHOD DESIGN",
     "kelas": "02",
@@ -2128,7 +2109,7 @@
     }
   },
   {
-    "no": "113",
+    "no": "112",
     "kode": "PMAP22",
     "nama": "MIXED-METHOD DESIGN",
     "kelas": "03",
@@ -2147,7 +2128,7 @@
     }
   },
   {
-    "no": "114",
+    "no": "113",
     "kode": "PMAP24",
     "nama": "MATEMATIKA EKONOMI",
     "kelas": "01",
@@ -2155,7 +2136,7 @@
     "ruang": "3:10",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP24",
@@ -2166,7 +2147,7 @@
     }
   },
   {
-    "no": "115",
+    "no": "114",
     "kode": "PMAP24",
     "nama": "MATEMATIKA EKONOMI",
     "kelas": "02",
@@ -2185,7 +2166,7 @@
     }
   },
   {
-    "no": "116",
+    "no": "115",
     "kode": "PMAP24",
     "nama": "MATEMATIKA EKONOMI",
     "kelas": "03",
@@ -2193,7 +2174,7 @@
     "ruang": "LAB",
     "hari": "Jumat",
     "waktu": "14:30-15:40",
-    "peserta": "27",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Matematika",
     "kode-peserta": {
       "data-kode": "PMAP24",

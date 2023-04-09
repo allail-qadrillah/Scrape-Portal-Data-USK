@@ -27,7 +27,7 @@
     "ruang": "3.04",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "EDU101",
@@ -46,7 +46,7 @@
     "ruang": "2.06 A",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "EDU101",
@@ -84,7 +84,7 @@
     "ruang": "3.13",
     "hari": "Sabtu",
     "waktu": "16:20-18:00",
-    "peserta": "18",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "EDU201",
@@ -103,7 +103,7 @@
     "ruang": "2.06 A",
     "hari": "Sabtu",
     "waktu": "11:30-13:10",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "EDU201",
@@ -236,7 +236,7 @@
     "ruang": "LAPANGAN",
     "hari": "Senin",
     "waktu": "8:00-13:00",
-    "peserta": "92",
+    "peserta": "94",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "EDUPA1",
@@ -293,7 +293,7 @@
     "ruang": "3.13",
     "hari": "Selasa",
     "waktu": "10:40-13:10",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE102",
@@ -312,7 +312,7 @@
     "ruang": "2.06 A",
     "hari": "Selasa",
     "waktu": "10:40-13:10",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE102",
@@ -350,7 +350,7 @@
     "ruang": "LAB FISIKA",
     "hari": "Rabu",
     "waktu": "11:30-13:10",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE104",
@@ -369,7 +369,7 @@
     "ruang": "LAB FISIKA",
     "hari": "Rabu",
     "waktu": "8:00-9:40",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE104",
@@ -407,7 +407,7 @@
     "ruang": "3.04",
     "hari": "Selasa",
     "waktu": "8:00-10:30",
-    "peserta": "19",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE106",
@@ -445,7 +445,7 @@
     "ruang": "3.04",
     "hari": "Selasa",
     "waktu": "16:20-18:10",
-    "peserta": "18",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE108",
@@ -483,7 +483,7 @@
     "ruang": "2.06 A",
     "hari": "Senin",
     "waktu": "16:20-18:10",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE108",
@@ -711,7 +711,7 @@
     "ruang": "LAB FISIKA",
     "hari": "Jumat",
     "waktu": "8:00-10:30",
-    "peserta": "18",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE208",
@@ -844,7 +844,7 @@
     "ruang": "2.06A",
     "hari": "Jumat",
     "waktu": "8:00-10:30",
-    "peserta": "21",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE214",
@@ -882,7 +882,7 @@
     "ruang": "3.13",
     "hari": "Jumat",
     "waktu": "14:00-17:10",
-    "peserta": "21",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE214",
@@ -958,7 +958,7 @@
     "ruang": "LAB FISIKA",
     "hari": "Kamis",
     "waktu": "16:30-18:10",
-    "peserta": "32",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE216",
@@ -1072,7 +1072,7 @@
     "ruang": "3.04",
     "hari": "Jumat",
     "waktu": "8:00-10:30",
-    "peserta": "9",
+    "peserta": "7",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE304",
@@ -1319,7 +1319,7 @@
     "ruang": "2.06 A",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "0",
+    "peserta": "5",
     "keterangan": "KIPS1Pendidikan Fisika",
     "kode-peserta": {
       "data-kode": "PHE508",

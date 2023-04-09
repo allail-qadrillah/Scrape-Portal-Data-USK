@@ -8,7 +8,7 @@
     "ruang": "jurusan",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "27",
+    "peserta": "24",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -27,7 +27,7 @@
     "ruang": "jurusan",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "28",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -65,7 +65,7 @@
     "ruang": "jurusan",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "20",
+    "peserta": "41",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "MKSP02",
@@ -103,7 +103,7 @@
     "ruang": "jurusan",
     "hari": "Rabu",
     "waktu": "08:00-11:30",
-    "peserta": "23",
+    "peserta": "21",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB102",
@@ -331,7 +331,7 @@
     "ruang": "jurusan",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "9",
+    "peserta": "10",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB202",
@@ -350,7 +350,7 @@
     "ruang": "jurusan",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB202",
@@ -369,7 +369,7 @@
     "ruang": "jurusan",
     "hari": "Selasa",
     "waktu": "16:35-18:00",
-    "peserta": "24",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB204",
@@ -388,7 +388,7 @@
     "ruang": "jurusan",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB204",
@@ -426,7 +426,7 @@
     "ruang": "jurusan",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "32",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB208",
@@ -445,7 +445,7 @@
     "ruang": "jurusan",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "32",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB208",
@@ -464,7 +464,7 @@
     "ruang": "jurusan",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "2",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB208",
@@ -483,7 +483,7 @@
     "ruang": "jurusan",
     "hari": "Rabu",
     "waktu": "08:00-10:30",
-    "peserta": "9",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB210",
@@ -502,7 +502,7 @@
     "ruang": "jurusan",
     "hari": "Rabu",
     "waktu": "08:00-10:30",
-    "peserta": "28",
+    "peserta": "32",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB210",
@@ -521,7 +521,7 @@
     "ruang": "jurusan",
     "hari": "Rabu",
     "waktu": "08:00-10:30",
-    "peserta": "30",
+    "peserta": "35",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB210",
@@ -540,7 +540,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "16:35-18:00",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB218",
@@ -559,7 +559,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "16:35-18:00",
-    "peserta": "10",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB218",
@@ -616,7 +616,7 @@
     "ruang": "jurusan",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "14",
+    "peserta": "18",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB220",
@@ -635,7 +635,7 @@
     "ruang": "jurusan",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "27",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB220",
@@ -654,7 +654,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "30",
+    "peserta": "34",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB222",
@@ -673,7 +673,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB222",
@@ -692,7 +692,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "4",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB222",
@@ -711,7 +711,7 @@
     "ruang": "jurusan",
     "hari": "Rabu",
     "waktu": "16:30-18:00",
-    "peserta": "24",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB224",
@@ -764,11 +764,11 @@
     "kode": "TPB314",
     "nama": "MANAJEMEN TAMBANG",
     "kelas": "11",
-    "koordinator": "Nurul Kamal, ST., M.ScNIP. 196903232014011101",
+    "koordinator": "Ir.. Nurul Kamal, ST., M.ScNIP. 196903232014011101",
     "ruang": "jurusan",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB314",
@@ -787,7 +787,7 @@
     "ruang": "jurusan",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "8",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB314",
@@ -806,7 +806,7 @@
     "ruang": "jurusan",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "22",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB314",
@@ -825,7 +825,7 @@
     "ruang": "jurusan",
     "hari": "Jumat",
     "waktu": "16:35-18:00",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB316",
@@ -844,7 +844,7 @@
     "ruang": "jurusan",
     "hari": "Jumat",
     "waktu": "16:35-18:00",
-    "peserta": "28",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB316",
@@ -882,7 +882,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "71",
+    "peserta": "72",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB318",
@@ -901,7 +901,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "10:45-13:15",
-    "peserta": "5",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB415",
@@ -920,7 +920,7 @@
     "ruang": "jurusan",
     "hari": "Selasa",
     "waktu": "11:35-13:15",
-    "peserta": "40",
+    "peserta": "35",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB510",
@@ -939,7 +939,7 @@
     "ruang": "jurusan",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "30",
+    "peserta": "19",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB512",
@@ -958,7 +958,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "10:45-13:15",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB514",
@@ -977,7 +977,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "1",
+    "peserta": "3",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB516",
@@ -996,7 +996,7 @@
     "ruang": "jurusan",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "2",
+    "peserta": "8",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB518",
@@ -1015,7 +1015,7 @@
     "ruang": "jurusan",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "20",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB522",
@@ -1034,7 +1034,7 @@
     "ruang": "jurusan",
     "hari": "Jumat",
     "waktu": "10:45-12:45",
-    "peserta": "39",
+    "peserta": "35",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB524",
@@ -1053,7 +1053,7 @@
     "ruang": "jurusan",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "40",
+    "peserta": "46",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB526",
@@ -1091,7 +1091,7 @@
     "ruang": "jurusan",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "6",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB530",
@@ -1110,7 +1110,7 @@
     "ruang": "jurusan",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "7",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB532",
@@ -1129,7 +1129,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "14:00-16:40",
-    "peserta": "32",
+    "peserta": "24",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB534",
@@ -1148,7 +1148,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "16:35-18:00",
-    "peserta": "10",
+    "peserta": "18",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB536",
@@ -1186,7 +1186,7 @@
     "ruang": "jurusan",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "14",
+    "peserta": "15",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB540",
@@ -1205,7 +1205,7 @@
     "ruang": "jurusan",
     "hari": "Selasa",
     "waktu": "16:35-18:00",
-    "peserta": "6",
+    "peserta": "2",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB542",
@@ -1243,7 +1243,7 @@
     "ruang": "jurusan",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "16",
+    "peserta": "14",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB546",
@@ -1262,7 +1262,7 @@
     "ruang": "jurusan",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "11",
+    "peserta": "16",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB548",
@@ -1281,7 +1281,7 @@
     "ruang": "jurusan",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "2",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPB550",
@@ -1300,7 +1300,7 @@
     "ruang": "jurusan",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "15",
+    "peserta": "18",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPBP02",
@@ -1319,7 +1319,7 @@
     "ruang": "jurusan",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "87",
+    "peserta": "84",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPBP04",
@@ -1338,7 +1338,7 @@
     "ruang": "jurusan",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "62",
+    "peserta": "74",
     "keterangan": "TeknikS1Teknik Pertambangan",
     "kode-peserta": {
       "data-kode": "TPBPA2",

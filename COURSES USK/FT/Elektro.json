@@ -8,7 +8,7 @@
     "ruang": "RKTE -1",
     "hari": "Jumat",
     "waktu": "12:00-15:00",
-    "peserta": "5",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "FTEP01",
@@ -27,7 +27,7 @@
     "ruang": "RKTE -1",
     "hari": "Selasa",
     "waktu": "12:00-14:00",
-    "peserta": "1",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "FTEP02",
@@ -65,7 +65,7 @@
     "ruang": "RKTE",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "38",
+    "peserta": "36",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -84,7 +84,7 @@
     "ruang": "RKTE",
     "hari": "Senin",
     "waktu": "08:00-10:45",
-    "peserta": "13",
+    "peserta": "15",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "FTT302",
@@ -103,7 +103,7 @@
     "ruang": "A14-302",
     "hari": "Selasa",
     "waktu": "10:00-12:00",
-    "peserta": "28",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "MKSPO2",
@@ -141,7 +141,7 @@
     "ruang": "A14-302",
     "hari": "Senin",
     "waktu": "10:45-12:25",
-    "peserta": "27",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE102",
@@ -179,7 +179,7 @@
     "ruang": "A14-301",
     "hari": "Senin",
     "waktu": "8:00-10:30",
-    "peserta": "33",
+    "peserta": "32",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE104",
@@ -194,11 +194,11 @@
     "kode": "TLE104",
     "nama": "ALJABAR LINIER DAN VARIABEL KOMPLEKS",
     "kelas": "12",
-    "koordinator": "Dr. Ir. Roslidar, ST., M.Sc., IPMNIP. 197807192002122002",
+    "koordinator": "Dr. Ir. Roslidar, ST., M.Sc., IPM. ASEAN Eng.NIP. 197807192002122002",
     "ruang": "A14-302",
     "hari": "Jumat",
     "waktu": "8:00-10:30",
-    "peserta": "24",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE104",
@@ -293,7 +293,7 @@
     "ruang": "A25 - 201",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "29",
+    "peserta": "31",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE110",
@@ -312,7 +312,7 @@
     "ruang": "A25 - 202",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "24",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE110",
@@ -350,7 +350,7 @@
     "ruang": "A14-301",
     "hari": "Senin",
     "waktu": "16:35-18:15",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE112",
@@ -369,7 +369,7 @@
     "ruang": "A14-302",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "16",
+    "peserta": "18",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE112",
@@ -407,7 +407,7 @@
     "ruang": "A25 - 202",
     "hari": "Selasa",
     "waktu": "10:45-12:25",
-    "peserta": "39",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE206",
@@ -426,7 +426,7 @@
     "ruang": "RKTE",
     "hari": "Selasa",
     "waktu": "10:45-12:25",
-    "peserta": "39",
+    "peserta": "28",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE206",
@@ -441,11 +441,11 @@
     "kode": "TLE206",
     "nama": "MANAJEMEN DAN EKONOMI TEKNIK",
     "kelas": "13",
-    "koordinator": "Ir. Ahmadiar, S.T., M.Sc.NIP. 198006252008121001",
+    "koordinator": "Dr. Ir. Syahrial, M.Eng., IPMNIP. 196401121992031003",
     "ruang": "RKTE -1",
     "hari": "Selasa",
     "waktu": "10:45-12:25",
-    "peserta": "0",
+    "peserta": "21",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE206",
@@ -464,7 +464,7 @@
     "ruang": "RKTE",
     "hari": "Rabu",
     "waktu": "8:00-9:40",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE208",
@@ -483,7 +483,7 @@
     "ruang": "A14 - 304",
     "hari": "Rabu",
     "waktu": "8:00-9:40",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE208",
@@ -540,7 +540,7 @@
     "ruang": "RKTE",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "32",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE214",
@@ -578,7 +578,7 @@
     "ruang": "A25-202",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "37",
+    "peserta": "30",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE216",
@@ -597,7 +597,7 @@
     "ruang": "RKTE -2",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "36",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE216",
@@ -609,6 +609,25 @@
   },
   {
     "no": "33",
+    "kode": "TLE216",
+    "nama": "DASAR SISTEM TELEKOMUNIKASI + LAB",
+    "kelas": "13",
+    "koordinator": "Dr. Ir. Syahrial, M.Eng., IPMNIP. 196401121992031003",
+    "ruang": "Lab Komputer",
+    "hari": "Selasa",
+    "waktu": "14:00-15:40",
+    "peserta": "19",
+    "keterangan": "TeknikS1Teknik Elektro",
+    "kode-peserta": {
+      "data-kode": "TLE216",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410501"
+    }
+  },
+  {
+    "no": "34",
     "kode": "TLE218",
     "nama": "DASAR SISTEM KENDALI + LAB",
     "kelas": "11",
@@ -627,7 +646,7 @@
     }
   },
   {
-    "no": "34",
+    "no": "35",
     "kode": "TLE218",
     "nama": "DASAR SISTEM KENDALI + LAB",
     "kelas": "12",
@@ -646,7 +665,7 @@
     }
   },
   {
-    "no": "35",
+    "no": "36",
     "kode": "TLE218",
     "nama": "DASAR SISTEM KENDALI + LAB",
     "kelas": "13",
@@ -654,7 +673,7 @@
     "ruang": "RKTE",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "15",
+    "peserta": "18",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE218",
@@ -665,7 +684,7 @@
     }
   },
   {
-    "no": "36",
+    "no": "37",
     "kode": "TLE220",
     "nama": "RANGKAIAN LISTRIK II + LAB",
     "kelas": "11",
@@ -684,7 +703,7 @@
     }
   },
   {
-    "no": "37",
+    "no": "38",
     "kode": "TLE220",
     "nama": "RANGKAIAN LISTRIK II + LAB",
     "kelas": "12",
@@ -692,7 +711,7 @@
     "ruang": "A12- 301",
     "hari": "Kamis",
     "waktu": "10:45-12:25",
-    "peserta": "32",
+    "peserta": "34",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE220",
@@ -703,7 +722,7 @@
     }
   },
   {
-    "no": "38",
+    "no": "39",
     "kode": "TLE220",
     "nama": "RANGKAIAN LISTRIK II + LAB",
     "kelas": "13",
@@ -711,7 +730,7 @@
     "ruang": "RKTE",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "23",
+    "peserta": "22",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE220",
@@ -722,7 +741,7 @@
     }
   },
   {
-    "no": "39",
+    "no": "40",
     "kode": "TLE222",
     "nama": "DASAR ELEKTRONIKA + LAB",
     "kelas": "11",
@@ -741,7 +760,7 @@
     }
   },
   {
-    "no": "40",
+    "no": "41",
     "kode": "TLE222",
     "nama": "DASAR ELEKTRONIKA + LAB",
     "kelas": "12",
@@ -749,7 +768,7 @@
     "ruang": "RKTE",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "24",
+    "peserta": "26",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE222",
@@ -760,7 +779,7 @@
     }
   },
   {
-    "no": "41",
+    "no": "42",
     "kode": "TLE222",
     "nama": "DASAR ELEKTRONIKA + LAB",
     "kelas": "13",
@@ -768,7 +787,7 @@
     "ruang": "RKTE",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "26",
+    "peserta": "29",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE222",
@@ -779,7 +798,7 @@
     }
   },
   {
-    "no": "42",
+    "no": "43",
     "kode": "TLE301",
     "nama": "TATA TULIS ILMIAH",
     "kelas": "11",
@@ -787,7 +806,7 @@
     "ruang": "RKTE -1",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "12",
+    "peserta": "10",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE301",
@@ -798,7 +817,7 @@
     }
   },
   {
-    "no": "43",
+    "no": "44",
     "kode": "TLE301",
     "nama": "TATA TULIS ILMIAH",
     "kelas": "12",
@@ -806,7 +825,7 @@
     "ruang": "RKTE -1",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "2",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE301",
@@ -817,7 +836,7 @@
     }
   },
   {
-    "no": "44",
+    "no": "45",
     "kode": "TLE302",
     "nama": "METODE PENELITIAN",
     "kelas": "11",
@@ -825,7 +844,7 @@
     "ruang": "RKTE 3",
     "hari": "Selasa",
     "waktu": "10:45-12:25",
-    "peserta": "25",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE302",
@@ -836,7 +855,7 @@
     }
   },
   {
-    "no": "45",
+    "no": "46",
     "kode": "TLE302",
     "nama": "METODE PENELITIAN",
     "kelas": "12",
@@ -855,7 +874,7 @@
     }
   },
   {
-    "no": "46",
+    "no": "47",
     "kode": "TLE303",
     "nama": "SISTEM MIKROPROSESOR + LAB",
     "kelas": "11",
@@ -863,7 +882,7 @@
     "ruang": "A25-202",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE303",
@@ -874,7 +893,7 @@
     }
   },
   {
-    "no": "47",
+    "no": "48",
     "kode": "TLE303",
     "nama": "SISTEM MIKROPROSESOR + LAB",
     "kelas": "12",
@@ -882,7 +901,7 @@
     "ruang": "RKTE -1",
     "hari": "Kamis",
     "waktu": "10:45-13:15",
-    "peserta": "20",
+    "peserta": "22",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE303",
@@ -893,7 +912,7 @@
     }
   },
   {
-    "no": "48",
+    "no": "49",
     "kode": "TLE304",
     "nama": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
     "kelas": "11",
@@ -912,7 +931,7 @@
     }
   },
   {
-    "no": "49",
+    "no": "50",
     "kode": "TLE304",
     "nama": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
     "kelas": "12",
@@ -920,7 +939,7 @@
     "ruang": "Rkte2",
     "hari": "Selasa",
     "waktu": "10:45-12:15",
-    "peserta": "24",
+    "peserta": "34",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE304",
@@ -931,7 +950,26 @@
     }
   },
   {
-    "no": "50",
+    "no": "51",
+    "kode": "TLE304",
+    "nama": "ORGANISASI DAN ARSITEKTUR KOMPUTER",
+    "kelas": "13",
+    "koordinator": "Safrizal, S.T., M.T.NIP. 198212132018031001",
+    "ruang": "RKTE -1",
+    "hari": "Selasa",
+    "waktu": "10:45-12:00",
+    "peserta": "14",
+    "keterangan": "TeknikS1Teknik Elektro",
+    "kode-peserta": {
+      "data-kode": "TLE304",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410501"
+    }
+  },
+  {
+    "no": "52",
     "kode": "TLE305",
     "nama": "PENGOLAHAN SINYAL DIGITAL + LAB",
     "kelas": "11",
@@ -939,7 +977,7 @@
     "ruang": "RKTE -1",
     "hari": "Selasa",
     "waktu": "10:45-13:15",
-    "peserta": "9",
+    "peserta": "15",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE305",
@@ -950,7 +988,7 @@
     }
   },
   {
-    "no": "51",
+    "no": "53",
     "kode": "TLE305",
     "nama": "PENGOLAHAN SINYAL DIGITAL + LAB",
     "kelas": "12",
@@ -958,7 +996,7 @@
     "ruang": "A25-202",
     "hari": "Selasa",
     "waktu": "10:45-13:15",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE305",
@@ -969,7 +1007,7 @@
     }
   },
   {
-    "no": "52",
+    "no": "54",
     "kode": "TLE309",
     "nama": "PENGUKURAN DAN INSTRUMENTASI",
     "kelas": "11",
@@ -988,7 +1026,7 @@
     }
   },
   {
-    "no": "53",
+    "no": "55",
     "kode": "TLE309",
     "nama": "PENGUKURAN DAN INSTRUMENTASI",
     "kelas": "12",
@@ -996,7 +1034,7 @@
     "ruang": "RKTE -1",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "24",
+    "peserta": "22",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE309",
@@ -1007,7 +1045,7 @@
     }
   },
   {
-    "no": "54",
+    "no": "56",
     "kode": "TLE311",
     "nama": "MEDAN ELEKTROMAGNETIK",
     "kelas": "11",
@@ -1026,7 +1064,7 @@
     }
   },
   {
-    "no": "55",
+    "no": "57",
     "kode": "TLE311",
     "nama": "MEDAN ELEKTROMAGNETIK",
     "kelas": "12",
@@ -1034,7 +1072,7 @@
     "ruang": "RKTE -2",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "10",
+    "peserta": "9",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE311",
@@ -1045,7 +1083,7 @@
     }
   },
   {
-    "no": "56",
+    "no": "58",
     "kode": "TLE313",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "11",
@@ -1053,7 +1091,7 @@
     "ruang": "RKTE -2",
     "hari": "Selasa",
     "waktu": "10:40-12:25",
-    "peserta": "31",
+    "peserta": "21",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE313",
@@ -1064,7 +1102,7 @@
     }
   },
   {
-    "no": "57",
+    "no": "59",
     "kode": "TLE313",
     "nama": "MANAJEMEN PROYEK",
     "kelas": "12",
@@ -1072,7 +1110,7 @@
     "ruang": "RKTE -1",
     "hari": "Selasa",
     "waktu": "08:00-10:45",
-    "peserta": "35",
+    "peserta": "31",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE313",
@@ -1083,7 +1121,26 @@
     }
   },
   {
-    "no": "58",
+    "no": "60",
+    "kode": "TLE313",
+    "nama": "MANAJEMEN PROYEK",
+    "kelas": "13",
+    "koordinator": "Dr. Ir. Syahrial, M.Eng., IPMNIP. 196401121992031003",
+    "ruang": "A25-202",
+    "hari": "Selasa",
+    "waktu": "08:00-08:40",
+    "peserta": "13",
+    "keterangan": "TeknikS1Teknik Elektro",
+    "kode-peserta": {
+      "data-kode": "TLE313",
+      "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410501"
+    }
+  },
+  {
+    "no": "61",
     "kode": "TLE315",
     "nama": "ETIKA DAN PROFESIONALISME",
     "kelas": "11",
@@ -1091,7 +1148,7 @@
     "ruang": "RKTE -1",
     "hari": "Senin",
     "waktu": "10:45-12:25",
-    "peserta": "29",
+    "peserta": "26",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE315",
@@ -1102,7 +1159,7 @@
     }
   },
   {
-    "no": "59",
+    "no": "62",
     "kode": "TLE315",
     "nama": "ETIKA DAN PROFESIONALISME",
     "kelas": "12",
@@ -1121,7 +1178,7 @@
     }
   },
   {
-    "no": "60",
+    "no": "63",
     "kode": "TLE502",
     "nama": "ELEKTRONIKA DAYA + LAB",
     "kelas": "11",
@@ -1129,7 +1186,7 @@
     "ruang": "Lab Elektronika daya",
     "hari": "Senin",
     "waktu": "10:45-12:25",
-    "peserta": "3",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE502",
@@ -1140,7 +1197,7 @@
     }
   },
   {
-    "no": "61",
+    "no": "64",
     "kode": "TLE504",
     "nama": "TEKNIK TEGANGAN TINGGI",
     "kelas": "11",
@@ -1148,7 +1205,7 @@
     "ruang": "RKTE",
     "hari": "Kamis",
     "waktu": "10:45-12:05",
-    "peserta": "20",
+    "peserta": "18",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE504",
@@ -1159,7 +1216,7 @@
     }
   },
   {
-    "no": "62",
+    "no": "65",
     "kode": "TLE506",
     "nama": "PROTEKSI SISTEM TENAGA DAN GIS",
     "kelas": "11",
@@ -1167,7 +1224,7 @@
     "ruang": "RKTE 2",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "13",
+    "peserta": "16",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE506",
@@ -1178,7 +1235,7 @@
     }
   },
   {
-    "no": "63",
+    "no": "66",
     "kode": "TLE508",
     "nama": "SISTEM SCADA + LAB",
     "kelas": "11",
@@ -1186,7 +1243,7 @@
     "ruang": "D3 - Z",
     "hari": "Rabu",
     "waktu": "08:00-10:30",
-    "peserta": "15",
+    "peserta": "23",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE508",
@@ -1197,7 +1254,7 @@
     }
   },
   {
-    "no": "64",
+    "no": "67",
     "kode": "TLE509",
     "nama": "ELEKTRONIKA DIGITAL + LAB",
     "kelas": "11",
@@ -1205,7 +1262,7 @@
     "ruang": "RKTE -1",
     "hari": "Senin",
     "waktu": "08:00-09:40",
-    "peserta": "0",
+    "peserta": "10",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE509",
@@ -1216,7 +1273,7 @@
     }
   },
   {
-    "no": "65",
+    "no": "68",
     "kode": "TLE510",
     "nama": "SISTEM DISTRIBUSI TENAGA LISTRIK + LAB",
     "kelas": "11",
@@ -1224,7 +1281,7 @@
     "ruang": "RKTE",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "4",
+    "peserta": "11",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE510",
@@ -1235,7 +1292,7 @@
     }
   },
   {
-    "no": "66",
+    "no": "69",
     "kode": "TLE512",
     "nama": "TEKNIK ENERGI TERBARUKAN + LAB",
     "kelas": "11",
@@ -1243,7 +1300,7 @@
     "ruang": "RKTE",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "1",
+    "peserta": "14",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE512",
@@ -1254,7 +1311,7 @@
     }
   },
   {
-    "no": "67",
+    "no": "70",
     "kode": "TLE514",
     "nama": "OPTOELEKTRONIKA + LAB",
     "kelas": "11",
@@ -1273,7 +1330,7 @@
     }
   },
   {
-    "no": "68",
+    "no": "71",
     "kode": "TLE516",
     "nama": "PERANCANGAN VLSI + LAB",
     "kelas": "11",
@@ -1281,7 +1338,7 @@
     "ruang": "RKTE",
     "hari": "Senin",
     "waktu": "16:30-17:20",
-    "peserta": "0",
+    "peserta": "3",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE516",
@@ -1292,7 +1349,7 @@
     }
   },
   {
-    "no": "69",
+    "no": "72",
     "kode": "TLE518",
     "nama": "INSTRUMENTASI ELEKTRONIKA + LAB",
     "kelas": "11",
@@ -1300,7 +1357,7 @@
     "ruang": "RKTE",
     "hari": "Rabu",
     "waktu": "16:30-18:15",
-    "peserta": "0",
+    "peserta": "3",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE518",
@@ -1311,7 +1368,7 @@
     }
   },
   {
-    "no": "70",
+    "no": "73",
     "kode": "TLE520",
     "nama": "PERANCANGAN SISTEM ELEKTRONIKA",
     "kelas": "11",
@@ -1319,7 +1376,7 @@
     "ruang": "RKTE 1",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "3",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE520",
@@ -1330,7 +1387,7 @@
     }
   },
   {
-    "no": "71",
+    "no": "74",
     "kode": "TLE522",
     "nama": "MIKROKONTROLER DAN APLIKASINYA",
     "kelas": "11",
@@ -1338,7 +1395,7 @@
     "ruang": "RKTE 1",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "12",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE522",
@@ -1349,7 +1406,7 @@
     }
   },
   {
-    "no": "72",
+    "no": "75",
     "kode": "TLE524",
     "nama": "TEORI INFORMASI",
     "kelas": "11",
@@ -1357,7 +1414,7 @@
     "ruang": "A14 - 301",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "10",
+    "peserta": "7",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE524",
@@ -1368,7 +1425,7 @@
     }
   },
   {
-    "no": "73",
+    "no": "76",
     "kode": "TLE526",
     "nama": "SISTEM DAN TEKNOLOGI KOMUNIKASI OPTIK + LAB",
     "kelas": "11",
@@ -1376,7 +1433,7 @@
     "ruang": "RKTE 1",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "8",
+    "peserta": "9",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE526",
@@ -1387,7 +1444,7 @@
     }
   },
   {
-    "no": "74",
+    "no": "77",
     "kode": "TLE528",
     "nama": "TRANSMISI TELEKOMUNIKASI MULTIMEDIA",
     "kelas": "11",
@@ -1395,7 +1452,7 @@
     "ruang": "RKTE 2",
     "hari": "Kamis",
     "waktu": "08:00-10:30",
-    "peserta": "9",
+    "peserta": "12",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE528",
@@ -1406,7 +1463,7 @@
     }
   },
   {
-    "no": "75",
+    "no": "78",
     "kode": "TLE530",
     "nama": "SISTEM KOMUNIKASI MULTIMEDIA + LAB",
     "kelas": "11",
@@ -1414,7 +1471,7 @@
     "ruang": "A23 - 204",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "8",
+    "peserta": "9",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE530",
@@ -1425,7 +1482,7 @@
     }
   },
   {
-    "no": "76",
+    "no": "79",
     "kode": "TLE532",
     "nama": "JARINGAN SATELIT DAN PENGINDERAAN JAUH",
     "kelas": "11",
@@ -1444,7 +1501,7 @@
     }
   },
   {
-    "no": "77",
+    "no": "80",
     "kode": "TLE536",
     "nama": "SISTEM KENDALI LOGIKA FUZZY",
     "kelas": "11",
@@ -1452,7 +1509,7 @@
     "ruang": "A23-206",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "3",
+    "peserta": "8",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE536",
@@ -1463,7 +1520,7 @@
     }
   },
   {
-    "no": "78",
+    "no": "81",
     "kode": "TLE538",
     "nama": "SISTEM KENDALI VARIABEL JAMAK",
     "kelas": "11",
@@ -1471,7 +1528,7 @@
     "ruang": "A25-201",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "12",
+    "peserta": "14",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE538",
@@ -1482,7 +1539,7 @@
     }
   },
   {
-    "no": "79",
+    "no": "82",
     "kode": "TLE540",
     "nama": "SISTEM KENDALI PROSES",
     "kelas": "11",
@@ -1490,7 +1547,7 @@
     "ruang": "D3 - X",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "15",
+    "peserta": "20",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE540",
@@ -1501,7 +1558,7 @@
     }
   },
   {
-    "no": "80",
+    "no": "83",
     "kode": "TLE542",
     "nama": "PENGOLAHAN CITRA DIGITAL + LAB",
     "kelas": "11",
@@ -1509,7 +1566,7 @@
     "ruang": "RKTE",
     "hari": "Rabu",
     "waktu": "10:45-13:15",
-    "peserta": "4",
+    "peserta": "5",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE542",
@@ -1520,7 +1577,7 @@
     }
   },
   {
-    "no": "81",
+    "no": "84",
     "kode": "TLE544",
     "nama": "JARINGAN KOMPUTER + LAB",
     "kelas": "11",
@@ -1539,7 +1596,7 @@
     }
   },
   {
-    "no": "82",
+    "no": "85",
     "kode": "TLE546",
     "nama": "KECERDASAN BUATAN",
     "kelas": "11",
@@ -1547,7 +1604,7 @@
     "ruang": "RKTE 3",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "10",
+    "peserta": "1",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE546",
@@ -1558,7 +1615,7 @@
     }
   },
   {
-    "no": "83",
+    "no": "86",
     "kode": "TLE548",
     "nama": "SISTEM EMBEDDED + LAB",
     "kelas": "11",
@@ -1566,7 +1623,7 @@
     "ruang": "RKTE",
     "hari": "Jumat",
     "waktu": "14:00-15:45",
-    "peserta": "0",
+    "peserta": "4",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE548",
@@ -1577,7 +1634,7 @@
     }
   },
   {
-    "no": "84",
+    "no": "87",
     "kode": "TLE550",
     "nama": "REKAYASA PERANGKAT LUNAK",
     "kelas": "11",
@@ -1585,7 +1642,7 @@
     "ruang": "RKTE 2",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "1",
+    "peserta": "0",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLE550",
@@ -1596,7 +1653,7 @@
     }
   },
   {
-    "no": "85",
+    "no": "88",
     "kode": "TLE554",
     "nama": "SISTEM INFORMASI GEOGRAFIS + LAB",
     "kelas": "11",
@@ -1615,7 +1672,7 @@
     }
   },
   {
-    "no": "86",
+    "no": "89",
     "kode": "TLEP02",
     "nama": "ELECTRICAL ENGINEERING DESIGN + LAB",
     "kelas": "11",
@@ -1634,7 +1691,7 @@
     }
   },
   {
-    "no": "87",
+    "no": "90",
     "kode": "TLEP02",
     "nama": "ELECTRICAL ENGINEERING DESIGN + LAB",
     "kelas": "12",
@@ -1642,7 +1699,7 @@
     "ruang": "RKTE -2",
     "hari": "Jumat",
     "waktu": "10:45-11:35",
-    "peserta": "24",
+    "peserta": "34",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLEP02",
@@ -1653,7 +1710,7 @@
     }
   },
   {
-    "no": "88",
+    "no": "91",
     "kode": "TLEP02",
     "nama": "ELECTRICAL ENGINEERING DESIGN + LAB",
     "kelas": "13",
@@ -1661,7 +1718,7 @@
     "ruang": "RKTE -1",
     "hari": "Sabtu",
     "waktu": "10:45-11:35",
-    "peserta": "24",
+    "peserta": "33",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLEP02",
@@ -1672,7 +1729,7 @@
     }
   },
   {
-    "no": "89",
+    "no": "92",
     "kode": "TLEP04",
     "nama": "KERJA PRAKTEK",
     "kelas": "11",
@@ -1680,7 +1737,7 @@
     "ruang": "RKTE 1",
     "hari": "Kamis",
     "waktu": "10:00-12:00",
-    "peserta": "58",
+    "peserta": "59",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLEP04",
@@ -1691,7 +1748,7 @@
     }
   },
   {
-    "no": "90",
+    "no": "93",
     "kode": "TLEPA1",
     "nama": "TUGAS AKHIR I",
     "kelas": "11",
@@ -1699,7 +1756,7 @@
     "ruang": "RKTE 1",
     "hari": "Senin",
     "waktu": "12:00-14:00",
-    "peserta": "101",
+    "peserta": "107",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLEPA1",
@@ -1710,7 +1767,26 @@
     }
   },
   {
-    "no": "91",
+    "no": "94",
+    "kode": "TLEPA2",
+    "nama": "TUGAS AKHIR II",
+    "kelas": "11",
+    "koordinator": "Dr. Ir. Melinda, ST., M.Sc., IPU., ASEAN. Eng.NIP. 197906102002122001",
+    "ruang": "RKTE -1",
+    "hari": "Senin",
+    "waktu": "08:00-10:00",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Elektro",
+    "kode-peserta": {
+      "data-kode": "TLEPA2",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410501"
+    }
+  },
+  {
+    "no": "95",
     "kode": "TLEPA2",
     "nama": "TUGAS AKHIR II",
     "kelas": "13",
@@ -1718,11 +1794,30 @@
     "ruang": "RKTE 1",
     "hari": "Selasa",
     "waktu": "12:00-14:00",
-    "peserta": "104",
+    "peserta": "108",
     "keterangan": "TeknikS1Teknik Elektro",
     "kode-peserta": {
       "data-kode": "TLEPA2",
       "data-kelas": "13",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410501"
+    }
+  },
+  {
+    "no": "96",
+    "kode": "TLEPA2",
+    "nama": "TUGAS AKHIR II",
+    "kelas": "14",
+    "koordinator": "Dr. Ir. Melinda, ST., M.Sc., IPU., ASEAN. Eng.NIP. 197906102002122001",
+    "ruang": "rkte1",
+    "hari": "Senin",
+    "waktu": "08:00-10:45",
+    "peserta": "5",
+    "keterangan": "TeknikS1Teknik Elektro",
+    "kode-peserta": {
+      "data-kode": "TLEPA2",
+      "data-kelas": "14",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0410501"

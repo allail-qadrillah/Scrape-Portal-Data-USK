@@ -84,7 +84,7 @@
     "ruang": "A25-203",
     "hari": "Jumat",
     "waktu": "16:35-18:13",
-    "peserta": "19",
+    "peserta": "20",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR104",
@@ -198,7 +198,7 @@
     "ruang": "LAB MULTIMEDIA ARSI",
     "hari": "Senin",
     "waktu": "16:30-18:00",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR112",
@@ -730,7 +730,7 @@
     "ruang": "STUDIO B",
     "hari": "Selasa",
     "waktu": "08:00-08:50",
-    "peserta": "5",
+    "peserta": "4",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR116",
@@ -787,7 +787,7 @@
     "ruang": "Prodi Arsitek",
     "hari": "Selasa",
     "waktu": "20:00-21:00",
-    "peserta": "4",
+    "peserta": "5",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR116",
@@ -1281,7 +1281,7 @@
     "ruang": "A14 - 304",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "26",
+    "peserta": "28",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR214",
@@ -1357,7 +1357,7 @@
     "ruang": "A14-303",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "32",
+    "peserta": "33",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR216",
@@ -1395,7 +1395,7 @@
     "ruang": "A14 - 304",
     "hari": "Rabu",
     "waktu": "10:45-12:25",
-    "peserta": "35",
+    "peserta": "32",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR216",
@@ -1414,7 +1414,7 @@
     "ruang": "A14 - 301",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "32",
+    "peserta": "33",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR216",
@@ -1965,7 +1965,7 @@
     "ruang": "A21-202",
     "hari": "Selasa",
     "waktu": "10:45-12:25",
-    "peserta": "27",
+    "peserta": "26",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR222",
@@ -2060,7 +2060,7 @@
     "ruang": "A23-205",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR226",
@@ -2155,7 +2155,7 @@
     "ruang": "STUDIO -D",
     "hari": "Kamis",
     "waktu": "08:00-08:50",
-    "peserta": "7",
+    "peserta": "10",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR228",
@@ -2307,7 +2307,7 @@
     "ruang": "Prodi Arsitek",
     "hari": "Kamis",
     "waktu": "20:00-21:30",
-    "peserta": "6",
+    "peserta": "7",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR228",
@@ -2440,7 +2440,7 @@
     "ruang": "RB - 3A",
     "hari": "Sabtu",
     "waktu": "08:00-09:40",
-    "peserta": "44",
+    "peserta": "47",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR310",
@@ -2459,7 +2459,7 @@
     "ruang": "A23-204",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "48",
+    "peserta": "47",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR310",
@@ -2478,7 +2478,7 @@
     "ruang": "A25 - 202",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "44",
+    "peserta": "47",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR310",
@@ -2497,7 +2497,7 @@
     "ruang": "D3-V",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR310",
@@ -2991,7 +2991,7 @@
     "ruang": "STDIO- B",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "4",
+    "peserta": "5",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR323",
@@ -3048,7 +3048,7 @@
     "ruang": "STUDIO B",
     "hari": "Selasa",
     "waktu": "14:00-15:15",
-    "peserta": "3",
+    "peserta": "4",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR323",
@@ -3105,7 +3105,7 @@
     "ruang": "A14 - 303",
     "hari": "Sabtu",
     "waktu": "08:00-09:40",
-    "peserta": "7",
+    "peserta": "3",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR407",
@@ -3124,7 +3124,7 @@
     "ruang": "A14 - 303",
     "hari": "Sabtu",
     "waktu": "08:00-09:40",
-    "peserta": "6",
+    "peserta": "3",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR407",
@@ -3143,7 +3143,7 @@
     "ruang": "A14 - 303",
     "hari": "Sabtu",
     "waktu": "08:00-09:40",
-    "peserta": "5",
+    "peserta": "3",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TAR407",
@@ -3155,6 +3155,63 @@
   },
   {
     "no": "167",
+    "kode": "TAR407",
+    "nama": "STUDIO PERANCANGAN ARSITEKTUR VI",
+    "kelas": "14",
+    "koordinator": "Laila Qadri, S.T., M.TNIP. 196910111997022003",
+    "ruang": "A14 - 303",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:00",
+    "peserta": "3",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TAR407",
+      "data-kelas": "14",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "168",
+    "kode": "TAR407",
+    "nama": "STUDIO PERANCANGAN ARSITEKTUR VI",
+    "kelas": "15",
+    "koordinator": "Dr. Safwan, ST, M.Eng.ScNIP. 197001011997021001",
+    "ruang": "A14 - 303",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:00",
+    "peserta": "3",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TAR407",
+      "data-kelas": "15",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "169",
+    "kode": "TAR407",
+    "nama": "STUDIO PERANCANGAN ARSITEKTUR VI",
+    "kelas": "16",
+    "koordinator": "Muftiadi, ST, MTNIP. 197203041999031001",
+    "ruang": "A14 - 303",
+    "hari": "Sabtu",
+    "waktu": "08:00-09:00",
+    "peserta": "3",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TAR407",
+      "data-kelas": "16",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "170",
     "kode": "TARP05",
     "nama": "SEMINAR PERANCANGAN",
     "kelas": "11",
@@ -3173,15 +3230,15 @@
     }
   },
   {
-    "no": "168",
+    "no": "171",
     "kode": "TARP07",
     "nama": "SEMINAR PENELITIAN",
     "kelas": "11",
-    "koordinator": "Dr. Ir. Izziah, M.ScNIP. 196207311995122001",
+    "koordinator": "Dr. Cut Nursaniah, ST., MTNIP. 196810131999032002",
     "ruang": "Seminar TA",
     "hari": "Senin",
     "waktu": "10:45-13:15",
-    "peserta": "15",
+    "peserta": "16",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP07",
@@ -3192,7 +3249,7 @@
     }
   },
   {
-    "no": "169",
+    "no": "172",
     "kode": "TARP09",
     "nama": "ETIKA DAN PRAKTEK PROFESI",
     "kelas": "11",
@@ -3200,7 +3257,7 @@
     "ruang": "A12 - 301",
     "hari": "Sabtu",
     "waktu": "08:00-12:00",
-    "peserta": "7",
+    "peserta": "2",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP09",
@@ -3211,7 +3268,7 @@
     }
   },
   {
-    "no": "170",
+    "no": "173",
     "kode": "TARP09",
     "nama": "ETIKA DAN PRAKTEK PROFESI",
     "kelas": "12",
@@ -3219,7 +3276,7 @@
     "ruang": "A12 - 301",
     "hari": "Sabtu",
     "waktu": "08:00-12:00",
-    "peserta": "7",
+    "peserta": "0",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP09",
@@ -3230,7 +3287,7 @@
     }
   },
   {
-    "no": "171",
+    "no": "174",
     "kode": "TARP09",
     "nama": "ETIKA DAN PRAKTEK PROFESI",
     "kelas": "13",
@@ -3238,7 +3295,7 @@
     "ruang": "A12 - 301",
     "hari": "Sabtu",
     "waktu": "08:00-12:00",
-    "peserta": "7",
+    "peserta": "3",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP09",
@@ -3249,7 +3306,7 @@
     }
   },
   {
-    "no": "172",
+    "no": "175",
     "kode": "TARP09",
     "nama": "ETIKA DAN PRAKTEK PROFESI",
     "kelas": "14",
@@ -3257,7 +3314,7 @@
     "ruang": "A12 - 301",
     "hari": "Senin",
     "waktu": "08:00-09:30",
-    "peserta": "7",
+    "peserta": "2",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP09",
@@ -3268,7 +3325,7 @@
     }
   },
   {
-    "no": "173",
+    "no": "176",
     "kode": "TARP09",
     "nama": "ETIKA DAN PRAKTEK PROFESI",
     "kelas": "15",
@@ -3276,7 +3333,7 @@
     "ruang": "A12 - 301",
     "hari": "Sabtu",
     "waktu": "08:00-12:00",
-    "peserta": "7",
+    "peserta": "4",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP09",
@@ -3287,7 +3344,7 @@
     }
   },
   {
-    "no": "174",
+    "no": "177",
     "kode": "TARP09",
     "nama": "ETIKA DAN PRAKTEK PROFESI",
     "kelas": "16",
@@ -3295,7 +3352,7 @@
     "ruang": "A12 - 301",
     "hari": "Sabtu",
     "waktu": "08:00-12:00",
-    "peserta": "5",
+    "peserta": "3",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP09",
@@ -3306,7 +3363,7 @@
     }
   },
   {
-    "no": "175",
+    "no": "178",
     "kode": "TARP09",
     "nama": "ETIKA DAN PRAKTEK PROFESI",
     "kelas": "17",
@@ -3314,7 +3371,7 @@
     "ruang": "A12 - 301",
     "hari": "Sabtu",
     "waktu": "08:00-12:00",
-    "peserta": "7",
+    "peserta": "3",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP09",
@@ -3325,7 +3382,7 @@
     }
   },
   {
-    "no": "176",
+    "no": "179",
     "kode": "TARP09",
     "nama": "ETIKA DAN PRAKTEK PROFESI",
     "kelas": "18",
@@ -3333,7 +3390,7 @@
     "ruang": "A12 - 301",
     "hari": "Sabtu",
     "waktu": "08:00-12:00",
-    "peserta": "7",
+    "peserta": "2",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP09",
@@ -3344,7 +3401,7 @@
     }
   },
   {
-    "no": "177",
+    "no": "180",
     "kode": "TARP09",
     "nama": "ETIKA DAN PRAKTEK PROFESI",
     "kelas": "19",
@@ -3352,7 +3409,7 @@
     "ruang": "A12 - 301",
     "hari": "Sabtu",
     "waktu": "08:00-12:00",
-    "peserta": "5",
+    "peserta": "2",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP09",
@@ -3363,7 +3420,7 @@
     }
   },
   {
-    "no": "178",
+    "no": "181",
     "kode": "TARP09",
     "nama": "ETIKA DAN PRAKTEK PROFESI",
     "kelas": "20",
@@ -3371,7 +3428,7 @@
     "ruang": "A12 - 301",
     "hari": "Sabtu",
     "waktu": "08:00-12:00",
-    "peserta": "6",
+    "peserta": "4",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP09",
@@ -3382,7 +3439,444 @@
     }
   },
   {
-    "no": "179",
+    "no": "182",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "21",
+    "koordinator": "Ir. Muslimsyah, M.ScNIP. 196109281988101001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "21",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "183",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "22",
+    "koordinator": "Dr. Ir. Mirza Irwansyah, MBA. MLA.NIP. 196205261987101001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "22",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "184",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "23",
+    "koordinator": "Ir. Nizarli, M.EngNIP. 196411271991021001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "23",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "185",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "24",
+    "koordinator": "Laila Qadri, S.T., M.TNIP. 196910111997022003",
+    "ruang": "A12-301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "1",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "24",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "186",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "25",
+    "koordinator": "Husnus Sawab, S.T., M.T.NIP. 196808231999031002",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "25",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "187",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "26",
+    "koordinator": "Dr. Mirza Fuady, ST., MT.NIP. 197002242008121002",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "1",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "26",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "188",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "27",
+    "koordinator": "Dr. Ir. Izziah, M.ScNIP. 196207311995122001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "27",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "189",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "28",
+    "koordinator": "Dr. Ir. Dyah Erti Idawati, M.T.NIP. 196707031997022001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "28",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "190",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "29",
+    "koordinator": "Ir. Khairul Huda, M.EngNIP. 196005071988101001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "29",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "191",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "30",
+    "koordinator": "Muftiadi, ST, MTNIP. 197203041999031001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "1",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "30",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "192",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "31",
+    "koordinator": "Ir. Irzaidi, MS.ANIP. 196311301994121001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "31",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "193",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "32",
+    "koordinator": "Irfandi, S.T., M.T.NIP. 197812232002121003",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "32",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "194",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "33",
+    "koordinator": "Zahriah, S.T., MTNIP. 196909131997032001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "33",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "195",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "34",
+    "koordinator": "Muhammad Haiqal, ST, M.ScNIP. 197908122006041004",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "34",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "196",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "36",
+    "koordinator": "Nasrullah Ridwan, S.T., MTNIP. 196805191999031001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "36",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "197",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "37",
+    "koordinator": "Ardian Ariatsyah, ST.MTNIP. 196909151999031001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "37",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "198",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "38",
+    "koordinator": "Teuku Ivan, S.T., M.T.NIP. 196801051999031001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "38",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "199",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "39",
+    "koordinator": "Masdar Djamaluddin, S.T., M.T.NIP. 197105211999031002",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "39",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "200",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "41",
+    "koordinator": "Muhammad Heru Arie Edytia, S.T., M.Ars.NIP. 198903282019031008",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "41",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "201",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "42",
+    "koordinator": "Ar. Riza Aulia Putra, S.T., M.T.NIP. 199008162019031017",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "42",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "202",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "43",
+    "koordinator": "Dr. Safwan, ST, M.Eng.ScNIP. 197001011997021001",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "43",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "203",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "44",
+    "koordinator": "Sarvina Fitri Rizky, ST., MTNIP. 198905062019032025",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "2",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "44",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "204",
+    "kode": "TARP09",
+    "nama": "ETIKA DAN PRAKTEK PROFESI",
+    "kelas": "45",
+    "koordinator": "Aghnia Zahrah, ST., M.ArsNIP. 199306072019032029",
+    "ruang": "A12 - 301",
+    "hari": "Sabtu",
+    "waktu": "08:00-12:00",
+    "peserta": "0",
+    "keterangan": "TeknikS1Arsitektur",
+    "kode-peserta": {
+      "data-kode": "TARP09",
+      "data-kelas": "45",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0410401"
+    }
+  },
+  {
+    "no": "205",
     "kode": "TARP11",
     "nama": "MORFOLOGI DAN TIPOLOGI KOTA",
     "kelas": "11",
@@ -3401,7 +3895,7 @@
     }
   },
   {
-    "no": "180",
+    "no": "206",
     "kode": "TARP12",
     "nama": "PERANCANGAN PERMUKIMAN",
     "kelas": "11",
@@ -3409,7 +3903,7 @@
     "ruang": "A14 - 301",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP12",
@@ -3420,7 +3914,7 @@
     }
   },
   {
-    "no": "181",
+    "no": "207",
     "kode": "TARP14",
     "nama": "ARSITEKTUR LANSKAP",
     "kelas": "11",
@@ -3428,7 +3922,7 @@
     "ruang": "A23 - 204",
     "hari": "Jumat",
     "waktu": "10:45-12:25",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP14",
@@ -3439,7 +3933,7 @@
     }
   },
   {
-    "no": "182",
+    "no": "208",
     "kode": "TARP16",
     "nama": "ARSITEKTUR KOTA",
     "kelas": "11",
@@ -3447,7 +3941,7 @@
     "ruang": "A12 - 303",
     "hari": "Senin",
     "waktu": "10:45-12:25",
-    "peserta": "28",
+    "peserta": "29",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP16",
@@ -3458,7 +3952,7 @@
     }
   },
   {
-    "no": "183",
+    "no": "209",
     "kode": "TARP22",
     "nama": "FOTOGRAFI ARSITEKTUR",
     "kelas": "11",
@@ -3466,7 +3960,7 @@
     "ruang": "A34 - 202",
     "hari": "Sabtu",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "27",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP22",
@@ -3477,7 +3971,7 @@
     }
   },
   {
-    "no": "184",
+    "no": "210",
     "kode": "TARP24",
     "nama": "ARSITEKTUR PERILAKU",
     "kelas": "11",
@@ -3496,7 +3990,7 @@
     }
   },
   {
-    "no": "185",
+    "no": "211",
     "kode": "TARP26",
     "nama": "KRITIK ARSITEKTUR",
     "kelas": "11",
@@ -3504,7 +3998,7 @@
     "ruang": "A14 - 303",
     "hari": "Senin",
     "waktu": "10:45-12:25",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP26",
@@ -3515,7 +4009,7 @@
     }
   },
   {
-    "no": "186",
+    "no": "212",
     "kode": "TARP34",
     "nama": "TEORI ARSITEKTUR II",
     "kelas": "11",
@@ -3523,7 +4017,7 @@
     "ruang": "A12 - 303",
     "hari": "Selasa",
     "waktu": "10:45-12:25",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP34",
@@ -3534,7 +4028,7 @@
     }
   },
   {
-    "no": "187",
+    "no": "213",
     "kode": "TARP36",
     "nama": "ARSITEKTUR ISLAM LANJUTAN",
     "kelas": "11",
@@ -3542,7 +4036,7 @@
     "ruang": "A12-303",
     "hari": "Rabu",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP36",
@@ -3553,7 +4047,7 @@
     }
   },
   {
-    "no": "188",
+    "no": "214",
     "kode": "TARP38",
     "nama": "SEJARAH DAN PERKEMBANGAN ARSITEKTUR III",
     "kelas": "11",
@@ -3572,7 +4066,7 @@
     }
   },
   {
-    "no": "189",
+    "no": "215",
     "kode": "TARP42",
     "nama": "PERENCANAAN DAN PERANCANGAN KOTA LANJUTAN",
     "kelas": "11",
@@ -3591,7 +4085,7 @@
     }
   },
   {
-    "no": "190",
+    "no": "216",
     "kode": "TARP44",
     "nama": "ARSITEKTUR LINGKUNGAN DAN KEBENCANAAN LANJUTAN",
     "kelas": "11",
@@ -3599,7 +4093,7 @@
     "ruang": "A25-202",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP44",
@@ -3610,7 +4104,7 @@
     }
   },
   {
-    "no": "191",
+    "no": "217",
     "kode": "TARP46",
     "nama": "MANAJEMEN PROYEK LANJUTAN",
     "kelas": "11",
@@ -3618,7 +4112,7 @@
     "ruang": "A14-303",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP46",
@@ -3629,7 +4123,7 @@
     }
   },
   {
-    "no": "192",
+    "no": "218",
     "kode": "TARP52",
     "nama": "PERANCANGAN RUANG DALAM II",
     "kelas": "11",
@@ -3637,7 +4131,7 @@
     "ruang": "A12-303",
     "hari": "Selasa",
     "waktu": "16:35-18:15",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP52",
@@ -3648,7 +4142,7 @@
     }
   },
   {
-    "no": "193",
+    "no": "219",
     "kode": "TARP54",
     "nama": "TEKNOLOGI BANGUNAN",
     "kelas": "11",
@@ -3667,7 +4161,7 @@
     }
   },
   {
-    "no": "194",
+    "no": "220",
     "kode": "TARP56",
     "nama": "MATERIAL BANGUNAN",
     "kelas": "11",
@@ -3675,7 +4169,7 @@
     "ruang": "A23-203",
     "hari": "Selasa",
     "waktu": "08:00-09:40",
-    "peserta": "30",
+    "peserta": "32",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP56",
@@ -3686,7 +4180,7 @@
     }
   },
   {
-    "no": "195",
+    "no": "221",
     "kode": "TARP62",
     "nama": "ARSITEKTUR PARAMETRIK",
     "kelas": "11",
@@ -3694,7 +4188,7 @@
     "ruang": "Lab Multimedia",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP62",
@@ -3705,7 +4199,7 @@
     }
   },
   {
-    "no": "196",
+    "no": "222",
     "kode": "TARP64",
     "nama": "BUILDING INFORMATION MODELLING",
     "kelas": "11",
@@ -3724,7 +4218,7 @@
     }
   },
   {
-    "no": "197",
+    "no": "223",
     "kode": "TARP71",
     "nama": "REAL ESTATE",
     "kelas": "11",
@@ -3732,7 +4226,7 @@
     "ruang": "A21-203",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "24",
+    "peserta": "20",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP71",
@@ -3743,7 +4237,7 @@
     }
   },
   {
-    "no": "198",
+    "no": "224",
     "kode": "TARP73",
     "nama": "LANSKAP KOTA",
     "kelas": "11",
@@ -3751,7 +4245,7 @@
     "ruang": "A23-204",
     "hari": "Sabtu",
     "waktu": "08:00-09:40",
-    "peserta": "28",
+    "peserta": "30",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP73",
@@ -3762,7 +4256,7 @@
     }
   },
   {
-    "no": "199",
+    "no": "225",
     "kode": "TARP75",
     "nama": "KONSERVASI ARSITEKTUR",
     "kelas": "11",
@@ -3770,7 +4264,7 @@
     "ruang": "A23-205",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "31",
+    "peserta": "30",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP75",
@@ -3781,7 +4275,7 @@
     }
   },
   {
-    "no": "200",
+    "no": "226",
     "kode": "TARP81",
     "nama": "SIMULASI KINERJA BANGUNAN",
     "kelas": "11",
@@ -3800,7 +4294,7 @@
     }
   },
   {
-    "no": "201",
+    "no": "227",
     "kode": "TARP83",
     "nama": "DESAIN DIGITAL ARSITEKTUR",
     "kelas": "11",
@@ -3808,7 +4302,7 @@
     "ruang": "Lab Multimedia",
     "hari": "Sabtu",
     "waktu": "10:45-12:25",
-    "peserta": "30",
+    "peserta": "28",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP83",
@@ -3819,7 +4313,7 @@
     }
   },
   {
-    "no": "202",
+    "no": "228",
     "kode": "TARP85",
     "nama": "MEDIA DESAIN ARSITEKTUR",
     "kelas": "11",
@@ -3827,7 +4321,7 @@
     "ruang": "A34-202",
     "hari": "Senin",
     "waktu": "10:45-12:25",
-    "peserta": "30",
+    "peserta": "28",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARP85",
@@ -3838,7 +4332,7 @@
     }
   },
   {
-    "no": "203",
+    "no": "229",
     "kode": "TARP91",
     "nama": "LANSKAP MANAJEMEN DAN RESTORASI",
     "kelas": "11",
@@ -3857,7 +4351,7 @@
     }
   },
   {
-    "no": "204",
+    "no": "230",
     "kode": "TARP93",
     "nama": "SAINS ARSITEKTUR LANJUTAN",
     "kelas": "11",
@@ -3876,7 +4370,7 @@
     }
   },
   {
-    "no": "205",
+    "no": "231",
     "kode": "TARPA1",
     "nama": "TUGAS AKHIR (TA)",
     "kelas": "11",
@@ -3884,7 +4378,7 @@
     "ruang": "Prodi Arsitektur",
     "hari": "Sabtu",
     "waktu": "08:45-12:00",
-    "peserta": "112",
+    "peserta": "122",
     "keterangan": "TeknikS1Arsitektur",
     "kode-peserta": {
       "data-kode": "TARPA1",

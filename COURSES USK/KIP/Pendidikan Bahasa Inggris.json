@@ -46,7 +46,7 @@
     "ruang": "14.02.006",
     "hari": "Rabu",
     "waktu": "14:00-15:30",
-    "peserta": "32",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EDU202",
@@ -84,7 +84,7 @@
     "ruang": "C2.12",
     "hari": "Senin",
     "waktu": "16:30-18:00",
-    "peserta": "30",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -122,7 +122,7 @@
     "ruang": "C3.09",
     "hari": "Kamis",
     "waktu": "9:40-11:30",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -141,7 +141,7 @@
     "ruang": "C3.09",
     "hari": "Kamis",
     "waktu": "11:30-13:10",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -160,7 +160,7 @@
     "ruang": "C2.12",
     "hari": "Kamis",
     "waktu": "08:00-10:40",
-    "peserta": "14",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EDU302",
@@ -179,7 +179,7 @@
     "ruang": "C3.07",
     "hari": "Kamis",
     "waktu": "8:00-9:30",
-    "peserta": "12",
+    "peserta": "15",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EDUP07",
@@ -198,7 +198,7 @@
     "ruang": "C3.07",
     "hari": "Kamis",
     "waktu": "8:00-9:30",
-    "peserta": "22",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EDUP09",
@@ -217,7 +217,7 @@
     "ruang": "14.02.006",
     "hari": "Kamis",
     "waktu": "14:00-18:00",
-    "peserta": "161",
+    "peserta": "162",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EDUPA1",
@@ -426,7 +426,7 @@
     "ruang": "C3.07",
     "hari": "Senin",
     "waktu": "9:40-12:20",
-    "peserta": "28",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED106",
@@ -445,7 +445,7 @@
     "ruang": "C3.09",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED106",
@@ -540,7 +540,7 @@
     "ruang": "C2.10",
     "hari": "Senin",
     "waktu": "11:30-13:10",
-    "peserta": "33",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED110",
@@ -559,7 +559,7 @@
     "ruang": "C3.09",
     "hari": "Selasa",
     "waktu": "8:00-9:35",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED110",
@@ -635,7 +635,7 @@
     "ruang": "C2.12",
     "hari": "Senin",
     "waktu": "9:40-11:30",
-    "peserta": "24",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED112",
@@ -673,7 +673,7 @@
     "ruang": "C2.12",
     "hari": "Jumat",
     "waktu": "14:00-15:35",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED112",
@@ -692,7 +692,7 @@
     "ruang": "C2.12",
     "hari": "Selasa",
     "waktu": "10:40-13:10",
-    "peserta": "30",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED202",
@@ -768,7 +768,7 @@
     "ruang": "14.02.006",
     "hari": "Rabu",
     "waktu": "10:40-13:10",
-    "peserta": "21",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED204",
@@ -787,7 +787,7 @@
     "ruang": "C3.09",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED204",
@@ -806,7 +806,7 @@
     "ruang": "C3.09",
     "hari": "Rabu",
     "waktu": "14:00-16:30",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED204",
@@ -863,7 +863,7 @@
     "ruang": "14.02.006",
     "hari": "Rabu",
     "waktu": "8:00-10:30",
-    "peserta": "24",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED206",
@@ -939,7 +939,7 @@
     "ruang": "15.03.001",
     "hari": "Selasa",
     "waktu": "8:00-9:30",
-    "peserta": "28",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED216",
@@ -977,7 +977,7 @@
     "ruang": "15.03.001",
     "hari": "Selasa",
     "waktu": "9:40-11:30",
-    "peserta": "29",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED216",
@@ -996,7 +996,7 @@
     "ruang": "C2.12",
     "hari": "Rabu",
     "waktu": "8:00-10:30",
-    "peserta": "18",
+    "peserta": "15",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED221",
@@ -1034,7 +1034,7 @@
     "ruang": "C2.10",
     "hari": "Senin",
     "waktu": "8:00-10:30",
-    "peserta": "29",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED221",
@@ -1072,7 +1072,7 @@
     "ruang": "15.03.001",
     "hari": "Rabu",
     "waktu": "14:00-15:30",
-    "peserta": "32",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED228",
@@ -1091,7 +1091,7 @@
     "ruang": "C3.07",
     "hari": "Kamis",
     "waktu": "14:00-15:30",
-    "peserta": "32",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED228",
@@ -1110,7 +1110,7 @@
     "ruang": "C3.09",
     "hari": "Selasa",
     "waktu": "14:00-15:30",
-    "peserta": "31",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED228",
@@ -1129,7 +1129,7 @@
     "ruang": "C2.10",
     "hari": "Rabu",
     "waktu": "9:40-11:30",
-    "peserta": "18",
+    "peserta": "14",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED228",
@@ -1167,7 +1167,7 @@
     "ruang": "14.02.006",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED302",
@@ -1186,7 +1186,7 @@
     "ruang": "C3.07",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED302",
@@ -1224,7 +1224,7 @@
     "ruang": "C2.12",
     "hari": "Senin",
     "waktu": "8:00-9:30",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED308",
@@ -1243,7 +1243,7 @@
     "ruang": "C2.10",
     "hari": "Rabu",
     "waktu": "14:00-18:00",
-    "peserta": "30",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED308",
@@ -1262,7 +1262,7 @@
     "ruang": "14.02.006",
     "hari": "Senin",
     "waktu": "8:00-9:30",
-    "peserta": "27",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED308",
@@ -1300,7 +1300,7 @@
     "ruang": "C2.10",
     "hari": "Jumat",
     "waktu": "9:35-11:30",
-    "peserta": "22",
+    "peserta": "21",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED314",
@@ -1319,7 +1319,7 @@
     "ruang": "14.02.006",
     "hari": "Kamis",
     "waktu": "11:30-13:10",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED314",
@@ -1357,7 +1357,7 @@
     "ruang": "14.02.006",
     "hari": "Jumat",
     "waktu": "8:00-9:30",
-    "peserta": "33",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED317",
@@ -1376,7 +1376,7 @@
     "ruang": "14.02.006",
     "hari": "Jumat",
     "waktu": "9:40-11:30",
-    "peserta": "33",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED317",
@@ -1395,7 +1395,7 @@
     "ruang": "C2.10",
     "hari": "Kamis",
     "waktu": "16:30-18:00",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED317",
@@ -1414,7 +1414,7 @@
     "ruang": "C2.10",
     "hari": "Kamis",
     "waktu": "14:00-15:30",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED324",
@@ -1433,7 +1433,7 @@
     "ruang": "15.03.001",
     "hari": "Selasa",
     "waktu": "14:00-15:30",
-    "peserta": "25",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED324",
@@ -1490,7 +1490,7 @@
     "ruang": "C3.07",
     "hari": "Selasa",
     "waktu": "08:00-10:10",
-    "peserta": "6",
+    "peserta": "9",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED335",
@@ -1509,7 +1509,7 @@
     "ruang": "C2.10",
     "hari": "Selasa",
     "waktu": "11:30-13:10",
-    "peserta": "35",
+    "peserta": "36",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED503",
@@ -1623,7 +1623,7 @@
     "ruang": "C2.10",
     "hari": "Kamis",
     "waktu": "08:00-09:30",
-    "peserta": "3",
+    "peserta": "4",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED505",
@@ -1642,7 +1642,7 @@
     "ruang": "15.03.001",
     "hari": "Senin",
     "waktu": "8:00-9:30",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED508",
@@ -1661,7 +1661,7 @@
     "ruang": "C3.09",
     "hari": "Jumat",
     "waktu": "10:40-12:25",
-    "peserta": "32",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED508",
@@ -1680,7 +1680,7 @@
     "ruang": "14.02.006",
     "hari": "Kamis",
     "waktu": "14:00-15:30",
-    "peserta": "34",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED508",
@@ -1737,7 +1737,7 @@
     "ruang": "C3.07",
     "hari": "Sabtu",
     "waktu": "09:30-11:30",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EED559",
@@ -1775,7 +1775,7 @@
     "ruang": "14.02.006",
     "hari": "Senin",
     "waktu": "10:45-13:10",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EEDP01",
@@ -1794,7 +1794,7 @@
     "ruang": "C2.10",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EEDP01",
@@ -1813,7 +1813,7 @@
     "ruang": "15.03.001",
     "hari": "Senin",
     "waktu": "14:00-16:30",
-    "peserta": "25",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EEDP01",
@@ -1828,7 +1828,7 @@
     "kode": "EEDP02",
     "nama": "HUMANITARIAN PROJECT",
     "kelas": "6",
-    "koordinator": "NIP. ",
+    "koordinator": "Dr. Kismullah, S.Pd., M.App.Ling.NIP. 198104232008121001",
     "ruang": "C2.12",
     "hari": "Senin",
     "waktu": "08:00-10:40",
@@ -1847,11 +1847,11 @@
     "kode": "EEDP03",
     "nama": "CLASSROOM ACTION RESEARCH",
     "kelas": "2",
-    "koordinator": "NIP. ",
+    "koordinator": "Dr. Kismullah, S.Pd., M.App.Ling.NIP. 198104232008121001",
     "ruang": "C3.07",
     "hari": "Rabu",
     "waktu": "08:00-10:40",
-    "peserta": "5",
+    "peserta": "8",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EEDP03",
@@ -1946,7 +1946,7 @@
     "ruang": "C3.09",
     "hari": "Sabtu",
     "waktu": "10:40-13:10",
-    "peserta": "23",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EEDP05",
@@ -1984,7 +1984,7 @@
     "ruang": "C3.07",
     "hari": "Kamis",
     "waktu": "9:40-11:30",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EEDP06",
@@ -2022,7 +2022,7 @@
     "ruang": "C2.10",
     "hari": "Kamis",
     "waktu": "9:40-11:30",
-    "peserta": "21",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "EEDP06",
@@ -2041,7 +2041,7 @@
     "ruang": "14.02.006",
     "hari": "Kamis",
     "waktu": "14:00-15:30",
-    "peserta": "20",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Bahasa Inggris",
     "kode-peserta": {
       "data-kode": "MKSP02",

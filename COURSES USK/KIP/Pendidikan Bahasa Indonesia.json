@@ -65,7 +65,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "EDU204",
@@ -122,7 +122,7 @@
     "ruang": "MTL (GEDUNG PPL)",
     "hari": "Senin",
     "waktu": "08:00-10:30",
-    "peserta": "5",
+    "peserta": "2",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "EDU302",
@@ -217,7 +217,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Senin",
     "waktu": "10:45-12:20",
-    "peserta": "33",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI102",
@@ -236,7 +236,7 @@
     "ruang": "3.05 (GEDUNG FKIP)",
     "hari": "Jumat",
     "waktu": "16:35-18:15",
-    "peserta": "32",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI102",
@@ -559,7 +559,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "11:30-13:10",
-    "peserta": "33",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI114",
@@ -578,7 +578,7 @@
     "ruang": "3.05 (GEDUNG FKIP)",
     "hari": "Kamis",
     "waktu": "11:30-13:10",
-    "peserta": "25",
+    "peserta": "26",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI114",
@@ -616,7 +616,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Selasa",
     "waktu": "09:40-11:35",
-    "peserta": "33",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI116",
@@ -635,7 +635,7 @@
     "ruang": "3.05 (GEDUNG FKIP)",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI116",
@@ -711,7 +711,7 @@
     "ruang": "15.03.003 (RKU 5)",
     "hari": "Selasa",
     "waktu": "08:00-10:30",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI118",
@@ -749,7 +749,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "34",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI120",
@@ -768,7 +768,7 @@
     "ruang": "15.03.003 (RKU 5)",
     "hari": "Senin",
     "waktu": "09:50-11:30",
-    "peserta": "36",
+    "peserta": "37",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI120",
@@ -787,7 +787,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Senin",
     "waktu": "10:45-13:15",
-    "peserta": "35",
+    "peserta": "36",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI122",
@@ -806,7 +806,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Jumat",
     "waktu": "08:00-10:30",
-    "peserta": "36",
+    "peserta": "37",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI122",
@@ -844,7 +844,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Sabtu",
     "waktu": "08:00-10:30",
-    "peserta": "30",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI122",
@@ -863,7 +863,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Sabtu",
     "waktu": "14:00-16:30",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI122",
@@ -939,7 +939,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "11:30-13:10",
-    "peserta": "37",
+    "peserta": "38",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI126",
@@ -958,7 +958,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI126",
@@ -977,7 +977,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "09:50-11:30",
-    "peserta": "34",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI128",
@@ -1015,7 +1015,7 @@
     "ruang": "2.04 (GEDUNG FKIP)",
     "hari": "Sabtu",
     "waktu": "14:00-17:50",
-    "peserta": "14",
+    "peserta": "18",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI128",
@@ -1034,7 +1034,7 @@
     "ruang": "3.05 (GEDUNG FKIP)",
     "hari": "Kamis",
     "waktu": "08:00-09:40",
-    "peserta": "39",
+    "peserta": "38",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI130",
@@ -1072,7 +1072,7 @@
     "ruang": "15.03.003 (RKU 5)",
     "hari": "Rabu",
     "waktu": "08:00-09:40",
-    "peserta": "41",
+    "peserta": "42",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI132",
@@ -1091,7 +1091,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "09:50-11:35",
-    "peserta": "39",
+    "peserta": "38",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI132",
@@ -1205,7 +1205,7 @@
     "ruang": "1.04A (GEDUNG FKIP)",
     "hari": "Rabu",
     "waktu": "16:35-18:15",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI144",
@@ -1224,7 +1224,7 @@
     "ruang": "15.03.003 (RKU 5)",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "33",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI146",
@@ -1243,7 +1243,7 @@
     "ruang": "2.04",
     "hari": "Kamis",
     "waktu": "16:35-18:15",
-    "peserta": "32",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Bahasa Indonesia",
     "kode-peserta": {
       "data-kode": "PBI146",

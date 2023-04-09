@@ -46,7 +46,7 @@
     "ruang": "PGSD",
     "hari": "Rabu",
     "waktu": "11:30-13:00",
-    "peserta": "22",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP102",
@@ -65,7 +65,7 @@
     "ruang": "PGSD",
     "hari": "Rabu",
     "waktu": "9:40-11:30",
-    "peserta": "30",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP102",
@@ -198,7 +198,7 @@
     "ruang": "pgsd",
     "hari": "Selasa",
     "waktu": "9:50-11:30",
-    "peserta": "22",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP110",
@@ -217,7 +217,7 @@
     "ruang": "pgsd",
     "hari": "Selasa",
     "waktu": "11:30-13:00",
-    "peserta": "30",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP110",
@@ -274,7 +274,7 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "10:45-13:20",
-    "peserta": "24",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP112",
@@ -293,7 +293,7 @@
     "ruang": "PGSD",
     "hari": "Kamis",
     "waktu": "08:00-10:00",
-    "peserta": "28",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP112",
@@ -350,7 +350,7 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "8:00-10:30",
-    "peserta": "22",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP116",
@@ -369,7 +369,7 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "10:40-13:00",
-    "peserta": "30",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP116",
@@ -426,7 +426,7 @@
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "8:00-9:40",
-    "peserta": "28",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP118",
@@ -445,7 +445,7 @@
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "9:40-11:30",
-    "peserta": "30",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP118",
@@ -464,7 +464,7 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "10:40-13:00",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP202",
@@ -521,7 +521,7 @@
     "ruang": "PGSD",
     "hari": "Rabu",
     "waktu": "14:00-16:20",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP202",
@@ -540,7 +540,7 @@
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "9:40-11:30",
-    "peserta": "28",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP210",
@@ -559,7 +559,7 @@
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "8:00-9:40",
-    "peserta": "30",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP210",
@@ -635,7 +635,7 @@
     "ruang": "PGSD",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP212",
@@ -673,7 +673,7 @@
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "8:00-9:40",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP212",
@@ -844,7 +844,7 @@
     "ruang": "pgsd",
     "hari": "Kamis",
     "waktu": "14:00-16:30",
-    "peserta": "29",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP218",
@@ -901,7 +901,7 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "10:40-01:10",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP218",
@@ -939,7 +939,7 @@
     "ruang": "PGSD",
     "hari": "Kamis",
     "waktu": "8:00-10:30",
-    "peserta": "28",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP220",
@@ -977,7 +977,7 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "8:00-10:30",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP220",
@@ -996,7 +996,7 @@
     "ruang": "PGSD",
     "hari": "Kamis",
     "waktu": "11:40-13:10",
-    "peserta": "15",
+    "peserta": "14",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP302",
@@ -1015,7 +1015,7 @@
     "ruang": "PGSD",
     "hari": "Kamis",
     "waktu": "11:40-13:10",
-    "peserta": "15",
+    "peserta": "11",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP302",
@@ -1034,7 +1034,7 @@
     "ruang": "PGSD",
     "hari": "Kamis",
     "waktu": "14:00-15:40",
-    "peserta": "9",
+    "peserta": "8",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP302",
@@ -1072,7 +1072,7 @@
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "15",
+    "peserta": "13",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP302",
@@ -1110,7 +1110,7 @@
     "ruang": "PGSD",
     "hari": "Selasa",
     "waktu": "10:40-13:10",
-    "peserta": "10",
+    "peserta": "14",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP302",
@@ -1148,7 +1148,7 @@
     "ruang": "PGSD",
     "hari": "Selasa",
     "waktu": "8:00-9:40",
-    "peserta": "35",
+    "peserta": "36",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP304",
@@ -1167,7 +1167,7 @@
     "ruang": "PGSD",
     "hari": "Selasa",
     "waktu": "9:40-11:30",
-    "peserta": "28",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP304",
@@ -1186,7 +1186,7 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "8:00-9:40",
-    "peserta": "31",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP304",
@@ -1201,7 +1201,7 @@
     "kode": "EDP304",
     "nama": "PEMBELAJARAN BAHASA INGGRIS SD",
     "kelas": "12",
-    "koordinator": "Aida Fitri, S.Pd, M.PdNIP. 197510132005012001",
+    "koordinator": "Drs. M. Yamin, M.EdNIP. 195912311985031025",
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "9:40-11:30",
@@ -1224,7 +1224,7 @@
     "ruang": "pgsd",
     "hari": "Rabu",
     "waktu": "11:30-13:00",
-    "peserta": "24",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP308",
@@ -1243,7 +1243,7 @@
     "ruang": "PGSD",
     "hari": "Kamis",
     "waktu": "9:40-11:30",
-    "peserta": "34",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP308",
@@ -1281,7 +1281,7 @@
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP308",
@@ -1300,7 +1300,7 @@
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "35",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP308",
@@ -1314,12 +1314,31 @@
     "no": "70",
     "kode": "EDP316",
     "nama": "PENDIDIKAN SENI TARI DAN DRAMA",
+    "kelas": "07",
+    "koordinator": "Aida Fitri, S.Pd, M.PdNIP. 197510132005012001",
+    "ruang": "PGSD",
+    "hari": "Rabu",
+    "waktu": "08:00-09:20",
+    "peserta": "14",
+    "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
+    "kode-peserta": {
+      "data-kode": "EDP316",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610404"
+    }
+  },
+  {
+    "no": "71",
+    "kode": "EDP316",
+    "nama": "PENDIDIKAN SENI TARI DAN DRAMA",
     "kelas": "09",
     "koordinator": "Aida Fitri, S.Pd, M.PdNIP. 197510132005012001",
     "ruang": "PGSD",
     "hari": "Kamis",
     "waktu": "11:30-13:00",
-    "peserta": "29",
+    "peserta": "17",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP316",
@@ -1330,7 +1349,7 @@
     }
   },
   {
-    "no": "71",
+    "no": "72",
     "kode": "EDP316",
     "nama": "PENDIDIKAN SENI TARI DAN DRAMA",
     "kelas": "10",
@@ -1338,7 +1357,7 @@
     "ruang": "PGSD",
     "hari": "Kamis",
     "waktu": "09:30-11:30",
-    "peserta": "31",
+    "peserta": "29",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP316",
@@ -1349,7 +1368,7 @@
     }
   },
   {
-    "no": "72",
+    "no": "73",
     "kode": "EDP316",
     "nama": "PENDIDIKAN SENI TARI DAN DRAMA",
     "kelas": "11",
@@ -1357,7 +1376,7 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "09:30-11:30",
-    "peserta": "35",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP316",
@@ -1368,7 +1387,7 @@
     }
   },
   {
-    "no": "73",
+    "no": "74",
     "kode": "EDP316",
     "nama": "PENDIDIKAN SENI TARI DAN DRAMA",
     "kelas": "12",
@@ -1387,7 +1406,7 @@
     }
   },
   {
-    "no": "74",
+    "no": "75",
     "kode": "EDP322",
     "nama": "PENDIDIKAN JASMANI",
     "kelas": "09",
@@ -1395,30 +1414,11 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "8:00-10:30",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP322",
       "data-kelas": "09",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610404"
-    }
-  },
-  {
-    "no": "75",
-    "kode": "EDP322",
-    "nama": "PENDIDIKAN JASMANI",
-    "kelas": "10",
-    "koordinator": "Drs. Said Darnius, M.SiNIP. 195810301986031002",
-    "ruang": "PGSD",
-    "hari": "Senin",
-    "waktu": "10:40-13:00",
-    "peserta": "30",
-    "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
-    "kode-peserta": {
-      "data-kode": "EDP322",
-      "data-kelas": "10",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610404"
@@ -1428,16 +1428,16 @@
     "no": "76",
     "kode": "EDP322",
     "nama": "PENDIDIKAN JASMANI",
-    "kelas": "11",
+    "kelas": "10",
     "koordinator": "Drs. Said Darnius, M.SiNIP. 195810301986031002",
     "ruang": "PGSD",
-    "hari": "Selasa",
-    "waktu": "8:00-10:30",
-    "peserta": "30",
+    "hari": "Senin",
+    "waktu": "10:40-13:00",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP322",
-      "data-kelas": "11",
+      "data-kelas": "10",
       "data-semester": "20223",
       "data-jenjang": "1",
       "data-pembatasan": "0610404"
@@ -1447,12 +1447,31 @@
     "no": "77",
     "kode": "EDP322",
     "nama": "PENDIDIKAN JASMANI",
+    "kelas": "11",
+    "koordinator": "Drs. Said Darnius, M.SiNIP. 195810301986031002",
+    "ruang": "PGSD",
+    "hari": "Selasa",
+    "waktu": "8:00-10:30",
+    "peserta": "35",
+    "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
+    "kode-peserta": {
+      "data-kode": "EDP322",
+      "data-kelas": "11",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610404"
+    }
+  },
+  {
+    "no": "78",
+    "kode": "EDP322",
+    "nama": "PENDIDIKAN JASMANI",
     "kelas": "12",
     "koordinator": "Drs. Said Darnius, M.SiNIP. 195810301986031002",
     "ruang": "PGSD",
     "hari": "Selasa",
     "waktu": "8:00-13:00",
-    "peserta": "35",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP322",
@@ -1463,7 +1482,45 @@
     }
   },
   {
-    "no": "78",
+    "no": "79",
+    "kode": "EDP324",
+    "nama": "PENELITIAN TINDAKAN KELAS",
+    "kelas": "07",
+    "koordinator": "Dr. Ahadin, M.EdNIP. 196009181986031004",
+    "ruang": "PGSD",
+    "hari": "Rabu",
+    "waktu": "16:25-18:00",
+    "peserta": "45",
+    "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
+    "kode-peserta": {
+      "data-kode": "EDP324",
+      "data-kelas": "07",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610404"
+    }
+  },
+  {
+    "no": "80",
+    "kode": "EDP324",
+    "nama": "PENELITIAN TINDAKAN KELAS",
+    "kelas": "08",
+    "koordinator": "Dr. Ahadin, M.EdNIP. 196009181986031004",
+    "ruang": "PGSD",
+    "hari": "Rabu",
+    "waktu": "09:25-11:00",
+    "peserta": "27",
+    "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
+    "kode-peserta": {
+      "data-kode": "EDP324",
+      "data-kelas": "08",
+      "data-semester": "20223",
+      "data-jenjang": "1",
+      "data-pembatasan": "0610404"
+    }
+  },
+  {
+    "no": "81",
     "kode": "EDP324",
     "nama": "PENELITIAN TINDAKAN KELAS",
     "kelas": "09",
@@ -1471,7 +1528,7 @@
     "ruang": "PGSD",
     "hari": "Rabu",
     "waktu": "11:30-13:00",
-    "peserta": "33",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP324",
@@ -1482,7 +1539,7 @@
     }
   },
   {
-    "no": "79",
+    "no": "82",
     "kode": "EDP324",
     "nama": "PENELITIAN TINDAKAN KELAS",
     "kelas": "10",
@@ -1501,7 +1558,7 @@
     }
   },
   {
-    "no": "80",
+    "no": "83",
     "kode": "EDP324",
     "nama": "PENELITIAN TINDAKAN KELAS",
     "kelas": "11",
@@ -1509,7 +1566,7 @@
     "ruang": "PGSD",
     "hari": "Kamis",
     "waktu": "8:00-9:40",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP324",
@@ -1520,7 +1577,7 @@
     }
   },
   {
-    "no": "81",
+    "no": "84",
     "kode": "EDP324",
     "nama": "PENELITIAN TINDAKAN KELAS",
     "kelas": "12",
@@ -1528,7 +1585,7 @@
     "ruang": "PGSD",
     "hari": "Kamis",
     "waktu": "9:40-11:30",
-    "peserta": "35",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP324",
@@ -1539,7 +1596,7 @@
     }
   },
   {
-    "no": "82",
+    "no": "85",
     "kode": "EDP502",
     "nama": "GEOMETRI",
     "kelas": "09",
@@ -1547,7 +1604,7 @@
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "09:40-11:40",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP502",
@@ -1558,7 +1615,7 @@
     }
   },
   {
-    "no": "83",
+    "no": "86",
     "kode": "EDP502",
     "nama": "GEOMETRI",
     "kelas": "10",
@@ -1566,7 +1623,7 @@
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "14:00-15:35",
-    "peserta": "23",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP502",
@@ -1577,7 +1634,7 @@
     }
   },
   {
-    "no": "84",
+    "no": "87",
     "kode": "EDP504",
     "nama": "SEMINAR MATEMATIKA",
     "kelas": "10",
@@ -1585,7 +1642,7 @@
     "ruang": "PGSD",
     "hari": "Selasa",
     "waktu": "14:00-15:40",
-    "peserta": "30",
+    "peserta": "37",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP504",
@@ -1596,7 +1653,7 @@
     }
   },
   {
-    "no": "85",
+    "no": "88",
     "kode": "EDP506",
     "nama": "PENULISAN KARYA TULIS",
     "kelas": "09",
@@ -1615,7 +1672,7 @@
     }
   },
   {
-    "no": "86",
+    "no": "89",
     "kode": "EDP506",
     "nama": "PENULISAN KARYA TULIS",
     "kelas": "10",
@@ -1634,7 +1691,7 @@
     }
   },
   {
-    "no": "87",
+    "no": "90",
     "kode": "EDP512",
     "nama": "BIOLOGI UMUM",
     "kelas": "10",
@@ -1653,7 +1710,7 @@
     }
   },
   {
-    "no": "88",
+    "no": "91",
     "kode": "EDP512",
     "nama": "BIOLOGI UMUM",
     "kelas": "11",
@@ -1661,7 +1718,7 @@
     "ruang": "PGSD",
     "hari": "Selasa",
     "waktu": "09:30-11:30",
-    "peserta": "20",
+    "peserta": "31",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP512",
@@ -1672,7 +1729,7 @@
     }
   },
   {
-    "no": "89",
+    "no": "92",
     "kode": "EDP514",
     "nama": "BIMBINGAN KONSELING",
     "kelas": "11",
@@ -1680,7 +1737,7 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "08:00-15:40",
-    "peserta": "35",
+    "peserta": "36",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP514",
@@ -1691,7 +1748,7 @@
     }
   },
   {
-    "no": "90",
+    "no": "93",
     "kode": "EDP514",
     "nama": "BIMBINGAN KONSELING",
     "kelas": "12",
@@ -1699,7 +1756,7 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "16:30-18:30",
-    "peserta": "35",
+    "peserta": "34",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP514",
@@ -1710,7 +1767,7 @@
     }
   },
   {
-    "no": "91",
+    "no": "94",
     "kode": "EDP516",
     "nama": "PENDIDIKAN JASMANI 2",
     "kelas": "11",
@@ -1729,7 +1786,7 @@
     }
   },
   {
-    "no": "92",
+    "no": "95",
     "kode": "EDP516",
     "nama": "PENDIDIKAN JASMANI 2",
     "kelas": "12",
@@ -1748,7 +1805,7 @@
     }
   },
   {
-    "no": "93",
+    "no": "96",
     "kode": "EDP518",
     "nama": "KAJIAN BUKU TEKS MATEMATIKA SD",
     "kelas": "10",
@@ -1756,7 +1813,7 @@
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "08:00-09:40",
-    "peserta": "30",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP518",
@@ -1767,7 +1824,7 @@
     }
   },
   {
-    "no": "94",
+    "no": "97",
     "kode": "EDP518",
     "nama": "KAJIAN BUKU TEKS MATEMATIKA SD",
     "kelas": "12",
@@ -1775,7 +1832,7 @@
     "ruang": "ofsd",
     "hari": "Kamis",
     "waktu": "08:00-09:15",
-    "peserta": "4",
+    "peserta": "9",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP518",
@@ -1786,7 +1843,7 @@
     }
   },
   {
-    "no": "95",
+    "no": "98",
     "kode": "EDP520",
     "nama": "PENDIDIKAN KARAKTER",
     "kelas": "12",
@@ -1794,7 +1851,7 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "14:00-15:30",
-    "peserta": "27",
+    "peserta": "1",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP520",
@@ -1805,7 +1862,7 @@
     }
   },
   {
-    "no": "96",
+    "no": "99",
     "kode": "EDP522",
     "nama": "KAJIAN BAHASA & SASTRA DALAM BUKU PAKET SD",
     "kelas": "06",
@@ -1824,7 +1881,7 @@
     }
   },
   {
-    "no": "97",
+    "no": "100",
     "kode": "EDP522",
     "nama": "KAJIAN BAHASA & SASTRA DALAM BUKU PAKET SD",
     "kelas": "10",
@@ -1832,7 +1889,7 @@
     "ruang": "PGSD",
     "hari": "Senin",
     "waktu": "14:00-15:30",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP522",
@@ -1843,7 +1900,7 @@
     }
   },
   {
-    "no": "98",
+    "no": "101",
     "kode": "EDP524",
     "nama": "ILMU PENGETAHUAN BUMI DAN ANTARIKSA",
     "kelas": "11",
@@ -1851,7 +1908,7 @@
     "ruang": "PGSD",
     "hari": "Kamis",
     "waktu": "11:35-13:05",
-    "peserta": "31",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDP524",
@@ -1862,7 +1919,7 @@
     }
   },
   {
-    "no": "99",
+    "no": "102",
     "kode": "EDP526",
     "nama": "KEWIRAUSAHAAN",
     "kelas": "10",
@@ -1881,7 +1938,7 @@
     }
   },
   {
-    "no": "100",
+    "no": "103",
     "kode": "EDP526",
     "nama": "KEWIRAUSAHAAN",
     "kelas": "11",
@@ -1900,7 +1957,7 @@
     }
   },
   {
-    "no": "101",
+    "no": "104",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "01",
@@ -1919,7 +1976,7 @@
     }
   },
   {
-    "no": "102",
+    "no": "105",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "02",
@@ -1927,7 +1984,7 @@
     "ruang": "pgsd",
     "hari": "Senin",
     "waktu": "14:00-15:40",
-    "peserta": "20",
+    "peserta": "19",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDU102",
@@ -1938,7 +1995,7 @@
     }
   },
   {
-    "no": "103",
+    "no": "106",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "03",
@@ -1946,7 +2003,7 @@
     "ruang": "pgsd",
     "hari": "Selasa",
     "waktu": "11:30-13:00",
-    "peserta": "28",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDU102",
@@ -1957,7 +2014,7 @@
     }
   },
   {
-    "no": "104",
+    "no": "107",
     "kode": "EDU102",
     "nama": "FILSAFAT PENDIDIKAN",
     "kelas": "04",
@@ -1965,7 +2022,7 @@
     "ruang": "pgsd",
     "hari": "Selasa",
     "waktu": "8:00-9:40",
-    "peserta": "26",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDU102",
@@ -1976,7 +2033,7 @@
     }
   },
   {
-    "no": "105",
+    "no": "108",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "05",
@@ -1995,7 +2052,7 @@
     }
   },
   {
-    "no": "106",
+    "no": "109",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "06",
@@ -2014,7 +2071,7 @@
     }
   },
   {
-    "no": "107",
+    "no": "110",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "07",
@@ -2033,7 +2090,7 @@
     }
   },
   {
-    "no": "108",
+    "no": "111",
     "kode": "EDU202",
     "nama": "KURIKULUM DAN PEMBELAJARAN",
     "kelas": "08",
@@ -2052,7 +2109,7 @@
     }
   },
   {
-    "no": "109",
+    "no": "112",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "05",
@@ -2071,7 +2128,7 @@
     }
   },
   {
-    "no": "110",
+    "no": "113",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "06",
@@ -2090,7 +2147,7 @@
     }
   },
   {
-    "no": "111",
+    "no": "114",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "07",
@@ -2109,7 +2166,7 @@
     }
   },
   {
-    "no": "112",
+    "no": "115",
     "kode": "EDU204",
     "nama": "PENGANTAR MANAJEMEN PENDIDIKAN",
     "kelas": "08",
@@ -2128,7 +2185,7 @@
     }
   },
   {
-    "no": "113",
+    "no": "116",
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "05",
@@ -2136,7 +2193,7 @@
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "14:00-16:30",
-    "peserta": "4",
+    "peserta": "3",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDU302",
@@ -2147,15 +2204,15 @@
     }
   },
   {
-    "no": "114",
+    "no": "117",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "04",
-    "koordinator": "Dr. Intan Safiah, S.Ag, M.PdNIP. 197704052008122002",
+    "koordinator": "Dra. Erni Maidiyah, M.PdNIP. 196405071989032001",
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "14:00-15:30",
-    "peserta": "3",
+    "peserta": "2",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDUP07",
@@ -2166,15 +2223,15 @@
     }
   },
   {
-    "no": "115",
+    "no": "118",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "06",
-    "koordinator": "Dr. Intan Safiah, S.Ag, M.PdNIP. 197704052008122002",
+    "koordinator": "Dra. Erni Maidiyah, M.PdNIP. 196405071989032001",
     "ruang": "PGSD",
     "hari": "Jumat",
     "waktu": "14:00-15:30",
-    "peserta": "3",
+    "peserta": "2",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDUP09",
@@ -2185,7 +2242,7 @@
     }
   },
   {
-    "no": "116",
+    "no": "119",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "10",
@@ -2193,7 +2250,7 @@
     "ruang": "OGSD",
     "hari": "Sabtu",
     "waktu": "08:40-13:30",
-    "peserta": "110",
+    "peserta": "113",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "EDUPA1",
@@ -2204,7 +2261,7 @@
     }
   },
   {
-    "no": "117",
+    "no": "120",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "09",
@@ -2212,7 +2269,7 @@
     "ruang": "PGSD",
     "hari": "Sabtu",
     "waktu": "09:40-11:30",
-    "peserta": "6",
+    "peserta": "5",
     "keterangan": "KIPS1Pendidikan Guru Sekolah Dasar",
     "kode-peserta": {
       "data-kode": "MKSP02",

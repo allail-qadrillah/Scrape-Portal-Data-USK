@@ -920,7 +920,7 @@
     "ruang": "1.05",
     "hari": "Selasa",
     "waktu": "14:00-15:45",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEP220",
@@ -977,7 +977,7 @@
     "ruang": "15.03.005",
     "hari": "Senin",
     "waktu": "16:35-18:20",
-    "peserta": "20",
+    "peserta": "21",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEP220",
@@ -1281,7 +1281,7 @@
     "ruang": "LABKOM 2.08",
     "hari": "Selasa",
     "waktu": "8:00-9:45",
-    "peserta": "27",
+    "peserta": "28",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEP228",
@@ -1528,7 +1528,7 @@
     "ruang": "1.05",
     "hari": "Kamis",
     "waktu": "16:35-18:20",
-    "peserta": "32",
+    "peserta": "33",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEP314",
@@ -1623,7 +1623,7 @@
     "ruang": "LAB BIO A",
     "hari": "Kamis",
     "waktu": "09:50-11:35",
-    "peserta": "22",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEP316",
@@ -1718,7 +1718,7 @@
     "ruang": "15.03.005",
     "hari": "Selasa",
     "waktu": "14:00-15:45",
-    "peserta": "23",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEP318",
@@ -1813,7 +1813,7 @@
     "ruang": "LAB BIO A",
     "hari": "Selasa",
     "waktu": "8:00-9:45",
-    "peserta": "31",
+    "peserta": "32",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEP320",
@@ -1870,7 +1870,7 @@
     "ruang": "2.01",
     "hari": "Jumat",
     "waktu": "14:00-15:45",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEP322",
@@ -1965,7 +1965,7 @@
     "ruang": "1.05",
     "hari": "Kamis",
     "waktu": "11:40-13:15",
-    "peserta": "24",
+    "peserta": "25",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEP506",
@@ -2003,7 +2003,7 @@
     "ruang": "3.03",
     "hari": "Sabtu",
     "waktu": "11:30-13:15",
-    "peserta": "20",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEP510",
@@ -2079,7 +2079,7 @@
     "ruang": "3.03",
     "hari": "Jumat",
     "waktu": "16:35-18:20",
-    "peserta": "21",
+    "peserta": "22",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEPP01",
@@ -2155,7 +2155,7 @@
     "ruang": "3.03",
     "hari": "Sabtu",
     "waktu": "14:00-15:45",
-    "peserta": "4",
+    "peserta": "3",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "BEPP03",
@@ -2455,7 +2455,7 @@
     "kode": "EDU302",
     "nama": "PENGAJARAN MIKRO",
     "kelas": "01",
-    "koordinator": "Yaumil Istiqlal M.Nur, S.Pd.I., M.Pd.NIP. 199108182019031015",
+    "koordinator": "Dr. Safrida, S.Pd, M.Si., AIFO.NIP. 198008052005012003",
     "ruang": "MTL",
     "hari": "Senin",
     "waktu": "08:00-10:40",
@@ -2516,7 +2516,7 @@
     "ruang": "prodi",
     "hari": "Sabtu",
     "waktu": "08:00-10:00",
-    "peserta": "148",
+    "peserta": "152",
     "keterangan": "KIPS1Pendidikan Biologi",
     "kode-peserta": {
       "data-kode": "EDUPA1",

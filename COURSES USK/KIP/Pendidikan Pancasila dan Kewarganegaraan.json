@@ -179,7 +179,7 @@
     "ruang": "MTL-04",
     "hari": "Sabtu",
     "waktu": "8:00-10:30",
-    "peserta": "7",
+    "peserta": "6",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "EDU302",
@@ -191,44 +191,6 @@
   },
   {
     "no": "11",
-    "kode": "EDU302",
-    "nama": "PENGAJARAN MIKRO",
-    "kelas": "02",
-    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
-    "ruang": "MTL-04",
-    "hari": "Sabtu",
-    "waktu": "8:00-10:30",
-    "peserta": "0",
-    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
-    "kode-peserta": {
-      "data-kode": "EDU302",
-      "data-kelas": "02",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610101"
-    }
-  },
-  {
-    "no": "12",
-    "kode": "EDU302",
-    "nama": "PENGAJARAN MIKRO",
-    "kelas": "03",
-    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
-    "ruang": "MTL-04",
-    "hari": "Sabtu",
-    "waktu": "8:00-10:30",
-    "peserta": "0",
-    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
-    "kode-peserta": {
-      "data-kode": "EDU302",
-      "data-kelas": "03",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610101"
-    }
-  },
-  {
-    "no": "13",
     "kode": "EDUP07",
     "nama": "PLP I",
     "kelas": "01",
@@ -247,7 +209,7 @@
     }
   },
   {
-    "no": "14",
+    "no": "12",
     "kode": "EDUP09",
     "nama": "PLP II",
     "kelas": "01",
@@ -255,7 +217,7 @@
     "ruang": "2.11",
     "hari": "Minggu",
     "waktu": "8:00-9:30",
-    "peserta": "4",
+    "peserta": "3",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "EDUP09",
@@ -266,7 +228,7 @@
     }
   },
   {
-    "no": "15",
+    "no": "13",
     "kode": "EDUPA1",
     "nama": "SKRIPSI",
     "kelas": "01",
@@ -285,7 +247,7 @@
     }
   },
   {
-    "no": "16",
+    "no": "14",
     "kode": "KPK106",
     "nama": "HUKUM PIDANA",
     "kelas": "01",
@@ -304,7 +266,7 @@
     }
   },
   {
-    "no": "17",
+    "no": "15",
     "kode": "KPK106",
     "nama": "HUKUM PIDANA",
     "kelas": "02",
@@ -323,7 +285,7 @@
     }
   },
   {
-    "no": "18",
+    "no": "16",
     "kode": "KPK106",
     "nama": "HUKUM PIDANA",
     "kelas": "03",
@@ -342,7 +304,7 @@
     }
   },
   {
-    "no": "19",
+    "no": "17",
     "kode": "KPK108",
     "nama": "TEORI KONSTITUSI DAN UUD 1945",
     "kelas": "01",
@@ -361,7 +323,7 @@
     }
   },
   {
-    "no": "20",
+    "no": "18",
     "kode": "KPK108",
     "nama": "TEORI KONSTITUSI DAN UUD 1945",
     "kelas": "02",
@@ -380,7 +342,7 @@
     }
   },
   {
-    "no": "21",
+    "no": "19",
     "kode": "KPK108",
     "nama": "TEORI KONSTITUSI DAN UUD 1945",
     "kelas": "03",
@@ -399,7 +361,7 @@
     }
   },
   {
-    "no": "22",
+    "no": "20",
     "kode": "KPK112",
     "nama": "ILMU POLITIK",
     "kelas": "01",
@@ -418,7 +380,7 @@
     }
   },
   {
-    "no": "23",
+    "no": "21",
     "kode": "KPK112",
     "nama": "ILMU POLITIK",
     "kelas": "02",
@@ -437,7 +399,7 @@
     }
   },
   {
-    "no": "24",
+    "no": "22",
     "kode": "KPK112",
     "nama": "ILMU POLITIK",
     "kelas": "03",
@@ -456,7 +418,7 @@
     }
   },
   {
-    "no": "25",
+    "no": "23",
     "kode": "KPK116",
     "nama": "FILSAFAT HUKUM",
     "kelas": "01",
@@ -475,7 +437,7 @@
     }
   },
   {
-    "no": "26",
+    "no": "24",
     "kode": "KPK116",
     "nama": "FILSAFAT HUKUM",
     "kelas": "02",
@@ -494,7 +456,7 @@
     }
   },
   {
-    "no": "27",
+    "no": "25",
     "kode": "KPK116",
     "nama": "FILSAFAT HUKUM",
     "kelas": "03",
@@ -513,7 +475,7 @@
     }
   },
   {
-    "no": "28",
+    "no": "26",
     "kode": "KPK122",
     "nama": "FILSAFAT PANCASILA",
     "kelas": "01",
@@ -532,7 +494,7 @@
     }
   },
   {
-    "no": "29",
+    "no": "27",
     "kode": "KPK122",
     "nama": "FILSAFAT PANCASILA",
     "kelas": "02",
@@ -551,7 +513,7 @@
     }
   },
   {
-    "no": "30",
+    "no": "28",
     "kode": "KPK122",
     "nama": "FILSAFAT PANCASILA",
     "kelas": "03",
@@ -570,7 +532,7 @@
     }
   },
   {
-    "no": "31",
+    "no": "29",
     "kode": "KPK124",
     "nama": "STATISTIKA",
     "kelas": "01",
@@ -589,7 +551,7 @@
     }
   },
   {
-    "no": "32",
+    "no": "30",
     "kode": "KPK124",
     "nama": "STATISTIKA",
     "kelas": "02",
@@ -608,7 +570,7 @@
     }
   },
   {
-    "no": "33",
+    "no": "31",
     "kode": "KPK124",
     "nama": "STATISTIKA",
     "kelas": "03",
@@ -627,7 +589,7 @@
     }
   },
   {
-    "no": "34",
+    "no": "32",
     "kode": "KPK204",
     "nama": "HUKUM DAN HUBUNGAN INTERNASIONAL",
     "kelas": "01",
@@ -646,7 +608,7 @@
     }
   },
   {
-    "no": "35",
+    "no": "33",
     "kode": "KPK204",
     "nama": "HUKUM DAN HUBUNGAN INTERNASIONAL",
     "kelas": "02",
@@ -665,7 +627,7 @@
     }
   },
   {
-    "no": "36",
+    "no": "34",
     "kode": "KPK204",
     "nama": "HUKUM DAN HUBUNGAN INTERNASIONAL",
     "kelas": "03",
@@ -684,7 +646,7 @@
     }
   },
   {
-    "no": "37",
+    "no": "35",
     "kode": "KPK208",
     "nama": "EVALUASI PEMBELAJARAN PPKN",
     "kelas": "01",
@@ -703,7 +665,7 @@
     }
   },
   {
-    "no": "38",
+    "no": "36",
     "kode": "KPK208",
     "nama": "EVALUASI PEMBELAJARAN PPKN",
     "kelas": "02",
@@ -722,7 +684,7 @@
     }
   },
   {
-    "no": "39",
+    "no": "37",
     "kode": "KPK208",
     "nama": "EVALUASI PEMBELAJARAN PPKN",
     "kelas": "03",
@@ -741,7 +703,7 @@
     }
   },
   {
-    "no": "40",
+    "no": "38",
     "kode": "KPK214",
     "nama": "HUKUM ISLAM",
     "kelas": "01",
@@ -760,7 +722,7 @@
     }
   },
   {
-    "no": "41",
+    "no": "39",
     "kode": "KPK214",
     "nama": "HUKUM ISLAM",
     "kelas": "02",
@@ -779,7 +741,7 @@
     }
   },
   {
-    "no": "42",
+    "no": "40",
     "kode": "KPK214",
     "nama": "HUKUM ISLAM",
     "kelas": "03",
@@ -798,26 +760,7 @@
     }
   },
   {
-    "no": "43",
-    "kode": "KPK214",
-    "nama": "HUKUM ISLAM",
-    "kelas": "04",
-    "koordinator": "Dr. Ruslan, S.Pd., M.EdNIP. 197602032003121001",
-    "ruang": "1.02",
-    "hari": "Sabtu",
-    "waktu": "08:00-10:30",
-    "peserta": "0",
-    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
-    "kode-peserta": {
-      "data-kode": "KPK214",
-      "data-kelas": "04",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610101"
-    }
-  },
-  {
-    "no": "44",
+    "no": "41",
     "kode": "KPK214",
     "nama": "HUKUM ISLAM",
     "kelas": "05",
@@ -836,7 +779,7 @@
     }
   },
   {
-    "no": "45",
+    "no": "42",
     "kode": "KPK214",
     "nama": "HUKUM ISLAM",
     "kelas": "06",
@@ -855,7 +798,7 @@
     }
   },
   {
-    "no": "46",
+    "no": "43",
     "kode": "KPK216",
     "nama": "PENDIDIKAN KEWARGANEGARAAN",
     "kelas": "01",
@@ -874,7 +817,7 @@
     }
   },
   {
-    "no": "47",
+    "no": "44",
     "kode": "KPK216",
     "nama": "PENDIDIKAN KEWARGANEGARAAN",
     "kelas": "02",
@@ -893,7 +836,7 @@
     }
   },
   {
-    "no": "48",
+    "no": "45",
     "kode": "KPK216",
     "nama": "PENDIDIKAN KEWARGANEGARAAN",
     "kelas": "03",
@@ -912,7 +855,7 @@
     }
   },
   {
-    "no": "49",
+    "no": "46",
     "kode": "KPK218",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "01",
@@ -931,7 +874,7 @@
     }
   },
   {
-    "no": "50",
+    "no": "47",
     "kode": "KPK218",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "02",
@@ -950,7 +893,7 @@
     }
   },
   {
-    "no": "51",
+    "no": "48",
     "kode": "KPK218",
     "nama": "METODOLOGI PENELITIAN",
     "kelas": "03",
@@ -969,7 +912,7 @@
     }
   },
   {
-    "no": "52",
+    "no": "49",
     "kode": "KPK220",
     "nama": "FILSAFAT POLITIK",
     "kelas": "01",
@@ -988,7 +931,7 @@
     }
   },
   {
-    "no": "53",
+    "no": "50",
     "kode": "KPK220",
     "nama": "FILSAFAT POLITIK",
     "kelas": "02",
@@ -1007,7 +950,7 @@
     }
   },
   {
-    "no": "54",
+    "no": "51",
     "kode": "KPK220",
     "nama": "FILSAFAT POLITIK",
     "kelas": "03",
@@ -1026,7 +969,7 @@
     }
   },
   {
-    "no": "55",
+    "no": "52",
     "kode": "KPK222",
     "nama": "LOGIKA",
     "kelas": "01",
@@ -1045,7 +988,7 @@
     }
   },
   {
-    "no": "56",
+    "no": "53",
     "kode": "KPK222",
     "nama": "LOGIKA",
     "kelas": "02",
@@ -1064,7 +1007,7 @@
     }
   },
   {
-    "no": "57",
+    "no": "54",
     "kode": "KPK222",
     "nama": "LOGIKA",
     "kelas": "03",
@@ -1072,7 +1015,7 @@
     "ruang": "3.05A",
     "hari": "Senin",
     "waktu": "8:00-9:40",
-    "peserta": "29",
+    "peserta": "30",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPK222",
@@ -1083,7 +1026,7 @@
     }
   },
   {
-    "no": "58",
+    "no": "55",
     "kode": "KPK224",
     "nama": "PERENCANAAN PEMBELAJARAN PPKN",
     "kelas": "01",
@@ -1102,7 +1045,7 @@
     }
   },
   {
-    "no": "59",
+    "no": "56",
     "kode": "KPK224",
     "nama": "PERENCANAAN PEMBELAJARAN PPKN",
     "kelas": "02",
@@ -1121,7 +1064,7 @@
     }
   },
   {
-    "no": "60",
+    "no": "57",
     "kode": "KPK224",
     "nama": "PERENCANAAN PEMBELAJARAN PPKN",
     "kelas": "03",
@@ -1129,7 +1072,7 @@
     "ruang": "2.11",
     "hari": "Rabu",
     "waktu": "8:00-10:30",
-    "peserta": "25",
+    "peserta": "24",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPK224",
@@ -1140,7 +1083,7 @@
     }
   },
   {
-    "no": "61",
+    "no": "58",
     "kode": "KPK224",
     "nama": "PERENCANAAN PEMBELAJARAN PPKN",
     "kelas": "04",
@@ -1148,7 +1091,7 @@
     "ruang": "2.09A",
     "hari": "Sabtu",
     "waktu": "14:00-16:20",
-    "peserta": "26",
+    "peserta": "27",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPK224",
@@ -1159,7 +1102,7 @@
     }
   },
   {
-    "no": "62",
+    "no": "59",
     "kode": "KPK302",
     "nama": "PSIKOLOGI KEPRIBADIAN",
     "kelas": "01",
@@ -1178,7 +1121,7 @@
     }
   },
   {
-    "no": "63",
+    "no": "60",
     "kode": "KPK302",
     "nama": "PSIKOLOGI KEPRIBADIAN",
     "kelas": "02",
@@ -1197,7 +1140,7 @@
     }
   },
   {
-    "no": "64",
+    "no": "61",
     "kode": "KPK302",
     "nama": "PSIKOLOGI KEPRIBADIAN",
     "kelas": "03",
@@ -1216,7 +1159,7 @@
     }
   },
   {
-    "no": "65",
+    "no": "62",
     "kode": "KPK304",
     "nama": "PENDIDIKAN POLITIK",
     "kelas": "01",
@@ -1235,7 +1178,7 @@
     }
   },
   {
-    "no": "66",
+    "no": "63",
     "kode": "KPK304",
     "nama": "PENDIDIKAN POLITIK",
     "kelas": "02",
@@ -1254,7 +1197,7 @@
     }
   },
   {
-    "no": "67",
+    "no": "64",
     "kode": "KPK304",
     "nama": "PENDIDIKAN POLITIK",
     "kelas": "03",
@@ -1273,7 +1216,7 @@
     }
   },
   {
-    "no": "68",
+    "no": "65",
     "kode": "KPK310",
     "nama": "DEMOKRASI PANCASILA",
     "kelas": "01",
@@ -1292,7 +1235,7 @@
     }
   },
   {
-    "no": "69",
+    "no": "66",
     "kode": "KPK310",
     "nama": "DEMOKRASI PANCASILA",
     "kelas": "02",
@@ -1311,7 +1254,7 @@
     }
   },
   {
-    "no": "70",
+    "no": "67",
     "kode": "KPK310",
     "nama": "DEMOKRASI PANCASILA",
     "kelas": "03",
@@ -1330,7 +1273,7 @@
     }
   },
   {
-    "no": "71",
+    "no": "68",
     "kode": "KPK310",
     "nama": "DEMOKRASI PANCASILA",
     "kelas": "04",
@@ -1349,7 +1292,7 @@
     }
   },
   {
-    "no": "72",
+    "no": "69",
     "kode": "KPK312",
     "nama": "HUKUM ADMINISTRASI NEGARA",
     "kelas": "01",
@@ -1368,7 +1311,7 @@
     }
   },
   {
-    "no": "73",
+    "no": "70",
     "kode": "KPK312",
     "nama": "HUKUM ADMINISTRASI NEGARA",
     "kelas": "02",
@@ -1387,7 +1330,7 @@
     }
   },
   {
-    "no": "74",
+    "no": "71",
     "kode": "KPK312",
     "nama": "HUKUM ADMINISTRASI NEGARA",
     "kelas": "03",
@@ -1406,7 +1349,7 @@
     }
   },
   {
-    "no": "75",
+    "no": "72",
     "kode": "KPK318",
     "nama": "HUKUM PERDATA DAN BISNIS",
     "kelas": "01",
@@ -1425,7 +1368,7 @@
     }
   },
   {
-    "no": "76",
+    "no": "73",
     "kode": "KPK318",
     "nama": "HUKUM PERDATA DAN BISNIS",
     "kelas": "02",
@@ -1444,7 +1387,7 @@
     }
   },
   {
-    "no": "77",
+    "no": "74",
     "kode": "KPK318",
     "nama": "HUKUM PERDATA DAN BISNIS",
     "kelas": "03",
@@ -1463,7 +1406,7 @@
     }
   },
   {
-    "no": "78",
+    "no": "75",
     "kode": "KPK320",
     "nama": "PENELITIAN TINDAKAN KELAS (PTK)",
     "kelas": "01",
@@ -1482,7 +1425,7 @@
     }
   },
   {
-    "no": "79",
+    "no": "76",
     "kode": "KPK320",
     "nama": "PENELITIAN TINDAKAN KELAS (PTK)",
     "kelas": "02",
@@ -1501,7 +1444,7 @@
     }
   },
   {
-    "no": "80",
+    "no": "77",
     "kode": "KPK320",
     "nama": "PENELITIAN TINDAKAN KELAS (PTK)",
     "kelas": "03",
@@ -1520,7 +1463,7 @@
     }
   },
   {
-    "no": "81",
+    "no": "78",
     "kode": "KPK322",
     "nama": "MANAJEMEN DAN RESOLUSI KONFLIK",
     "kelas": "01",
@@ -1539,7 +1482,7 @@
     }
   },
   {
-    "no": "82",
+    "no": "79",
     "kode": "KPK322",
     "nama": "MANAJEMEN DAN RESOLUSI KONFLIK",
     "kelas": "02",
@@ -1547,7 +1490,7 @@
     "ruang": "2.09A",
     "hari": "Sabtu",
     "waktu": "08:00-09:40",
-    "peserta": "34",
+    "peserta": "35",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPK322",
@@ -1558,7 +1501,7 @@
     }
   },
   {
-    "no": "83",
+    "no": "80",
     "kode": "KPK322",
     "nama": "MANAJEMEN DAN RESOLUSI KONFLIK",
     "kelas": "03",
@@ -1577,7 +1520,7 @@
     }
   },
   {
-    "no": "84",
+    "no": "81",
     "kode": "KPKP02",
     "nama": "EKONOMI POLITIK",
     "kelas": "01",
@@ -1596,7 +1539,7 @@
     }
   },
   {
-    "no": "85",
+    "no": "82",
     "kode": "KPKP04",
     "nama": "KEWIRAUSAHAAN",
     "kelas": "01",
@@ -1615,7 +1558,7 @@
     }
   },
   {
-    "no": "86",
+    "no": "83",
     "kode": "KPKP06",
     "nama": "KRIMINOLOGI",
     "kelas": "01",
@@ -1623,7 +1566,7 @@
     "ruang": "1.02",
     "hari": "Jumat",
     "waktu": "8:00-9:40",
-    "peserta": "18",
+    "peserta": "20",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPKP06",
@@ -1634,7 +1577,7 @@
     }
   },
   {
-    "no": "87",
+    "no": "84",
     "kode": "KPKP08",
     "nama": "SEJARAH INDONESIA",
     "kelas": "01",
@@ -1653,26 +1596,7 @@
     }
   },
   {
-    "no": "88",
-    "kode": "KPKP10",
-    "nama": "WAWASAN ILMU SOSIAL",
-    "kelas": "01",
-    "koordinator": "Dr. Sanusi, S.Pd., M.SiNIP. 197304141998021001",
-    "ruang": "3.05A",
-    "hari": "Senin",
-    "waktu": "16:20-18:10",
-    "peserta": "0",
-    "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
-    "kode-peserta": {
-      "data-kode": "KPKP10",
-      "data-kelas": "01",
-      "data-semester": "20223",
-      "data-jenjang": "1",
-      "data-pembatasan": "0610101"
-    }
-  },
-  {
-    "no": "89",
+    "no": "85",
     "kode": "KPKP12",
     "nama": "KAPITA SELEKTA POLITIK",
     "kelas": "01",
@@ -1691,7 +1615,7 @@
     }
   },
   {
-    "no": "90",
+    "no": "86",
     "kode": "KPKP14",
     "nama": "NASIONALISME INDONESIA",
     "kelas": "01",
@@ -1710,7 +1634,7 @@
     }
   },
   {
-    "no": "91",
+    "no": "87",
     "kode": "KPKP16",
     "nama": "ILMU PEMERINTAHAN",
     "kelas": "01",
@@ -1729,7 +1653,7 @@
     }
   },
   {
-    "no": "92",
+    "no": "88",
     "kode": "KPKP18",
     "nama": "KEWARGANEGARAAN DIGITAL",
     "kelas": "01",
@@ -1737,7 +1661,7 @@
     "ruang": "1.02",
     "hari": "Jumat",
     "waktu": "14:00-15:40",
-    "peserta": "25",
+    "peserta": "23",
     "keterangan": "KIPS1Pendidikan Pancasila dan Kewarganegaraan",
     "kode-peserta": {
       "data-kode": "KPKP18",
@@ -1748,7 +1672,7 @@
     }
   },
   {
-    "no": "93",
+    "no": "89",
     "kode": "MKSP02",
     "nama": "KULIAH KERJA NYATA",
     "kelas": "01",
