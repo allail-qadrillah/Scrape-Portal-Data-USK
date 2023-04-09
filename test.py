@@ -39,5 +39,5 @@ USK = PortalUSK()
 # print(nama_mirip)
 print(
     USK.find_similar_name(
-        PATH_DATABASE+'/nama_mahasiswa.json', 'abikha')
+        PATH_DATABASE+'/nama_mahasiswa.json', 'meorgps')
 )

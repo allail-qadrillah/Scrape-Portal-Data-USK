@@ -9,8 +9,8 @@ USK = PortalUSK()
 PATH_DATABASE = './DATABASE'
 
 
-@app.get('/getcourses')
-async def getCourses(name: str,
+@app.get('/get-courses')
+async def get_courses(name: str,
                      fakultas: str = '',
                      jurusan: str = ''):
 
@@ -21,6 +21,13 @@ async def getCourses(name: str,
         nameProdi=jurusan
     )
 
+
+@app.get('/get-similar-name')
+async def get_similar_name(name: str, limit: int = 3):
+
+  return USK.find_similar_name( path=PATH_DATABASE+'/nama_mahasiswa.json', 
+                                search=name,
+                                limit=limit)
 
 @app.get('/')
 async def alwaysOnReplit():
